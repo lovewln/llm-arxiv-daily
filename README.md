@@ -20,6 +20,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-07**|**SVDQunat: Absorbing Outliers by Low-Rank Components for 4-Bit Diffusion Models**|Muyang Li et.al.|[2411.05007](http://arxiv.org/abs/2411.05007)|**[link](https://github.com/mit-han-lab/deepcompressor)**|
+|**2024-11-07**|**Needle Threading: Can LLMs Follow Threads through Near-Million-Scale Haystacks?**|Jonathan Roberts et.al.|[2411.05000](http://arxiv.org/abs/2411.05000)|null|
+|**2024-11-07**|**LLM2CLIP: Powerful Language Model Unlock Richer Visual Representation**|Weiquan Huang et.al.|[2411.04997](http://arxiv.org/abs/2411.04997)|**[link](https://github.com/microsoft/LLM2CLIP)**|
+|**2024-11-07**|**Mixture-of-Transformers: A Sparse and Scalable Architecture for Multi-Modal Foundation Models**|Weixin Liang et.al.|[2411.04996](http://arxiv.org/abs/2411.04996)|null|
+|**2024-11-07**|**Rethinking Bradley-Terry Models in Preference-Based Reward Modeling: Foundations, Theory, and Alternatives**|Hao Sun et.al.|[2411.04991](http://arxiv.org/abs/2411.04991)|**[link](https://github.com/holarissun/rewardmodelingbeyondbradleyterry)**|
+|**2024-11-07**|**Enhancing Reverse Engineering: Investigating and Benchmarking Large Language Models for Vulnerability Analysis in Decompiled Binaries**|Dylan Manuel et.al.|[2411.04981](http://arxiv.org/abs/2411.04981)|null|
+|**2024-11-07**|**SuffixDecoding: A Model-Free Approach to Speeding Up Large Language Model Inference**|Gabriele Oliaro et.al.|[2411.04975](http://arxiv.org/abs/2411.04975)|null|
+|**2024-11-07**|**BitNet a4.8: 4-bit Activations for 1-bit LLMs**|Hongyu Wang et.al.|[2411.04965](http://arxiv.org/abs/2411.04965)|null|
+|**2024-11-07**|**Position Paper On Diagnostic Uncertainty Estimation from Large Language Models: Next-Word Probability Is Not Pre-test Probability**|Yanjun Gao et.al.|[2411.04962](http://arxiv.org/abs/2411.04962)|null|
+|**2024-11-07**|**CAD-MLLM: Unifying Multimodality-Conditioned CAD Generation With MLLM**|Jingwei Xu et.al.|[2411.04954](http://arxiv.org/abs/2411.04954)|null|
+|**2024-11-07**|**VideoGLaMM: A Large Multimodal Model for Pixel-Level Visual Grounding in Videos**|Shehan Munasinghe et.al.|[2411.04923](http://arxiv.org/abs/2411.04923)|null|
+|**2024-11-07**|**GPTKB: Building Very Large Knowledge Bases from Language Models**|Yujia Hu et.al.|[2411.04920](http://arxiv.org/abs/2411.04920)|null|
+|**2024-11-07**|**OpenCoder: The Open Cookbook for Top-Tier Code Large Language Models**|Siming Huang et.al.|[2411.04905](http://arxiv.org/abs/2411.04905)|null|
+|**2024-11-07**|**GUI Agents with Foundation Models: A Comprehensive Survey**|Shuai Wang et.al.|[2411.04890](http://arxiv.org/abs/2411.04890)|null|
+|**2024-11-07**|**Prompt-Guided Internal States for Hallucination Detection of Large Language Models**|Fujie Zhang et.al.|[2411.04847](http://arxiv.org/abs/2411.04847)|**[link](https://github.com/fujie-math/PRISM)**|
+|**2024-11-07**|**VTechAGP: An Academic-to-General-Audience Text Paraphrase Dataset and Benchmark Models**|Ming Cheng et.al.|[2411.04825](http://arxiv.org/abs/2411.04825)|null|
+|**2024-11-07**|**LuxBank: The First Universal Dependency Treebank for Luxembourgish**|Alistair Plum et.al.|[2411.04813](http://arxiv.org/abs/2411.04813)|null|
+|**2024-11-07**|**Exploring Hierarchical Molecular Graph Representation in Multimodal LLMs**|Chengxin Hu et.al.|[2411.04708](http://arxiv.org/abs/2411.04708)|null|
+|**2024-11-07**|**Distinguishing LLM-generated from Human-written Code by Contrastive Learning**|Xiaodan Xu et.al.|[2411.04704](http://arxiv.org/abs/2411.04704)|null|
+|**2024-11-07**|**AWARE Narrator and the Utilization of Large Language Models to Extract Behavioral Insights from Smartphone Sensing Data**|Tianyi Zhang et.al.|[2411.04691](http://arxiv.org/abs/2411.04691)|null|
 |**2024-11-06**|**Medical Adaptation of Large Language and Vision-Language Models: Are We Making Progress?**|Daniel P. Jeong et.al.|[2411.04118](http://arxiv.org/abs/2411.04118)|null|
 |**2024-11-07**|**How Transformers Solve Propositional Logic Problems: A Mechanistic Analysis**|Guan Zhe Hong et.al.|[2411.04105](http://arxiv.org/abs/2411.04105)|null|
 |**2024-11-06**|**Textual Decomposition Then Sub-motion-space Scattering for Open-Vocabulary Motion Generation**|Ke Fan et.al.|[2411.04079](http://arxiv.org/abs/2411.04079)|null|
@@ -327,6 +347,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-07**|**SVDQunat: Absorbing Outliers by Low-Rank Components for 4-Bit Diffusion Models**|Muyang Li et.al.|[2411.05007](http://arxiv.org/abs/2411.05007)|**[link](https://github.com/mit-han-lab/deepcompressor)**|
+|**2024-11-07**|**Needle Threading: Can LLMs Follow Threads through Near-Million-Scale Haystacks?**|Jonathan Roberts et.al.|[2411.05000](http://arxiv.org/abs/2411.05000)|null|
+|**2024-11-07**|**LLM2CLIP: Powerful Language Model Unlock Richer Visual Representation**|Weiquan Huang et.al.|[2411.04997](http://arxiv.org/abs/2411.04997)|**[link](https://github.com/microsoft/LLM2CLIP)**|
+|**2024-11-07**|**Mixture-of-Transformers: A Sparse and Scalable Architecture for Multi-Modal Foundation Models**|Weixin Liang et.al.|[2411.04996](http://arxiv.org/abs/2411.04996)|null|
+|**2024-11-07**|**Rethinking Bradley-Terry Models in Preference-Based Reward Modeling: Foundations, Theory, and Alternatives**|Hao Sun et.al.|[2411.04991](http://arxiv.org/abs/2411.04991)|**[link](https://github.com/holarissun/rewardmodelingbeyondbradleyterry)**|
+|**2024-11-07**|**Few-Shot Task Learning through Inverse Generative Modeling**|Aviv Netanyahu et.al.|[2411.04987](http://arxiv.org/abs/2411.04987)|null|
+|**2024-11-07**|**Enhancing Reverse Engineering: Investigating and Benchmarking Large Language Models for Vulnerability Analysis in Decompiled Binaries**|Dylan Manuel et.al.|[2411.04981](http://arxiv.org/abs/2411.04981)|null|
+|**2024-11-07**|**Noisy Zero-Shot Coordination: Breaking The Common Knowledge Assumption In Zero-Shot Coordination Games**|Usman Anwar et.al.|[2411.04976](http://arxiv.org/abs/2411.04976)|**[link](https://github.com/ashishp166/Noisy-Zero-Shot-Coordination)**|
+|**2024-11-07**|**SuffixDecoding: A Model-Free Approach to Speeding Up Large Language Model Inference**|Gabriele Oliaro et.al.|[2411.04975](http://arxiv.org/abs/2411.04975)|null|
+|**2024-11-07**|**BitNet a4.8: 4-bit Activations for 1-bit LLMs**|Hongyu Wang et.al.|[2411.04965](http://arxiv.org/abs/2411.04965)|null|
+|**2024-11-07**|**Position Paper On Diagnostic Uncertainty Estimation from Large Language Models: Next-Word Probability Is Not Pre-test Probability**|Yanjun Gao et.al.|[2411.04962](http://arxiv.org/abs/2411.04962)|null|
+|**2024-11-07**|**CAD-MLLM: Unifying Multimodality-Conditioned CAD Generation With MLLM**|Jingwei Xu et.al.|[2411.04954](http://arxiv.org/abs/2411.04954)|null|
+|**2024-11-07**|**StoryAgent: Customized Storytelling Video Generation via Multi-Agent Collaboration**|Panwen Hu et.al.|[2411.04925](http://arxiv.org/abs/2411.04925)|null|
+|**2024-11-07**|**VideoGLaMM: A Large Multimodal Model for Pixel-Level Visual Grounding in Videos**|Shehan Munasinghe et.al.|[2411.04923](http://arxiv.org/abs/2411.04923)|null|
+|**2024-11-07**|**GPTKB: Building Very Large Knowledge Bases from Language Models**|Yujia Hu et.al.|[2411.04920](http://arxiv.org/abs/2411.04920)|null|
+|**2024-11-07**|**OpenCoder: The Open Cookbook for Top-Tier Code Large Language Models**|Siming Huang et.al.|[2411.04905](http://arxiv.org/abs/2411.04905)|null|
+|**2024-11-07**|**Achieving superconductivity in infinite-layer nickelate thin films by aluminum sputtering deposition**|Dongxin Zhang et.al.|[2411.04896](http://arxiv.org/abs/2411.04896)|null|
+|**2024-11-07**|**GUI Agents with Foundation Models: A Comprehensive Survey**|Shuai Wang et.al.|[2411.04890](http://arxiv.org/abs/2411.04890)|null|
+|**2024-11-07**|**Think Smart, Act SMARL! Analyzing Probabilistic Logic Driven Safety in Multi-Agent Reinforcement Learning**|Satchit Chatterji et.al.|[2411.04867](http://arxiv.org/abs/2411.04867)|**[link](https://github.com/satchitchatterji/shieldedmarlthesis)**|
+|**2024-11-07**|**Prompt-Guided Internal States for Hallucination Detection of Large Language Models**|Fujie Zhang et.al.|[2411.04847](http://arxiv.org/abs/2411.04847)|**[link](https://github.com/fujie-math/PRISM)**|
 |**2024-11-06**|**Medical Adaptation of Large Language and Vision-Language Models: Are We Making Progress?**|Daniel P. Jeong et.al.|[2411.04118](http://arxiv.org/abs/2411.04118)|null|
 |**2024-11-07**|**How Transformers Solve Propositional Logic Problems: A Mechanistic Analysis**|Guan Zhe Hong et.al.|[2411.04105](http://arxiv.org/abs/2411.04105)|null|
 |**2024-11-06**|**Textual Decomposition Then Sub-motion-space Scattering for Open-Vocabulary Motion Generation**|Ke Fan et.al.|[2411.04079](http://arxiv.org/abs/2411.04079)|null|
@@ -634,6 +674,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-07**|**SVDQunat: Absorbing Outliers by Low-Rank Components for 4-Bit Diffusion Models**|Muyang Li et.al.|[2411.05007](http://arxiv.org/abs/2411.05007)|**[link](https://github.com/mit-han-lab/deepcompressor)**|
+|**2024-11-07**|**Extracting Axion String Network Parameters from Simulated CMB Birefringence Maps using Convolutional Neural Networks**|Ray Hagimoto et.al.|[2411.05002](http://arxiv.org/abs/2411.05002)|null|
+|**2024-11-07**|**Needle Threading: Can LLMs Follow Threads through Near-Million-Scale Haystacks?**|Jonathan Roberts et.al.|[2411.05000](http://arxiv.org/abs/2411.05000)|null|
+|**2024-11-07**|**LLM2CLIP: Powerful Language Model Unlock Richer Visual Representation**|Weiquan Huang et.al.|[2411.04997](http://arxiv.org/abs/2411.04997)|**[link](https://github.com/microsoft/LLM2CLIP)**|
+|**2024-11-07**|**Mixture-of-Transformers: A Sparse and Scalable Architecture for Multi-Modal Foundation Models**|Weixin Liang et.al.|[2411.04996](http://arxiv.org/abs/2411.04996)|null|
+|**2024-11-07**|**Rethinking Bradley-Terry Models in Preference-Based Reward Modeling: Foundations, Theory, and Alternatives**|Hao Sun et.al.|[2411.04991](http://arxiv.org/abs/2411.04991)|**[link](https://github.com/holarissun/rewardmodelingbeyondbradleyterry)**|
+|**2024-11-07**|**Enhancing Reverse Engineering: Investigating and Benchmarking Large Language Models for Vulnerability Analysis in Decompiled Binaries**|Dylan Manuel et.al.|[2411.04981](http://arxiv.org/abs/2411.04981)|null|
+|**2024-11-07**|**Holographic pseudoentanglement and the complexity of the AdS/CFT dictionary**|Chris Akers et.al.|[2411.04978](http://arxiv.org/abs/2411.04978)|null|
+|**2024-11-07**|**SuffixDecoding: A Model-Free Approach to Speeding Up Large Language Model Inference**|Gabriele Oliaro et.al.|[2411.04975](http://arxiv.org/abs/2411.04975)|null|
+|**2024-11-07**|**Tailoring Dynamical Codes for Biased Noise: The X $^3$Z$^3$ Floquet Code**|F. Setiawan et.al.|[2411.04974](http://arxiv.org/abs/2411.04974)|null|
+|**2024-11-07**|**BitNet a4.8: 4-bit Activations for 1-bit LLMs**|Hongyu Wang et.al.|[2411.04965](http://arxiv.org/abs/2411.04965)|null|
+|**2024-11-07**|**Position Paper On Diagnostic Uncertainty Estimation from Large Language Models: Next-Word Probability Is Not Pre-test Probability**|Yanjun Gao et.al.|[2411.04962](http://arxiv.org/abs/2411.04962)|null|
+|**2024-11-07**|**CAD-MLLM: Unifying Multimodality-Conditioned CAD Generation With MLLM**|Jingwei Xu et.al.|[2411.04954](http://arxiv.org/abs/2411.04954)|null|
+|**2024-11-07**|**Global Optimal Closed-Form Solutions for Intelligent Surfaces With Mutual Coupling: Is Mutual Coupling Detrimental or Beneficial?**|Matteo Nerini et.al.|[2411.04949](http://arxiv.org/abs/2411.04949)|null|
+|**2024-11-07**|**A Compact, Coherent Representation of Stellar Surface Variation in the Spectral Domain**|Lily L. Zhao et.al.|[2411.04947](http://arxiv.org/abs/2411.04947)|null|
+|**2024-11-07**|**Galaxy Mergers in the Epoch of Reionization II: Major Merger-Triggered Star Formation and AGN Activities at $z = 4.5 - 8.5$**|Qiao Duan et.al.|[2411.04944](http://arxiv.org/abs/2411.04944)|null|
+|**2024-11-07**|**Evidence for the $^{15}\text{Be}$ ground state from $^{12}$Be$+3$ n events**|A. N. Kuchera et.al.|[2411.04927](http://arxiv.org/abs/2411.04927)|null|
+|**2024-11-07**|**VideoGLaMM: A Large Multimodal Model for Pixel-Level Visual Grounding in Videos**|Shehan Munasinghe et.al.|[2411.04923](http://arxiv.org/abs/2411.04923)|null|
+|**2024-11-07**|**GPTKB: Building Very Large Knowledge Bases from Language Models**|Yujia Hu et.al.|[2411.04920](http://arxiv.org/abs/2411.04920)|null|
+|**2024-11-07**|**Stem-OB: Generalizable Visual Imitation Learning with Stem-Like Convergent Observation through Diffusion Inversion**|Kaizhe Hu et.al.|[2411.04919](http://arxiv.org/abs/2411.04919)|null|
 |**2024-11-06**|**Medical Adaptation of Large Language and Vision-Language Models: Are We Making Progress?**|Daniel P. Jeong et.al.|[2411.04118](http://arxiv.org/abs/2411.04118)|null|
 |**2024-11-06**|**Octupolar vortex crystal and toroidal moment in twisted bilayer MnPSe $_3$**|Muhammad Akram et.al.|[2411.04117](http://arxiv.org/abs/2411.04117)|null|
 |**2024-11-06**|**Age of Gossip With Time-Varying Topologies**|Arunabh Srivastava et.al.|[2411.04114](http://arxiv.org/abs/2411.04114)|null|
@@ -941,6 +1001,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-07**|**SVDQunat: Absorbing Outliers by Low-Rank Components for 4-Bit Diffusion Models**|Muyang Li et.al.|[2411.05007](http://arxiv.org/abs/2411.05007)|**[link](https://github.com/mit-han-lab/deepcompressor)**|
+|**2024-11-07**|**Needle Threading: Can LLMs Follow Threads through Near-Million-Scale Haystacks?**|Jonathan Roberts et.al.|[2411.05000](http://arxiv.org/abs/2411.05000)|null|
+|**2024-11-07**|**HourVideo: 1-Hour Video-Language Understanding**|Keshigeyan Chandrasegaran et.al.|[2411.04998](http://arxiv.org/abs/2411.04998)|null|
+|**2024-11-07**|**LLM2CLIP: Powerful Language Model Unlock Richer Visual Representation**|Weiquan Huang et.al.|[2411.04997](http://arxiv.org/abs/2411.04997)|**[link](https://github.com/microsoft/LLM2CLIP)**|
+|**2024-11-07**|**Mixture-of-Transformers: A Sparse and Scalable Architecture for Multi-Modal Foundation Models**|Weixin Liang et.al.|[2411.04996](http://arxiv.org/abs/2411.04996)|null|
+|**2024-11-07**|**Rethinking Bradley-Terry Models in Preference-Based Reward Modeling: Foundations, Theory, and Alternatives**|Hao Sun et.al.|[2411.04991](http://arxiv.org/abs/2411.04991)|**[link](https://github.com/holarissun/rewardmodelingbeyondbradleyterry)**|
+|**2024-11-07**|**DINO-WM: World Models on Pre-trained Visual Features enable Zero-shot Planning**|Gaoyue Zhou et.al.|[2411.04983](http://arxiv.org/abs/2411.04983)|null|
+|**2024-11-07**|**Enhancing Reverse Engineering: Investigating and Benchmarking Large Language Models for Vulnerability Analysis in Decompiled Binaries**|Dylan Manuel et.al.|[2411.04981](http://arxiv.org/abs/2411.04981)|null|
+|**2024-11-07**|**SuffixDecoding: A Model-Free Approach to Speeding Up Large Language Model Inference**|Gabriele Oliaro et.al.|[2411.04975](http://arxiv.org/abs/2411.04975)|null|
+|**2024-11-07**|**BitNet a4.8: 4-bit Activations for 1-bit LLMs**|Hongyu Wang et.al.|[2411.04965](http://arxiv.org/abs/2411.04965)|null|
+|**2024-11-07**|**Position Paper On Diagnostic Uncertainty Estimation from Large Language Models: Next-Word Probability Is Not Pre-test Probability**|Yanjun Gao et.al.|[2411.04962](http://arxiv.org/abs/2411.04962)|null|
+|**2024-11-07**|**CAD-MLLM: Unifying Multimodality-Conditioned CAD Generation With MLLM**|Jingwei Xu et.al.|[2411.04954](http://arxiv.org/abs/2411.04954)|null|
+|**2024-11-07**|**SPGD: Steepest Perturbed Gradient Descent Optimization**|Amir M. Vahedi et.al.|[2411.04946](http://arxiv.org/abs/2411.04946)|**[link](https://github.com/amir-m-vahedi/spgd-benchmark-functions)**|
+|**2024-11-07**|**VideoGLaMM: A Large Multimodal Model for Pixel-Level Visual Grounding in Videos**|Shehan Munasinghe et.al.|[2411.04923](http://arxiv.org/abs/2411.04923)|null|
+|**2024-11-07**|**GPTKB: Building Very Large Knowledge Bases from Language Models**|Yujia Hu et.al.|[2411.04920](http://arxiv.org/abs/2411.04920)|null|
+|**2024-11-07**|**OpenCoder: The Open Cookbook for Top-Tier Code Large Language Models**|Siming Huang et.al.|[2411.04905](http://arxiv.org/abs/2411.04905)|null|
+|**2024-11-07**|**GUI Agents with Foundation Models: A Comprehensive Survey**|Shuai Wang et.al.|[2411.04890](http://arxiv.org/abs/2411.04890)|null|
+|**2024-11-07**|**Disc distortion revisited**|James Binney et.al.|[2411.04879](http://arxiv.org/abs/2411.04879)|null|
+|**2024-11-07**|**FrontierMath: A Benchmark for Evaluating Advanced Mathematical Reasoning in AI**|Elliot Glazer et.al.|[2411.04872](http://arxiv.org/abs/2411.04872)|null|
+|**2024-11-07**|**Prompt-Guided Internal States for Hallucination Detection of Large Language Models**|Fujie Zhang et.al.|[2411.04847](http://arxiv.org/abs/2411.04847)|**[link](https://github.com/fujie-math/PRISM)**|
 |**2024-11-06**|**Medical Adaptation of Large Language and Vision-Language Models: Are We Making Progress?**|Daniel P. Jeong et.al.|[2411.04118](http://arxiv.org/abs/2411.04118)|null|
 |**2024-11-06**|**Self-Consistency Preference Optimization**|Archiki Prasad et.al.|[2411.04109](http://arxiv.org/abs/2411.04109)|null|
 |**2024-11-07**|**How Transformers Solve Propositional Logic Problems: A Mechanistic Analysis**|Guan Zhe Hong et.al.|[2411.04105](http://arxiv.org/abs/2411.04105)|null|
