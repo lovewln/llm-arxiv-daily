@@ -20,6 +20,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-08**|**Recycled Attention: Efficient inference for long-context language models**|Fangyuan Xu et.al.|[2411.05787](http://arxiv.org/abs/2411.05787)|null|
+|**2024-11-08**|**Fact or Fiction? Can LLMs be Reliable Annotators for Political Truths?**|Veronica Chatrath et.al.|[2411.05775](http://arxiv.org/abs/2411.05775)|null|
+|**2024-11-08**|**Multi-hop Evidence Pursuit Meets the Web: Team Papelo at FEVER 2024**|Christopher Malon et.al.|[2411.05762](http://arxiv.org/abs/2411.05762)|null|
+|**2024-11-08**|**Unmasking the Limits of Large Language Models: A Systematic Evaluation of Masked Text Processing Ability through MskQA and MskCal**|Fuka Matsuzaki et.al.|[2411.05665](http://arxiv.org/abs/2411.05665)|**[link](https://github.com/isfhub/maskcode)**|
+|**2024-11-08**|**The influence of persona and conversational task on social interactions with a LLM-controlled embodied conversational agent**|Leon O. H. Kroczek et.al.|[2411.05653](http://arxiv.org/abs/2411.05653)|null|
+|**2024-11-08**|**LightVA: Lightweight Visual Analytics with LLM Agent-Based Task Planning and Execution**|Yuheng Zhao et.al.|[2411.05651](http://arxiv.org/abs/2411.05651)|null|
+|**2024-11-08**|**Evaluating Large Language Model Capability in Vietnamese Fact-Checking Data Generation**|Long Truong To et.al.|[2411.05641](http://arxiv.org/abs/2411.05641)|null|
+|**2024-11-08**|**Assessing Open-Source Large Language Models on Argumentation Mining Subtasks**|Mohammad Yeghaneh Abkenar et.al.|[2411.05639](http://arxiv.org/abs/2411.05639)|null|
+|**2024-11-08**|**A Two-Step Concept-Based Approach for Enhanced Interpretability and Trust in Skin Lesion Diagnosis**|Cristiano Patrício et.al.|[2411.05609](http://arxiv.org/abs/2411.05609)|null|
+|**2024-11-08**|**Evaluating and Adapting Large Language Models to Represent Folktales in Low-Resource Languages**|JA Meaney et.al.|[2411.05593](http://arxiv.org/abs/2411.05593)|null|
+|**2024-11-08**|**AcceLLM: Accelerating LLM Inference using Redundancy for Load Balancing and Data Locality**|Ilias Bournias et.al.|[2411.05555](http://arxiv.org/abs/2411.05555)|null|
+|**2024-11-08**|**Assessing the Answerability of Queries in Retrieval-Augmented Code Generation**|Geonmin Kim et.al.|[2411.05547](http://arxiv.org/abs/2411.05547)|null|
+|**2024-11-08**|**Analyzing Logs of Large-Scale Software Systems using Time Curves Visualization**|Dmytro Borysenkov et.al.|[2411.05533](http://arxiv.org/abs/2411.05533)|null|
+|**2024-11-08**|**An Early FIRST Reproduction and Improvements to Single-Token Decoding for Fast Listwise Reranking**|Zijian Chen et.al.|[2411.05508](http://arxiv.org/abs/2411.05508)|null|
+|**2024-11-08**|**LBPE: Long-token-first Tokenization to Improve Large Language Models**|Haoran Lian et.al.|[2411.05504](http://arxiv.org/abs/2411.05504)|null|
+|**2024-11-08**|**KyrgyzNLP: Challenges, Progress, and Future**|Anton Alekseev et.al.|[2411.05503](http://arxiv.org/abs/2411.05503)|null|
+|**2024-11-08**|**EUREKHA: Enhancing User Representation for Key Hackers Identification in Underground Forums**|Abdoul Nasser Hassane Amadou et.al.|[2411.05479](http://arxiv.org/abs/2411.05479)|**[link](https://github.com/jumbo110/eurekha)**|
+|**2024-11-08**|**Enhancing Robustness in Language-Driven Robotics: A Modular Approach to Failure Reduction**|Émiland Garrabé et.al.|[2411.05474](http://arxiv.org/abs/2411.05474)|null|
+|**2024-11-08**|**WorkflowLLM: Enhancing Workflow Orchestration Capability of Large Language Models**|Shengda Fan et.al.|[2411.05451](http://arxiv.org/abs/2411.05451)|**[link](https://github.com/openbmb/workflowllm)**|
+|**2024-11-08**|**IntellBot: Retrieval Augmented LLM Chatbot for Cyber Threat Knowledge Delivery**|Dincy R. Arikkat et.al.|[2411.05442](http://arxiv.org/abs/2411.05442)|null|
 |**2024-11-07**|**SVDQunat: Absorbing Outliers by Low-Rank Components for 4-Bit Diffusion Models**|Muyang Li et.al.|[2411.05007](http://arxiv.org/abs/2411.05007)|**[link](https://github.com/mit-han-lab/deepcompressor)**|
 |**2024-11-07**|**Needle Threading: Can LLMs Follow Threads through Near-Million-Scale Haystacks?**|Jonathan Roberts et.al.|[2411.05000](http://arxiv.org/abs/2411.05000)|null|
 |**2024-11-07**|**LLM2CLIP: Powerful Language Model Unlock Richer Visual Representation**|Weiquan Huang et.al.|[2411.04997](http://arxiv.org/abs/2411.04997)|**[link](https://github.com/microsoft/LLM2CLIP)**|
@@ -347,6 +367,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-08**|**Recycled Attention: Efficient inference for long-context language models**|Fangyuan Xu et.al.|[2411.05787](http://arxiv.org/abs/2411.05787)|null|
+|**2024-11-08**|**Fact or Fiction? Can LLMs be Reliable Annotators for Political Truths?**|Veronica Chatrath et.al.|[2411.05775](http://arxiv.org/abs/2411.05775)|null|
+|**2024-11-08**|**Multi-hop Evidence Pursuit Meets the Web: Team Papelo at FEVER 2024**|Christopher Malon et.al.|[2411.05762](http://arxiv.org/abs/2411.05762)|null|
+|**2024-11-08**|**Topology-aware Reinforcement Feature Space Reconstruction for Graph Data**|Wangyang Ying et.al.|[2411.05742](http://arxiv.org/abs/2411.05742)|null|
+|**2024-11-08**|**A Retrospective on the Robot Air Hockey Challenge: Benchmarking Robust, Reliable, and Safe Learning Techniques for Real-world Robotics**|Puze Liu et.al.|[2411.05718](http://arxiv.org/abs/2411.05718)|null|
+|**2024-11-08**|**Settling the Complexity of Popularity in Additively Separable and Fractional Hedonic Games**|Martin Bullinger et.al.|[2411.05713](http://arxiv.org/abs/2411.05713)|null|
+|**2024-11-08**|**Data-Driven Distributed Common Operational Picture from Heterogeneous Platforms using Multi-Agent Reinforcement Learning**|Indranil Sur et.al.|[2411.05683](http://arxiv.org/abs/2411.05683)|null|
+|**2024-11-08**|**Unmasking the Limits of Large Language Models: A Systematic Evaluation of Masked Text Processing Ability through MskQA and MskCal**|Fuka Matsuzaki et.al.|[2411.05665](http://arxiv.org/abs/2411.05665)|**[link](https://github.com/isfhub/maskcode)**|
+|**2024-11-08**|**The influence of persona and conversational task on social interactions with a LLM-controlled embodied conversational agent**|Leon O. H. Kroczek et.al.|[2411.05653](http://arxiv.org/abs/2411.05653)|null|
+|**2024-11-08**|**LightVA: Lightweight Visual Analytics with LLM Agent-Based Task Planning and Execution**|Yuheng Zhao et.al.|[2411.05651](http://arxiv.org/abs/2411.05651)|null|
+|**2024-11-08**|**Evaluating Large Language Model Capability in Vietnamese Fact-Checking Data Generation**|Long Truong To et.al.|[2411.05641](http://arxiv.org/abs/2411.05641)|null|
+|**2024-11-08**|**Assessing Open-Source Large Language Models on Argumentation Mining Subtasks**|Mohammad Yeghaneh Abkenar et.al.|[2411.05639](http://arxiv.org/abs/2411.05639)|null|
+|**2024-11-08**|**A Two-Step Concept-Based Approach for Enhanced Interpretability and Trust in Skin Lesion Diagnosis**|Cristiano Patrício et.al.|[2411.05609](http://arxiv.org/abs/2411.05609)|null|
+|**2024-11-08**|**Expectation vs. Reality: Towards Verification of Psychological Games**|Marta Kwiatkowska et.al.|[2411.05599](http://arxiv.org/abs/2411.05599)|null|
+|**2024-11-08**|**Evaluating and Adapting Large Language Models to Represent Folktales in Low-Resource Languages**|JA Meaney et.al.|[2411.05593](http://arxiv.org/abs/2411.05593)|null|
+|**2024-11-08**|**Smart navigation through a rotating barrier: Deep reinforcement learning with application to size-based separation of active microagents**|Mohammad Hossein Masoudi et.al.|[2411.05587](http://arxiv.org/abs/2411.05587)|null|
+|**2024-11-08**|**Tangled Program Graphs as an alternative to DRL-based control algorithms for UAVs**|Hubert Szolc et.al.|[2411.05586](http://arxiv.org/abs/2411.05586)|null|
+|**2024-11-08**|**Parameterized Voter Relevance in Facility Location Games with Tree-Shaped Invitation Graphs**|Ryoto Ando et.al.|[2411.05574](http://arxiv.org/abs/2411.05574)|null|
+|**2024-11-08**|**AcceLLM: Accelerating LLM Inference using Redundancy for Load Balancing and Data Locality**|Ilias Bournias et.al.|[2411.05555](http://arxiv.org/abs/2411.05555)|null|
+|**2024-11-08**|**Time-to-reach Bounds for Verification of Dynamical Systems Using the Koopman Spectrum**|Jianqiang Ding et.al.|[2411.05554](http://arxiv.org/abs/2411.05554)|null|
 |**2024-11-07**|**SVDQunat: Absorbing Outliers by Low-Rank Components for 4-Bit Diffusion Models**|Muyang Li et.al.|[2411.05007](http://arxiv.org/abs/2411.05007)|**[link](https://github.com/mit-han-lab/deepcompressor)**|
 |**2024-11-07**|**Needle Threading: Can LLMs Follow Threads through Near-Million-Scale Haystacks?**|Jonathan Roberts et.al.|[2411.05000](http://arxiv.org/abs/2411.05000)|null|
 |**2024-11-07**|**LLM2CLIP: Powerful Language Model Unlock Richer Visual Representation**|Weiquan Huang et.al.|[2411.04997](http://arxiv.org/abs/2411.04997)|**[link](https://github.com/microsoft/LLM2CLIP)**|
@@ -674,6 +714,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-08**|**Recycled Attention: Efficient inference for long-context language models**|Fangyuan Xu et.al.|[2411.05787](http://arxiv.org/abs/2411.05787)|null|
+|**2024-11-08**|**Phases of decodability in the surface code with unitary errors**|Yimu Bao et.al.|[2411.05785](http://arxiv.org/abs/2411.05785)|null|
+|**2024-11-08**|**Safe Reinforcement Learning of Robot Trajectories in the Presence of Moving Obstacles**|Jonas Kiemel et.al.|[2411.05784](http://arxiv.org/abs/2411.05784)|null|
+|**2024-11-08**|**Fact or Fiction? Can LLMs be Reliable Annotators for Political Truths?**|Veronica Chatrath et.al.|[2411.05775](http://arxiv.org/abs/2411.05775)|null|
+|**2024-11-08**|**Plasma Seismology: Fully Exploiting the Information Contained in Velocity Space of Kinetic Plasmas using the Morrison G Transform**|Frederick Skiff et.al.|[2411.05772](http://arxiv.org/abs/2411.05772)|null|
+|**2024-11-08**|**Effects of Distributed Friction Actuation During Sliding Touch**|MacKenzie Harnett et.al.|[2411.05769](http://arxiv.org/abs/2411.05769)|null|
+|**2024-11-08**|**Frequency stability of grid-forming power-limiting droop control**|Amirhossein Iraniparast et.al.|[2411.05763](http://arxiv.org/abs/2411.05763)|null|
+|**2024-11-08**|**Multi-hop Evidence Pursuit Meets the Web: Team Papelo at FEVER 2024**|Christopher Malon et.al.|[2411.05762](http://arxiv.org/abs/2411.05762)|null|
+|**2024-11-08**|**Dynamic parameterized quantum circuits: expressive and barren-plateau free**|Abhinav Deshpande et.al.|[2411.05760](http://arxiv.org/abs/2411.05760)|null|
+|**2024-11-08**|**Latest progress on the reduced-order particle-in-cell scheme: II. Quasi-3D implementation and verification**|Maryam Reza et.al.|[2411.05759](http://arxiv.org/abs/2411.05759)|null|
+|**2024-11-08**|**Latest progress on the reduced-order particle-in-cell scheme: I. refining the underlying formulation**|Maryam Reza et.al.|[2411.05751](http://arxiv.org/abs/2411.05751)|null|
+|**2024-11-08**|**Quantum hyperspins: Highly nonclassical collective behavior in quantum optical parametric oscillators**|Marcello Calvanese Strinati et.al.|[2411.05728](http://arxiv.org/abs/2411.05728)|null|
+|**2024-11-08**|**Exact solutions of the harmonically confined Vicsek model**|L. L. Bonilla et.al.|[2411.05709](http://arxiv.org/abs/2411.05709)|null|
+|**2024-11-08**|**Understanding Streaming Instabilities in the Limit of High Cosmic Ray Current Density**|Emily Lichko et.al.|[2411.05704](http://arxiv.org/abs/2411.05704)|null|
+|**2024-11-08**|**Multiple-partition cross-modulation programmable metasurface empowering wireless communications**|Jun Wei Zhang et.al.|[2411.05690](http://arxiv.org/abs/2411.05690)|null|
+|**2024-11-08**|**Comprehensive Study on the Slat Noise of 30P30N High-Lift Airfoil Basd on High-Order Wall-Resolved Large-Eddy Simulation**|Keli Zhang et.al.|[2411.05686](http://arxiv.org/abs/2411.05686)|null|
+|**2024-11-08**|**Gas Dynamics in the Central Molecular Zone and its connection with the Galactic Bar**|Leonardo Chaves-Velasquez et.al.|[2411.05684](http://arxiv.org/abs/2411.05684)|null|
+|**2024-11-08**|**Data-Driven Distributed Common Operational Picture from Heterogeneous Platforms using Multi-Agent Reinforcement Learning**|Indranil Sur et.al.|[2411.05683](http://arxiv.org/abs/2411.05683)|null|
+|**2024-11-08**|**Giant spin Hall effect with multi-directional spin components in Ni4W**|Yifei Yang et.al.|[2411.05682](http://arxiv.org/abs/2411.05682)|null|
+|**2024-11-08**|**Studying Binary Systems in Omega Centauri with MUSE. I. Detection of Spectroscopic Binaries**|F. Wragg et.al.|[2411.05680](http://arxiv.org/abs/2411.05680)|null|
 |**2024-11-07**|**SVDQunat: Absorbing Outliers by Low-Rank Components for 4-Bit Diffusion Models**|Muyang Li et.al.|[2411.05007](http://arxiv.org/abs/2411.05007)|**[link](https://github.com/mit-han-lab/deepcompressor)**|
 |**2024-11-07**|**Extracting Axion String Network Parameters from Simulated CMB Birefringence Maps using Convolutional Neural Networks**|Ray Hagimoto et.al.|[2411.05002](http://arxiv.org/abs/2411.05002)|null|
 |**2024-11-07**|**Needle Threading: Can LLMs Follow Threads through Near-Million-Scale Haystacks?**|Jonathan Roberts et.al.|[2411.05000](http://arxiv.org/abs/2411.05000)|null|
@@ -1001,6 +1061,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-08**|**Recycled Attention: Efficient inference for long-context language models**|Fangyuan Xu et.al.|[2411.05787](http://arxiv.org/abs/2411.05787)|null|
+|**2024-11-08**|**LLMs as Method Actors: A Model for Prompt Engineering and Architecture**|Colin Doyle et.al.|[2411.05778](http://arxiv.org/abs/2411.05778)|null|
+|**2024-11-08**|**Quantitative Assessment of Intersectional Empathetic Bias and Understanding**|Vojtech Formanek et.al.|[2411.05777](http://arxiv.org/abs/2411.05777)|null|
+|**2024-11-08**|**Fact or Fiction? Can LLMs be Reliable Annotators for Political Truths?**|Veronica Chatrath et.al.|[2411.05775](http://arxiv.org/abs/2411.05775)|null|
+|**2024-11-08**|**FinDVer: Explainable Claim Verification over Long and Hybrid-Content Financial Documents**|Yilun Zhao et.al.|[2411.05764](http://arxiv.org/abs/2411.05764)|null|
+|**2024-11-08**|**Multi-hop Evidence Pursuit Meets the Web: Team Papelo at FEVER 2024**|Christopher Malon et.al.|[2411.05762](http://arxiv.org/abs/2411.05762)|null|
+|**2024-11-08**|**End-to-End Navigation with Vision Language Models: Transforming Spatial Reasoning into Question-Answering**|Dylan Goetting et.al.|[2411.05755](http://arxiv.org/abs/2411.05755)|null|
+|**2024-11-08**|**Unmasking the Limits of Large Language Models: A Systematic Evaluation of Masked Text Processing Ability through MskQA and MskCal**|Fuka Matsuzaki et.al.|[2411.05665](http://arxiv.org/abs/2411.05665)|**[link](https://github.com/isfhub/maskcode)**|
+|**2024-11-08**|**The influence of persona and conversational task on social interactions with a LLM-controlled embodied conversational agent**|Leon O. H. Kroczek et.al.|[2411.05653](http://arxiv.org/abs/2411.05653)|null|
+|**2024-11-08**|**LightVA: Lightweight Visual Analytics with LLM Agent-Based Task Planning and Execution**|Yuheng Zhao et.al.|[2411.05651](http://arxiv.org/abs/2411.05651)|null|
+|**2024-11-08**|**Telecom wavelength quantum dots interfaced with silicon-nitride circuits via photonic wire bonding**|Ulrich Pfister et.al.|[2411.05647](http://arxiv.org/abs/2411.05647)|null|
+|**2024-11-08**|**Evaluating Large Language Model Capability in Vietnamese Fact-Checking Data Generation**|Long Truong To et.al.|[2411.05641](http://arxiv.org/abs/2411.05641)|null|
+|**2024-11-08**|**Assessing Open-Source Large Language Models on Argumentation Mining Subtasks**|Mohammad Yeghaneh Abkenar et.al.|[2411.05639](http://arxiv.org/abs/2411.05639)|null|
+|**2024-11-08**|**A Two-Step Concept-Based Approach for Enhanced Interpretability and Trust in Skin Lesion Diagnosis**|Cristiano Patrício et.al.|[2411.05609](http://arxiv.org/abs/2411.05609)|null|
+|**2024-11-08**|**Evaluating and Adapting Large Language Models to Represent Folktales in Low-Resource Languages**|JA Meaney et.al.|[2411.05593](http://arxiv.org/abs/2411.05593)|null|
+|**2024-11-08**|**Parameterized Voter Relevance in Facility Location Games with Tree-Shaped Invitation Graphs**|Ryoto Ando et.al.|[2411.05574](http://arxiv.org/abs/2411.05574)|null|
+|**2024-11-08**|**Why These Documents? Explainable Generative Retrieval with Hierarchical Category Paths**|Sangam Lee et.al.|[2411.05572](http://arxiv.org/abs/2411.05572)|null|
+|**2024-11-08**|**AcceLLM: Accelerating LLM Inference using Redundancy for Load Balancing and Data Locality**|Ilias Bournias et.al.|[2411.05555](http://arxiv.org/abs/2411.05555)|null|
+|**2024-11-08**|**Assessing the Answerability of Queries in Retrieval-Augmented Code Generation**|Geonmin Kim et.al.|[2411.05547](http://arxiv.org/abs/2411.05547)|null|
+|**2024-11-08**|**Analyzing Logs of Large-Scale Software Systems using Time Curves Visualization**|Dmytro Borysenkov et.al.|[2411.05533](http://arxiv.org/abs/2411.05533)|null|
 |**2024-11-07**|**SVDQunat: Absorbing Outliers by Low-Rank Components for 4-Bit Diffusion Models**|Muyang Li et.al.|[2411.05007](http://arxiv.org/abs/2411.05007)|**[link](https://github.com/mit-han-lab/deepcompressor)**|
 |**2024-11-07**|**Needle Threading: Can LLMs Follow Threads through Near-Million-Scale Haystacks?**|Jonathan Roberts et.al.|[2411.05000](http://arxiv.org/abs/2411.05000)|null|
 |**2024-11-07**|**HourVideo: 1-Hour Video-Language Understanding**|Keshigeyan Chandrasegaran et.al.|[2411.04998](http://arxiv.org/abs/2411.04998)|null|
