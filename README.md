@@ -20,6 +20,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-13**|**The Limited Impact of Medical Adaptation of Large Language and Vision-Language Models**|Daniel P. Jeong et.al.|[2411.08870](http://arxiv.org/abs/2411.08870)|null|
+|**2024-11-13**|**LLMStinger: Jailbreaking LLMs using RL fine-tuned LLMs**|Piyush Jha et.al.|[2411.08862](http://arxiv.org/abs/2411.08862)|null|
+|**2024-11-13**|**Multimodal Instruction Tuning with Hybrid State Space Models**|Jianing Zhou et.al.|[2411.08840](http://arxiv.org/abs/2411.08840)|null|
+|**2024-11-13**|**FinRobot: AI Agent for Equity Research and Valuation with Large Language Models**|Tianyu Zhou et.al.|[2411.08804](http://arxiv.org/abs/2411.08804)|**[link](https://github.com/ai4finance-foundation/finrobot)**|
+|**2024-11-13**|**Evaluating World Models with LLM for Decision Making**|Chang Yang et.al.|[2411.08794](http://arxiv.org/abs/2411.08794)|null|
+|**2024-11-13**|**Can sparse autoencoders be used to decompose and interpret steering vectors?**|Harry Mayne et.al.|[2411.08790](http://arxiv.org/abs/2411.08790)|**[link](https://github.com/harrymayne/sv_interpretability)**|
+|**2024-11-13**|**Separating Tongue from Thought: Activation Patching Reveals Language-Agnostic Concept Representations in Transformers**|Clément Dumas et.al.|[2411.08745](http://arxiv.org/abs/2411.08745)|**[link](https://github.com/butanium/llm-lang-agnostic)**|
+|**2024-11-13**|**A Comparative Study of Discrete Speech Tokens for Semantic-Related Tasks with Large Language Models**|Dingdong Wang et.al.|[2411.08742](http://arxiv.org/abs/2411.08742)|null|
+|**2024-11-13**|**Dynamic Rewarding with Prompt Optimization Enables Tuning-free Self-Alignment of Language Models**|Somanshu Singla et.al.|[2411.08733](http://arxiv.org/abs/2411.08733)|null|
+|**2024-11-13**|**Polymetis:Large Language Modeling for Multiple Material Domains**|Chao Huang et.al.|[2411.08728](http://arxiv.org/abs/2411.08728)|null|
+|**2024-11-13**|**Theoretical Analysis of Byte-Pair Encoding**|László Kozma et.al.|[2411.08671](http://arxiv.org/abs/2411.08671)|null|
+|**2024-11-13**|**A System Level Performance Evaluation for Superconducting Digital Systems**|Joyjit Kundu et.al.|[2411.08645](http://arxiv.org/abs/2411.08645)|null|
+|**2024-11-13**|**Towards Secure Intelligent O-RAN Architecture: Vulnerabilities, Threats and Promising Technical Solutions using LLMs**|Mojdeh Karbalaee Motalleb et.al.|[2411.08640](http://arxiv.org/abs/2411.08640)|null|
+|**2024-11-13**|**Dynamic Subset Tuning: Expanding the Operational Range of Parameter-Efficient Training for Large Language Models**|Felix Stahlberg et.al.|[2411.08610](http://arxiv.org/abs/2411.08610)|null|
+|**2024-11-13**|**XiYan-SQL: A Multi-Generator Ensemble Framework for Text-to-SQL**|Yingqi Gao et.al.|[2411.08599](http://arxiv.org/abs/2411.08599)|null|
+|**2024-11-13**|**Practitioners' Discussions on Building LLM-based Applications for Production**|Alina Mailach et.al.|[2411.08574](http://arxiv.org/abs/2411.08574)|null|
+|**2024-11-13**|**Leveraging LLMs for Predictive Insights in Food Policy and Behavioral Interventions**|Micha Kaiser et.al.|[2411.08563](http://arxiv.org/abs/2411.08563)|null|
+|**2024-11-13**|**LogLLM: Log-based Anomaly Detection Using Large Language Models**|Wei Guan et.al.|[2411.08561](http://arxiv.org/abs/2411.08561)|**[link](https://github.com/guanwei49/logllm)**|
+|**2024-11-13**|**CorrSynth -- A Correlated Sampling Method for Diverse Dataset Generation from LLMs**|Suhas S Kowshik et.al.|[2411.08553](http://arxiv.org/abs/2411.08553)|null|
+|**2024-11-13**|**Neural Topic Modeling with Large Language Models in the Loop**|Xiaohao Yang et.al.|[2411.08534](http://arxiv.org/abs/2411.08534)|null|
 |**2024-11-12**|**Learning with Less: Knowledge Distillation from Large Language Models via Unlabeled Data**|Juanhui Li et.al.|[2411.08028](http://arxiv.org/abs/2411.08028)|null|
 |**2024-11-12**|**LLMPhy: Complex Physical Reasoning Using Large Language Models and World Models**|Anoop Cherian et.al.|[2411.08027](http://arxiv.org/abs/2411.08027)|null|
 |**2024-11-12**|**Language Models as Causal Effect Generators**|Lucius E. J. Bynum et.al.|[2411.08019](http://arxiv.org/abs/2411.08019)|**[link](https://github.com/lbynum/sequence-driven-scms)**|
@@ -407,6 +427,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-13**|**The Limited Impact of Medical Adaptation of Large Language and Vision-Language Models**|Daniel P. Jeong et.al.|[2411.08870](http://arxiv.org/abs/2411.08870)|null|
+|**2024-11-13**|**LLMStinger: Jailbreaking LLMs using RL fine-tuned LLMs**|Piyush Jha et.al.|[2411.08862](http://arxiv.org/abs/2411.08862)|null|
+|**2024-11-13**|**Multimodal Instruction Tuning with Hybrid State Space Models**|Jianing Zhou et.al.|[2411.08840](http://arxiv.org/abs/2411.08840)|null|
+|**2024-11-13**|**The Impact of Social Value Orientation on Nash Equilibria of Two Player Quadratic Games**|Dan Calderone et.al.|[2411.08809](http://arxiv.org/abs/2411.08809)|null|
+|**2024-11-13**|**FinRobot: AI Agent for Equity Research and Valuation with Large Language Models**|Tianyu Zhou et.al.|[2411.08804](http://arxiv.org/abs/2411.08804)|**[link](https://github.com/ai4finance-foundation/finrobot)**|
+|**2024-11-13**|**Evaluating World Models with LLM for Decision Making**|Chang Yang et.al.|[2411.08794](http://arxiv.org/abs/2411.08794)|null|
+|**2024-11-13**|**Can sparse autoencoders be used to decompose and interpret steering vectors?**|Harry Mayne et.al.|[2411.08790](http://arxiv.org/abs/2411.08790)|**[link](https://github.com/harrymayne/sv_interpretability)**|
+|**2024-11-13**|**Towards Fair and Efficient Public Transportation: A Bus Stop Model**|Martin Bullinger et.al.|[2411.08784](http://arxiv.org/abs/2411.08784)|null|
+|**2024-11-13**|**Logic-based Knowledge Awareness for Autonomous Agents in Continuous Spaces**|Arabinda Ghosh et.al.|[2411.08754](http://arxiv.org/abs/2411.08754)|null|
+|**2024-11-13**|**Separating Tongue from Thought: Activation Patching Reveals Language-Agnostic Concept Representations in Transformers**|Clément Dumas et.al.|[2411.08745](http://arxiv.org/abs/2411.08745)|**[link](https://github.com/butanium/llm-lang-agnostic)**|
+|**2024-11-13**|**A Comparative Study of Discrete Speech Tokens for Semantic-Related Tasks with Large Language Models**|Dingdong Wang et.al.|[2411.08742](http://arxiv.org/abs/2411.08742)|null|
+|**2024-11-13**|**Dynamic Rewarding with Prompt Optimization Enables Tuning-free Self-Alignment of Language Models**|Somanshu Singla et.al.|[2411.08733](http://arxiv.org/abs/2411.08733)|null|
+|**2024-11-13**|**Polymetis:Large Language Modeling for Multiple Material Domains**|Chao Huang et.al.|[2411.08728](http://arxiv.org/abs/2411.08728)|null|
+|**2024-11-13**|**Statistical Operating Characteristics of Current Early Phase Dose Finding Designs with Toxicity and Efficacy in Oncology**|Hao Sun et.al.|[2411.08698](http://arxiv.org/abs/2411.08698)|null|
+|**2024-11-13**|**Inferring Parameter Distributions in Heterogeneous Motile Particle Ensembles: A Likelihood Approach for Second Order Langevin Models**|Jan Albrecht et.al.|[2411.08692](http://arxiv.org/abs/2411.08692)|null|
+|**2024-11-13**|**Theoretical Analysis of Byte-Pair Encoding**|László Kozma et.al.|[2411.08671](http://arxiv.org/abs/2411.08671)|null|
+|**2024-11-13**|**A System Level Performance Evaluation for Superconducting Digital Systems**|Joyjit Kundu et.al.|[2411.08645](http://arxiv.org/abs/2411.08645)|null|
+|**2024-11-13**|**Towards Secure Intelligent O-RAN Architecture: Vulnerabilities, Threats and Promising Technical Solutions using LLMs**|Mojdeh Karbalaee Motalleb et.al.|[2411.08640](http://arxiv.org/abs/2411.08640)|null|
+|**2024-11-13**|**Robot See, Robot Do: Imitation Reward for Noisy Financial Environments**|Sven Goluža et.al.|[2411.08637](http://arxiv.org/abs/2411.08637)|null|
+|**2024-11-13**|**On the Application of Model Predictive Control to a Weighted Coverage Path Planning Problem**|Kilian Schweppe et.al.|[2411.08634](http://arxiv.org/abs/2411.08634)|null|
 |**2024-11-12**|**Learning with Less: Knowledge Distillation from Large Language Models via Unlabeled Data**|Juanhui Li et.al.|[2411.08028](http://arxiv.org/abs/2411.08028)|null|
 |**2024-11-12**|**LLMPhy: Complex Physical Reasoning Using Large Language Models and World Models**|Anoop Cherian et.al.|[2411.08027](http://arxiv.org/abs/2411.08027)|null|
 |**2024-11-12**|**Incentive Design with Spillovers**|Krishna Dasaratha et.al.|[2411.08026](http://arxiv.org/abs/2411.08026)|null|
@@ -794,6 +834,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-13**|**The Limited Impact of Medical Adaptation of Large Language and Vision-Language Models**|Daniel P. Jeong et.al.|[2411.08870](http://arxiv.org/abs/2411.08870)|null|
+|**2024-11-13**|**LLMStinger: Jailbreaking LLMs using RL fine-tuned LLMs**|Piyush Jha et.al.|[2411.08862](http://arxiv.org/abs/2411.08862)|null|
+|**2024-11-13**|**Linearization Routines for the Parameter Space Concept to determine Crystal Structures without Fourier Inversion (Centrosymmetric cases in two and three-dimensional parameter space)**|Muthu Vallinayagam et.al.|[2411.08845](http://arxiv.org/abs/2411.08845)|null|
+|**2024-11-13**|**Trapped-ion laser cooling in structured light fields**|Zhenzhong et.al.|[2411.08844](http://arxiv.org/abs/2411.08844)|null|
+|**2024-11-13**|**Multimodal Instruction Tuning with Hybrid State Space Models**|Jianing Zhou et.al.|[2411.08840](http://arxiv.org/abs/2411.08840)|null|
+|**2024-11-13**|**Diverse pathways for supermassive black hole-galaxy coevolution**|Bryan A. Terrazas et.al.|[2411.08838](http://arxiv.org/abs/2411.08838)|null|
+|**2024-11-13**|**Goal-oriented Semantic Communication for Robot Arm Reconstruction in Digital Twin: Feature and Temporal Selections**|Shutong Chen et.al.|[2411.08835](http://arxiv.org/abs/2411.08835)|null|
+|**2024-11-13**|**Basaltic mini-moon: Characterizing 2024 PT5 with the 10.4 m Gran Telescopio Canarias and the Two-meter Twin Telescope**|R. de la Fuente Marcos et.al.|[2411.08834](http://arxiv.org/abs/2411.08834)|null|
+|**2024-11-13**|**Machine Learning-Based Enhancements of Empirical Energy Functions: Structure, Dynamics and Spectroscopy of Modified Benzenes**|Kham Lek Chaton et.al.|[2411.08831](http://arxiv.org/abs/2411.08831)|null|
+|**2024-11-13**|**Model agnostic local variable importance for locally dependent relationships**|Kelvyn K. Bladen et.al.|[2411.08821](http://arxiv.org/abs/2411.08821)|null|
+|**2024-11-13**|**Fluctuations of driven probes reveal nonequilibrium transitions in complex fluids**|Danilo Forastiere et.al.|[2411.08817](http://arxiv.org/abs/2411.08817)|null|
+|**2024-11-13**|**FinRobot: AI Agent for Equity Research and Valuation with Large Language Models**|Tianyu Zhou et.al.|[2411.08804](http://arxiv.org/abs/2411.08804)|**[link](https://github.com/ai4finance-foundation/finrobot)**|
+|**2024-11-13**|**Deep Learning Accelerated Quantum Transport Simulations in Nanoelectronics: From Break Junctions to Field-Effect Transistors**|Jijie Zou et.al.|[2411.08800](http://arxiv.org/abs/2411.08800)|**[link](https://github.com/deepmodeling/DeePTB)**|
+|**2024-11-13**|**Learning Gaussian Multi-Index Models with Gradient Flow: Time Complexity and Directional Convergence**|Berfin Simsek et.al.|[2411.08798](http://arxiv.org/abs/2411.08798)|null|
+|**2024-11-13**|**Evaluating World Models with LLM for Decision Making**|Chang Yang et.al.|[2411.08794](http://arxiv.org/abs/2411.08794)|null|
+|**2024-11-13**|**Can sparse autoencoders be used to decompose and interpret steering vectors?**|Harry Mayne et.al.|[2411.08790](http://arxiv.org/abs/2411.08790)|**[link](https://github.com/harrymayne/sv_interpretability)**|
+|**2024-11-13**|**Physics-Informed Transformation Toward Improving the Machine-Learned NLTE Models of ICF Simulations**|Min Sang Cho et.al.|[2411.08789](http://arxiv.org/abs/2411.08789)|null|
+|**2024-11-13**|**Recovering head and flux distributions at the sediment-water interface for arbitrary, transient bedforms by inversion of photographic time series**|Yoni Teitelbaum et.al.|[2411.08788](http://arxiv.org/abs/2411.08788)|null|
+|**2024-11-13**|**Towards Fair and Efficient Public Transportation: A Bus Stop Model**|Martin Bullinger et.al.|[2411.08784](http://arxiv.org/abs/2411.08784)|null|
+|**2024-11-13**|**Causal-DRF: Conditional Kernel Treatment Effect Estimation using Distributional Random Forest**|Jeffrey Näf et.al.|[2411.08778](http://arxiv.org/abs/2411.08778)|null|
 |**2024-11-12**|**Simulating continuum-based redshift measurement in the \textit{Roman's} High Latitude Spectroscopy Survey**|Zhiyuan Guo et.al.|[2411.08035](http://arxiv.org/abs/2411.08035)|null|
 |**2024-11-12**|**Learning with Less: Knowledge Distillation from Large Language Models via Unlabeled Data**|Juanhui Li et.al.|[2411.08028](http://arxiv.org/abs/2411.08028)|null|
 |**2024-11-12**|**LLMPhy: Complex Physical Reasoning Using Large Language Models and World Models**|Anoop Cherian et.al.|[2411.08027](http://arxiv.org/abs/2411.08027)|null|
@@ -1181,6 +1241,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-13**|**The Limited Impact of Medical Adaptation of Large Language and Vision-Language Models**|Daniel P. Jeong et.al.|[2411.08870](http://arxiv.org/abs/2411.08870)|null|
+|**2024-11-13**|**LLMStinger: Jailbreaking LLMs using RL fine-tuned LLMs**|Piyush Jha et.al.|[2411.08862](http://arxiv.org/abs/2411.08862)|null|
+|**2024-11-13**|**Multimodal Instruction Tuning with Hybrid State Space Models**|Jianing Zhou et.al.|[2411.08840](http://arxiv.org/abs/2411.08840)|null|
+|**2024-11-13**|**FinRobot: AI Agent for Equity Research and Valuation with Large Language Models**|Tianyu Zhou et.al.|[2411.08804](http://arxiv.org/abs/2411.08804)|**[link](https://github.com/ai4finance-foundation/finrobot)**|
+|**2024-11-13**|**Evaluating World Models with LLM for Decision Making**|Chang Yang et.al.|[2411.08794](http://arxiv.org/abs/2411.08794)|null|
+|**2024-11-13**|**Can sparse autoencoders be used to decompose and interpret steering vectors?**|Harry Mayne et.al.|[2411.08790](http://arxiv.org/abs/2411.08790)|**[link](https://github.com/harrymayne/sv_interpretability)**|
+|**2024-11-13**|**Conditional reasoning and the shadows it casts onto the first-order logic: the Nelsonian case**|Grigory Olkhovikov et.al.|[2411.08786](http://arxiv.org/abs/2411.08786)|null|
+|**2024-11-13**|**Separating Tongue from Thought: Activation Patching Reveals Language-Agnostic Concept Representations in Transformers**|Clément Dumas et.al.|[2411.08745](http://arxiv.org/abs/2411.08745)|**[link](https://github.com/butanium/llm-lang-agnostic)**|
+|**2024-11-13**|**A Comparative Study of Discrete Speech Tokens for Semantic-Related Tasks with Large Language Models**|Dingdong Wang et.al.|[2411.08742](http://arxiv.org/abs/2411.08742)|null|
+|**2024-11-13**|**Dynamic Rewarding with Prompt Optimization Enables Tuning-free Self-Alignment of Language Models**|Somanshu Singla et.al.|[2411.08733](http://arxiv.org/abs/2411.08733)|null|
+|**2024-11-13**|**Polymetis:Large Language Modeling for Multiple Material Domains**|Chao Huang et.al.|[2411.08728](http://arxiv.org/abs/2411.08728)|null|
+|**2024-11-13**|**On the foundations of statistical mechanics**|Marco Baldovin et.al.|[2411.08709](http://arxiv.org/abs/2411.08709)|null|
+|**2024-11-13**|**Analogical Reasoning Within a Conceptual Hyperspace**|Howard Goldowsky et.al.|[2411.08684](http://arxiv.org/abs/2411.08684)|null|
+|**2024-11-13**|**Theoretical Analysis of Byte-Pair Encoding**|László Kozma et.al.|[2411.08671](http://arxiv.org/abs/2411.08671)|null|
+|**2024-11-13**|**A System Level Performance Evaluation for Superconducting Digital Systems**|Joyjit Kundu et.al.|[2411.08645](http://arxiv.org/abs/2411.08645)|null|
+|**2024-11-13**|**Towards Secure Intelligent O-RAN Architecture: Vulnerabilities, Threats and Promising Technical Solutions using LLMs**|Mojdeh Karbalaee Motalleb et.al.|[2411.08640](http://arxiv.org/abs/2411.08640)|null|
+|**2024-11-13**|**Dynamic Subset Tuning: Expanding the Operational Range of Parameter-Efficient Training for Large Language Models**|Felix Stahlberg et.al.|[2411.08610](http://arxiv.org/abs/2411.08610)|null|
+|**2024-11-13**|**XiYan-SQL: A Multi-Generator Ensemble Framework for Text-to-SQL**|Yingqi Gao et.al.|[2411.08599](http://arxiv.org/abs/2411.08599)|null|
+|**2024-11-13**|**Practitioners' Discussions on Building LLM-based Applications for Production**|Alina Mailach et.al.|[2411.08574](http://arxiv.org/abs/2411.08574)|null|
+|**2024-11-13**|**Leveraging LLMs for Predictive Insights in Food Policy and Behavioral Interventions**|Micha Kaiser et.al.|[2411.08563](http://arxiv.org/abs/2411.08563)|null|
 |**2024-11-12**|**Learning with Less: Knowledge Distillation from Large Language Models via Unlabeled Data**|Juanhui Li et.al.|[2411.08028](http://arxiv.org/abs/2411.08028)|null|
 |**2024-11-12**|**LLMPhy: Complex Physical Reasoning Using Large Language Models and World Models**|Anoop Cherian et.al.|[2411.08027](http://arxiv.org/abs/2411.08027)|null|
 |**2024-11-12**|**Language Models as Causal Effect Generators**|Lucius E. J. Bynum et.al.|[2411.08019](http://arxiv.org/abs/2411.08019)|**[link](https://github.com/lbynum/sequence-driven-scms)**|
