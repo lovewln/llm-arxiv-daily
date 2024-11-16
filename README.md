@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.11.15
+## Updated on 2024.11.16
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -441,7 +441,7 @@
 |**2024-10-16**|**FTII-Bench: A Comprehensive Multimodal Benchmark for Flow Text with Image Insertion**|Jiacheng Ruan et.al.|[2410.12564](http://arxiv.org/abs/2410.12564)|**[link](https://github.com/IAAR-Shanghai/FTIIBench)**|
 |**2024-10-17**|**LLM-based Translation Inference with Iterative Bilingual Understanding**|Andong Chen et.al.|[2410.12543](http://arxiv.org/abs/2410.12543)|null|
 
-<p align=right>(<a href=#updated-on-20241115>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241116>back to top</a>)</p>
 
 ## llm agent
 
@@ -868,7 +868,7 @@
 |**2024-10-16**|**Not All Votes Count! Programs as Verifiers Improve Self-Consistency of Language Models for Math Reasoning**|Vernon Y. H. Toh et.al.|[2410.12608](http://arxiv.org/abs/2410.12608)|null|
 |**2024-10-16**|**CCSBench: Evaluating Compositional Controllability in LLMs for Scientific Document Summarization**|Yixi Ding et.al.|[2410.12601](http://arxiv.org/abs/2410.12601)|null|
 
-<p align=right>(<a href=#updated-on-20241115>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241116>back to top</a>)</p>
 
 ## llm simulation
 
@@ -878,7 +878,7 @@
 |**2024-11-14**|**CropCraft: Inverse Procedural Modeling for 3D Reconstruction of Crop Plants**|Albert J. Zhai et.al.|[2411.09693](http://arxiv.org/abs/2411.09693)|null|
 |**2024-11-14**|**Advancing Fine-Grained Visual Understanding with Multi-Scale Alignment in Multi-Modal Models**|Wei Wang et.al.|[2411.09691](http://arxiv.org/abs/2411.09691)|null|
 |**2024-11-14**|**Squeezed Attention: Accelerating Long Context Length LLM Inference**|Coleman Hooper et.al.|[2411.09688](http://arxiv.org/abs/2411.09688)|null|
-|**2024-11-14**|**NeuralDEM - Real-time Simulation of Industrial Particulate Flows**|Benedikt Alkin et.al.|[2411.09678](http://arxiv.org/abs/2411.09678)|null|
+|**2024-11-14**|**NeuralDEM -- Real-time Simulation of Industrial Particulate Flows**|Benedikt Alkin et.al.|[2411.09678](http://arxiv.org/abs/2411.09678)|null|
 |**2024-11-14**|**Layered Multiple Scattering Approach to Hard X-ray Photoelectron Diffraction: Theory and Application**|Trung-Phuc Vo et.al.|[2411.09669](http://arxiv.org/abs/2411.09669)|null|
 |**2024-11-14**|**Inter-Species Interactions in Dual, Fibrous Gel Enable Control of Gel Structure and Rheology**|Mauro L Mugnai et.al.|[2411.09665](http://arxiv.org/abs/2411.09665)|null|
 |**2024-11-14**|**Motion Before Action: Diffusing Object Motion as Manipulation Condition**|Yup Su et.al.|[2411.09658](http://arxiv.org/abs/2411.09658)|null|
@@ -1295,7 +1295,7 @@
 |**2024-10-16**|**Structure of the water/magnetite interface from sum frequency generation experiments and neural network based molecular dynamics simulations**|Salvatore Romano et.al.|[2410.12717](http://arxiv.org/abs/2410.12717)|null|
 |**2024-10-16**|**A Simple Interactive Fixed Effects Estimator for Short Panels**|Robert F. Phillips et.al.|[2410.12709](http://arxiv.org/abs/2410.12709)|null|
 
-<p align=right>(<a href=#updated-on-20241115>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241116>back to top</a>)</p>
 
 ## llm reasoning
 
@@ -1722,7 +1722,7 @@
 |**2024-10-16**|**Not All Votes Count! Programs as Verifiers Improve Self-Consistency of Language Models for Math Reasoning**|Vernon Y. H. Toh et.al.|[2410.12608](http://arxiv.org/abs/2410.12608)|null|
 |**2024-10-16**|**CCSBench: Evaluating Compositional Controllability in LLMs for Scientific Document Summarization**|Yixi Ding et.al.|[2410.12601](http://arxiv.org/abs/2410.12601)|null|
 
-<p align=right>(<a href=#updated-on-20241115>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241116>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors

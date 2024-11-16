@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.11.15
+## Updated on 2024.11.16
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## large language model
@@ -868,7 +868,7 @@ layout: default
 |**2024-11-14**|**CropCraft: Inverse Procedural Modeling for 3D Reconstruction of Crop Plants**|Albert J. Zhai et.al.|[2411.09693](http://arxiv.org/abs/2411.09693)|null|
 |**2024-11-14**|**Advancing Fine-Grained Visual Understanding with Multi-Scale Alignment in Multi-Modal Models**|Wei Wang et.al.|[2411.09691](http://arxiv.org/abs/2411.09691)|null|
 |**2024-11-14**|**Squeezed Attention: Accelerating Long Context Length LLM Inference**|Coleman Hooper et.al.|[2411.09688](http://arxiv.org/abs/2411.09688)|null|
-|**2024-11-14**|**NeuralDEM - Real-time Simulation of Industrial Particulate Flows**|Benedikt Alkin et.al.|[2411.09678](http://arxiv.org/abs/2411.09678)|null|
+|**2024-11-14**|**NeuralDEM -- Real-time Simulation of Industrial Particulate Flows**|Benedikt Alkin et.al.|[2411.09678](http://arxiv.org/abs/2411.09678)|null|
 |**2024-11-14**|**Layered Multiple Scattering Approach to Hard X-ray Photoelectron Diffraction: Theory and Application**|Trung-Phuc Vo et.al.|[2411.09669](http://arxiv.org/abs/2411.09669)|null|
 |**2024-11-14**|**Inter-Species Interactions in Dual, Fibrous Gel Enable Control of Gel Structure and Rheology**|Mauro L Mugnai et.al.|[2411.09665](http://arxiv.org/abs/2411.09665)|null|
 |**2024-11-14**|**Motion Before Action: Diffusing Object Motion as Manipulation Condition**|Yup Su et.al.|[2411.09658](http://arxiv.org/abs/2411.09658)|null|
