@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.11.23
+## Updated on 2024.11.24
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## large language model
@@ -1074,7 +1074,7 @@ layout: default
 |**2024-11-21**|**Beyond Training: Dynamic Token Merging for Zero-Shot Video Understanding**|Yiming Zhang et.al.|[2411.14401](http://arxiv.org/abs/2411.14401)|null|
 |**2024-11-21**|**Lightweight Safety Guardrails Using Fine-tuned BERT Embeddings**|Aaron Zheng et.al.|[2411.14398](http://arxiv.org/abs/2411.14398)|null|
 |**2024-11-21**|**Cooling of neutron stars in soft X-ray transients with realistic crust composition**|A. Y. Potekhin et.al.|[2411.14395](http://arxiv.org/abs/2411.14395)|null|
-|**2024-11-21**|**Convolutional Vision Transformer for Cosmology Parameter Inference**|Yash Gondhalekar et.al.|[2411.14392](http://arxiv.org/abs/2411.14392)|null|
+|**2024-11-21**|**Convolutional Vision Transformer for Cosmology Parameter Inference**|Yash Gondhalekar et.al.|[2411.14392](http://arxiv.org/abs/2411.14392)|**[link](https://github.com/yash-10/cvt-cosmo-inference)**|
 |**2024-11-21**|**Ito-Langevin Process for Neutron Noise**|Guy Gabrieli et.al.|[2411.14388](http://arxiv.org/abs/2411.14388)|null|
 |**2024-11-21**|**Learning Humanoid Locomotion with Perceptive Internal Model**|Junfeng Long et.al.|[2411.14386](http://arxiv.org/abs/2411.14386)|null|
 |**2024-11-21**|**CoNFiLD-inlet: Synthetic Turbulence Inflow Using Generative Latent Diffusion Models with Neural Fields**|Xin-Yang Liu et.al.|[2411.14378](http://arxiv.org/abs/2411.14378)|null|
