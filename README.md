@@ -20,6 +20,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-25**|**Do Large Language Models Perform Latent Multi-Hop Reasoning without Exploiting Shortcuts?**|Sohee Yang et.al.|[2411.16679](http://arxiv.org/abs/2411.16679)|null|
+|**2024-11-25**|**DreamRunner: Fine-Grained Storytelling Video Generation with Retrieval-Augmented Motion Adaptation**|Zun Wang et.al.|[2411.16657](http://arxiv.org/abs/2411.16657)|null|
+|**2024-11-25**|**Self-Generated Critiques Boost Reward Modeling for Language Models**|Yue Yu et.al.|[2411.16646](http://arxiv.org/abs/2411.16646)|null|
+|**2024-11-25**|**Preventing Jailbreak Prompts as Malicious Tools for Cybercriminals: A Cyber Defense Perspective**|Jean Marie Tshimula et.al.|[2411.16642](http://arxiv.org/abs/2411.16642)|null|
+|**2024-11-25**|**Chat2SVG: Vector Graphics Generation with Large Language Models and Image Diffusion Models**|Ronghuan Wu et.al.|[2411.16602](http://arxiv.org/abs/2411.16602)|null|
+|**2024-11-25**|**From Generation to Judgment: Opportunities and Challenges of LLM-as-a-judge**|Dawei Li et.al.|[2411.16594](http://arxiv.org/abs/2411.16594)|**[link](https://github.com/llm-as-a-judge/awesome-llm-as-a-judge)**|
+|**2024-11-25**|**Large Language Model-based Decision-making for COLREGs and the Control of Autonomous Surface Vehicles**|Klinsmann Agyei et.al.|[2411.16587](http://arxiv.org/abs/2411.16587)|null|
+|**2024-11-25**|**MarketGPT: Developing a Pre-trained transformer (GPT) for Modeling Financial Time Series**|Aaron Wheeler et.al.|[2411.16585](http://arxiv.org/abs/2411.16585)|null|
+|**2024-11-25**|**Enhancing LLM Reasoning via Critique Models with Test-Time and Training-Time Supervision**|Zhiheng Xi et.al.|[2411.16579](http://arxiv.org/abs/2411.16579)|null|
+|**2024-11-25**|**Predictive Power of LLMs in Financial Markets**|Jerick Shi et.al.|[2411.16569](http://arxiv.org/abs/2411.16569)|null|
+|**2024-11-25**|**EnStack: An Ensemble Stacking Framework of Large Language Models for Enhanced Vulnerability Detection in Source Code**|Shahriyar Zaman Ridoy et.al.|[2411.16561](http://arxiv.org/abs/2411.16561)|null|
+|**2024-11-25**|**Generating Out-Of-Distribution Scenarios Using Language Models**|Erfan Aasi et.al.|[2411.16554](http://arxiv.org/abs/2411.16554)|null|
+|**2024-11-25**|**Representation Collapsing Problems in Vector Quantization**|Wenhao Zhao et.al.|[2411.16550](http://arxiv.org/abs/2411.16550)|null|
+|**2024-11-25**|**Profiling Bias in LLMs: Stereotype Dimensions in Contextual Word Embeddings**|Carolin M. Schuster et.al.|[2411.16527](http://arxiv.org/abs/2411.16527)|null|
+|**2024-11-25**|**LaB-RAG: Label Boosted Retrieval Augmented Generation for Radiology Report Generation**|Steven Song et.al.|[2411.16523](http://arxiv.org/abs/2411.16523)|null|
+|**2024-11-25**|**Interpreting Language Reward Models via Contrastive Explanations**|Junqi Jiang et.al.|[2411.16502](http://arxiv.org/abs/2411.16502)|null|
+|**2024-11-25**|**AtomR: Atomic Operator-Empowered Large Language Models for Heterogeneous Knowledge Reasoning**|Amy Xin et.al.|[2411.16495](http://arxiv.org/abs/2411.16495)|null|
+|**2024-11-25**|**Learning by Analogy: Enhancing Few-Shot Prompting for Math Word Problem Solving with Computational Graph-Based Retrieval**|Xiaocong Yang et.al.|[2411.16454](http://arxiv.org/abs/2411.16454)|null|
+|**2024-11-25**|**A Multi-agent Framework for Materials Laws Discovery**|Bo Hu et.al.|[2411.16416](http://arxiv.org/abs/2411.16416)|null|
+|**2024-11-25**|**FineWeb-zhtw: Scalable Curation of Traditional Chinese Text Data from the Web**|Cheng-Wei Lin et.al.|[2411.16387](http://arxiv.org/abs/2411.16387)|null|
 |**2024-11-22**|**Measuring Bullshit in the Language Games played by ChatGPT**|Alessandro Trevisan et.al.|[2411.15129](http://arxiv.org/abs/2411.15129)|null|
 |**2024-11-22**|**AttriBoT: A Bag of Tricks for Efficiently Approximating Leave-One-Out Context Attribution**|Fengyuan Liu et.al.|[2411.15102](http://arxiv.org/abs/2411.15102)|**[link](https://github.com/r-three/AttriBoT)**|
 |**2024-11-22**|**XGrammar: Flexible and Efficient Structured Generation Engine for Large Language Models**|Yixin Dong et.al.|[2411.15100](http://arxiv.org/abs/2411.15100)|null|
@@ -567,6 +587,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-25**|**Do Large Language Models Perform Latent Multi-Hop Reasoning without Exploiting Shortcuts?**|Sohee Yang et.al.|[2411.16679](http://arxiv.org/abs/2411.16679)|null|
+|**2024-11-25**|**Winning opinion: Following Your Friends' Advice or That of Their Friends?**|Francisco J. Muñoz et.al.|[2411.16671](http://arxiv.org/abs/2411.16671)|null|
+|**2024-11-25**|**DreamRunner: Fine-Grained Storytelling Video Generation with Retrieval-Augmented Motion Adaptation**|Zun Wang et.al.|[2411.16657](http://arxiv.org/abs/2411.16657)|null|
+|**2024-11-25**|**Self-Generated Critiques Boost Reward Modeling for Language Models**|Yue Yu et.al.|[2411.16646](http://arxiv.org/abs/2411.16646)|null|
+|**2024-11-25**|**Preventing Jailbreak Prompts as Malicious Tools for Cybercriminals: A Cyber Defense Perspective**|Jean Marie Tshimula et.al.|[2411.16642](http://arxiv.org/abs/2411.16642)|null|
+|**2024-11-25**|**Barriers on the EDGE: A scalable CBF architecture over EDGE for safe aerial-ground multi-agent coordination**|Viswa Narayanan Sankaranarayanan et.al.|[2411.16608](http://arxiv.org/abs/2411.16608)|null|
+|**2024-11-25**|**Chat2SVG: Vector Graphics Generation with Large Language Models and Image Diffusion Models**|Ronghuan Wu et.al.|[2411.16602](http://arxiv.org/abs/2411.16602)|null|
+|**2024-11-25**|**From Generation to Judgment: Opportunities and Challenges of LLM-as-a-judge**|Dawei Li et.al.|[2411.16594](http://arxiv.org/abs/2411.16594)|**[link](https://github.com/llm-as-a-judge/awesome-llm-as-a-judge)**|
+|**2024-11-25**|**Large Language Model-based Decision-making for COLREGs and the Control of Autonomous Surface Vehicles**|Klinsmann Agyei et.al.|[2411.16587](http://arxiv.org/abs/2411.16587)|null|
+|**2024-11-25**|**MarketGPT: Developing a Pre-trained transformer (GPT) for Modeling Financial Time Series**|Aaron Wheeler et.al.|[2411.16585](http://arxiv.org/abs/2411.16585)|null|
+|**2024-11-25**|**Enhancing LLM Reasoning via Critique Models with Test-Time and Training-Time Supervision**|Zhiheng Xi et.al.|[2411.16579](http://arxiv.org/abs/2411.16579)|null|
+|**2024-11-25**|**Naive Algorithmic Collusion: When Do Bandit Learners Cooperate and When Do They Compete?**|Connor Douglas et.al.|[2411.16574](http://arxiv.org/abs/2411.16574)|null|
+|**2024-11-25**|**Predictive Power of LLMs in Financial Markets**|Jerick Shi et.al.|[2411.16569](http://arxiv.org/abs/2411.16569)|null|
+|**2024-11-25**|**EnStack: An Ensemble Stacking Framework of Large Language Models for Enhanced Vulnerability Detection in Source Code**|Shahriyar Zaman Ridoy et.al.|[2411.16561](http://arxiv.org/abs/2411.16561)|null|
+|**2024-11-25**|**Generating Out-Of-Distribution Scenarios Using Language Models**|Erfan Aasi et.al.|[2411.16554](http://arxiv.org/abs/2411.16554)|null|
+|**2024-11-25**|**Representation Collapsing Problems in Vector Quantization**|Wenhao Zhao et.al.|[2411.16550](http://arxiv.org/abs/2411.16550)|null|
+|**2024-11-25**|**Continual Deep Reinforcement Learning with Task-Agnostic Policy Distillation**|Muhammad Burhan Hafez et.al.|[2411.16532](http://arxiv.org/abs/2411.16532)|**[link](https://github.com/wabbajack1/tapd)**|
+|**2024-11-25**|**Profiling Bias in LLMs: Stereotype Dimensions in Contextual Word Embeddings**|Carolin M. Schuster et.al.|[2411.16527](http://arxiv.org/abs/2411.16527)|null|
+|**2024-11-25**|**LaB-RAG: Label Boosted Retrieval Augmented Generation for Radiology Report Generation**|Steven Song et.al.|[2411.16523](http://arxiv.org/abs/2411.16523)|null|
+|**2024-11-25**|**Reinforcement Learning for Bidding Strategy Optimization in Day-Ahead Energy Market**|Luca Di Persio et.al.|[2411.16519](http://arxiv.org/abs/2411.16519)|null|
 |**2024-11-22**|**Measuring Bullshit in the Language Games played by ChatGPT**|Alessandro Trevisan et.al.|[2411.15129](http://arxiv.org/abs/2411.15129)|null|
 |**2024-11-22**|**RE-Bench: Evaluating frontier AI R&D capabilities of language model agents against human experts**|Hjalmar Wijk et.al.|[2411.15114](http://arxiv.org/abs/2411.15114)|null|
 |**2024-11-22**|**AttriBoT: A Bag of Tricks for Efficiently Approximating Leave-One-Out Context Attribution**|Fengyuan Liu et.al.|[2411.15102](http://arxiv.org/abs/2411.15102)|**[link](https://github.com/r-three/AttriBoT)**|
@@ -1114,6 +1154,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-25**|**The impact of resistivity on the variability of black hole accretion flows**|Antonios Nathanail et.al.|[2411.16684](http://arxiv.org/abs/2411.16684)|null|
+|**2024-11-25**|**Do Large Language Models Perform Latent Multi-Hop Reasoning without Exploiting Shortcuts?**|Sohee Yang et.al.|[2411.16679](http://arxiv.org/abs/2411.16679)|null|
+|**2024-11-25**|**Acceleration of ultra-high-energy cosmic rays in the kiloparsec-scale jets of nearby radio galaxies**|Jieshuang Wang et.al.|[2411.16674](http://arxiv.org/abs/2411.16674)|null|
+|**2024-11-25**|**CatNet: Effective FDR Control in LSTM with Gaussian Mirrors and SHAP Feature Importance**|Jiaan Han et.al.|[2411.16666](http://arxiv.org/abs/2411.16666)|null|
+|**2024-11-25**|**Modeling heart flow dynamics using numerical simulations to identify the vortex ring: a practical guide**|Eneko Lazpita et.al.|[2411.16661](http://arxiv.org/abs/2411.16661)|null|
+|**2024-11-25**|**Emergence of the 3D diluted Ising model universality class in a mixture of two magnets**|J. J. Ruiz-Lorenzo et.al.|[2411.16659](http://arxiv.org/abs/2411.16659)|null|
+|**2024-11-25**|**DreamRunner: Fine-Grained Storytelling Video Generation with Retrieval-Augmented Motion Adaptation**|Zun Wang et.al.|[2411.16657](http://arxiv.org/abs/2411.16657)|null|
+|**2024-11-25**|**Optimal MPPT Control of a Photovoltaic System Under Non-uniform Irradiation**|Yehia Lalili et.al.|[2411.16650](http://arxiv.org/abs/2411.16650)|null|
+|**2024-11-25**|**Self-Generated Critiques Boost Reward Modeling for Language Models**|Yue Yu et.al.|[2411.16646](http://arxiv.org/abs/2411.16646)|null|
+|**2024-11-25**|**Preventing Jailbreak Prompts as Malicious Tools for Cybercriminals: A Cyber Defense Perspective**|Jean Marie Tshimula et.al.|[2411.16642](http://arxiv.org/abs/2411.16642)|null|
+|**2024-11-25**|**On a Completely Discrete Discontinuous Galerkin Method for Incompressible Chemotaxis-Navier-Stokes Equations**|Bikram Bir et.al.|[2411.16641](http://arxiv.org/abs/2411.16641)|null|
+|**2024-11-25**|**Inference-Time Policy Steering through Human Interactions**|Yanwei Wang et.al.|[2411.16627](http://arxiv.org/abs/2411.16627)|null|
+|**2024-11-25**|**Imperceptible Adversarial Examples in the Physical World**|Weilin Xu et.al.|[2411.16622](http://arxiv.org/abs/2411.16622)|null|
+|**2024-11-25**|**Pricing Multi-strike Quanto Call Options on Multiple Assets with Stochastic Volatility, Correlation, and Exchange Rates**|Boris Ter-Avanesov et.al.|[2411.16617](http://arxiv.org/abs/2411.16617)|null|
+|**2024-11-25**|**Measuring entanglement without local addressing via spiral quantum state tomography**|Giacomo Marmorini et.al.|[2411.16603](http://arxiv.org/abs/2411.16603)|null|
+|**2024-11-25**|**Chat2SVG: Vector Graphics Generation with Large Language Models and Image Diffusion Models**|Ronghuan Wu et.al.|[2411.16602](http://arxiv.org/abs/2411.16602)|null|
+|**2024-11-25**|**From Generation to Judgment: Opportunities and Challenges of LLM-as-a-judge**|Dawei Li et.al.|[2411.16594](http://arxiv.org/abs/2411.16594)|**[link](https://github.com/llm-as-a-judge/awesome-llm-as-a-judge)**|
+|**2024-11-25**|**Comparison of left-right asymmetry calculations in the Bhabha process at an upgraded SuperKEKB**|Caleb Miller et.al.|[2411.16592](http://arxiv.org/abs/2411.16592)|null|
+|**2024-11-25**|**Adaptive Detection of on-Orbit Jamming for Securing GEO Satellite Links**|Anouar Boumeftah et.al.|[2411.16588](http://arxiv.org/abs/2411.16588)|null|
+|**2024-11-25**|**Large Language Model-based Decision-making for COLREGs and the Control of Autonomous Surface Vehicles**|Klinsmann Agyei et.al.|[2411.16587](http://arxiv.org/abs/2411.16587)|null|
 |**2024-11-22**|**Efficient Eigenstate Preparation in an Integrable Model with Hilbert Space Fragmentation**|Roberto Ruiz et.al.|[2411.15132](http://arxiv.org/abs/2411.15132)|null|
 |**2024-11-22**|**Learning-based Trajectory Tracking for Bird-inspired Flapping-Wing Robots**|Jiaze Cai et.al.|[2411.15130](http://arxiv.org/abs/2411.15130)|null|
 |**2024-11-22**|**Measuring Bullshit in the Language Games played by ChatGPT**|Alessandro Trevisan et.al.|[2411.15129](http://arxiv.org/abs/2411.15129)|null|
@@ -1661,6 +1721,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-25**|**Do Large Language Models Perform Latent Multi-Hop Reasoning without Exploiting Shortcuts?**|Sohee Yang et.al.|[2411.16679](http://arxiv.org/abs/2411.16679)|null|
+|**2024-11-25**|**Emergence of the 3D diluted Ising model universality class in a mixture of two magnets**|J. J. Ruiz-Lorenzo et.al.|[2411.16659](http://arxiv.org/abs/2411.16659)|null|
+|**2024-11-25**|**DreamRunner: Fine-Grained Storytelling Video Generation with Retrieval-Augmented Motion Adaptation**|Zun Wang et.al.|[2411.16657](http://arxiv.org/abs/2411.16657)|null|
+|**2024-11-25**|**Self-Generated Critiques Boost Reward Modeling for Language Models**|Yue Yu et.al.|[2411.16646](http://arxiv.org/abs/2411.16646)|null|
+|**2024-11-25**|**Preventing Jailbreak Prompts as Malicious Tools for Cybercriminals: A Cyber Defense Perspective**|Jean Marie Tshimula et.al.|[2411.16642](http://arxiv.org/abs/2411.16642)|null|
+|**2024-11-25**|**Do Automatic Factuality Metrics Measure Factuality? A Critical Evaluation**|Sanjana Ramprasad et.al.|[2411.16638](http://arxiv.org/abs/2411.16638)|null|
+|**2024-11-25**|**Correctness Witnesses for Concurrent Programs: Bridging the Semantic Divide with Ghosts (Extended Version)**|Julian Erhard et.al.|[2411.16612](http://arxiv.org/abs/2411.16612)|null|
+|**2024-11-25**|**Chat2SVG: Vector Graphics Generation with Large Language Models and Image Diffusion Models**|Ronghuan Wu et.al.|[2411.16602](http://arxiv.org/abs/2411.16602)|null|
+|**2024-11-25**|**From Generation to Judgment: Opportunities and Challenges of LLM-as-a-judge**|Dawei Li et.al.|[2411.16594](http://arxiv.org/abs/2411.16594)|**[link](https://github.com/llm-as-a-judge/awesome-llm-as-a-judge)**|
+|**2024-11-25**|**Large Language Model-based Decision-making for COLREGs and the Control of Autonomous Surface Vehicles**|Klinsmann Agyei et.al.|[2411.16587](http://arxiv.org/abs/2411.16587)|null|
+|**2024-11-25**|**MarketGPT: Developing a Pre-trained transformer (GPT) for Modeling Financial Time Series**|Aaron Wheeler et.al.|[2411.16585](http://arxiv.org/abs/2411.16585)|null|
+|**2024-11-25**|**Enhancing LLM Reasoning via Critique Models with Test-Time and Training-Time Supervision**|Zhiheng Xi et.al.|[2411.16579](http://arxiv.org/abs/2411.16579)|null|
+|**2024-11-25**|**Predictive Power of LLMs in Financial Markets**|Jerick Shi et.al.|[2411.16569](http://arxiv.org/abs/2411.16569)|null|
+|**2024-11-25**|**EnStack: An Ensemble Stacking Framework of Large Language Models for Enhanced Vulnerability Detection in Source Code**|Shahriyar Zaman Ridoy et.al.|[2411.16561](http://arxiv.org/abs/2411.16561)|null|
+|**2024-11-25**|**Generating Out-Of-Distribution Scenarios Using Language Models**|Erfan Aasi et.al.|[2411.16554](http://arxiv.org/abs/2411.16554)|null|
+|**2024-11-25**|**Representation Collapsing Problems in Vector Quantization**|Wenhao Zhao et.al.|[2411.16550](http://arxiv.org/abs/2411.16550)|null|
+|**2024-11-25**|**RoboSpatial: Teaching Spatial Understanding to 2D and 3D Vision-Language Models for Robotics**|Chan Hee Song et.al.|[2411.16537](http://arxiv.org/abs/2411.16537)|null|
+|**2024-11-25**|**Square ice Coulomb phase as a percolated vertex lattice**|Johann Coraux et.al.|[2411.16533](http://arxiv.org/abs/2411.16533)|null|
+|**2024-11-25**|**Profiling Bias in LLMs: Stereotype Dimensions in Contextual Word Embeddings**|Carolin M. Schuster et.al.|[2411.16527](http://arxiv.org/abs/2411.16527)|null|
+|**2024-11-25**|**LaB-RAG: Label Boosted Retrieval Augmented Generation for Radiology Report Generation**|Steven Song et.al.|[2411.16523](http://arxiv.org/abs/2411.16523)|null|
 |**2024-11-22**|**Reasonable Bounds for Combinatorial Lines of Length Three**|Amey Bhangale et.al.|[2411.15137](http://arxiv.org/abs/2411.15137)|null|
 |**2024-11-22**|**On Approximability of Satisfiable $k$ -CSPs: VI**|Amey Bhangale et.al.|[2411.15133](http://arxiv.org/abs/2411.15133)|null|
 |**2024-11-22**|**Measuring Bullshit in the Language Games played by ChatGPT**|Alessandro Trevisan et.al.|[2411.15129](http://arxiv.org/abs/2411.15129)|null|
