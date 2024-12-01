@@ -1230,12 +1230,12 @@ layout: default
 |**2024-11-27**|**Magnetic-field dependence of spin-phonon relaxation and dephasing due to g-factor fluctuations from first principles**|Joshua Quinton et.al.|[2411.18608](http://arxiv.org/abs/2411.18608)|null|
 |**2024-11-27**|**Magnetically arrested advective accretion flows and jets/outflows around stellar mass black holes: Explaining hard state ULXs with GRMHD simulations**|Rohan Raha et.al.|[2411.18599](http://arxiv.org/abs/2411.18599)|null|
 |**2024-11-27**|**CkIO: Parallel File Input for Over-Decomposed Task-Based Systems**|Mathew Jaob et.al.|[2411.18593](http://arxiv.org/abs/2411.18593)|null|
-|**2024-11-27**|**TorchOptics: An open-source Python library for differentiable Fourier optics simulations**|Matthew J. Filipovich et.al.|[2411.18591](http://arxiv.org/abs/2411.18591)|null|
+|**2024-11-27**|**TorchOptics: An open-source Python library for differentiable Fourier optics simulations**|Matthew J. Filipovich et.al.|[2411.18591](http://arxiv.org/abs/2411.18591)|**[link](https://github.com/matthewfilipovich/torchoptics)**|
 |**2024-11-27**|**Modeling the Effect of Bariatric Surgery on Gastric Digestion in the Stomach: Insights from Multiphase Flow Modeling**|Weixuan Li et.al.|[2411.18586](http://arxiv.org/abs/2411.18586)|null|
 |**2024-11-27**|**Automated Literature Review Using NLP Techniques and LLM-Based Retrieval-Augmented Generation**|Nurshat Fateh Ali et.al.|[2411.18583](http://arxiv.org/abs/2411.18583)|null|
 |**2024-11-27**|**Functional relevance based on the continuous Shapley value**|Pedro Delicado et.al.|[2411.18575](http://arxiv.org/abs/2411.18575)|null|
 |**2024-11-27**|**Challenges in Adapting Multilingual LLMs to Low-Resource Languages using LoRA PEFT Tuning**|Omkar Khade et.al.|[2411.18571](http://arxiv.org/abs/2411.18571)|null|
-|**2024-11-27**|**Building Confidence in Deep Generative Protein Design**|Tianyuan Zheng et.al.|[2411.18568](http://arxiv.org/abs/2411.18568)|null|
+|**2024-11-27**|**Building Confidence in Deep Generative Protein Design**|Tianyuan Zheng et.al.|[2411.18568](http://arxiv.org/abs/2411.18568)|**[link](https://github.com/ecburx/proteval)**|
 |**2024-11-27**|**A Pipeline of Neural-Symbolic Integration to Enhance Spatial Reasoning in Large Language Models**|Rong Wang et.al.|[2411.18564](http://arxiv.org/abs/2411.18564)|null|
 |**2024-11-27**|**DexDiffuser: Interaction-aware Diffusion Planning for Adaptive Dexterous Manipulation**|Zhixuan Liang et.al.|[2411.18562](http://arxiv.org/abs/2411.18562)|null|
 |**2024-11-27**|**Retrofitting (Large) Language Models with Dynamic Tokenization**|Darius Feher et.al.|[2411.18553](http://arxiv.org/abs/2411.18553)|null|
