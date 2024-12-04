@@ -14,6 +14,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-03**|**T-REG: Preference Optimization with Token-Level Reward Regularization**|Wenxuan Zhou et.al.|[2412.02685](http://arxiv.org/abs/2412.02685)|null|
+|**2024-12-03**|**Mind the Gap: Examining the Self-Improvement Capabilities of Large Language Models**|Yuda Song et.al.|[2412.02674](http://arxiv.org/abs/2412.02674)|null|
+|**2024-12-03**|**LLM-Enhanced Path Planning: Safe and Efficient Autonomous Navigation with Instructional Inputs**|Pranav Doma et.al.|[2412.02655](http://arxiv.org/abs/2412.02655)|null|
+|**2024-12-03**|**Time-Reversal Provides Unsupervised Feedback to LLMs**|Yerram Varun et.al.|[2412.02626](http://arxiv.org/abs/2412.02626)|null|
+|**2024-12-03**|**Improving Dynamic Object Interactions in Text-to-Video Generation with AI Feedback**|Hiroki Furuta et.al.|[2412.02617](http://arxiv.org/abs/2412.02617)|null|
+|**2024-12-03**|**AV-Odyssey Bench: Can Your Multimodal LLMs Really Understand Audio-Visual Information?**|Kaixiong Gong et.al.|[2412.02611](http://arxiv.org/abs/2412.02611)|null|
+|**2024-12-03**|**Interpretable Company Similarity with Sparse Autoencoders**|Marco Molinari et.al.|[2412.02605](http://arxiv.org/abs/2412.02605)|null|
+|**2024-12-03**|**CEGI: Measuring the trade-off between efficiency and carbon emissions for SLMs and VLMs**|Abhas Kumar et.al.|[2412.02602](http://arxiv.org/abs/2412.02602)|null|
+|**2024-12-03**|**PrefixLLM: LLM-aided Prefix Circuit Design**|Weihua Xiao et.al.|[2412.02594](http://arxiv.org/abs/2412.02594)|null|
+|**2024-12-03**|**OCR Hinders RAG: Evaluating the Cascading Impact of OCR on Retrieval-Augmented Generation**|Junyuan Zhang et.al.|[2412.02592](http://arxiv.org/abs/2412.02592)|**[link](https://github.com/opendatalab/OHR-Bench)**|
+|**2024-12-03**|**Explainable CTR Prediction via LLM Reasoning**|Xiaohan Yu et.al.|[2412.02588](http://arxiv.org/abs/2412.02588)|null|
+|**2024-12-03**|**Semantic Tokens in Retrieval Augmented Generation**|Joel Suro et.al.|[2412.02563](http://arxiv.org/abs/2412.02563)|null|
+|**2024-12-03**|**Patent-CR: A Dataset for Patent Claim Revision**|Lekang Jiang et.al.|[2412.02549](http://arxiv.org/abs/2412.02549)|null|
+|**2024-12-03**|**LLMForecaster: Improving Seasonal Event Forecasts with Unstructured Textual Data**|Hanyu Zhang et.al.|[2412.02525](http://arxiv.org/abs/2412.02525)|null|
+|**2024-12-03**|**DP-2Stage: Adapting Language Models as Differentially Private Tabular Data Generators**|Tejumade Afonja et.al.|[2412.02467](http://arxiv.org/abs/2412.02467)|null|
+|**2024-12-03**|**Gracefully Filtering Backdoor Samples for Generative Large Language Models without Retraining**|Zongru Wu et.al.|[2412.02454](http://arxiv.org/abs/2412.02454)|**[link](https://github.com/zrw00/graceful)**|
+|**2024-12-03**|**ScImage: How Good Are Multimodal Large Language Models at Scientific Text-to-Image Generation?**|Leixin Zhang et.al.|[2412.02368](http://arxiv.org/abs/2412.02368)|null|
+|**2024-12-03**|**Large Multimodal Agents for Accurate Phishing Detection with Enhanced Token Optimization and Cost Reduction**|Fouad Trad et.al.|[2412.02301](http://arxiv.org/abs/2412.02301)|null|
+|**2024-12-03**|**A Comprehensive Evaluation of Large Language Models on Aspect-Based Sentiment Analysis**|Changzhi Zhou et.al.|[2412.02279](http://arxiv.org/abs/2412.02279)|null|
+|**2024-12-03**|**MediaSpin: Exploring Media Bias Through Fine-Grained Analysis of News Headlines**|Preetika Verma et.al.|[2412.02271](http://arxiv.org/abs/2412.02271)|null|
 |**2024-12-02**|**T2Vid: Translating Long Text into Multi-Image is the Catalyst for Video-LLMs**|Shukang Yin et.al.|[2411.19951](http://arxiv.org/abs/2411.19951)|**[link](https://github.com/xjtupanda/t2vid)**|
 |**2024-12-02**|**Critical Tokens Matter: Token-Level Contrastive Estimation Enhances LLM's Reasoning Capability**|Zicheng Lin et.al.|[2411.19943](http://arxiv.org/abs/2411.19943)|null|
 |**2024-11-29**|**VLSBench: Unveiling Visual Leakage in Multimodal Safety**|Xuhao Hu et.al.|[2411.19939](http://arxiv.org/abs/2411.19939)|null|
@@ -639,6 +659,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-03**|**T-REG: Preference Optimization with Token-Level Reward Regularization**|Wenxuan Zhou et.al.|[2412.02685](http://arxiv.org/abs/2412.02685)|null|
+|**2024-12-03**|**Mind the Gap: Examining the Self-Improvement Capabilities of Large Language Models**|Yuda Song et.al.|[2412.02674](http://arxiv.org/abs/2412.02674)|null|
+|**2024-12-03**|**LLM-Enhanced Path Planning: Safe and Efficient Autonomous Navigation with Instructional Inputs**|Pranav Doma et.al.|[2412.02655](http://arxiv.org/abs/2412.02655)|null|
+|**2024-12-03**|**Leveraging Tactile Sensing to Render both Haptic Feedback and Virtual Reality 3D Object Reconstruction in Robotic Telemanipulation**|Gabriele Giudici et.al.|[2412.02644](http://arxiv.org/abs/2412.02644)|null|
+|**2024-12-03**|**Time-Reversal Provides Unsupervised Feedback to LLMs**|Yerram Varun et.al.|[2412.02626](http://arxiv.org/abs/2412.02626)|null|
+|**2024-12-03**|**Improving Dynamic Object Interactions in Text-to-Video Generation with AI Feedback**|Hiroki Furuta et.al.|[2412.02617](http://arxiv.org/abs/2412.02617)|null|
+|**2024-12-03**|**AV-Odyssey Bench: Can Your Multimodal LLMs Really Understand Audio-Visual Information?**|Kaixiong Gong et.al.|[2412.02611](http://arxiv.org/abs/2412.02611)|null|
+|**2024-12-03**|**Interpretable Company Similarity with Sparse Autoencoders**|Marco Molinari et.al.|[2412.02605](http://arxiv.org/abs/2412.02605)|null|
+|**2024-12-03**|**CEGI: Measuring the trade-off between efficiency and carbon emissions for SLMs and VLMs**|Abhas Kumar et.al.|[2412.02602](http://arxiv.org/abs/2412.02602)|null|
+|**2024-12-03**|**PrefixLLM: LLM-aided Prefix Circuit Design**|Weihua Xiao et.al.|[2412.02594](http://arxiv.org/abs/2412.02594)|null|
+|**2024-12-03**|**OCR Hinders RAG: Evaluating the Cascading Impact of OCR on Retrieval-Augmented Generation**|Junyuan Zhang et.al.|[2412.02592](http://arxiv.org/abs/2412.02592)|**[link](https://github.com/opendatalab/OHR-Bench)**|
+|**2024-12-03**|**Explainable CTR Prediction via LLM Reasoning**|Xiaohan Yu et.al.|[2412.02588](http://arxiv.org/abs/2412.02588)|null|
+|**2024-12-03**|**Mobile Cell-Free Massive MIMO with Multi-Agent Reinforcement Learning: A Scalable Framework**|Ziheng Liu et.al.|[2412.02581](http://arxiv.org/abs/2412.02581)|null|
+|**2024-12-03**|**Generating Critical Scenarios for Testing Automated Driving Systems**|Trung-Hieu Nguyen et.al.|[2412.02574](http://arxiv.org/abs/2412.02574)|**[link](https://github.com/ise-uet-vnu/avastra)**|
+|**2024-12-03**|**TAB-Fields: A Maximum Entropy Framework for Mission-Aware Adversarial Planning**|Gokul Puthumanaillam et.al.|[2412.02570](http://arxiv.org/abs/2412.02570)|null|
+|**2024-12-03**|**Semantic Tokens in Retrieval Augmented Generation**|Joel Suro et.al.|[2412.02563](http://arxiv.org/abs/2412.02563)|null|
+|**2024-12-03**|**Patent-CR: A Dataset for Patent Claim Revision**|Lekang Jiang et.al.|[2412.02549](http://arxiv.org/abs/2412.02549)|null|
+|**2024-12-03**|**Defending Against Diverse Attacks in Federated Learning Through Consensus-Based Bi-Level Optimization**|Nicolás García Trillos et.al.|[2412.02535](http://arxiv.org/abs/2412.02535)|null|
+|**2024-12-03**|**LLMForecaster: Improving Seasonal Event Forecasts with Unstructured Textual Data**|Hanyu Zhang et.al.|[2412.02525](http://arxiv.org/abs/2412.02525)|null|
+|**2024-12-03**|**General Resetting Theory for Group Avoidance**|Juhee Lee et.al.|[2412.02524](http://arxiv.org/abs/2412.02524)|null|
 |**2024-12-02**|**T2Vid: Translating Long Text into Multi-Image is the Catalyst for Video-LLMs**|Shukang Yin et.al.|[2411.19951](http://arxiv.org/abs/2411.19951)|**[link](https://github.com/xjtupanda/t2vid)**|
 |**2024-12-02**|**Critical Tokens Matter: Token-Level Contrastive Estimation Enhances LLM's Reasoning Capability**|Zicheng Lin et.al.|[2411.19943](http://arxiv.org/abs/2411.19943)|null|
 |**2024-11-29**|**VLSBench: Unveiling Visual Leakage in Multimodal Safety**|Xuhao Hu et.al.|[2411.19939](http://arxiv.org/abs/2411.19939)|null|
@@ -1264,6 +1304,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-03**|**Increased Surface Temperatures of Habitable White Dwarf Worlds Relative to Main-Sequence Exoplanets**|Aomawa L. Shields et.al.|[2412.02694](http://arxiv.org/abs/2412.02694)|null|
+|**2024-12-03**|**Preliminary Investigation into Data Scaling Laws for Imitation Learning-Based End-to-End Autonomous Driving**|Yupeng Zheng et.al.|[2412.02689](http://arxiv.org/abs/2412.02689)|null|
+|**2024-12-03**|**T-REG: Preference Optimization with Token-Level Reward Regularization**|Wenxuan Zhou et.al.|[2412.02685](http://arxiv.org/abs/2412.02685)|null|
+|**2024-12-03**|**The Asymptotic Behavior of Attention in Transformers**|Álvaro Rodríguez Abella et.al.|[2412.02682](http://arxiv.org/abs/2412.02682)|null|
+|**2024-12-03**|**Planning-Guided Diffusion Policy Learning for Generalizable Contact-Rich Bimanual Manipulation**|Xuanlin Li et.al.|[2412.02676](http://arxiv.org/abs/2412.02676)|null|
+|**2024-12-03**|**Mind the Gap: Examining the Self-Improvement Capabilities of Large Language Models**|Yuda Song et.al.|[2412.02674](http://arxiv.org/abs/2412.02674)|null|
+|**2024-12-03**|**A Dissipativity Approach to Analyzing Composite Spreading Networks**|Baike She et.al.|[2412.02665](http://arxiv.org/abs/2412.02665)|null|
+|**2024-12-03**|**LLM-Enhanced Path Planning: Safe and Efficient Autonomous Navigation with Instructional Inputs**|Pranav Doma et.al.|[2412.02655](http://arxiv.org/abs/2412.02655)|null|
+|**2024-12-03**|**A Bidirectional Long Short Term Memory Approach for Infrastructure Health Monitoring Using On-board Vibration Response**|R. R. Samani et.al.|[2412.02643](http://arxiv.org/abs/2412.02643)|null|
+|**2024-12-03**|**Time-Reversal Provides Unsupervised Feedback to LLMs**|Yerram Varun et.al.|[2412.02626](http://arxiv.org/abs/2412.02626)|null|
+|**2024-12-03**|**Taming NSPT fluctuations in $O(N)$ Non-Linear Sigma Model: simulations in the large $N$ regime**|Paolo Baglioni et.al.|[2412.02624](http://arxiv.org/abs/2412.02624)|null|
+|**2024-12-03**|**High-z stellar masses can be recovered robustly with JWST photometry**|R. K. Cochrane et.al.|[2412.02622](http://arxiv.org/abs/2412.02622)|null|
+|**2024-12-03**|**Demonstrating the Advantages of Analog Wafer-Scale Neuromorphic Hardware**|Hartmut Schmidt et.al.|[2412.02619](http://arxiv.org/abs/2412.02619)|null|
+|**2024-12-03**|**Improving Dynamic Object Interactions in Text-to-Video Generation with AI Feedback**|Hiroki Furuta et.al.|[2412.02617](http://arxiv.org/abs/2412.02617)|null|
+|**2024-12-03**|**AV-Odyssey Bench: Can Your Multimodal LLMs Really Understand Audio-Visual Information?**|Kaixiong Gong et.al.|[2412.02611](http://arxiv.org/abs/2412.02611)|null|
+|**2024-12-03**|**AI-Driven Resource Allocation Framework for Microservices in Hybrid Cloud Platforms**|Biman Barua et.al.|[2412.02610](http://arxiv.org/abs/2412.02610)|null|
+|**2024-12-03**|**Ground State Energy Estimation on Current Quantum Hardware Through The Variational Quantum Eigensolver: A Comprehensive Study**|Nacer Eddine Belaloui et.al.|[2412.02606](http://arxiv.org/abs/2412.02606)|null|
+|**2024-12-03**|**Interpretable Company Similarity with Sparse Autoencoders**|Marco Molinari et.al.|[2412.02605](http://arxiv.org/abs/2412.02605)|null|
+|**2024-12-03**|**CEGI: Measuring the trade-off between efficiency and carbon emissions for SLMs and VLMs**|Abhas Kumar et.al.|[2412.02602](http://arxiv.org/abs/2412.02602)|null|
+|**2024-12-03**|**Efficient Algorithms for Low Tubal Rank Tensor Approximation with Applications to Image Compression, Super-Resolution and Deep Learning**|Salman Ahmadi-Asl et.al.|[2412.02598](http://arxiv.org/abs/2412.02598)|null|
 |**2024-12-02**|**T2Vid: Translating Long Text into Multi-Image is the Catalyst for Video-LLMs**|Shukang Yin et.al.|[2411.19951](http://arxiv.org/abs/2411.19951)|**[link](https://github.com/xjtupanda/t2vid)**|
 |**2024-11-29**|**Scaling Laws Governing the Collapse of a Bose-Einstein Condensate**|Sebastian J. Morris et.al.|[2411.19948](http://arxiv.org/abs/2411.19948)|null|
 |**2024-11-29**|**The hot circumgalactic medium in the eROSITA All-Sky Survey III. Star-forming and quiescent galaxies**|Yi Zhang et.al.|[2411.19945](http://arxiv.org/abs/2411.19945)|null|
@@ -1889,6 +1949,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-03**|**T-REG: Preference Optimization with Token-Level Reward Regularization**|Wenxuan Zhou et.al.|[2412.02685](http://arxiv.org/abs/2412.02685)|null|
+|**2024-12-03**|**Mind the Gap: Examining the Self-Improvement Capabilities of Large Language Models**|Yuda Song et.al.|[2412.02674](http://arxiv.org/abs/2412.02674)|null|
+|**2024-12-03**|**LLM-Enhanced Path Planning: Safe and Efficient Autonomous Navigation with Instructional Inputs**|Pranav Doma et.al.|[2412.02655](http://arxiv.org/abs/2412.02655)|null|
+|**2024-12-03**|**Interpretable Generalized Additive Models for Datasets with Missing Values**|Hayden McTavish et.al.|[2412.02646](http://arxiv.org/abs/2412.02646)|null|
+|**2024-12-03**|**Time-Reversal Provides Unsupervised Feedback to LLMs**|Yerram Varun et.al.|[2412.02626](http://arxiv.org/abs/2412.02626)|null|
+|**2024-12-03**|**Improving Dynamic Object Interactions in Text-to-Video Generation with AI Feedback**|Hiroki Furuta et.al.|[2412.02617](http://arxiv.org/abs/2412.02617)|null|
+|**2024-12-03**|**AV-Odyssey Bench: Can Your Multimodal LLMs Really Understand Audio-Visual Information?**|Kaixiong Gong et.al.|[2412.02611](http://arxiv.org/abs/2412.02611)|null|
+|**2024-12-03**|**Interpretable Company Similarity with Sparse Autoencoders**|Marco Molinari et.al.|[2412.02605](http://arxiv.org/abs/2412.02605)|null|
+|**2024-12-03**|**CEGI: Measuring the trade-off between efficiency and carbon emissions for SLMs and VLMs**|Abhas Kumar et.al.|[2412.02602](http://arxiv.org/abs/2412.02602)|null|
+|**2024-12-03**|**PrefixLLM: LLM-aided Prefix Circuit Design**|Weihua Xiao et.al.|[2412.02594](http://arxiv.org/abs/2412.02594)|null|
+|**2024-12-03**|**OCR Hinders RAG: Evaluating the Cascading Impact of OCR on Retrieval-Augmented Generation**|Junyuan Zhang et.al.|[2412.02592](http://arxiv.org/abs/2412.02592)|**[link](https://github.com/opendatalab/OHR-Bench)**|
+|**2024-12-03**|**Explainable CTR Prediction via LLM Reasoning**|Xiaohan Yu et.al.|[2412.02588](http://arxiv.org/abs/2412.02588)|null|
+|**2024-12-03**|**Can I do it**|Joris Sijs et.al.|[2412.02569](http://arxiv.org/abs/2412.02569)|null|
+|**2024-12-03**|**Semantic Tokens in Retrieval Augmented Generation**|Joel Suro et.al.|[2412.02563](http://arxiv.org/abs/2412.02563)|null|
+|**2024-12-03**|**Patent-CR: A Dataset for Patent Claim Revision**|Lekang Jiang et.al.|[2412.02549](http://arxiv.org/abs/2412.02549)|null|
+|**2024-12-03**|**LLMForecaster: Improving Seasonal Event Forecasts with Unstructured Textual Data**|Hanyu Zhang et.al.|[2412.02525](http://arxiv.org/abs/2412.02525)|null|
+|**2024-12-03**|**What should a neuron aim for? Designing local objective functions based on information theory**|Andreas C. Schneider et.al.|[2412.02482](http://arxiv.org/abs/2412.02482)|null|
+|**2024-12-03**|**DP-2Stage: Adapting Language Models as Differentially Private Tabular Data Generators**|Tejumade Afonja et.al.|[2412.02467](http://arxiv.org/abs/2412.02467)|null|
+|**2024-12-03**|**Gracefully Filtering Backdoor Samples for Generative Large Language Models without Retraining**|Zongru Wu et.al.|[2412.02454](http://arxiv.org/abs/2412.02454)|**[link](https://github.com/zrw00/graceful)**|
+|**2024-12-03**|**Artificial Expert Intelligence through PAC-reasoning**|Shai Shalev-Shwartz et.al.|[2412.02441](http://arxiv.org/abs/2412.02441)|null|
 |**2024-12-02**|**T2Vid: Translating Long Text into Multi-Image is the Catalyst for Video-LLMs**|Shukang Yin et.al.|[2411.19951](http://arxiv.org/abs/2411.19951)|**[link](https://github.com/xjtupanda/t2vid)**|
 |**2024-12-02**|**Critical Tokens Matter: Token-Level Contrastive Estimation Enhances LLM's Reasoning Capability**|Zicheng Lin et.al.|[2411.19943](http://arxiv.org/abs/2411.19943)|null|
 |**2024-11-29**|**VLSBench: Unveiling Visual Leakage in Multimodal Safety**|Xuhao Hu et.al.|[2411.19939](http://arxiv.org/abs/2411.19939)|null|
