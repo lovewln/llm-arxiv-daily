@@ -33,7 +33,7 @@ layout: default
 |**2024-12-24**|**Multilingual Mathematical Reasoning: Advancing Open-Source LLMs in Hindi and English**|Avinash Anand et.al.|[2412.18415](http://arxiv.org/abs/2412.18415)|**[link](https://github.com/midas-research/Multilingual-Mathematical-Reasoning)**|
 |**2024-12-24**|**A Statistical Framework for Ranking LLM-Based Chatbots**|Siavash Ameli et.al.|[2412.18407](http://arxiv.org/abs/2412.18407)|null|
 |**2024-12-24**|**RDPM: Solve Diffusion Probabilistic Models via Recurrent Token Prediction**|Wu Xiaoping et.al.|[2412.18390](http://arxiv.org/abs/2412.18390)|null|
-|**2024-12-24**|**Defining and Detecting the Defects of the Large Language Model-based Autonomous Agents**|Kaiwen Ning et.al.|[2412.18371](http://arxiv.org/abs/2412.18371)|null|
+|**2024-12-24**|**Defining and Detecting the Defects of the Large Language Model-based Autonomous Agents**|Kaiwen Ning et.al.|[2412.18371](http://arxiv.org/abs/2412.18371)|**[link](https://github.com/KevinHeiwa/Agentable)**|
 |**2024-12-23**|**ChatGarment: Garment Estimation, Generation and Editing via Large Language Models**|Siyuan Bian et.al.|[2412.17811](http://arxiv.org/abs/2412.17811)|null|
 |**2024-12-23**|**ResearchTown: Simulator of Human Research Community**|Haofei Yu et.al.|[2412.17767](http://arxiv.org/abs/2412.17767)|**[link](https://github.com/ulab-uiuc/research-town)**|
 |**2024-12-23**|**ADC: Enhancing Function Calling Via Adversarial Datasets and Code Line-Level Feedback**|Wei Zhang et.al.|[2412.17754](http://arxiv.org/abs/2412.17754)|null|
