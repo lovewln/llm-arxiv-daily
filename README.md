@@ -20,6 +20,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-08**|**Re-ranking the Context for Multimodal Retrieval Augmented Generation**|Matin Mortaheb et.al.|[2501.04695](http://arxiv.org/abs/2501.04695)|null|
+|**2025-01-08**|**URSA: Understanding and Verifying Chain-of-thought Reasoning in Multimodal Mathematics**|Ruilin Luo et.al.|[2501.04686](http://arxiv.org/abs/2501.04686)|null|
+|**2025-01-08**|**Enhancing Financial VQA in Vision Language Models using Intermediate Structured Representations**|Archita Srivastava et.al.|[2501.04675](http://arxiv.org/abs/2501.04675)|null|
+|**2025-01-08**|**Assessing Language Comprehension in Large Language Models Using Construction Grammar**|Wesley Scivetti et.al.|[2501.04661](http://arxiv.org/abs/2501.04661)|null|
+|**2025-01-08**|**Multi-task retriever fine-tuning for domain-specific and efficient RAG**|Patrice Béchard et.al.|[2501.04652](http://arxiv.org/abs/2501.04652)|null|
+|**2025-01-08**|**FlairGPT: Repurposing LLMs for Interior Designs**|Gabrielle Littlefair et.al.|[2501.04648](http://arxiv.org/abs/2501.04648)|null|
+|**2025-01-08**|**Knowledge Retrieval Based on Generative AI**|Te-Lun Yang et.al.|[2501.04635](http://arxiv.org/abs/2501.04635)|null|
+|**2025-01-08**|**"Can you be my mum?": Manipulating Social Robots in the Large Language Models Era**|Giulio Antonio Abbo et.al.|[2501.04633](http://arxiv.org/abs/2501.04633)|null|
+|**2025-01-08**|**Quantum-inspired Embeddings Projection and Similarity Metrics for Representation Learning**|Ivan Kankeu et.al.|[2501.04591](http://arxiv.org/abs/2501.04591)|null|
+|**2025-01-08**|**InfiGUIAgent: A Multimodal Generalist GUI Agent with Native Reasoning and Reflection**|Yuhang Liu et.al.|[2501.04575](http://arxiv.org/abs/2501.04575)|**[link](https://github.com/reallm-labs/infiguiagent)**|
+|**2025-01-08**|**OpenOmni: Large Language Models Pivot Zero-shot Omnimodal Alignment across Language with Real-time Self-Aware Emotional Speech Synthesis**|Run Luo et.al.|[2501.04561](http://arxiv.org/abs/2501.04561)|null|
+|**2025-01-08**|**The Impostor is Among Us: Can Large Language Models Capture the Complexity of Human Personas?**|Christopher Lazik et.al.|[2501.04543](http://arxiv.org/abs/2501.04543)|null|
+|**2025-01-08**|**CGP-Tuning: Structure-Aware Soft Prompt Tuning for Code Vulnerability Detection**|Ruijun Feng et.al.|[2501.04510](http://arxiv.org/abs/2501.04510)|null|
+|**2025-01-08**|**Integrating remote sensing data assimilation, deep learning and large language model for interactive wheat breeding yield prediction**|Guofeng Yang et.al.|[2501.04487](http://arxiv.org/abs/2501.04487)|null|
+|**2025-01-08**|**When LLMs Struggle: Reference-less Translation Evaluation for Low-resource Languages**|Archchana Sindhujan et.al.|[2501.04473](http://arxiv.org/abs/2501.04473)|null|
+|**2025-01-08**|**Hidden Entity Detection from GitHub Leveraging Large Language Models**|Lu Gan et.al.|[2501.04455](http://arxiv.org/abs/2501.04455)|**[link](https://github.com/louisegan514/hidden-entity-detection-from-github-leveraging-llms)**|
+|**2025-01-08**|**Integrating LLMs with ITS: Recent Advances, Potentials, Challenges, and Future Directions**|Doaa Mahmud et.al.|[2501.04437](http://arxiv.org/abs/2501.04437)|null|
+|**2025-01-08**|**Federated Fine-Tuning of LLMs: Framework Comparison and Research Directions**|Na Yan et.al.|[2501.04436](http://arxiv.org/abs/2501.04436)|null|
+|**2025-01-08**|**End-to-End Bangla AI for Solving Math Olympiad Problem Benchmark: Leveraging Large Language Model Using Integrated Approach**|H. M. Shadman Tabib et.al.|[2501.04425](http://arxiv.org/abs/2501.04425)|null|
+|**2025-01-08**|**SEO: Stochastic Experience Optimization for Large Language Models**|Jitao Xu et.al.|[2501.04393](http://arxiv.org/abs/2501.04393)|null|
 |**2025-01-07**|**Sa2VA: Marrying SAM2 with LLaVA for Dense Grounded Understanding of Images and Videos**|Haobo Yuan et.al.|[2501.04001](http://arxiv.org/abs/2501.04001)|null|
 |**2025-01-07**|**RAG-Check: Evaluating Multimodal Retrieval Augmented Generation Performance**|Matin Mortaheb et.al.|[2501.03995](http://arxiv.org/abs/2501.03995)|null|
 |**2025-01-07**|**Influences on LLM Calibration: A Study of Response Agreement, Loss Functions, and Prompt Styles**|Yuxi Xia et.al.|[2501.03991](http://arxiv.org/abs/2501.03991)|null|
@@ -1087,6 +1107,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-08**|**Re-ranking the Context for Multimodal Retrieval Augmented Generation**|Matin Mortaheb et.al.|[2501.04695](http://arxiv.org/abs/2501.04695)|null|
+|**2025-01-08**|**URSA: Understanding and Verifying Chain-of-thought Reasoning in Multimodal Mathematics**|Ruilin Luo et.al.|[2501.04686](http://arxiv.org/abs/2501.04686)|null|
+|**2025-01-08**|**RadGPT: Constructing 3D Image-Text Tumor Datasets**|Pedro R. A. S. Bassi et.al.|[2501.04678](http://arxiv.org/abs/2501.04678)|**[link](https://github.com/mrgiovanni/radgpt)**|
+|**2025-01-08**|**Enhancing Financial VQA in Vision Language Models using Intermediate Structured Representations**|Archita Srivastava et.al.|[2501.04675](http://arxiv.org/abs/2501.04675)|null|
+|**2025-01-08**|**Assessing Language Comprehension in Large Language Models Using Construction Grammar**|Wesley Scivetti et.al.|[2501.04661](http://arxiv.org/abs/2501.04661)|null|
+|**2025-01-08**|**Multi-task retriever fine-tuning for domain-specific and efficient RAG**|Patrice Béchard et.al.|[2501.04652](http://arxiv.org/abs/2501.04652)|null|
+|**2025-01-08**|**FlairGPT: Repurposing LLMs for Interior Designs**|Gabrielle Littlefair et.al.|[2501.04648](http://arxiv.org/abs/2501.04648)|null|
+|**2025-01-08**|**Knowledge Retrieval Based on Generative AI**|Te-Lun Yang et.al.|[2501.04635](http://arxiv.org/abs/2501.04635)|null|
+|**2025-01-08**|**"Can you be my mum?": Manipulating Social Robots in the Large Language Models Era**|Giulio Antonio Abbo et.al.|[2501.04633](http://arxiv.org/abs/2501.04633)|null|
+|**2025-01-08**|**Quantum-inspired Embeddings Projection and Similarity Metrics for Representation Learning**|Ivan Kankeu et.al.|[2501.04591](http://arxiv.org/abs/2501.04591)|null|
+|**2025-01-08**|**InfiGUIAgent: A Multimodal Generalist GUI Agent with Native Reasoning and Reflection**|Yuhang Liu et.al.|[2501.04575](http://arxiv.org/abs/2501.04575)|**[link](https://github.com/reallm-labs/infiguiagent)**|
+|**2025-01-08**|**OpenOmni: Large Language Models Pivot Zero-shot Omnimodal Alignment across Language with Real-time Self-Aware Emotional Speech Synthesis**|Run Luo et.al.|[2501.04561](http://arxiv.org/abs/2501.04561)|null|
+|**2025-01-08**|**The importance of being discrete -- An agent-based model for active nematics and more**|Mathieu Dedenon et.al.|[2501.04559](http://arxiv.org/abs/2501.04559)|null|
+|**2025-01-08**|**Approximately EFX and PO Allocations for Bivalued Chores**|Zehan Lin et.al.|[2501.04550](http://arxiv.org/abs/2501.04550)|null|
+|**2025-01-08**|**The Impostor is Among Us: Can Large Language Models Capture the Complexity of Human Personas?**|Christopher Lazik et.al.|[2501.04543](http://arxiv.org/abs/2501.04543)|null|
+|**2025-01-08**|**Cyber-Physical Steganography in Robotic Motion Control**|Ching-Chun Chang et.al.|[2501.04541](http://arxiv.org/abs/2501.04541)|null|
+|**2025-01-08**|**CGP-Tuning: Structure-Aware Soft Prompt Tuning for Code Vulnerability Detection**|Ruijun Feng et.al.|[2501.04510](http://arxiv.org/abs/2501.04510)|null|
+|**2025-01-08**|**Integrating remote sensing data assimilation, deep learning and large language model for interactive wheat breeding yield prediction**|Guofeng Yang et.al.|[2501.04487](http://arxiv.org/abs/2501.04487)|null|
+|**2025-01-08**|**Safe Reinforcement Learning with Minimal Supervision**|Alexander Quessy et.al.|[2501.04481](http://arxiv.org/abs/2501.04481)|null|
+|**2025-01-08**|**When LLMs Struggle: Reference-less Translation Evaluation for Low-resource Languages**|Archchana Sindhujan et.al.|[2501.04473](http://arxiv.org/abs/2501.04473)|null|
 |**2025-01-07**|**Sa2VA: Marrying SAM2 with LLaVA for Dense Grounded Understanding of Images and Videos**|Haobo Yuan et.al.|[2501.04001](http://arxiv.org/abs/2501.04001)|null|
 |**2025-01-07**|**RAG-Check: Evaluating Multimodal Retrieval Augmented Generation Performance**|Matin Mortaheb et.al.|[2501.03995](http://arxiv.org/abs/2501.03995)|null|
 |**2025-01-07**|**Influences on LLM Calibration: A Study of Response Agreement, Loss Functions, and Prompt Styles**|Yuxi Xia et.al.|[2501.03991](http://arxiv.org/abs/2501.03991)|null|
@@ -2154,6 +2194,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-08**|**Re-ranking the Context for Multimodal Retrieval Augmented Generation**|Matin Mortaheb et.al.|[2501.04695](http://arxiv.org/abs/2501.04695)|null|
+|**2025-01-08**|**Non-Markovian dynamics of BIC generation via single-photon scattering**|Giuseppe Magnifico et.al.|[2501.04691](http://arxiv.org/abs/2501.04691)|null|
+|**2025-01-08**|**Observation of topological prethermal strong zero modes**|Feitong Jin et.al.|[2501.04688](http://arxiv.org/abs/2501.04688)|null|
+|**2025-01-08**|**URSA: Understanding and Verifying Chain-of-thought Reasoning in Multimodal Mathematics**|Ruilin Luo et.al.|[2501.04686](http://arxiv.org/abs/2501.04686)|null|
+|**2025-01-08**|**Toward Sufficient Statistical Power in Algorithmic Bias Assessment: A Test for ABROCA**|Conrad Borchers et.al.|[2501.04683](http://arxiv.org/abs/2501.04683)|null|
+|**2025-01-08**|**Learning by Confusion: The Phase Diagram of the Holstein Model**|George Issa et.al.|[2501.04681](http://arxiv.org/abs/2501.04681)|null|
+|**2025-01-08**|**Enhancing Financial VQA in Vision Language Models using Intermediate Structured Representations**|Archita Srivastava et.al.|[2501.04675](http://arxiv.org/abs/2501.04675)|null|
+|**2025-01-08**|**Chiral and isospin breaking in the 2-flavour Schwinger Model**|David Albandea et.al.|[2501.04674](http://arxiv.org/abs/2501.04674)|null|
+|**2025-01-08**|**Natural Variational Annealing for Multimodal Optimization**|Tâm Le Minh et.al.|[2501.04667](http://arxiv.org/abs/2501.04667)|null|
+|**2025-01-08**|**Assessing Language Comprehension in Large Language Models Using Construction Grammar**|Wesley Scivetti et.al.|[2501.04661](http://arxiv.org/abs/2501.04661)|null|
+|**2025-01-08**|**Hot wormholes and chaos dynamics in a two-coupled SYK model**|Martí Berenguer et.al.|[2501.04660](http://arxiv.org/abs/2501.04660)|null|
+|**2025-01-08**|**Lattice Boltzmann simulation reveals supercritical bifurcation in flow mode transitions of power-law fluids in the four-roll mill**|Yuan Yu et.al.|[2501.04655](http://arxiv.org/abs/2501.04655)|null|
+|**2025-01-08**|**Three-dimensional spin liquid state in the frustrated $\mathbf{S = 1/2}$ Heisenberg garnet NaCa$_{\mathbf{2}}$Cu$_{\mathbf{2}}$(VO$_{\mathbf{4}}$)$_{\mathbf{3}}$**|Y. Alexanian et.al.|[2501.04653](http://arxiv.org/abs/2501.04653)|null|
+|**2025-01-08**|**Multi-task retriever fine-tuning for domain-specific and efficient RAG**|Patrice Béchard et.al.|[2501.04652](http://arxiv.org/abs/2501.04652)|null|
+|**2025-01-08**|**Extracting the spin excitation spectrum of a fermionic system using a quantum processor**|Lucia Vilchez-Estevez et.al.|[2501.04649](http://arxiv.org/abs/2501.04649)|null|
+|**2025-01-08**|**FlairGPT: Repurposing LLMs for Interior Designs**|Gabrielle Littlefair et.al.|[2501.04648](http://arxiv.org/abs/2501.04648)|null|
+|**2025-01-08**|**A Statistical Theory of Contrastive Pre-training and Multimodal Generative AI**|Kazusato Oko et.al.|[2501.04641](http://arxiv.org/abs/2501.04641)|**[link](https://github.com/willcai7/multimodal-ghm)**|
+|**2025-01-08**|**Effort: a fast and differentiable emulator for the Effective Field Theory of the Large Scale Structure of the Universe**|Marco Bonici et.al.|[2501.04639](http://arxiv.org/abs/2501.04639)|null|
+|**2025-01-08**|**Resistive relativistic magnetohydrodynamics without Amperes Law**|Ruben Lier et.al.|[2501.04638](http://arxiv.org/abs/2501.04638)|null|
+|**2025-01-08**|**Knowledge Retrieval Based on Generative AI**|Te-Lun Yang et.al.|[2501.04635](http://arxiv.org/abs/2501.04635)|null|
 |**2025-01-07**|**Sa2VA: Marrying SAM2 with LLaVA for Dense Grounded Understanding of Images and Videos**|Haobo Yuan et.al.|[2501.04001](http://arxiv.org/abs/2501.04001)|null|
 |**2025-01-07**|**Two-fluid mobility model from coupled hydrodynamic equations for simulating laser-driven semiconductor switches**|Qile Wu et.al.|[2501.03997](http://arxiv.org/abs/2501.03997)|null|
 |**2025-01-07**|**RAG-Check: Evaluating Multimodal Retrieval Augmented Generation Performance**|Matin Mortaheb et.al.|[2501.03995](http://arxiv.org/abs/2501.03995)|null|
@@ -3221,6 +3281,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-08**|**Grokking at the Edge of Numerical Stability**|Lucas Prieto et.al.|[2501.04697](http://arxiv.org/abs/2501.04697)|**[link](https://github.com/lucasprietoal/grokking-at-the-edge-of-numerical-stability)**|
+|**2025-01-08**|**Re-ranking the Context for Multimodal Retrieval Augmented Generation**|Matin Mortaheb et.al.|[2501.04695](http://arxiv.org/abs/2501.04695)|null|
+|**2025-01-08**|**Beyond Sight: Finetuning Generalist Robot Policies with Heterogeneous Sensors via Language Grounding**|Joshua Jones et.al.|[2501.04693](http://arxiv.org/abs/2501.04693)|null|
+|**2025-01-08**|**URSA: Understanding and Verifying Chain-of-thought Reasoning in Multimodal Mathematics**|Ruilin Luo et.al.|[2501.04686](http://arxiv.org/abs/2501.04686)|null|
+|**2025-01-08**|**Towards System 2 Reasoning in LLMs: Learning How to Think With Meta Chain-of-Though**|Violet Xiang et.al.|[2501.04682](http://arxiv.org/abs/2501.04682)|null|
+|**2025-01-08**|**Enhancing Financial VQA in Vision Language Models using Intermediate Structured Representations**|Archita Srivastava et.al.|[2501.04675](http://arxiv.org/abs/2501.04675)|null|
+|**2025-01-08**|**DRIVINGVQA: Analyzing Visual Chain-of-Thought Reasoning of Vision Language Models in Real-World Scenarios with Driving Theory Tests**|Charles Corbière et.al.|[2501.04671](http://arxiv.org/abs/2501.04671)|null|
+|**2025-01-08**|**Are They the Same? Exploring Visual Correspondence Shortcomings of Multimodal LLMs**|Yikang Zhou et.al.|[2501.04670](http://arxiv.org/abs/2501.04670)|**[link](https://github.com/zhouyiks/colva)**|
+|**2025-01-08**|**Assessing Language Comprehension in Large Language Models Using Construction Grammar**|Wesley Scivetti et.al.|[2501.04661](http://arxiv.org/abs/2501.04661)|null|
+|**2025-01-08**|**Multi-task retriever fine-tuning for domain-specific and efficient RAG**|Patrice Béchard et.al.|[2501.04652](http://arxiv.org/abs/2501.04652)|null|
+|**2025-01-08**|**FlairGPT: Repurposing LLMs for Interior Designs**|Gabrielle Littlefair et.al.|[2501.04648](http://arxiv.org/abs/2501.04648)|null|
+|**2025-01-08**|**Knowledge Retrieval Based on Generative AI**|Te-Lun Yang et.al.|[2501.04635](http://arxiv.org/abs/2501.04635)|null|
+|**2025-01-08**|**"Can you be my mum?": Manipulating Social Robots in the Large Language Models Era**|Giulio Antonio Abbo et.al.|[2501.04633](http://arxiv.org/abs/2501.04633)|null|
+|**2025-01-08**|**FrontierNet: Learning Visual Cues to Explore**|Boyang Sun et.al.|[2501.04597](http://arxiv.org/abs/2501.04597)|null|
+|**2025-01-08**|**Quantum-inspired Embeddings Projection and Similarity Metrics for Representation Learning**|Ivan Kankeu et.al.|[2501.04591](http://arxiv.org/abs/2501.04591)|null|
+|**2025-01-08**|**InfiGUIAgent: A Multimodal Generalist GUI Agent with Native Reasoning and Reflection**|Yuhang Liu et.al.|[2501.04575](http://arxiv.org/abs/2501.04575)|**[link](https://github.com/reallm-labs/infiguiagent)**|
+|**2025-01-08**|**OpenOmni: Large Language Models Pivot Zero-shot Omnimodal Alignment across Language with Real-time Self-Aware Emotional Speech Synthesis**|Run Luo et.al.|[2501.04561](http://arxiv.org/abs/2501.04561)|null|
+|**2025-01-08**|**The Impostor is Among Us: Can Large Language Models Capture the Complexity of Human Personas?**|Christopher Lazik et.al.|[2501.04543](http://arxiv.org/abs/2501.04543)|null|
+|**2025-01-08**|**rStar-Math: Small LLMs Can Master Math Reasoning with Self-Evolved Deep Thinking**|Xinyu Guan et.al.|[2501.04519](http://arxiv.org/abs/2501.04519)|null|
+|**2025-01-08**|**CGP-Tuning: Structure-Aware Soft Prompt Tuning for Code Vulnerability Detection**|Ruijun Feng et.al.|[2501.04510](http://arxiv.org/abs/2501.04510)|null|
 |**2025-01-07**|**Are VLMs Ready for Autonomous Driving? An Empirical Study from the Reliability, Data, and Metric Perspectives**|Shaoyuan Xie et.al.|[2501.04003](http://arxiv.org/abs/2501.04003)|null|
 |**2025-01-07**|**Sa2VA: Marrying SAM2 with LLaVA for Dense Grounded Understanding of Images and Videos**|Haobo Yuan et.al.|[2501.04001](http://arxiv.org/abs/2501.04001)|null|
 |**2025-01-07**|**RAG-Check: Evaluating Multimodal Retrieval Augmented Generation Performance**|Matin Mortaheb et.al.|[2501.03995](http://arxiv.org/abs/2501.03995)|null|
