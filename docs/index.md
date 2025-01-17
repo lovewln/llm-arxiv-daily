@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.01.16
+## Updated on 2025.01.17
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## large language model
@@ -1210,7 +1210,7 @@ layout: default
 |**2025-01-15**|**Disentangling Exploration of Large Language Models by Optimal Exploitation**|Tim Grams et.al.|[2501.08925](http://arxiv.org/abs/2501.08925)|null|
 |**2025-01-15**|**GenAI Content Detection Task 3: Cross-Domain Machine-Generated Text Detection Challenge**|Liam Dugan et.al.|[2501.08913](http://arxiv.org/abs/2501.08913)|null|
 |**2025-01-15**|**Leveraging Large Language Models as Knowledge-Driven Agents for Reliable Retrosynthesis Planning**|Qinyu Ma et.al.|[2501.08897](http://arxiv.org/abs/2501.08897)|null|
-|**2025-01-15**|**Silent Abandonment in Text-Based Contact Centers: Identifying, Quantifying, and Mitigating its Operational Impacts**|Antonio Castellanos et.al.|[2501.08869](http://arxiv.org/abs/2501.08869)|null|
+|**2025-01-16**|**Silent Abandonment in Text-Based Contact Centers: Identifying, Quantifying, and Mitigating its Operational Impacts**|Antonio Castellanos et.al.|[2501.08869](http://arxiv.org/abs/2501.08869)|null|
 |**2025-01-15**|**The geometry of moral decision making**|Roland M. Friedrich et.al.|[2501.08865](http://arxiv.org/abs/2501.08865)|null|
 |**2025-01-15**|**On the Dominance of Truth-Telling in Gradual Mechanisms**|Wenqian Wang et.al.|[2501.08802](http://arxiv.org/abs/2501.08802)|null|
 |**2025-01-15**|**Networked Agents in the Dark: Team Value Learning under Partial Observability**|Guilherme S. Varela et.al.|[2501.08778](http://arxiv.org/abs/2501.08778)|null|
