@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.01.25
+## Updated on 2025.01.26
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## large language model
@@ -27,7 +27,7 @@ layout: default
 |**2025-01-23**|**Enhancing LLMs for Governance with Human Oversight: Evaluating and Aligning LLMs on Expert Classification of Climate Misinformation for Detecting False or Misleading Claims about Climate Change**|Mowafak Allaham et.al.|[2501.13802](http://arxiv.org/abs/2501.13802)|null|
 |**2025-01-23**|**Not Every AI Problem is a Data Problem: We Should Be Intentional About Data Scaling**|Tanya Rodchenko et.al.|[2501.13779](http://arxiv.org/abs/2501.13779)|null|
 |**2025-01-23**|**Explainable XR: Understanding User Behaviors of XR Environments using LLM-assisted Analytics Framework**|Yoonsang Kim et.al.|[2501.13778](http://arxiv.org/abs/2501.13778)|**[link](https://github.com/yoonsang0910/explainablexr)**|
-|**2025-01-23**|**Do Large Language Models Truly Understand Geometric Structures?**|Xiaofeng Wang et.al.|[2501.13773](http://arxiv.org/abs/2501.13773)|null|
+|**2025-01-23**|**Do Large Language Models Truly Understand Geometric Structures?**|Xiaofeng Wang et.al.|[2501.13773](http://arxiv.org/abs/2501.13773)|**[link](https://github.com/banyedy/geomrel)**|
 |**2025-01-23**|**Tune In, Act Up: Exploring the Impact of Audio Modality-Specific Edits on Large Audio Language Models in Jailbreak**|Erjia Xiao et.al.|[2501.13772](http://arxiv.org/abs/2501.13772)|null|
 |**2025-01-23**|**UGMathBench: A Diverse and Dynamic Benchmark for Undergraduate-Level Mathematical Reasoning with Large Language Models**|Xin Xu et.al.|[2501.13766](http://arxiv.org/abs/2501.13766)|null|
 |**2025-01-23**|**EICopilot: Search and Explore Enterprise Information over Large-scale Knowledge Graphs with LLM-driven Agents**|Yuhui Yun et.al.|[2501.13746](http://arxiv.org/abs/2501.13746)|null|
@@ -1315,7 +1315,7 @@ layout: default
 |**2025-01-23**|**Enhancing LLMs for Governance with Human Oversight: Evaluating and Aligning LLMs on Expert Classification of Climate Misinformation for Detecting False or Misleading Claims about Climate Change**|Mowafak Allaham et.al.|[2501.13802](http://arxiv.org/abs/2501.13802)|null|
 |**2025-01-23**|**Not Every AI Problem is a Data Problem: We Should Be Intentional About Data Scaling**|Tanya Rodchenko et.al.|[2501.13779](http://arxiv.org/abs/2501.13779)|null|
 |**2025-01-23**|**Explainable XR: Understanding User Behaviors of XR Environments using LLM-assisted Analytics Framework**|Yoonsang Kim et.al.|[2501.13778](http://arxiv.org/abs/2501.13778)|**[link](https://github.com/yoonsang0910/explainablexr)**|
-|**2025-01-23**|**Do Large Language Models Truly Understand Geometric Structures?**|Xiaofeng Wang et.al.|[2501.13773](http://arxiv.org/abs/2501.13773)|null|
+|**2025-01-23**|**Do Large Language Models Truly Understand Geometric Structures?**|Xiaofeng Wang et.al.|[2501.13773](http://arxiv.org/abs/2501.13773)|**[link](https://github.com/banyedy/geomrel)**|
 |**2025-01-23**|**Tune In, Act Up: Exploring the Impact of Audio Modality-Specific Edits on Large Audio Language Models in Jailbreak**|Erjia Xiao et.al.|[2501.13772](http://arxiv.org/abs/2501.13772)|null|
 |**2025-01-23**|**UGMathBench: A Diverse and Dynamic Benchmark for Undergraduate-Level Mathematical Reasoning with Large Language Models**|Xin Xu et.al.|[2501.13766](http://arxiv.org/abs/2501.13766)|null|
 |**2025-01-23**|**EICopilot: Search and Explore Enterprise Information over Large-scale Knowledge Graphs with LLM-driven Agents**|Yuhui Yun et.al.|[2501.13746](http://arxiv.org/abs/2501.13746)|null|
