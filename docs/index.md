@@ -14,6 +14,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-27**|**Evaluating The Performance of Using Large Language Models to Automate Summarization of CT Simulation Orders in Radiation Oncology**|Meiyun Cao et.al.|[2501.16309](http://arxiv.org/abs/2501.16309)|null|
+|**2025-01-27**|**RAPID: Retrieval-Augmented Parallel Inference Drafting for Text-Based Video Event Retrieval**|Long Nguyen et.al.|[2501.16303](http://arxiv.org/abs/2501.16303)|null|
+|**2025-01-27**|**Matryoshka Re-Ranker: A Flexible Re-Ranking Architecture With Configurable Depth and Width**|Zheng Liu et.al.|[2501.16302](http://arxiv.org/abs/2501.16302)|null|
+|**2025-01-27**|**Large Models in Dialogue for Active Perception and Anomaly Detection**|Tzoulio Chamiti et.al.|[2501.16300](http://arxiv.org/abs/2501.16300)|null|
+|**2025-01-27**|**FALCON: Resolving Visual Redundancy and Fragmentation in High-resolution Multimodal Large Language Models via Visual Registers**|Renshan Zhang et.al.|[2501.16297](http://arxiv.org/abs/2501.16297)|null|
+|**2025-01-27**|**Brain-Adapter: Enhancing Neurological Disorder Analysis with Adapter-Tuning Multimodal Large Language Models**|Jing Zhang et.al.|[2501.16282](http://arxiv.org/abs/2501.16282)|null|
+|**2025-01-27**|**Do LLMs Have Visualization Literacy? An Evaluation on Modified Visualizations to Test Generalization in Data Interpretation**|Jiayi Hong et.al.|[2501.16277](http://arxiv.org/abs/2501.16277)|null|
+|**2025-01-27**|**URAG: Implementing a Unified Hybrid RAG for Precise Answers in University Admission Chatbots -- A Case Study at HCMUT**|Long Nguyen et.al.|[2501.16276](http://arxiv.org/abs/2501.16276)|null|
+|**2025-01-27**|**A foundation model for human-AI collaboration in medical literature mining**|Zifeng Wang et.al.|[2501.16255](http://arxiv.org/abs/2501.16255)|null|
+|**2025-01-27**|**Multi-Agent Geospatial Copilots for Remote Sensing Workflows**|Chaehong Lee et.al.|[2501.16254](http://arxiv.org/abs/2501.16254)|null|
+|**2025-01-27**|**Zero-Shot Decision Tree Construction via Large Language Models**|Lucas Carrasco et.al.|[2501.16247](http://arxiv.org/abs/2501.16247)|null|
+|**2025-01-27**|**Phase Transitions in Large Language Models and the $O(N)$ Model**|Youran Sun et.al.|[2501.16241](http://arxiv.org/abs/2501.16241)|null|
+|**2025-01-27**|**AiGet: Transforming Everyday Moments into Hidden Knowledge Discovery with AI Assistance on Smart Glasses**|Runze Cai et.al.|[2501.16240](http://arxiv.org/abs/2501.16240)|null|
+|**2025-01-27**|**Language-Based Bayesian Optimization Research Assistant (BORA)**|Abdoulatif Cissé et.al.|[2501.16224](http://arxiv.org/abs/2501.16224)|null|
+|**2025-01-27**|**Enhancing Visual Inspection Capability of Multi-Modal Large Language Models on Medical Time Series with Supportive Conformalized and Interpretable Small Specialized Models**|Huayu Li et.al.|[2501.16215](http://arxiv.org/abs/2501.16215)|null|
+|**2025-01-27**|**Provence: efficient and robust context pruning for retrieval-augmented generation**|Nadezhda Chirkova et.al.|[2501.16214](http://arxiv.org/abs/2501.16214)|null|
+|**2025-01-27**|**Raiders of the Lost Dependency: Fixing Dependency Conflicts in Python using LLMs**|Antony Bartlett et.al.|[2501.16191](http://arxiv.org/abs/2501.16191)|null|
+|**2025-01-27**|**SWIFT: Mapping Sub-series with Wavelet Decomposition Improves Time Series Forecasting**|Wenxuan Xie et.al.|[2501.16178](http://arxiv.org/abs/2501.16178)|**[link](https://github.com/lancelotxwx/swift)**|
+|**2025-01-27**|**Will Systems of LLM Agents Cooperate: An Investigation into a Social Dilemma**|Richard Willis et.al.|[2501.16173](http://arxiv.org/abs/2501.16173)|null|
+|**2025-01-27**|**MetaDecorator: Generating Immersive Virtual Tours through Multimodality**|Shuang Xie et.al.|[2501.16164](http://arxiv.org/abs/2501.16164)|null|
 |**2025-01-24**|**HERMES: A Unified Self-Driving World Model for Simultaneous 3D Scene Understanding and Generation**|Xin Zhou et.al.|[2501.14729](http://arxiv.org/abs/2501.14729)|**[link](https://github.com/lmd0311/hermes)**|
 |**2025-01-24**|**Do LLMs Provide Consistent Answers to Health-Related Questions across Languages?**|Ipek Baris Schlicht et.al.|[2501.14719](http://arxiv.org/abs/2501.14719)|null|
 |**2025-01-24**|**Towards Better Understanding Table Instruction Tuning: Decoupling the Effects from Data versus Models**|Naihao Deng et.al.|[2501.14717](http://arxiv.org/abs/2501.14717)|null|
@@ -1319,6 +1339,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-27**|**LUCY: Linguistic Understanding and Control Yielding Early Stage of Her**|Heting Gao et.al.|[2501.16327](http://arxiv.org/abs/2501.16327)|**[link](https://github.com/vita-mllm/lucy)**|
+|**2025-01-27**|**Evaluating The Performance of Using Large Language Models to Automate Summarization of CT Simulation Orders in Radiation Oncology**|Meiyun Cao et.al.|[2501.16309](http://arxiv.org/abs/2501.16309)|null|
+|**2025-01-27**|**Privacy-aware Nash Equilibrium Synthesis with Partially Ordered LTL $_f$ Objectives**|Caleb Probine et.al.|[2501.16307](http://arxiv.org/abs/2501.16307)|null|
+|**2025-01-27**|**RAPID: Retrieval-Augmented Parallel Inference Drafting for Text-Based Video Event Retrieval**|Long Nguyen et.al.|[2501.16303](http://arxiv.org/abs/2501.16303)|null|
+|**2025-01-27**|**Matryoshka Re-Ranker: A Flexible Re-Ranking Architecture With Configurable Depth and Width**|Zheng Liu et.al.|[2501.16302](http://arxiv.org/abs/2501.16302)|null|
+|**2025-01-27**|**Large Models in Dialogue for Active Perception and Anomaly Detection**|Tzoulio Chamiti et.al.|[2501.16300](http://arxiv.org/abs/2501.16300)|null|
+|**2025-01-27**|**FALCON: Resolving Visual Redundancy and Fragmentation in High-resolution Multimodal Large Language Models via Visual Registers**|Renshan Zhang et.al.|[2501.16297](http://arxiv.org/abs/2501.16297)|null|
+|**2025-01-27**|**Brain-Adapter: Enhancing Neurological Disorder Analysis with Adapter-Tuning Multimodal Large Language Models**|Jing Zhang et.al.|[2501.16282](http://arxiv.org/abs/2501.16282)|null|
+|**2025-01-27**|**Do LLMs Have Visualization Literacy? An Evaluation on Modified Visualizations to Test Generalization in Data Interpretation**|Jiayi Hong et.al.|[2501.16277](http://arxiv.org/abs/2501.16277)|null|
+|**2025-01-27**|**URAG: Implementing a Unified Hybrid RAG for Precise Answers in University Admission Chatbots -- A Case Study at HCMUT**|Long Nguyen et.al.|[2501.16276](http://arxiv.org/abs/2501.16276)|null|
+|**2025-01-27**|**A foundation model for human-AI collaboration in medical literature mining**|Zifeng Wang et.al.|[2501.16255](http://arxiv.org/abs/2501.16255)|null|
+|**2025-01-27**|**Multi-Agent Geospatial Copilots for Remote Sensing Workflows**|Chaehong Lee et.al.|[2501.16254](http://arxiv.org/abs/2501.16254)|null|
+|**2025-01-27**|**Zero-Shot Decision Tree Construction via Large Language Models**|Lucas Carrasco et.al.|[2501.16247](http://arxiv.org/abs/2501.16247)|null|
+|**2025-01-27**|**Phase Transitions in Large Language Models and the $O(N)$ Model**|Youran Sun et.al.|[2501.16241](http://arxiv.org/abs/2501.16241)|null|
+|**2025-01-27**|**AiGet: Transforming Everyday Moments into Hidden Knowledge Discovery with AI Assistance on Smart Glasses**|Runze Cai et.al.|[2501.16240](http://arxiv.org/abs/2501.16240)|null|
+|**2025-01-27**|**Language-Based Bayesian Optimization Research Assistant (BORA)**|Abdoulatif Cissé et.al.|[2501.16224](http://arxiv.org/abs/2501.16224)|null|
+|**2025-01-27**|**Enhancing Visual Inspection Capability of Multi-Modal Large Language Models on Medical Time Series with Supportive Conformalized and Interpretable Small Specialized Models**|Huayu Li et.al.|[2501.16215](http://arxiv.org/abs/2501.16215)|null|
+|**2025-01-27**|**Provence: efficient and robust context pruning for retrieval-augmented generation**|Nadezhda Chirkova et.al.|[2501.16214](http://arxiv.org/abs/2501.16214)|null|
+|**2025-01-27**|**Raiders of the Lost Dependency: Fixing Dependency Conflicts in Python using LLMs**|Antony Bartlett et.al.|[2501.16191](http://arxiv.org/abs/2501.16191)|null|
+|**2025-01-27**|**SWIFT: Mapping Sub-series with Wavelet Decomposition Improves Time Series Forecasting**|Wenxuan Xie et.al.|[2501.16178](http://arxiv.org/abs/2501.16178)|**[link](https://github.com/lancelotxwx/swift)**|
 |**2025-01-24**|**HERMES: A Unified Self-Driving World Model for Simultaneous 3D Scene Understanding and Generation**|Xin Zhou et.al.|[2501.14729](http://arxiv.org/abs/2501.14729)|**[link](https://github.com/lmd0311/hermes)**|
 |**2025-01-24**|**Do LLMs Provide Consistent Answers to Health-Related Questions across Languages?**|Ipek Baris Schlicht et.al.|[2501.14719](http://arxiv.org/abs/2501.14719)|null|
 |**2025-01-24**|**Towards Better Understanding Table Instruction Tuning: Decoupling the Effects from Data versus Models**|Naihao Deng et.al.|[2501.14717](http://arxiv.org/abs/2501.14717)|null|
@@ -2624,6 +2664,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-27**|**Tailored Forecasting from Short Time Series via Meta-learning**|Declan A. Norton et.al.|[2501.16325](http://arxiv.org/abs/2501.16325)|null|
+|**2025-01-27**|**A MARVEL-ous study of how well galaxy shapes reflect Dark Matter halo shapes in Cold Dark Matter Simulations**|Blake Keith et.al.|[2501.16317](http://arxiv.org/abs/2501.16317)|null|
+|**2025-01-27**|**Transient Dynamics and Homogenization in Incoherent Collision Models**|Göktuğ Karpat et.al.|[2501.16313](http://arxiv.org/abs/2501.16313)|null|
+|**2025-01-27**|**Evaluating The Performance of Using Large Language Models to Automate Summarization of CT Simulation Orders in Radiation Oncology**|Meiyun Cao et.al.|[2501.16309](http://arxiv.org/abs/2501.16309)|null|
+|**2025-01-27**|**RAPID: Retrieval-Augmented Parallel Inference Drafting for Text-Based Video Event Retrieval**|Long Nguyen et.al.|[2501.16303](http://arxiv.org/abs/2501.16303)|null|
+|**2025-01-27**|**Matryoshka Re-Ranker: A Flexible Re-Ranking Architecture With Configurable Depth and Width**|Zheng Liu et.al.|[2501.16302](http://arxiv.org/abs/2501.16302)|null|
+|**2025-01-27**|**Large Models in Dialogue for Active Perception and Anomaly Detection**|Tzoulio Chamiti et.al.|[2501.16300](http://arxiv.org/abs/2501.16300)|null|
+|**2025-01-27**|**FALCON: Resolving Visual Redundancy and Fragmentation in High-resolution Multimodal Large Language Models via Visual Registers**|Renshan Zhang et.al.|[2501.16297](http://arxiv.org/abs/2501.16297)|null|
+|**2025-01-27**|**Dissecting stellar populations with manifold learning I. Validation of the method on a synthetic Milky Way-like galaxy**|A. W. Neitzel et.al.|[2501.16294](http://arxiv.org/abs/2501.16294)|null|
+|**2025-01-27**|**Effect of Numerical Resolution on Synthetic Observables of Simulated Coronal Loops**|Cosima Alexandra Breu et.al.|[2501.16293](http://arxiv.org/abs/2501.16293)|null|
+|**2025-01-27**|**Brain-Adapter: Enhancing Neurological Disorder Analysis with Adapter-Tuning Multimodal Large Language Models**|Jing Zhang et.al.|[2501.16282](http://arxiv.org/abs/2501.16282)|null|
+|**2025-01-27**|**Do LLMs Have Visualization Literacy? An Evaluation on Modified Visualizations to Test Generalization in Data Interpretation**|Jiayi Hong et.al.|[2501.16277](http://arxiv.org/abs/2501.16277)|null|
+|**2025-01-27**|**URAG: Implementing a Unified Hybrid RAG for Precise Answers in University Admission Chatbots -- A Case Study at HCMUT**|Long Nguyen et.al.|[2501.16276](http://arxiv.org/abs/2501.16276)|null|
+|**2025-01-27**|**Congested Crossing Pedestrian Traffic Flow : Dispersion vs. Transport in Crowded Areas**|Mariam Al Khatib et.al.|[2501.16275](http://arxiv.org/abs/2501.16275)|null|
+|**2025-01-27**|**A foundation model for human-AI collaboration in medical literature mining**|Zifeng Wang et.al.|[2501.16255](http://arxiv.org/abs/2501.16255)|null|
+|**2025-01-27**|**Multi-Agent Geospatial Copilots for Remote Sensing Workflows**|Chaehong Lee et.al.|[2501.16254](http://arxiv.org/abs/2501.16254)|null|
+|**2025-01-27**|**Zero-Shot Decision Tree Construction via Large Language Models**|Lucas Carrasco et.al.|[2501.16247](http://arxiv.org/abs/2501.16247)|null|
+|**2025-01-27**|**Phase Transitions in Large Language Models and the $O(N)$ Model**|Youran Sun et.al.|[2501.16241](http://arxiv.org/abs/2501.16241)|null|
+|**2025-01-27**|**AiGet: Transforming Everyday Moments into Hidden Knowledge Discovery with AI Assistance on Smart Glasses**|Runze Cai et.al.|[2501.16240](http://arxiv.org/abs/2501.16240)|null|
+|**2025-01-27**|**Analog QAOA with Bayesian Optimisation on a neutral atom QPU**|Simone Tibaldi et.al.|[2501.16229](http://arxiv.org/abs/2501.16229)|null|
 |**2025-01-24**|**HERMES: A Unified Self-Driving World Model for Simultaneous 3D Scene Understanding and Generation**|Xin Zhou et.al.|[2501.14729](http://arxiv.org/abs/2501.14729)|**[link](https://github.com/lmd0311/hermes)**|
 |**2025-01-24**|**Mitigating GenAI-powered Evidence Pollution for Out-of-Context Multimodal Misinformation Detection**|Zehong Yan et.al.|[2501.14728](http://arxiv.org/abs/2501.14728)|null|
 |**2025-01-24**|**Estimation-theoretic analysis of lensless imaging**|Leyla A. Kabuli et.al.|[2501.14727](http://arxiv.org/abs/2501.14727)|null|
@@ -3929,6 +3989,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-27**|**Evaluating The Performance of Using Large Language Models to Automate Summarization of CT Simulation Orders in Radiation Oncology**|Meiyun Cao et.al.|[2501.16309](http://arxiv.org/abs/2501.16309)|null|
+|**2025-01-27**|**RAPID: Retrieval-Augmented Parallel Inference Drafting for Text-Based Video Event Retrieval**|Long Nguyen et.al.|[2501.16303](http://arxiv.org/abs/2501.16303)|null|
+|**2025-01-27**|**Matryoshka Re-Ranker: A Flexible Re-Ranking Architecture With Configurable Depth and Width**|Zheng Liu et.al.|[2501.16302](http://arxiv.org/abs/2501.16302)|null|
+|**2025-01-27**|**Large Models in Dialogue for Active Perception and Anomaly Detection**|Tzoulio Chamiti et.al.|[2501.16300](http://arxiv.org/abs/2501.16300)|null|
+|**2025-01-27**|**FALCON: Resolving Visual Redundancy and Fragmentation in High-resolution Multimodal Large Language Models via Visual Registers**|Renshan Zhang et.al.|[2501.16297](http://arxiv.org/abs/2501.16297)|null|
+|**2025-01-27**|**Brain-Adapter: Enhancing Neurological Disorder Analysis with Adapter-Tuning Multimodal Large Language Models**|Jing Zhang et.al.|[2501.16282](http://arxiv.org/abs/2501.16282)|null|
+|**2025-01-27**|**Do LLMs Have Visualization Literacy? An Evaluation on Modified Visualizations to Test Generalization in Data Interpretation**|Jiayi Hong et.al.|[2501.16277](http://arxiv.org/abs/2501.16277)|null|
+|**2025-01-27**|**URAG: Implementing a Unified Hybrid RAG for Precise Answers in University Admission Chatbots -- A Case Study at HCMUT**|Long Nguyen et.al.|[2501.16276](http://arxiv.org/abs/2501.16276)|null|
+|**2025-01-27**|**A foundation model for human-AI collaboration in medical literature mining**|Zifeng Wang et.al.|[2501.16255](http://arxiv.org/abs/2501.16255)|null|
+|**2025-01-27**|**Multi-Agent Geospatial Copilots for Remote Sensing Workflows**|Chaehong Lee et.al.|[2501.16254](http://arxiv.org/abs/2501.16254)|null|
+|**2025-01-27**|**Zero-Shot Decision Tree Construction via Large Language Models**|Lucas Carrasco et.al.|[2501.16247](http://arxiv.org/abs/2501.16247)|null|
+|**2025-01-27**|**Phase Transitions in Large Language Models and the $O(N)$ Model**|Youran Sun et.al.|[2501.16241](http://arxiv.org/abs/2501.16241)|null|
+|**2025-01-27**|**AiGet: Transforming Everyday Moments into Hidden Knowledge Discovery with AI Assistance on Smart Glasses**|Runze Cai et.al.|[2501.16240](http://arxiv.org/abs/2501.16240)|null|
+|**2025-01-27**|**Language-Based Bayesian Optimization Research Assistant (BORA)**|Abdoulatif Cissé et.al.|[2501.16224](http://arxiv.org/abs/2501.16224)|null|
+|**2025-01-27**|**DBRouting: Routing End User Queries to Databases for Answerability**|Priyangshu Mandal et.al.|[2501.16220](http://arxiv.org/abs/2501.16220)|null|
+|**2025-01-27**|**Enhancing Visual Inspection Capability of Multi-Modal Large Language Models on Medical Time Series with Supportive Conformalized and Interpretable Small Specialized Models**|Huayu Li et.al.|[2501.16215](http://arxiv.org/abs/2501.16215)|null|
+|**2025-01-27**|**Provence: efficient and robust context pruning for retrieval-augmented generation**|Nadezhda Chirkova et.al.|[2501.16214](http://arxiv.org/abs/2501.16214)|null|
+|**2025-01-27**|**From Informal to Formal -- Incorporating and Evaluating LLMs on Natural Language Requirements to Verifiable Formal Proofs**|Jialun Cao et.al.|[2501.16207](http://arxiv.org/abs/2501.16207)|null|
+|**2025-01-27**|**Raiders of the Lost Dependency: Fixing Dependency Conflicts in Python using LLMs**|Antony Bartlett et.al.|[2501.16191](http://arxiv.org/abs/2501.16191)|null|
+|**2025-01-27**|**Cryptographic Compression**|Joshua Cooper et.al.|[2501.16184](http://arxiv.org/abs/2501.16184)|null|
 |**2025-01-24**|**HERMES: A Unified Self-Driving World Model for Simultaneous 3D Scene Understanding and Generation**|Xin Zhou et.al.|[2501.14729](http://arxiv.org/abs/2501.14729)|**[link](https://github.com/lmd0311/hermes)**|
 |**2025-01-24**|**Mitigating GenAI-powered Evidence Pollution for Out-of-Context Multimodal Misinformation Detection**|Zehong Yan et.al.|[2501.14728](http://arxiv.org/abs/2501.14728)|null|
 |**2025-01-24**|**Do LLMs Provide Consistent Answers to Health-Related Questions across Languages?**|Ipek Baris Schlicht et.al.|[2501.14719](http://arxiv.org/abs/2501.14719)|null|
