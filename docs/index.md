@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.02.06
+## Updated on 2025.02.07
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## large language model
@@ -2908,7 +2908,7 @@ layout: default
 |**2025-02-05**|**Efficient Lindblad synthesis for noise model construction**|Moein Malekakhlagh et.al.|[2502.03462](http://arxiv.org/abs/2502.03462)|null|
 |**2025-02-05**|**Do Large Language Model Benchmarks Test Reliability?**|Joshua Vendrow et.al.|[2502.03461](http://arxiv.org/abs/2502.03461)|null|
 |**2025-02-05**|**Adapt-Pruner: Adaptive Structural Pruning for Efficient Small Language Model Training**|Boyao Wang et.al.|[2502.03460](http://arxiv.org/abs/2502.03460)|null|
-|**2025-02-05**|**Clustering of the extrema: A theoretical description of weak lensing critical points power spectra in the mildly nonlinear regime**|Zhengyangguang Gong et.al.|[2502.03457](http://arxiv.org/abs/2502.03457)|null|
+|**2025-02-06**|**Clustering of the extreme: A theoretical description of weak lensing critical points power spectra in the mildly nonlinear regime**|Zhengyangguang Gong et.al.|[2502.03457](http://arxiv.org/abs/2502.03457)|null|
 |**2025-02-05**|**Kineto-Dynamical Planning and Accurate Execution of Minimum-Time Maneuvers on Three-Dimensional Circuits**|Mattia Piccinini et.al.|[2502.03454](http://arxiv.org/abs/2502.03454)|null|
 |**2025-02-05**|**Unconventional anomalous Hall effect in hexagonal polar magnet Y_3Co_8Sn_4**|Afsar Ahmed et.al.|[2502.03452](http://arxiv.org/abs/2502.03452)|null|
 |**2025-02-05**|**A Schema-Guided Reason-while-Retrieve framework for Reasoning on Scene Graphs with Large-Language-Models (LLMs)**|Yiye Chen et.al.|[2502.03450](http://arxiv.org/abs/2502.03450)|null|

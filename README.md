@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.02.06
+## Updated on 2025.02.07
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -1461,7 +1461,7 @@
 |**2024-10-16**|**FTII-Bench: A Comprehensive Multimodal Benchmark for Flow Text with Image Insertion**|Jiacheng Ruan et.al.|[2410.12564](http://arxiv.org/abs/2410.12564)|**[link](https://github.com/IAAR-Shanghai/FTIIBench)**|
 |**2024-10-17**|**LLM-based Translation Inference with Iterative Bilingual Understanding**|Andong Chen et.al.|[2410.12543](http://arxiv.org/abs/2410.12543)|null|
 
-<p align=right>(<a href=#updated-on-20250206>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250207>back to top</a>)</p>
 
 ## llm agent
 
@@ -2908,7 +2908,7 @@
 |**2024-10-16**|**Not All Votes Count! Programs as Verifiers Improve Self-Consistency of Language Models for Math Reasoning**|Vernon Y. H. Toh et.al.|[2410.12608](http://arxiv.org/abs/2410.12608)|**[link](https://github.com/declare-lab/prove)**|
 |**2024-10-16**|**CCSBench: Evaluating Compositional Controllability in LLMs for Scientific Document Summarization**|Yixi Ding et.al.|[2410.12601](http://arxiv.org/abs/2410.12601)|null|
 
-<p align=right>(<a href=#updated-on-20250206>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250207>back to top</a>)</p>
 
 ## llm simulation
 
@@ -2918,7 +2918,7 @@
 |**2025-02-05**|**Efficient Lindblad synthesis for noise model construction**|Moein Malekakhlagh et.al.|[2502.03462](http://arxiv.org/abs/2502.03462)|null|
 |**2025-02-05**|**Do Large Language Model Benchmarks Test Reliability?**|Joshua Vendrow et.al.|[2502.03461](http://arxiv.org/abs/2502.03461)|null|
 |**2025-02-05**|**Adapt-Pruner: Adaptive Structural Pruning for Efficient Small Language Model Training**|Boyao Wang et.al.|[2502.03460](http://arxiv.org/abs/2502.03460)|null|
-|**2025-02-05**|**Clustering of the extrema: A theoretical description of weak lensing critical points power spectra in the mildly nonlinear regime**|Zhengyangguang Gong et.al.|[2502.03457](http://arxiv.org/abs/2502.03457)|null|
+|**2025-02-06**|**Clustering of the extreme: A theoretical description of weak lensing critical points power spectra in the mildly nonlinear regime**|Zhengyangguang Gong et.al.|[2502.03457](http://arxiv.org/abs/2502.03457)|null|
 |**2025-02-05**|**Kineto-Dynamical Planning and Accurate Execution of Minimum-Time Maneuvers on Three-Dimensional Circuits**|Mattia Piccinini et.al.|[2502.03454](http://arxiv.org/abs/2502.03454)|null|
 |**2025-02-05**|**Unconventional anomalous Hall effect in hexagonal polar magnet Y_3Co_8Sn_4**|Afsar Ahmed et.al.|[2502.03452](http://arxiv.org/abs/2502.03452)|null|
 |**2025-02-05**|**A Schema-Guided Reason-while-Retrieve framework for Reasoning on Scene Graphs with Large-Language-Models (LLMs)**|Yiye Chen et.al.|[2502.03450](http://arxiv.org/abs/2502.03450)|null|
@@ -4355,7 +4355,7 @@
 |**2024-10-16**|**Structure of the water/magnetite interface from sum frequency generation experiments and neural network based molecular dynamics simulations**|Salvatore Romano et.al.|[2410.12717](http://arxiv.org/abs/2410.12717)|null|
 |**2024-10-16**|**A Simple Interactive Fixed Effects Estimator for Short Panels**|Robert F. Phillips et.al.|[2410.12709](http://arxiv.org/abs/2410.12709)|null|
 
-<p align=right>(<a href=#updated-on-20250206>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250207>back to top</a>)</p>
 
 ## llm reasoning
 
@@ -5802,7 +5802,7 @@
 |**2024-10-16**|**Not All Votes Count! Programs as Verifiers Improve Self-Consistency of Language Models for Math Reasoning**|Vernon Y. H. Toh et.al.|[2410.12608](http://arxiv.org/abs/2410.12608)|**[link](https://github.com/declare-lab/prove)**|
 |**2024-10-16**|**CCSBench: Evaluating Compositional Controllability in LLMs for Scientific Document Summarization**|Yixi Ding et.al.|[2410.12601](http://arxiv.org/abs/2410.12601)|null|
 
-<p align=right>(<a href=#updated-on-20250206>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250207>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
