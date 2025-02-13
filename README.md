@@ -20,6 +20,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-12**|**Examining Multilingual Embedding Models Cross-Lingually Through LLM-Generated Adversarial Examples**|Andrianos Michail et.al.|[2502.08638](http://arxiv.org/abs/2502.08638)|null|
+|**2025-02-12**|**Ensemble based approach to quantifying uncertainty of LLM based classifications**|Srijith Rajamohan et.al.|[2502.08631](http://arxiv.org/abs/2502.08631)|null|
+|**2025-02-12**|**Commercial LLM Agents Are Already Vulnerable to Simple Yet Dangerous Attacks**|Ang Li et.al.|[2502.08586](http://arxiv.org/abs/2502.08586)|null|
+|**2025-02-12**|**QA-Expand: Multi-Question Answer Generation for Enhanced Query Expansion in Information Retrieval**|Wonduk Seo et.al.|[2502.08557](http://arxiv.org/abs/2502.08557)|null|
+|**2025-02-12**|**Fostering Appropriate Reliance on Large Language Models: The Role of Explanations, Sources, and Inconsistencies**|Sunnie S. Y. Kim et.al.|[2502.08554](http://arxiv.org/abs/2502.08554)|null|
+|**2025-02-12**|**LLMs can implicitly learn from mistakes in-context**|Lisa Alazraki et.al.|[2502.08550](http://arxiv.org/abs/2502.08550)|null|
+|**2025-02-12**|**LLM Pretraining with Continuous Concepts**|Jihoon Tack et.al.|[2502.08524](http://arxiv.org/abs/2502.08524)|null|
+|**2025-02-12**|**The Paradox of Stochasticity: Limited Creativity and Computational Decoupling in Temperature-Varied LLM Outputs of Structured Fictional Data**|Evgenii Evstafev et.al.|[2502.08515](http://arxiv.org/abs/2502.08515)|null|
+|**2025-02-12**|**Faithful, Unfaithful or Ambiguous? Multi-Agent Debate with Initial Stance for Summary Evaluation**|Mahnaz Koupaee et.al.|[2502.08514](http://arxiv.org/abs/2502.08514)|null|
+|**2025-02-12**|**Measuring Diversity in Synthetic Datasets**|Yuchang Zhu et.al.|[2502.08512](http://arxiv.org/abs/2502.08512)|null|
+|**2025-02-12**|**Explanation based In-Context Demonstrations Retrieval for Multilingual Grammatical Error Correction**|Wei Li et.al.|[2502.08507](http://arxiv.org/abs/2502.08507)|null|
+|**2025-02-12**|**Salamandra Technical Report**|Aitor Gonzalez-Agirre et.al.|[2502.08489](http://arxiv.org/abs/2502.08489)|null|
+|**2025-02-12**|**mmE5: Improving Multimodal Multilingual Embeddings via High-quality Synthetic Data**|Haonan Chen et.al.|[2502.08468](http://arxiv.org/abs/2502.08468)|null|
+|**2025-02-12**|**From Haystack to Needle: Label Space Reduction for Zero-shot Classification**|Nathan Vandemoortele et.al.|[2502.08436](http://arxiv.org/abs/2502.08436)|null|
+|**2025-02-12**|**IssueBench: Millions of Realistic Prompts for Measuring Issue Bias in LLM Writing Assistance**|Paul Röttger et.al.|[2502.08395](http://arxiv.org/abs/2502.08395)|null|
+|**2025-02-12**|**ViLa-MIL: Dual-scale Vision-Language Multiple Instance Learning for Whole Slide Image Classification**|Jiangbo Shi et.al.|[2502.08391](http://arxiv.org/abs/2502.08391)|null|
+|**2025-02-12**|**Top-Theta Attention: Sparsifying Transformers by Compensated Thresholding**|Konstantin Berestizshevsky et.al.|[2502.08363](http://arxiv.org/abs/2502.08363)|**[link](https://github.com/kostyanoob/top-theta-attention)**|
+|**2025-02-12**|**Systematic Knowledge Injection into Large Language Models via Diverse Augmentation for Domain-Specific RAG**|Kushagra Bhushan et.al.|[2502.08356](http://arxiv.org/abs/2502.08356)|null|
+|**2025-02-12**|**Trustworthy GNNs with LLMs: A Systematic Review and Taxonomy**|Ruizhan Xue et.al.|[2502.08353](http://arxiv.org/abs/2502.08353)|null|
+|**2025-02-12**|**Graph Foundation Models for Recommendation: A Comprehensive Survey**|Bin Wu et.al.|[2502.08346](http://arxiv.org/abs/2502.08346)|null|
 |**2025-02-11**|**DarwinLM: Evolutionary Structured Pruning of Large Language Models**|Shengkun Tang et.al.|[2502.07780](http://arxiv.org/abs/2502.07780)|null|
 |**2025-02-11**|**Auditing Prompt Caching in Language Model APIs**|Chenchen Gu et.al.|[2502.07776](http://arxiv.org/abs/2502.07776)|null|
 |**2025-02-11**|**Automatic Robot Task Planning by Integrating Large Language Model with Genetic Programming**|Azizjon Kobilov et.al.|[2502.07772](http://arxiv.org/abs/2502.07772)|null|
@@ -1547,6 +1567,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-12**|**Poly-Autoregressive Prediction for Modeling Interactions**|Neerja Thakkar et.al.|[2502.08646](http://arxiv.org/abs/2502.08646)|null|
+|**2025-02-12**|**Utility Engineering: Analyzing and Controlling Emergent Value Systems in AIs**|Mantas Mazeika et.al.|[2502.08640](http://arxiv.org/abs/2502.08640)|null|
+|**2025-02-12**|**Examining Multilingual Embedding Models Cross-Lingually Through LLM-Generated Adversarial Examples**|Andrianos Michail et.al.|[2502.08638](http://arxiv.org/abs/2502.08638)|null|
+|**2025-02-12**|**Ensemble based approach to quantifying uncertainty of LLM based classifications**|Srijith Rajamohan et.al.|[2502.08631](http://arxiv.org/abs/2502.08631)|null|
+|**2025-02-12**|**SPeCtrum: A Grounded Framework for Multidimensional Identity Representation in LLM-Based Agent**|Keyeun Lee et.al.|[2502.08599](http://arxiv.org/abs/2502.08599)|null|
+|**2025-02-12**|**Learning in Markets with Heterogeneous Agents: Dynamics and Survival of Bayesian vs. No-Regret Learners**|David Easley et.al.|[2502.08597](http://arxiv.org/abs/2502.08597)|null|
+|**2025-02-12**|**Commercial LLM Agents Are Already Vulnerable to Simple Yet Dangerous Attacks**|Ang Li et.al.|[2502.08586](http://arxiv.org/abs/2502.08586)|null|
+|**2025-02-12**|**Statistically validated projection of bipartite signed networks**|Anna Gallo et.al.|[2502.08567](http://arxiv.org/abs/2502.08567)|null|
+|**2025-02-12**|**QA-Expand: Multi-Question Answer Generation for Enhanced Query Expansion in Information Retrieval**|Wonduk Seo et.al.|[2502.08557](http://arxiv.org/abs/2502.08557)|null|
+|**2025-02-12**|**Human-Centric Foundation Models: Perception, Generation and Agentic Modeling**|Shixiang Tang et.al.|[2502.08556](http://arxiv.org/abs/2502.08556)|null|
+|**2025-02-12**|**Fostering Appropriate Reliance on Large Language Models: The Role of Explanations, Sources, and Inconsistencies**|Sunnie S. Y. Kim et.al.|[2502.08554](http://arxiv.org/abs/2502.08554)|null|
+|**2025-02-12**|**Extreme vulnerability to intruder attacks destabilizes network dynamics**|Amirhossein Nazerian et.al.|[2502.08552](http://arxiv.org/abs/2502.08552)|null|
+|**2025-02-12**|**LLMs can implicitly learn from mistakes in-context**|Lisa Alazraki et.al.|[2502.08550](http://arxiv.org/abs/2502.08550)|null|
+|**2025-02-12**|**LLM Pretraining with Continuous Concepts**|Jihoon Tack et.al.|[2502.08524](http://arxiv.org/abs/2502.08524)|null|
+|**2025-02-12**|**The Paradox of Stochasticity: Limited Creativity and Computational Decoupling in Temperature-Varied LLM Outputs of Structured Fictional Data**|Evgenii Evstafev et.al.|[2502.08515](http://arxiv.org/abs/2502.08515)|null|
+|**2025-02-12**|**Faithful, Unfaithful or Ambiguous? Multi-Agent Debate with Initial Stance for Summary Evaluation**|Mahnaz Koupaee et.al.|[2502.08514](http://arxiv.org/abs/2502.08514)|null|
+|**2025-02-12**|**Measuring Diversity in Synthetic Datasets**|Yuchang Zhu et.al.|[2502.08512](http://arxiv.org/abs/2502.08512)|null|
+|**2025-02-12**|**Explanation based In-Context Demonstrations Retrieval for Multilingual Grammatical Error Correction**|Wei Li et.al.|[2502.08507](http://arxiv.org/abs/2502.08507)|null|
+|**2025-02-12**|**Salamandra Technical Report**|Aitor Gonzalez-Agirre et.al.|[2502.08489](http://arxiv.org/abs/2502.08489)|null|
+|**2025-02-12**|**mmE5: Improving Multimodal Multilingual Embeddings via High-quality Synthetic Data**|Haonan Chen et.al.|[2502.08468](http://arxiv.org/abs/2502.08468)|null|
 |**2025-02-11**|**DarwinLM: Evolutionary Structured Pruning of Large Language Models**|Shengkun Tang et.al.|[2502.07780](http://arxiv.org/abs/2502.07780)|null|
 |**2025-02-11**|**Auditing Prompt Caching in Language Model APIs**|Chenchen Gu et.al.|[2502.07776](http://arxiv.org/abs/2502.07776)|null|
 |**2025-02-11**|**Automatic Robot Task Planning by Integrating Large Language Model with Genetic Programming**|Azizjon Kobilov et.al.|[2502.07772](http://arxiv.org/abs/2502.07772)|null|
@@ -3074,6 +3114,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-12**|**Re $^3$ Sim: Generating High-Fidelity Simulation Data via 3D-Photorealistic Real-to-Sim for Robotic Manipulation**|Xiaoshen Han et.al.|[2502.08645](http://arxiv.org/abs/2502.08645)|null|
+|**2025-02-12**|**A Real-to-Sim-to-Real Approach to Robotic Manipulation with VLM-Generated Iterative Keypoint Rewards**|Shivansh Patel et.al.|[2502.08643](http://arxiv.org/abs/2502.08643)|null|
+|**2025-02-12**|**Examining Multilingual Embedding Models Cross-Lingually Through LLM-Generated Adversarial Examples**|Andrianos Michail et.al.|[2502.08638](http://arxiv.org/abs/2502.08638)|null|
+|**2025-02-12**|**Joint Transmit and Pinching Beamforming for PASS: Optimization-Based or Learning-Based?**|Xiaoxia Xu et.al.|[2502.08637](http://arxiv.org/abs/2502.08637)|null|
+|**2025-02-12**|**Ensemble based approach to quantifying uncertainty of LLM based classifications**|Srijith Rajamohan et.al.|[2502.08631](http://arxiv.org/abs/2502.08631)|null|
+|**2025-02-12**|**Robot Data Curation with Mutual Information Estimators**|Joey Hejna et.al.|[2502.08623](http://arxiv.org/abs/2502.08623)|null|
+|**2025-02-12**|**SPeCtrum: A Grounded Framework for Multidimensional Identity Representation in LLM-Based Agent**|Keyeun Lee et.al.|[2502.08599](http://arxiv.org/abs/2502.08599)|null|
+|**2025-02-12**|**Adiabatic quantum unstructured search in parallel**|Sean A. Adamson et.al.|[2502.08594](http://arxiv.org/abs/2502.08594)|null|
+|**2025-02-12**|**Commercial LLM Agents Are Already Vulnerable to Simple Yet Dangerous Attacks**|Ang Li et.al.|[2502.08586](http://arxiv.org/abs/2502.08586)|null|
+|**2025-02-12**|**Recovering the structure of debris disks non-parametrically from images**|Yinuo Han et.al.|[2502.08584](http://arxiv.org/abs/2502.08584)|null|
+|**2025-02-12**|**Ultrasound Image Generation using Latent Diffusion Models**|Benoit Freiche et.al.|[2502.08580](http://arxiv.org/abs/2502.08580)|null|
+|**2025-02-12**|**Likelihood-based Nonparametric Receiver Operating Characteristic Curve Analysis in the Presence of Imperfect Reference Standard**|Yifan Sun et.al.|[2502.08569](http://arxiv.org/abs/2502.08569)|null|
+|**2025-02-12**|**Increasing competitiveness by imbalanced groups: The example of the 48-team FIFA World Cup**|László Csató et.al.|[2502.08565](http://arxiv.org/abs/2502.08565)|null|
+|**2025-02-12**|**From random walks to epidemic spreading: Compartment model with mortality for vector transmitted diseases**|Téo Granger et.al.|[2502.08558](http://arxiv.org/abs/2502.08558)|null|
+|**2025-02-12**|**QA-Expand: Multi-Question Answer Generation for Enhanced Query Expansion in Information Retrieval**|Wonduk Seo et.al.|[2502.08557](http://arxiv.org/abs/2502.08557)|null|
+|**2025-02-12**|**Fostering Appropriate Reliance on Large Language Models: The Role of Explanations, Sources, and Inconsistencies**|Sunnie S. Y. Kim et.al.|[2502.08554](http://arxiv.org/abs/2502.08554)|null|
+|**2025-02-12**|**Comprehensive Review of Analytical and Numerical Approaches in Earth-to-Air Heat Exchangers and Exergoeconomic Evaluations**|Saeed Asadi et.al.|[2502.08553](http://arxiv.org/abs/2502.08553)|null|
+|**2025-02-12**|**LLMs can implicitly learn from mistakes in-context**|Lisa Alazraki et.al.|[2502.08550](http://arxiv.org/abs/2502.08550)|null|
+|**2025-02-12**|**Interacting Particle Systems Modeling Self-Propelled Motions**|Saori Morimoto et.al.|[2502.08543](http://arxiv.org/abs/2502.08543)|null|
+|**2025-02-12**|**Improved Calculation of Acoustic Deformation Potentials from First Principles**|Patrick Williams et.al.|[2502.08538](http://arxiv.org/abs/2502.08538)|null|
 |**2025-02-11**|**DarwinLM: Evolutionary Structured Pruning of Large Language Models**|Shengkun Tang et.al.|[2502.07780](http://arxiv.org/abs/2502.07780)|null|
 |**2025-02-11**|**Feasibility study of multiplexing analog signals from SiPMs for a single layer monolithic PET detector design**|Shiv K. Subedi et.al.|[2502.07777](http://arxiv.org/abs/2502.07777)|null|
 |**2025-02-11**|**Auditing Prompt Caching in Language Model APIs**|Chenchen Gu et.al.|[2502.07776](http://arxiv.org/abs/2502.07776)|null|
@@ -4601,6 +4661,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-12**|**Poly-Autoregressive Prediction for Modeling Interactions**|Neerja Thakkar et.al.|[2502.08646](http://arxiv.org/abs/2502.08646)|null|
+|**2025-02-12**|**Examining Multilingual Embedding Models Cross-Lingually Through LLM-Generated Adversarial Examples**|Andrianos Michail et.al.|[2502.08638](http://arxiv.org/abs/2502.08638)|null|
+|**2025-02-12**|**PulseCheck457: A Diagnostic Benchmark for Comprehensive Spatial Reasoning of Large Multimodal Models**|Xingrui Wang et.al.|[2502.08636](http://arxiv.org/abs/2502.08636)|null|
+|**2025-02-12**|**Ensemble based approach to quantifying uncertainty of LLM based classifications**|Srijith Rajamohan et.al.|[2502.08631](http://arxiv.org/abs/2502.08631)|null|
+|**2025-02-12**|**Causal Analysis of ASR Errors for Children: Quantifying the Impact of Physiological, Cognitive, and Extrinsic Factors**|Vishwanath Pratap Singh et.al.|[2502.08587](http://arxiv.org/abs/2502.08587)|null|
+|**2025-02-12**|**Commercial LLM Agents Are Already Vulnerable to Simple Yet Dangerous Attacks**|Ang Li et.al.|[2502.08586](http://arxiv.org/abs/2502.08586)|null|
+|**2025-02-12**|**The Role of Conceptual Problem Solving in Learning Physics: A Study in a General Relativity University Course**|Matteo Tuveri et.al.|[2502.08564](http://arxiv.org/abs/2502.08564)|null|
+|**2025-02-12**|**QA-Expand: Multi-Question Answer Generation for Enhanced Query Expansion in Information Retrieval**|Wonduk Seo et.al.|[2502.08557](http://arxiv.org/abs/2502.08557)|null|
+|**2025-02-12**|**Fostering Appropriate Reliance on Large Language Models: The Role of Explanations, Sources, and Inconsistencies**|Sunnie S. Y. Kim et.al.|[2502.08554](http://arxiv.org/abs/2502.08554)|null|
+|**2025-02-12**|**LLMs can implicitly learn from mistakes in-context**|Lisa Alazraki et.al.|[2502.08550](http://arxiv.org/abs/2502.08550)|null|
+|**2025-02-12**|**Anytime-valid FDR control with the stopped e-BH procedure**|Hongjian Wang et.al.|[2502.08539](http://arxiv.org/abs/2502.08539)|null|
+|**2025-02-12**|**LLM Pretraining with Continuous Concepts**|Jihoon Tack et.al.|[2502.08524](http://arxiv.org/abs/2502.08524)|null|
+|**2025-02-12**|**The Paradox of Stochasticity: Limited Creativity and Computational Decoupling in Temperature-Varied LLM Outputs of Structured Fictional Data**|Evgenii Evstafev et.al.|[2502.08515](http://arxiv.org/abs/2502.08515)|null|
+|**2025-02-12**|**Faithful, Unfaithful or Ambiguous? Multi-Agent Debate with Initial Stance for Summary Evaluation**|Mahnaz Koupaee et.al.|[2502.08514](http://arxiv.org/abs/2502.08514)|null|
+|**2025-02-12**|**Measuring Diversity in Synthetic Datasets**|Yuchang Zhu et.al.|[2502.08512](http://arxiv.org/abs/2502.08512)|null|
+|**2025-02-12**|**Explanation based In-Context Demonstrations Retrieval for Multilingual Grammatical Error Correction**|Wei Li et.al.|[2502.08507](http://arxiv.org/abs/2502.08507)|null|
+|**2025-02-12**|**Foundations of Digital Circuits: Denotation, Operational, and Algebraic Semantics**|George Kaye et.al.|[2502.08497](http://arxiv.org/abs/2502.08497)|null|
+|**2025-02-12**|**Salamandra Technical Report**|Aitor Gonzalez-Agirre et.al.|[2502.08489](http://arxiv.org/abs/2502.08489)|null|
+|**2025-02-12**|**Enhancing Auto-regressive Chain-of-Thought through Loop-Aligned Reasoning**|Qifan Yu et.al.|[2502.08482](http://arxiv.org/abs/2502.08482)|null|
+|**2025-02-12**|**mmE5: Improving Multimodal Multilingual Embeddings via High-quality Synthetic Data**|Haonan Chen et.al.|[2502.08468](http://arxiv.org/abs/2502.08468)|null|
 |**2025-02-11**|**DarwinLM: Evolutionary Structured Pruning of Large Language Models**|Shengkun Tang et.al.|[2502.07780](http://arxiv.org/abs/2502.07780)|null|
 |**2025-02-11**|**Auditing Prompt Caching in Language Model APIs**|Chenchen Gu et.al.|[2502.07776](http://arxiv.org/abs/2502.07776)|null|
 |**2025-02-11**|**Automatic Robot Task Planning by Integrating Large Language Model with Genetic Programming**|Azizjon Kobilov et.al.|[2502.07772](http://arxiv.org/abs/2502.07772)|null|
