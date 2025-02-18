@@ -14,6 +14,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-17**|**Idiosyncrasies in Large Language Models**|Mingjie Sun et.al.|[2502.12150](http://arxiv.org/abs/2502.12150)|null|
+|**2025-02-17**|**HermesFlow: Seamlessly Closing the Gap in Multimodal Understanding and Generation**|Ling Yang et.al.|[2502.12148](http://arxiv.org/abs/2502.12148)|null|
+|**2025-02-17**|**Fast or Better? Balancing Accuracy and Cost in Retrieval-Augmented Generation with Flexible User Control**|Jinyan Su et.al.|[2502.12145](http://arxiv.org/abs/2502.12145)|null|
+|**2025-02-17**|**Small Models Struggle to Learn from Strong Reasoners**|Yuetai Li et.al.|[2502.12143](http://arxiv.org/abs/2502.12143)|null|
+|**2025-02-17**|**SoftCoT: Soft Chain-of-Thought for Efficient Reasoning with LLMs**|Yige Xu et.al.|[2502.12134](http://arxiv.org/abs/2502.12134)|null|
+|**2025-02-17**|**Transformer Dynamics: A neuroscientific approach to interpretability of large language models**|Jesseba Fernando et.al.|[2502.12131](http://arxiv.org/abs/2502.12131)|null|
+|**2025-02-17**|**Scaling Autonomous Agents via Automatic Reward Modeling And Planning**|Zhenfang Chen et.al.|[2502.12130](http://arxiv.org/abs/2502.12130)|null|
+|**2025-02-17**|**Minimal Ranks, Maximum Confidence: Parameter-efficient Uncertainty Quantification for LoRA**|Patryk Marszałek et.al.|[2502.12122](http://arxiv.org/abs/2502.12122)|null|
+|**2025-02-17**|**LLMs on the Line: Data Determines Loss-to-Loss Scaling Laws**|Prasanna Mayilvahanan et.al.|[2502.12120](http://arxiv.org/abs/2502.12120)|null|
+|**2025-02-17**|**PRISM: Self-Pruning Intrinsic Selection Method for Training-Free Multimodal Data Selection**|Jinhe Bi et.al.|[2502.12119](http://arxiv.org/abs/2502.12119)|null|
+|**2025-02-17**|**A-MEM: Agentic Memory for LLM Agents**|Wujiang Xu et.al.|[2502.12110](http://arxiv.org/abs/2502.12110)|null|
+|**2025-02-17**|**Personality Structured Interview for Large Language Model Simulation in Personality Research**|Pengda Wang et.al.|[2502.12109](http://arxiv.org/abs/2502.12109)|null|
+|**2025-02-17**|**Relational Norms for Human-AI Cooperation**|Brian D. Earp et.al.|[2502.12102](http://arxiv.org/abs/2502.12102)|null|
+|**2025-02-17**|**Token Communications: A Unified Framework for Cross-modal Context-aware Semantic Communications**|Li Qiao et.al.|[2502.12096](http://arxiv.org/abs/2502.12096)|null|
+|**2025-02-17**|**Meta-Statistical Learning: Supervised Learning of Statistical Inference**|Maxime Peyrard et.al.|[2502.12088](http://arxiv.org/abs/2502.12088)|null|
+|**2025-02-17**|**APB: Accelerating Distributed Long-Context Inference by Passing Compressed Context Blocks across GPUs**|Yuxiang Huang et.al.|[2502.12085](http://arxiv.org/abs/2502.12085)|null|
+|**2025-02-17**|**Can LLMs Simulate Social Media Engagement? A Study on Action-Guided Response Generation**|Zhongyi Qiu et.al.|[2502.12073](http://arxiv.org/abs/2502.12073)|null|
+|**2025-02-17**|**TokenSkip: Controllable Chain-of-Thought Compression in LLMs**|Heming Xia et.al.|[2502.12067](http://arxiv.org/abs/2502.12067)|null|
+|**2025-02-17**|**CONSTRUCTA: Automating Commercial Construction Schedules in Fabrication Facilities with Large Language Models**|Yifan Zhang et.al.|[2502.12066](http://arxiv.org/abs/2502.12066)|null|
+|**2025-02-17**|**AI-generated Text Detection with a GLTR-based Approach**|Lucía Yan Wu et.al.|[2502.12064](http://arxiv.org/abs/2502.12064)|null|
 |**2025-02-14**|**MM-RLHF: The Next Step Forward in Multimodal LLM Alignment**|Yi-Fan Zhang et.al.|[2502.10391](http://arxiv.org/abs/2502.10391)|null|
 |**2025-02-14**|**Aspect-Oriented Summarization for Psychiatric Short-Term Readmission Prediction**|WonJin Yoon et.al.|[2502.10388](http://arxiv.org/abs/2502.10388)|null|
 |**2025-02-14**|**Enhancing Multilingual LLM Pretraining with Model-Based Data Selection**|Bettina Messmer et.al.|[2502.10361](http://arxiv.org/abs/2502.10361)|null|
@@ -1599,6 +1619,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-17**|**Idiosyncrasies in Large Language Models**|Mingjie Sun et.al.|[2502.12150](http://arxiv.org/abs/2502.12150)|null|
+|**2025-02-17**|**HARBOR: Exploring Persona Dynamics in Multi-Agent Competition**|Kenan Jiang et.al.|[2502.12149](http://arxiv.org/abs/2502.12149)|null|
+|**2025-02-17**|**HermesFlow: Seamlessly Closing the Gap in Multimodal Understanding and Generation**|Ling Yang et.al.|[2502.12148](http://arxiv.org/abs/2502.12148)|null|
+|**2025-02-17**|**Fast or Better? Balancing Accuracy and Cost in Retrieval-Augmented Generation with Flexible User Control**|Jinyan Su et.al.|[2502.12145](http://arxiv.org/abs/2502.12145)|null|
+|**2025-02-17**|**Small Models Struggle to Learn from Strong Reasoners**|Yuetai Li et.al.|[2502.12143](http://arxiv.org/abs/2502.12143)|null|
+|**2025-02-17**|**SoftCoT: Soft Chain-of-Thought for Efficient Reasoning with LLMs**|Yige Xu et.al.|[2502.12134](http://arxiv.org/abs/2502.12134)|null|
+|**2025-02-17**|**Transformer Dynamics: A neuroscientific approach to interpretability of large language models**|Jesseba Fernando et.al.|[2502.12131](http://arxiv.org/abs/2502.12131)|null|
+|**2025-02-17**|**Scaling Autonomous Agents via Automatic Reward Modeling And Planning**|Zhenfang Chen et.al.|[2502.12130](http://arxiv.org/abs/2502.12130)|null|
+|**2025-02-17**|**Minimal Ranks, Maximum Confidence: Parameter-efficient Uncertainty Quantification for LoRA**|Patryk Marszałek et.al.|[2502.12122](http://arxiv.org/abs/2502.12122)|null|
+|**2025-02-17**|**LLMs on the Line: Data Determines Loss-to-Loss Scaling Laws**|Prasanna Mayilvahanan et.al.|[2502.12120](http://arxiv.org/abs/2502.12120)|null|
+|**2025-02-17**|**PRISM: Self-Pruning Intrinsic Selection Method for Training-Free Multimodal Data Selection**|Jinhe Bi et.al.|[2502.12119](http://arxiv.org/abs/2502.12119)|null|
+|**2025-02-17**|**A-MEM: Agentic Memory for LLM Agents**|Wujiang Xu et.al.|[2502.12110](http://arxiv.org/abs/2502.12110)|null|
+|**2025-02-17**|**Personality Structured Interview for Large Language Model Simulation in Personality Research**|Pengda Wang et.al.|[2502.12109](http://arxiv.org/abs/2502.12109)|null|
+|**2025-02-17**|**Relational Norms for Human-AI Cooperation**|Brian D. Earp et.al.|[2502.12102](http://arxiv.org/abs/2502.12102)|null|
+|**2025-02-17**|**Token Communications: A Unified Framework for Cross-modal Context-aware Semantic Communications**|Li Qiao et.al.|[2502.12096](http://arxiv.org/abs/2502.12096)|null|
+|**2025-02-17**|**A Study on Leveraging Search and Self-Feedback for Agent Reasoning**|Karthikeyan K et.al.|[2502.12094](http://arxiv.org/abs/2502.12094)|null|
+|**2025-02-17**|**Meta-Statistical Learning: Supervised Learning of Statistical Inference**|Maxime Peyrard et.al.|[2502.12088](http://arxiv.org/abs/2502.12088)|null|
+|**2025-02-17**|**APB: Accelerating Distributed Long-Context Inference by Passing Compressed Context Blocks across GPUs**|Yuxiang Huang et.al.|[2502.12085](http://arxiv.org/abs/2502.12085)|null|
+|**2025-02-17**|**Can LLMs Simulate Social Media Engagement? A Study on Action-Guided Response Generation**|Zhongyi Qiu et.al.|[2502.12073](http://arxiv.org/abs/2502.12073)|null|
+|**2025-02-17**|**TokenSkip: Controllable Chain-of-Thought Compression in LLMs**|Heming Xia et.al.|[2502.12067](http://arxiv.org/abs/2502.12067)|null|
 |**2025-02-14**|**MM-RLHF: The Next Step Forward in Multimodal LLM Alignment**|Yi-Fan Zhang et.al.|[2502.10391](http://arxiv.org/abs/2502.10391)|null|
 |**2025-02-14**|**Aspect-Oriented Summarization for Psychiatric Short-Term Readmission Prediction**|WonJin Yoon et.al.|[2502.10388](http://arxiv.org/abs/2502.10388)|null|
 |**2025-02-14**|**Representation and Interpretation in Artificial and Natural Computing**|Luis A. Pineda et.al.|[2502.10383](http://arxiv.org/abs/2502.10383)|null|
@@ -3184,6 +3224,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-17**|**Observation of a zero-energy excitation mode in the open Dicke model**|Anton Bolian et.al.|[2502.12155](http://arxiv.org/abs/2502.12155)|null|
+|**2025-02-17**|**Idiosyncrasies in Large Language Models**|Mingjie Sun et.al.|[2502.12150](http://arxiv.org/abs/2502.12150)|null|
+|**2025-02-17**|**HermesFlow: Seamlessly Closing the Gap in Multimodal Understanding and Generation**|Ling Yang et.al.|[2502.12148](http://arxiv.org/abs/2502.12148)|null|
+|**2025-02-17**|**Learning Smooth and Expressive Interatomic Potentials for Physical Property Prediction**|Xiang Fu et.al.|[2502.12147](http://arxiv.org/abs/2502.12147)|null|
+|**2025-02-17**|**Fast or Better? Balancing Accuracy and Cost in Retrieval-Augmented Generation with Flexible User Control**|Jinyan Su et.al.|[2502.12145](http://arxiv.org/abs/2502.12145)|null|
+|**2025-02-17**|**Small Models Struggle to Learn from Strong Reasoners**|Yuetai Li et.al.|[2502.12143](http://arxiv.org/abs/2502.12143)|null|
+|**2025-02-17**|**SoftCoT: Soft Chain-of-Thought for Efficient Reasoning with LLMs**|Yige Xu et.al.|[2502.12134](http://arxiv.org/abs/2502.12134)|null|
+|**2025-02-17**|**Exact colour evolution for jet observables**|Jeffrey R. Forshaw et.al.|[2502.12133](http://arxiv.org/abs/2502.12133)|null|
+|**2025-02-17**|**Transformer Dynamics: A neuroscientific approach to interpretability of large language models**|Jesseba Fernando et.al.|[2502.12131](http://arxiv.org/abs/2502.12131)|null|
+|**2025-02-17**|**Scaling Autonomous Agents via Automatic Reward Modeling And Planning**|Zhenfang Chen et.al.|[2502.12130](http://arxiv.org/abs/2502.12130)|null|
+|**2025-02-17**|**Minimal Ranks, Maximum Confidence: Parameter-efficient Uncertainty Quantification for LoRA**|Patryk Marszałek et.al.|[2502.12122](http://arxiv.org/abs/2502.12122)|null|
+|**2025-02-17**|**LLMs on the Line: Data Determines Loss-to-Loss Scaling Laws**|Prasanna Mayilvahanan et.al.|[2502.12120](http://arxiv.org/abs/2502.12120)|null|
+|**2025-02-17**|**PRISM: Self-Pruning Intrinsic Selection Method for Training-Free Multimodal Data Selection**|Jinhe Bi et.al.|[2502.12119](http://arxiv.org/abs/2502.12119)|null|
+|**2025-02-17**|**Insights from leptohadronic modelling of the brightest blazar flare**|Egor Podlesnyi et.al.|[2502.12111](http://arxiv.org/abs/2502.12111)|null|
+|**2025-02-17**|**A-MEM: Agentic Memory for LLM Agents**|Wujiang Xu et.al.|[2502.12110](http://arxiv.org/abs/2502.12110)|null|
+|**2025-02-17**|**Personality Structured Interview for Large Language Model Simulation in Personality Research**|Pengda Wang et.al.|[2502.12109](http://arxiv.org/abs/2502.12109)|null|
+|**2025-02-17**|**Relational Norms for Human-AI Cooperation**|Brian D. Earp et.al.|[2502.12102](http://arxiv.org/abs/2502.12102)|null|
+|**2025-02-17**|**Bondi-like Accretion Flow Dynamics: The Role of Gravitational Potential**|Razieh Ranjbar et.al.|[2502.12101](http://arxiv.org/abs/2502.12101)|null|
+|**2025-02-17**|**3D Vortices and rotating solitons in ultralight dark matter**|Ph. Brax et.al.|[2502.12100](http://arxiv.org/abs/2502.12100)|null|
+|**2025-02-17**|**Bandwidth-Adaptive Spatiotemporal Correspondence Identification for Collaborative Perception**|Peng Gao et.al.|[2502.12098](http://arxiv.org/abs/2502.12098)|null|
 |**2025-02-14**|**MM-RLHF: The Next Step Forward in Multimodal LLM Alignment**|Yi-Fan Zhang et.al.|[2502.10391](http://arxiv.org/abs/2502.10391)|null|
 |**2025-02-14**|**Aspect-Oriented Summarization for Psychiatric Short-Term Readmission Prediction**|WonJin Yoon et.al.|[2502.10388](http://arxiv.org/abs/2502.10388)|null|
 |**2025-02-14**|**CISSIR: Beam Codebooks with Self-Interference Reduction Guarantees for Integrated Sensing and Communication Beyond 5G**|Rodrigo Hernangómez et.al.|[2502.10371](http://arxiv.org/abs/2502.10371)|**[link](https://github.com/rodrihgh/cissir)**|
@@ -4769,6 +4829,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-17**|**Idiosyncrasies in Large Language Models**|Mingjie Sun et.al.|[2502.12150](http://arxiv.org/abs/2502.12150)|null|
+|**2025-02-17**|**HermesFlow: Seamlessly Closing the Gap in Multimodal Understanding and Generation**|Ling Yang et.al.|[2502.12148](http://arxiv.org/abs/2502.12148)|null|
+|**2025-02-17**|**Fast or Better? Balancing Accuracy and Cost in Retrieval-Augmented Generation with Flexible User Control**|Jinyan Su et.al.|[2502.12145](http://arxiv.org/abs/2502.12145)|null|
+|**2025-02-17**|**Small Models Struggle to Learn from Strong Reasoners**|Yuetai Li et.al.|[2502.12143](http://arxiv.org/abs/2502.12143)|null|
+|**2025-02-17**|**SoftCoT: Soft Chain-of-Thought for Efficient Reasoning with LLMs**|Yige Xu et.al.|[2502.12134](http://arxiv.org/abs/2502.12134)|null|
+|**2025-02-17**|**Transformer Dynamics: A neuroscientific approach to interpretability of large language models**|Jesseba Fernando et.al.|[2502.12131](http://arxiv.org/abs/2502.12131)|null|
+|**2025-02-17**|**Scaling Autonomous Agents via Automatic Reward Modeling And Planning**|Zhenfang Chen et.al.|[2502.12130](http://arxiv.org/abs/2502.12130)|null|
+|**2025-02-17**|**On the Query Complexity of Verifier-Assisted Language Generation**|Edoardo Botta et.al.|[2502.12123](http://arxiv.org/abs/2502.12123)|null|
+|**2025-02-17**|**Minimal Ranks, Maximum Confidence: Parameter-efficient Uncertainty Quantification for LoRA**|Patryk Marszałek et.al.|[2502.12122](http://arxiv.org/abs/2502.12122)|null|
+|**2025-02-17**|**LLMs on the Line: Data Determines Loss-to-Loss Scaling Laws**|Prasanna Mayilvahanan et.al.|[2502.12120](http://arxiv.org/abs/2502.12120)|null|
+|**2025-02-17**|**PRISM: Self-Pruning Intrinsic Selection Method for Training-Free Multimodal Data Selection**|Jinhe Bi et.al.|[2502.12119](http://arxiv.org/abs/2502.12119)|null|
+|**2025-02-17**|**Scaling Test-Time Compute Without Verification or RL is Suboptimal**|Amrith Setlur et.al.|[2502.12118](http://arxiv.org/abs/2502.12118)|null|
+|**2025-02-17**|**A-MEM: Agentic Memory for LLM Agents**|Wujiang Xu et.al.|[2502.12110](http://arxiv.org/abs/2502.12110)|null|
+|**2025-02-17**|**Personality Structured Interview for Large Language Model Simulation in Personality Research**|Pengda Wang et.al.|[2502.12109](http://arxiv.org/abs/2502.12109)|null|
+|**2025-02-17**|**Relational Norms for Human-AI Cooperation**|Brian D. Earp et.al.|[2502.12102](http://arxiv.org/abs/2502.12102)|null|
+|**2025-02-17**|**Token Communications: A Unified Framework for Cross-modal Context-aware Semantic Communications**|Li Qiao et.al.|[2502.12096](http://arxiv.org/abs/2502.12096)|null|
+|**2025-02-17**|**A Study on Leveraging Search and Self-Feedback for Agent Reasoning**|Karthikeyan K et.al.|[2502.12094](http://arxiv.org/abs/2502.12094)|null|
+|**2025-02-17**|**Meta-Statistical Learning: Supervised Learning of Statistical Inference**|Maxime Peyrard et.al.|[2502.12088](http://arxiv.org/abs/2502.12088)|null|
+|**2025-02-17**|**APB: Accelerating Distributed Long-Context Inference by Passing Compressed Context Blocks across GPUs**|Yuxiang Huang et.al.|[2502.12085](http://arxiv.org/abs/2502.12085)|null|
+|**2025-02-17**|**VLM $^2$ -Bench: A Closer Look at How Well VLMs Implicitly Link Explicit Matching Visual Cues**|Jianshu Zhang et.al.|[2502.12084](http://arxiv.org/abs/2502.12084)|null|
 |**2025-02-14**|**MM-RLHF: The Next Step Forward in Multimodal LLM Alignment**|Yi-Fan Zhang et.al.|[2502.10391](http://arxiv.org/abs/2502.10391)|null|
 |**2025-02-14**|**Aspect-Oriented Summarization for Psychiatric Short-Term Readmission Prediction**|WonJin Yoon et.al.|[2502.10388](http://arxiv.org/abs/2502.10388)|null|
 |**2025-02-14**|**Enhancing Multilingual LLM Pretraining with Model-Based Data Selection**|Bettina Messmer et.al.|[2502.10361](http://arxiv.org/abs/2502.10361)|null|
