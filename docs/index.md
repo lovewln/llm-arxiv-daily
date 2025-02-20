@@ -14,6 +14,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-19**|**Where's the Bug? Attention Probing for Scalable Fault Localization**|Adam Stein et.al.|[2502.13966](http://arxiv.org/abs/2502.13966)|null|
+|**2025-02-19**|**Autellix: An Efficient Serving Engine for LLM Agents as General Programs**|Michael Luo et.al.|[2502.13965](http://arxiv.org/abs/2502.13965)|null|
+|**2025-02-19**|**MuDAF: Long-Context Multi-Document Attention Focusing through Contrastive Learning on Attention Heads**|Weihao Liu et.al.|[2502.13963](http://arxiv.org/abs/2502.13963)|null|
+|**2025-02-19**|**Is That Your Final Answer? Test-Time Scaling Improves Selective Question Answering**|William Jurayj et.al.|[2502.13962](http://arxiv.org/abs/2502.13962)|null|
+|**2025-02-19**|**LIDDIA: Language-based Intelligent Drug Discovery Agent**|Reza Averly et.al.|[2502.13959](http://arxiv.org/abs/2502.13959)|null|
+|**2025-02-19**|**Neurosymbolic artificial intelligence via large language models and coherence-driven inference**|Steve Huntsman et.al.|[2502.13953](http://arxiv.org/abs/2502.13953)|null|
+|**2025-02-19**|**Why Safeguarded Ships Run Aground? Aligned Large Language Models' Safety Mechanisms Tend to Be Anchored in The Template Region**|Chak Tou Leong et.al.|[2502.13946](http://arxiv.org/abs/2502.13946)|null|
+|**2025-02-19**|**LongPO: Long Context Self-Evolution of Large Language Models through Short-to-Long Preference Optimization**|Guanzheng Chen et.al.|[2502.13922](http://arxiv.org/abs/2502.13922)|**[link](https://github.com/DAMO-NLP-SG/LongPO)**|
+|**2025-02-19**|**Exploring Code Language Models for Automated HLS-based Hardware Generation: Benchmark, Infrastructure and Analysis**|Jiahao Gai et.al.|[2502.13921](http://arxiv.org/abs/2502.13921)|null|
+|**2025-02-19**|**Exploring Personalized Health Support through Data-Driven, Theory-Guided LLMs: A Case Study in Sleep Health**|Xingbo Wang et.al.|[2502.13920](http://arxiv.org/abs/2502.13920)|null|
+|**2025-02-19**|**How Do LLMs Perform Two-Hop Reasoning in Context?**|Tianyu Guo et.al.|[2502.13913](http://arxiv.org/abs/2502.13913)|null|
+|**2025-02-19**|**Lost in Sequence: Do Large Language Models Understand Sequential Recommendation?**|Sein Kim et.al.|[2502.13909](http://arxiv.org/abs/2502.13909)|null|
+|**2025-02-19**|**Judging the Judges: A Collection of LLM-Generated Relevance Judgements**|Hossein A. Rahmani et.al.|[2502.13908](http://arxiv.org/abs/2502.13908)|null|
+|**2025-02-19**|**DataSciBench: An LLM Agent Benchmark for Data Science**|Dan Zhang et.al.|[2502.13897](http://arxiv.org/abs/2502.13897)|null|
+|**2025-02-19**|**SPEX: Scaling Feature Interaction Explanations for LLMs**|Justin Singh Kang et.al.|[2502.13870](http://arxiv.org/abs/2502.13870)|null|
+|**2025-02-19**|**MagicGeo: Training-Free Text-Guided Geometric Diagram Generation**|Junxiao Wang et.al.|[2502.13855](http://arxiv.org/abs/2502.13855)|null|
+|**2025-02-19**|**Enhancing LLM-Based Recommendations Through Personalized Reasoning**|Jiahao Liu et.al.|[2502.13845](http://arxiv.org/abs/2502.13845)|null|
+|**2025-02-19**|**Enhancing Cross-Domain Recommendations with Memory-Optimized LLM-Based User Agents**|Jiahao Liu et.al.|[2502.13843](http://arxiv.org/abs/2502.13843)|null|
+|**2025-02-19**|**Inner Thinking Transformer: Leveraging Dynamic Depth Scaling to Foster Adaptive Internal Thinking**|Yilong Chen et.al.|[2502.13842](http://arxiv.org/abs/2502.13842)|null|
+|**2025-02-19**|**Quantifying Memorization and Retriever Performance in Retrieval-Augmented Vision-Language Models**|Peter Carragher et.al.|[2502.13836](http://arxiv.org/abs/2502.13836)|null|
 |**2025-02-18**|**Re-Align: Aligning Vision Language Models via Retrieval-Augmented Direct Preference Optimization**|Shuo Xing et.al.|[2502.13146](http://arxiv.org/abs/2502.13146)|null|
 |**2025-02-18**|**Multimodal Mamba: Decoder-only Multimodal State Space Model via Quadratic to Linear Distillation**|Bencheng Liao et.al.|[2502.13145](http://arxiv.org/abs/2502.13145)|null|
 |**2025-02-18**|**UniGuardian: A Unified Defense for Detecting Prompt Injection, Backdoor Attacks and Adversarial Attacks in Large Language Models**|Huawei Lin et.al.|[2502.13141](http://arxiv.org/abs/2502.13141)|null|
@@ -1639,6 +1659,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-19**|**Where's the Bug? Attention Probing for Scalable Fault Localization**|Adam Stein et.al.|[2502.13966](http://arxiv.org/abs/2502.13966)|null|
+|**2025-02-19**|**Autellix: An Efficient Serving Engine for LLM Agents as General Programs**|Michael Luo et.al.|[2502.13965](http://arxiv.org/abs/2502.13965)|null|
+|**2025-02-19**|**MuDAF: Long-Context Multi-Document Attention Focusing through Contrastive Learning on Attention Heads**|Weihao Liu et.al.|[2502.13963](http://arxiv.org/abs/2502.13963)|null|
+|**2025-02-19**|**Is That Your Final Answer? Test-Time Scaling Improves Selective Question Answering**|William Jurayj et.al.|[2502.13962](http://arxiv.org/abs/2502.13962)|null|
+|**2025-02-19**|**LIDDIA: Language-based Intelligent Drug Discovery Agent**|Reza Averly et.al.|[2502.13959](http://arxiv.org/abs/2502.13959)|null|
+|**2025-02-19**|**RAG-Gym: Optimizing Reasoning and Search Agents with Process Supervision**|Guangzhi Xiong et.al.|[2502.13957](http://arxiv.org/abs/2502.13957)|null|
+|**2025-02-19**|**Neurosymbolic artificial intelligence via large language models and coherence-driven inference**|Steve Huntsman et.al.|[2502.13953](http://arxiv.org/abs/2502.13953)|null|
+|**2025-02-19**|**Why Safeguarded Ships Run Aground? Aligned Large Language Models' Safety Mechanisms Tend to Be Anchored in The Template Region**|Chak Tou Leong et.al.|[2502.13946](http://arxiv.org/abs/2502.13946)|null|
+|**2025-02-19**|**Qwen2.5-VL Technical Report**|Shuai Bai et.al.|[2502.13923](http://arxiv.org/abs/2502.13923)|null|
+|**2025-02-19**|**LongPO: Long Context Self-Evolution of Large Language Models through Short-to-Long Preference Optimization**|Guanzheng Chen et.al.|[2502.13922](http://arxiv.org/abs/2502.13922)|**[link](https://github.com/DAMO-NLP-SG/LongPO)**|
+|**2025-02-19**|**Exploring Code Language Models for Automated HLS-based Hardware Generation: Benchmark, Infrastructure and Analysis**|Jiahao Gai et.al.|[2502.13921](http://arxiv.org/abs/2502.13921)|null|
+|**2025-02-19**|**Exploring Personalized Health Support through Data-Driven, Theory-Guided LLMs: A Case Study in Sleep Health**|Xingbo Wang et.al.|[2502.13920](http://arxiv.org/abs/2502.13920)|null|
+|**2025-02-19**|**How Do LLMs Perform Two-Hop Reasoning in Context?**|Tianyu Guo et.al.|[2502.13913](http://arxiv.org/abs/2502.13913)|null|
+|**2025-02-19**|**Lost in Sequence: Do Large Language Models Understand Sequential Recommendation?**|Sein Kim et.al.|[2502.13909](http://arxiv.org/abs/2502.13909)|null|
+|**2025-02-19**|**Judging the Judges: A Collection of LLM-Generated Relevance Judgements**|Hossein A. Rahmani et.al.|[2502.13908](http://arxiv.org/abs/2502.13908)|null|
+|**2025-02-19**|**DataSciBench: An LLM Agent Benchmark for Data Science**|Dan Zhang et.al.|[2502.13897](http://arxiv.org/abs/2502.13897)|null|
+|**2025-02-19**|**NavigateDiff: Visual Predictors are Zero-Shot Navigation Assistants**|Yiran Qin et.al.|[2502.13894](http://arxiv.org/abs/2502.13894)|null|
+|**2025-02-19**|**SPEX: Scaling Feature Interaction Explanations for LLMs**|Justin Singh Kang et.al.|[2502.13870](http://arxiv.org/abs/2502.13870)|null|
+|**2025-02-19**|**MagicGeo: Training-Free Text-Guided Geometric Diagram Generation**|Junxiao Wang et.al.|[2502.13855](http://arxiv.org/abs/2502.13855)|null|
+|**2025-02-19**|**Enhancing LLM-Based Recommendations Through Personalized Reasoning**|Jiahao Liu et.al.|[2502.13845](http://arxiv.org/abs/2502.13845)|null|
 |**2025-02-18**|**Re-Align: Aligning Vision Language Models via Retrieval-Augmented Direct Preference Optimization**|Shuo Xing et.al.|[2502.13146](http://arxiv.org/abs/2502.13146)|null|
 |**2025-02-18**|**Multimodal Mamba: Decoder-only Multimodal State Space Model via Quadratic to Linear Distillation**|Bencheng Liao et.al.|[2502.13145](http://arxiv.org/abs/2502.13145)|null|
 |**2025-02-18**|**UniGuardian: A Unified Defense for Detecting Prompt Injection, Backdoor Attacks and Adversarial Attacks in Large Language Models**|Huawei Lin et.al.|[2502.13141](http://arxiv.org/abs/2502.13141)|null|
@@ -3264,6 +3304,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-19**|**Where's the Bug? Attention Probing for Scalable Fault Localization**|Adam Stein et.al.|[2502.13966](http://arxiv.org/abs/2502.13966)|null|
+|**2025-02-19**|**Autellix: An Efficient Serving Engine for LLM Agents as General Programs**|Michael Luo et.al.|[2502.13965](http://arxiv.org/abs/2502.13965)|null|
+|**2025-02-19**|**MuDAF: Long-Context Multi-Document Attention Focusing through Contrastive Learning on Attention Heads**|Weihao Liu et.al.|[2502.13963](http://arxiv.org/abs/2502.13963)|null|
+|**2025-02-19**|**Is That Your Final Answer? Test-Time Scaling Improves Selective Question Answering**|William Jurayj et.al.|[2502.13962](http://arxiv.org/abs/2502.13962)|null|
+|**2025-02-19**|**Extended $s$ -wave pairing from an emergent Feshbach resonanc in bilayer nickelate superconductors**|Pietro Borchia et.al.|[2502.13960](http://arxiv.org/abs/2502.13960)|null|
+|**2025-02-19**|**LIDDIA: Language-based Intelligent Drug Discovery Agent**|Reza Averly et.al.|[2502.13959](http://arxiv.org/abs/2502.13959)|null|
+|**2025-02-19**|**Imaging the Photochemistry of Cyclobutanone using Ultrafast Electron Diffraction: Experimental Results**|A. E. Green et.al.|[2502.13956](http://arxiv.org/abs/2502.13956)|null|
+|**2025-02-19**|**Neurosymbolic artificial intelligence via large language models and coherence-driven inference**|Steve Huntsman et.al.|[2502.13953](http://arxiv.org/abs/2502.13953)|null|
+|**2025-02-19**|**Why Safeguarded Ships Run Aground? Aligned Large Language Models' Safety Mechanisms Tend to Be Anchored in The Template Region**|Chak Tou Leong et.al.|[2502.13946](http://arxiv.org/abs/2502.13946)|null|
+|**2025-02-19**|**Diagnosing chaos with projected ensembles of process tensors**|Peter O'Donovan et.al.|[2502.13930](http://arxiv.org/abs/2502.13930)|null|
+|**2025-02-19**|**A crude but efficient pipeline for JWST MIRI imager : the case of sn1987A**|R. Gastaud et.al.|[2502.13926](http://arxiv.org/abs/2502.13926)|null|
+|**2025-02-19**|**PINN ME: A Physics-Informed Neural Network Framework for Accurate Milne-Eddington Inversions of Solar Magnetic Fields**|Robert Jarolim et.al.|[2502.13924](http://arxiv.org/abs/2502.13924)|null|
+|**2025-02-19**|**LongPO: Long Context Self-Evolution of Large Language Models through Short-to-Long Preference Optimization**|Guanzheng Chen et.al.|[2502.13922](http://arxiv.org/abs/2502.13922)|**[link](https://github.com/DAMO-NLP-SG/LongPO)**|
+|**2025-02-19**|**Exploring Code Language Models for Automated HLS-based Hardware Generation: Benchmark, Infrastructure and Analysis**|Jiahao Gai et.al.|[2502.13921](http://arxiv.org/abs/2502.13921)|null|
+|**2025-02-19**|**Exploring Personalized Health Support through Data-Driven, Theory-Guided LLMs: A Case Study in Sleep Health**|Xingbo Wang et.al.|[2502.13920](http://arxiv.org/abs/2502.13920)|null|
+|**2025-02-19**|**Quorum sensing and absorbing phase transitions in colloidal active matter**|Thibault Lefranc et.al.|[2502.13919](http://arxiv.org/abs/2502.13919)|null|
+|**2025-02-19**|**Playing Hex and Counter Wargames using Reinforcement Learning and Recurrent Neural Networks**|Guilherme Palma et.al.|[2502.13918](http://arxiv.org/abs/2502.13918)|null|
+|**2025-02-19**|**Conveniently Identify Coils in Inductive Power Transfer System Using Machine Learning**|Yifan Zhao et.al.|[2502.13915](http://arxiv.org/abs/2502.13915)|null|
+|**2025-02-19**|**How Do LLMs Perform Two-Hop Reasoning in Context?**|Tianyu Guo et.al.|[2502.13913](http://arxiv.org/abs/2502.13913)|null|
+|**2025-02-19**|**Application of autoresonance in rapid beam extraction of synchrotrons**|X. Ding et.al.|[2502.13911](http://arxiv.org/abs/2502.13911)|null|
 |**2025-02-18**|**Re-Align: Aligning Vision Language Models via Retrieval-Augmented Direct Preference Optimization**|Shuo Xing et.al.|[2502.13146](http://arxiv.org/abs/2502.13146)|null|
 |**2025-02-18**|**Multimodal Mamba: Decoder-only Multimodal State Space Model via Quadratic to Linear Distillation**|Bencheng Liao et.al.|[2502.13145](http://arxiv.org/abs/2502.13145)|null|
 |**2025-02-18**|**SoFar: Language-Grounded Orientation Bridges Spatial Reasoning and Object Manipulation**|Zekun Qi et.al.|[2502.13143](http://arxiv.org/abs/2502.13143)|null|
@@ -4889,6 +4949,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-19**|**Where's the Bug? Attention Probing for Scalable Fault Localization**|Adam Stein et.al.|[2502.13966](http://arxiv.org/abs/2502.13966)|null|
+|**2025-02-19**|**Autellix: An Efficient Serving Engine for LLM Agents as General Programs**|Michael Luo et.al.|[2502.13965](http://arxiv.org/abs/2502.13965)|null|
+|**2025-02-19**|**MuDAF: Long-Context Multi-Document Attention Focusing through Contrastive Learning on Attention Heads**|Weihao Liu et.al.|[2502.13963](http://arxiv.org/abs/2502.13963)|null|
+|**2025-02-19**|**Is That Your Final Answer? Test-Time Scaling Improves Selective Question Answering**|William Jurayj et.al.|[2502.13962](http://arxiv.org/abs/2502.13962)|null|
+|**2025-02-19**|**LIDDIA: Language-based Intelligent Drug Discovery Agent**|Reza Averly et.al.|[2502.13959](http://arxiv.org/abs/2502.13959)|null|
+|**2025-02-19**|**RAG-Gym: Optimizing Reasoning and Search Agents with Process Supervision**|Guangzhi Xiong et.al.|[2502.13957](http://arxiv.org/abs/2502.13957)|null|
+|**2025-02-19**|**Neurosymbolic artificial intelligence via large language models and coherence-driven inference**|Steve Huntsman et.al.|[2502.13953](http://arxiv.org/abs/2502.13953)|null|
+|**2025-02-19**|**Why Safeguarded Ships Run Aground? Aligned Large Language Models' Safety Mechanisms Tend to Be Anchored in The Template Region**|Chak Tou Leong et.al.|[2502.13946](http://arxiv.org/abs/2502.13946)|null|
+|**2025-02-19**|**AdaptiveStep: Automatically Dividing Reasoning Step through Model Confidence**|Yuliang Liu et.al.|[2502.13943](http://arxiv.org/abs/2502.13943)|null|
+|**2025-02-19**|**Beyond Single Frames: Can LMMs Comprehend Temporal and Contextual Narratives in Image Sequences?**|Xiaochen Wang et.al.|[2502.13925](http://arxiv.org/abs/2502.13925)|null|
+|**2025-02-19**|**Qwen2.5-VL Technical Report**|Shuai Bai et.al.|[2502.13923](http://arxiv.org/abs/2502.13923)|null|
+|**2025-02-19**|**LongPO: Long Context Self-Evolution of Large Language Models through Short-to-Long Preference Optimization**|Guanzheng Chen et.al.|[2502.13922](http://arxiv.org/abs/2502.13922)|**[link](https://github.com/DAMO-NLP-SG/LongPO)**|
+|**2025-02-19**|**Exploring Code Language Models for Automated HLS-based Hardware Generation: Benchmark, Infrastructure and Analysis**|Jiahao Gai et.al.|[2502.13921](http://arxiv.org/abs/2502.13921)|null|
+|**2025-02-19**|**Exploring Personalized Health Support through Data-Driven, Theory-Guided LLMs: A Case Study in Sleep Health**|Xingbo Wang et.al.|[2502.13920](http://arxiv.org/abs/2502.13920)|null|
+|**2025-02-19**|**How Do LLMs Perform Two-Hop Reasoning in Context?**|Tianyu Guo et.al.|[2502.13913](http://arxiv.org/abs/2502.13913)|null|
+|**2025-02-19**|**Lost in Sequence: Do Large Language Models Understand Sequential Recommendation?**|Sein Kim et.al.|[2502.13909](http://arxiv.org/abs/2502.13909)|null|
+|**2025-02-19**|**Judging the Judges: A Collection of LLM-Generated Relevance Judgements**|Hossein A. Rahmani et.al.|[2502.13908](http://arxiv.org/abs/2502.13908)|null|
+|**2025-02-19**|**DataSciBench: An LLM Agent Benchmark for Data Science**|Dan Zhang et.al.|[2502.13897](http://arxiv.org/abs/2502.13897)|null|
+|**2025-02-19**|**NavigateDiff: Visual Predictors are Zero-Shot Navigation Assistants**|Yiran Qin et.al.|[2502.13894](http://arxiv.org/abs/2502.13894)|null|
+|**2025-02-19**|**On the Addressability Problem on CSS Codes**|Jérôme Guyot et.al.|[2502.13889](http://arxiv.org/abs/2502.13889)|null|
 |**2025-02-18**|**Re-Align: Aligning Vision Language Models via Retrieval-Augmented Direct Preference Optimization**|Shuo Xing et.al.|[2502.13146](http://arxiv.org/abs/2502.13146)|null|
 |**2025-02-18**|**Multimodal Mamba: Decoder-only Multimodal State Space Model via Quadratic to Linear Distillation**|Bencheng Liao et.al.|[2502.13145](http://arxiv.org/abs/2502.13145)|null|
 |**2025-02-18**|**SoFar: Language-Grounded Orientation Bridges Spatial Reasoning and Object Manipulation**|Zekun Qi et.al.|[2502.13143](http://arxiv.org/abs/2502.13143)|null|
