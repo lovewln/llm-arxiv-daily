@@ -20,6 +20,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-28**|**LLM Post-Training: A Deep Dive into Reasoning Large Language Models**|Komal Kumar et.al.|[2502.21321](http://arxiv.org/abs/2502.21321)|null|
+|**2025-02-28**|**FANformer: Improving Large Language Models Through Effective Periodicity Modeling**|Yihong Dong et.al.|[2502.21309](http://arxiv.org/abs/2502.21309)|null|
+|**2025-02-28**|**Contextualizing biological perturbation experiments through language**|Menghua Wu et.al.|[2502.21290](http://arxiv.org/abs/2502.21290)|null|
+|**2025-02-28**|**Adaptive Keyframe Sampling for Long Video Understanding**|Xi Tang et.al.|[2502.21271](http://arxiv.org/abs/2502.21271)|null|
+|**2025-02-28**|**RoboBrain: A Unified Brain Model for Robotic Manipulation from Abstract to Concrete**|Yuheng Ji et.al.|[2502.21257](http://arxiv.org/abs/2502.21257)|null|
+|**2025-02-28**|**Semantic Volume: Quantifying and Detecting both External and Internal Uncertainty in LLMs**|Xiaomin Li et.al.|[2502.21239](http://arxiv.org/abs/2502.21239)|null|
+|**2025-02-28**|**Transforming Tuberculosis Care: Optimizing Large Language Models For Enhanced Clinician-Patient Communication**|Daniil Filienko et.al.|[2502.21236](http://arxiv.org/abs/2502.21236)|null|
+|**2025-02-28**|**ByteScale: Efficient Scaling of LLM Training with a 2048K Context Length on More Than 12,000 GPUs**|Hao Ge et.al.|[2502.21231](http://arxiv.org/abs/2502.21231)|null|
+|**2025-02-28**|**ECLeKTic: a Novel Challenge Set for Evaluation of Cross-Lingual Knowledge Transfer**|Omer Goldman et.al.|[2502.21228](http://arxiv.org/abs/2502.21228)|null|
+|**2025-02-28**|**Transformers Learn to Implement Multi-step Gradient Descent with Chain of Thought**|Jianhao Huang et.al.|[2502.21212](http://arxiv.org/abs/2502.21212)|null|
+|**2025-02-28**|**Chronologically Consistent Large Language Models**|Songrun He et.al.|[2502.21206](http://arxiv.org/abs/2502.21206)|null|
+|**2025-02-28**|**Optimizing Large Language Models for ESG Activity Detection in Financial Texts**|Mattia Birti et.al.|[2502.21112](http://arxiv.org/abs/2502.21112)|null|
+|**2025-02-28**|**Large Language Model-Based Benchmarking Experiment Settings for Evolutionary Multi-Objective Optimization**|Lie Meng Pang et.al.|[2502.21108](http://arxiv.org/abs/2502.21108)|null|
+|**2025-02-28**|**Generating patient cohorts from electronic health records using two-step retrieval-augmented text-to-SQL generation**|Angelo Ziletti et.al.|[2502.21107](http://arxiv.org/abs/2502.21107)|null|
+|**2025-02-28**|**A Non-contrast Head CT Foundation Model for Comprehensive Neuro-Trauma Triage**|Youngjin Yoo et.al.|[2502.21106](http://arxiv.org/abs/2502.21106)|null|
+|**2025-02-28**|**Re-evaluating Theory of Mind evaluation in large language models**|Jennifer Hu et.al.|[2502.21098](http://arxiv.org/abs/2502.21098)|null|
+|**2025-02-28**|**An LLM-based Delphi Study to Predict GenAI Evolution**|Francesco Bertolotti et.al.|[2502.21092](http://arxiv.org/abs/2502.21092)|null|
+|**2025-02-28**|**PASemiQA: Plan-Assisted Agent for Question Answering on Semi-Structured Data with Text and Relational Information**|Hansi Yang et.al.|[2502.21087](http://arxiv.org/abs/2502.21087)|null|
+|**2025-02-28**|**CODI: Compressing Chain-of-Thought into Continuous Space via Self-Distillation**|Zhenyi Shen et.al.|[2502.21074](http://arxiv.org/abs/2502.21074)|null|
+|**2025-02-28**|**GUIDE: LLM-Driven GUI Generation Decomposition for Automated Prototyping**|Kristian Kolthoff et.al.|[2502.21068](http://arxiv.org/abs/2502.21068)|null|
 |**2025-02-27**|**R2-T2: Re-Routing in Test-Time for Multimodal Mixture-of-Experts**|Zhongyang Li et.al.|[2502.20395](http://arxiv.org/abs/2502.20395)|null|
 |**2025-02-27**|**Why Are Web AI Agents More Vulnerable Than Standalone LLMs? A Security Analysis**|Jeffrey Yang Fan Chiang et.al.|[2502.20383](http://arxiv.org/abs/2502.20383)|null|
 |**2025-02-27**|**Multi-Agent Verification: Scaling Test-Time Compute with Multiple Verifiers**|Shalev Lifshitz et.al.|[2502.20379](http://arxiv.org/abs/2502.20379)|null|
@@ -1787,6 +1807,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-28**|**LLM Post-Training: A Deep Dive into Reasoning Large Language Models**|Komal Kumar et.al.|[2502.21321](http://arxiv.org/abs/2502.21321)|null|
+|**2025-02-28**|**FANformer: Improving Large Language Models Through Effective Periodicity Modeling**|Yihong Dong et.al.|[2502.21309](http://arxiv.org/abs/2502.21309)|null|
+|**2025-02-28**|**Hybrid Team Tetris: A New Platform For Hybrid Multi-Agent, Multi-Human Teaming**|Kaleb Mcdowell et.al.|[2502.21300](http://arxiv.org/abs/2502.21300)|null|
+|**2025-02-28**|**Persuasion Should be Double-Blind: A Multi-Domain Dialogue Dataset With Faithfulness Based on Causal Theory of Mind**|Dingyi Zhang et.al.|[2502.21297](http://arxiv.org/abs/2502.21297)|null|
+|**2025-02-28**|**Contextualizing biological perturbation experiments through language**|Menghua Wu et.al.|[2502.21290](http://arxiv.org/abs/2502.21290)|null|
+|**2025-02-28**|**Adaptive Keyframe Sampling for Long Video Understanding**|Xi Tang et.al.|[2502.21271](http://arxiv.org/abs/2502.21271)|null|
+|**2025-02-28**|**ReaLJam: Real-Time Human-AI Music Jamming with Reinforcement Learning-Tuned Transformers**|Alexander Scarlatos et.al.|[2502.21267](http://arxiv.org/abs/2502.21267)|null|
+|**2025-02-28**|**RoboBrain: A Unified Brain Model for Robotic Manipulation from Abstract to Concrete**|Yuheng Ji et.al.|[2502.21257](http://arxiv.org/abs/2502.21257)|null|
+|**2025-02-28**|**Towards Developing Ethical Reasoners: Integrating Probabilistic Reasoning and Decision-Making for Complex AI Systems**|Nijesh Upreti et.al.|[2502.21250](http://arxiv.org/abs/2502.21250)|null|
+|**2025-02-28**|**Semantic Volume: Quantifying and Detecting both External and Internal Uncertainty in LLMs**|Xiaomin Li et.al.|[2502.21239](http://arxiv.org/abs/2502.21239)|null|
+|**2025-02-28**|**Transforming Tuberculosis Care: Optimizing Large Language Models For Enhanced Clinician-Patient Communication**|Daniil Filienko et.al.|[2502.21236](http://arxiv.org/abs/2502.21236)|null|
+|**2025-02-28**|**ByteScale: Efficient Scaling of LLM Training with a 2048K Context Length on More Than 12,000 GPUs**|Hao Ge et.al.|[2502.21231](http://arxiv.org/abs/2502.21231)|null|
+|**2025-02-28**|**A Method of Selective Attention for Reservoir Based Agents**|Kevin McKee et.al.|[2502.21229](http://arxiv.org/abs/2502.21229)|null|
+|**2025-02-28**|**ECLeKTic: a Novel Challenge Set for Evaluation of Cross-Lingual Knowledge Transfer**|Omer Goldman et.al.|[2502.21228](http://arxiv.org/abs/2502.21228)|null|
+|**2025-02-28**|**Transformers Learn to Implement Multi-step Gradient Descent with Chain of Thought**|Jianhao Huang et.al.|[2502.21212](http://arxiv.org/abs/2502.21212)|null|
+|**2025-02-28**|**ARIES: Autonomous Reasoning with LLMs on Interactive Thought Graph Environments**|Pedro Gimenes et.al.|[2502.21208](http://arxiv.org/abs/2502.21208)|null|
+|**2025-02-28**|**Chronologically Consistent Large Language Models**|Songrun He et.al.|[2502.21206](http://arxiv.org/abs/2502.21206)|null|
+|**2025-02-28**|**Scalable Decision-Making in Stochastic Environments through Learned Temporal Abstraction**|Baiting Luo et.al.|[2502.21186](http://arxiv.org/abs/2502.21186)|null|
+|**2025-02-28**|**Reducing Reward Dependence in RL Through Adaptive Confidence Discounting**|Muhammed Yusuf Satici et.al.|[2502.21181](http://arxiv.org/abs/2502.21181)|null|
+|**2025-02-28**|**Autonomous Curriculum Design via Relative Entropy Based Task Modifications**|Muhammed Yusuf Satici et.al.|[2502.21166](http://arxiv.org/abs/2502.21166)|null|
 |**2025-02-27**|**R2-T2: Re-Routing in Test-Time for Multimodal Mixture-of-Experts**|Zhongyang Li et.al.|[2502.20395](http://arxiv.org/abs/2502.20395)|null|
 |**2025-02-27**|**Point Policy: Unifying Observations and Actions with Key Points for Robot Manipulation**|Siddhant Haldar et.al.|[2502.20391](http://arxiv.org/abs/2502.20391)|null|
 |**2025-02-27**|**Why Are Web AI Agents More Vulnerable Than Standalone LLMs? A Security Analysis**|Jeffrey Yang Fan Chiang et.al.|[2502.20383](http://arxiv.org/abs/2502.20383)|null|
@@ -3554,6 +3594,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-28**|**LLM Post-Training: A Deep Dive into Reasoning Large Language Models**|Komal Kumar et.al.|[2502.21321](http://arxiv.org/abs/2502.21321)|null|
+|**2025-02-28**|**FANformer: Improving Large Language Models Through Effective Periodicity Modeling**|Yihong Dong et.al.|[2502.21309](http://arxiv.org/abs/2502.21309)|null|
+|**2025-02-28**|**Solar prosumage under different pricing regimes: Interactions with the transmission grid**|Dana Kirchem et.al.|[2502.21306](http://arxiv.org/abs/2502.21306)|null|
+|**2025-02-28**|**CurviTrack: Curvilinear Trajectory Tracking for High-speed Chase of a USV**|Parakh M. Gupta et.al.|[2502.21303](http://arxiv.org/abs/2502.21303)|null|
+|**2025-02-28**|**Contextualizing biological perturbation experiments through language**|Menghua Wu et.al.|[2502.21290](http://arxiv.org/abs/2502.21290)|null|
+|**2025-02-28**|**Flow-Driven Rotor Simulations of Seyi-Chunlei Ducted Turbine**|Seyi Oluwadare et.al.|[2502.21289](http://arxiv.org/abs/2502.21289)|null|
+|**2025-02-28**|**Reconstruction of spider system's observables from orbital period modulations via the Applegate mechanism**|Vittorio De Falco et.al.|[2502.21283](http://arxiv.org/abs/2502.21283)|null|
+|**2025-02-28**|**Large Sample Inference with Dynamic Information Borrowing**|Sergey Tarima et.al.|[2502.21282](http://arxiv.org/abs/2502.21282)|null|
+|**2025-02-28**|**Adaptive Keyframe Sampling for Long Video Understanding**|Xi Tang et.al.|[2502.21271](http://arxiv.org/abs/2502.21271)|null|
+|**2025-02-28**|**Stochastic dynamics at the back of a gene drive propagation wave**|Léna Kläy et.al.|[2502.21268](http://arxiv.org/abs/2502.21268)|null|
+|**2025-02-28**|**Exploring Bayesian olfactory search in realistic turbulent flows**|Robin A. Heinonen et.al.|[2502.21258](http://arxiv.org/abs/2502.21258)|null|
+|**2025-02-28**|**RoboBrain: A Unified Brain Model for Robotic Manipulation from Abstract to Concrete**|Yuheng Ji et.al.|[2502.21257](http://arxiv.org/abs/2502.21257)|null|
+|**2025-02-28**|**Channel, Mode and Power Optimization for non-Orthogonal D2D Communications: a Hybrid Approach**|Federico Librino et.al.|[2502.21255](http://arxiv.org/abs/2502.21255)|null|
+|**2025-02-28**|**A novel boundary integrated neural networks for in plane fracture mechanics analysis of elastic and piezoelectric materials**|Peijun Zhang et.al.|[2502.21253](http://arxiv.org/abs/2502.21253)|null|
+|**2025-02-28**|**Learning-Driven Annealing with Adaptive Hamiltonian Modification for Solving Large-Scale Problems on Quantum Devices**|Sebastian Schulz et.al.|[2502.21246](http://arxiv.org/abs/2502.21246)|null|
+|**2025-02-28**|**Unambiguous determination of optical constants and thickness of ultrathin films by using optical anisotropic substrates**|Sebastian Schaper et.al.|[2502.21241](http://arxiv.org/abs/2502.21241)|null|
+|**2025-02-28**|**Semantic Volume: Quantifying and Detecting both External and Internal Uncertainty in LLMs**|Xiaomin Li et.al.|[2502.21239](http://arxiv.org/abs/2502.21239)|null|
+|**2025-02-28**|**The iSWAP gate with polar molecules: Robustness criteria for entangling operations**|Matteo Bergonzoni et.al.|[2502.21238](http://arxiv.org/abs/2502.21238)|null|
+|**2025-02-28**|**Transforming Tuberculosis Care: Optimizing Large Language Models For Enhanced Clinician-Patient Communication**|Daniil Filienko et.al.|[2502.21236](http://arxiv.org/abs/2502.21236)|null|
+|**2025-02-28**|**A new block covariance regression model and inferential framework for massively large neuroimaging data**|Hyoshin Kim et.al.|[2502.21235](http://arxiv.org/abs/2502.21235)|null|
 |**2025-02-27**|**A physically motivated galaxy size definition across different state-of-the-art hydrodynamical simulations**|Elena Arjona-Galvez et.al.|[2502.20398](http://arxiv.org/abs/2502.20398)|null|
 |**2025-02-27**|**Sim-to-Real Reinforcement Learning for Vision-Based Dexterous Manipulation on Humanoids**|Toru Lin et.al.|[2502.20396](http://arxiv.org/abs/2502.20396)|null|
 |**2025-02-27**|**R2-T2: Re-Routing in Test-Time for Multimodal Mixture-of-Experts**|Zhongyang Li et.al.|[2502.20395](http://arxiv.org/abs/2502.20395)|null|
@@ -5321,6 +5381,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-28**|**LLM Post-Training: A Deep Dive into Reasoning Large Language Models**|Komal Kumar et.al.|[2502.21321](http://arxiv.org/abs/2502.21321)|null|
+|**2025-02-28**|**FANformer: Improving Large Language Models Through Effective Periodicity Modeling**|Yihong Dong et.al.|[2502.21309](http://arxiv.org/abs/2502.21309)|null|
+|**2025-02-28**|**Persuasion Should be Double-Blind: A Multi-Domain Dialogue Dataset With Faithfulness Based on Causal Theory of Mind**|Dingyi Zhang et.al.|[2502.21297](http://arxiv.org/abs/2502.21297)|null|
+|**2025-02-28**|**Contextualizing biological perturbation experiments through language**|Menghua Wu et.al.|[2502.21290](http://arxiv.org/abs/2502.21290)|null|
+|**2025-02-28**|**Adaptive Keyframe Sampling for Long Video Understanding**|Xi Tang et.al.|[2502.21271](http://arxiv.org/abs/2502.21271)|null|
+|**2025-02-28**|**RoboBrain: A Unified Brain Model for Robotic Manipulation from Abstract to Concrete**|Yuheng Ji et.al.|[2502.21257](http://arxiv.org/abs/2502.21257)|null|
+|**2025-02-28**|**Towards Developing Ethical Reasoners: Integrating Probabilistic Reasoning and Decision-Making for Complex AI Systems**|Nijesh Upreti et.al.|[2502.21250](http://arxiv.org/abs/2502.21250)|null|
+|**2025-02-28**|**Semantic Volume: Quantifying and Detecting both External and Internal Uncertainty in LLMs**|Xiaomin Li et.al.|[2502.21239](http://arxiv.org/abs/2502.21239)|null|
+|**2025-02-28**|**The iSWAP gate with polar molecules: Robustness criteria for entangling operations**|Matteo Bergonzoni et.al.|[2502.21238](http://arxiv.org/abs/2502.21238)|null|
+|**2025-02-28**|**Transforming Tuberculosis Care: Optimizing Large Language Models For Enhanced Clinician-Patient Communication**|Daniil Filienko et.al.|[2502.21236](http://arxiv.org/abs/2502.21236)|null|
+|**2025-02-28**|**ByteScale: Efficient Scaling of LLM Training with a 2048K Context Length on More Than 12,000 GPUs**|Hao Ge et.al.|[2502.21231](http://arxiv.org/abs/2502.21231)|null|
+|**2025-02-28**|**ECLeKTic: a Novel Challenge Set for Evaluation of Cross-Lingual Knowledge Transfer**|Omer Goldman et.al.|[2502.21228](http://arxiv.org/abs/2502.21228)|null|
+|**2025-02-28**|**Transformers Learn to Implement Multi-step Gradient Descent with Chain of Thought**|Jianhao Huang et.al.|[2502.21212](http://arxiv.org/abs/2502.21212)|null|
+|**2025-02-28**|**ARIES: Autonomous Reasoning with LLMs on Interactive Thought Graph Environments**|Pedro Gimenes et.al.|[2502.21208](http://arxiv.org/abs/2502.21208)|null|
+|**2025-02-28**|**Chronologically Consistent Large Language Models**|Songrun He et.al.|[2502.21206](http://arxiv.org/abs/2502.21206)|null|
+|**2025-02-28**|**Approximation of anisotropic pair potentials using multivariate interpolation**|Mohammadreza Fakhraei et.al.|[2502.21203](http://arxiv.org/abs/2502.21203)|null|
+|**2025-02-28**|**Cryptis: Cryptographic Reasoning in Separation Logic**|Arthur Azevedo de Amorim et.al.|[2502.21156](http://arxiv.org/abs/2502.21156)|null|
+|**2025-02-28**|**Multimodal Dreaming: A Global Workspace Approach to World Model-Based Reinforcement Learning**|Léopold Maytié et.al.|[2502.21142](http://arxiv.org/abs/2502.21142)|null|
+|**2025-02-28**|**Optimizing Large Language Models for ESG Activity Detection in Financial Texts**|Mattia Birti et.al.|[2502.21112](http://arxiv.org/abs/2502.21112)|null|
+|**2025-02-28**|**Large Language Model-Based Benchmarking Experiment Settings for Evolutionary Multi-Objective Optimization**|Lie Meng Pang et.al.|[2502.21108](http://arxiv.org/abs/2502.21108)|null|
 |**2025-02-27**|**R2-T2: Re-Routing in Test-Time for Multimodal Mixture-of-Experts**|Zhongyang Li et.al.|[2502.20395](http://arxiv.org/abs/2502.20395)|null|
 |**2025-02-27**|**ATLAS Navigator: Active Task-driven LAnguage-embedded Gaussian Splatting**|Dexter Ong et.al.|[2502.20386](http://arxiv.org/abs/2502.20386)|null|
 |**2025-02-27**|**Why Are Web AI Agents More Vulnerable Than Standalone LLMs? A Security Analysis**|Jeffrey Yang Fan Chiang et.al.|[2502.20383](http://arxiv.org/abs/2502.20383)|null|
