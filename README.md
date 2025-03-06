@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.03.05
+## Updated on 2025.03.06
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -1821,7 +1821,7 @@
 |**2024-10-16**|**FTII-Bench: A Comprehensive Multimodal Benchmark for Flow Text with Image Insertion**|Jiacheng Ruan et.al.|[2410.12564](http://arxiv.org/abs/2410.12564)|**[link](https://github.com/IAAR-Shanghai/FTIIBench)**|
 |**2024-10-17**|**LLM-based Translation Inference with Iterative Bilingual Understanding**|Andong Chen et.al.|[2410.12543](http://arxiv.org/abs/2410.12543)|null|
 
-<p align=right>(<a href=#updated-on-20250305>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250306>back to top</a>)</p>
 
 ## llm agent
 
@@ -3628,7 +3628,7 @@
 |**2024-10-16**|**Not All Votes Count! Programs as Verifiers Improve Self-Consistency of Language Models for Math Reasoning**|Vernon Y. H. Toh et.al.|[2410.12608](http://arxiv.org/abs/2410.12608)|**[link](https://github.com/declare-lab/prove)**|
 |**2024-10-16**|**CCSBench: Evaluating Compositional Controllability in LLMs for Scientific Document Summarization**|Yixi Ding et.al.|[2410.12601](http://arxiv.org/abs/2410.12601)|null|
 
-<p align=right>(<a href=#updated-on-20250305>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250306>back to top</a>)</p>
 
 ## llm simulation
 
@@ -3644,7 +3644,7 @@
 |**2025-03-04**|**Privacy and Accuracy-Aware AI/ML Model Deduplication**|Hong Guan et.al.|[2503.02862](http://arxiv.org/abs/2503.02862)|null|
 |**2025-03-04**|**Efficient Sampling and Sensitivity Analysis of Rare Transient Instability Events via Subset Simulation**|Jingyu Liu et.al.|[2503.02858](http://arxiv.org/abs/2503.02858)|null|
 |**2025-03-04**|**(How) Do Language Models Track State?**|Belinda Z. Li et.al.|[2503.02854](http://arxiv.org/abs/2503.02854)|null|
-|**2025-03-04**|**Large-Angle Convergent-Beam Electron Diffraction Patterns via Conditional Generative Adversarial Networks**|Joseph. J Webb et.al.|[2503.02852](http://arxiv.org/abs/2503.02852)|null|
+|**2025-03-05**|**Large-Angle Convergent-Beam Electron Diffraction Patterns via Conditional Generative Adversarial Networks**|Joseph J. Webb et.al.|[2503.02852](http://arxiv.org/abs/2503.02852)|null|
 |**2025-03-04**|**Shakespearean Sparks: The Dance of Hallucination and Creativity in LLMs' Decoding Layers**|Zicong He et.al.|[2503.02851](http://arxiv.org/abs/2503.02851)|null|
 |**2025-03-04**|**Steady-state dynamical mean field theory based on influence functional matrix product states**|Mithilesh Nayak et.al.|[2503.02848](http://arxiv.org/abs/2503.02848)|null|
 |**2025-03-04**|**Mask-DPO: Generalizable Fine-grained Factuality Alignment of LLMs**|Yuzhe Gu et.al.|[2503.02846](http://arxiv.org/abs/2503.02846)|null|
@@ -5435,7 +5435,7 @@
 |**2024-10-16**|**Structure of the water/magnetite interface from sum frequency generation experiments and neural network based molecular dynamics simulations**|Salvatore Romano et.al.|[2410.12717](http://arxiv.org/abs/2410.12717)|null|
 |**2024-10-16**|**A Simple Interactive Fixed Effects Estimator for Short Panels**|Robert F. Phillips et.al.|[2410.12709](http://arxiv.org/abs/2410.12709)|null|
 
-<p align=right>(<a href=#updated-on-20250305>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250306>back to top</a>)</p>
 
 ## llm reasoning
 
@@ -7242,7 +7242,7 @@
 |**2024-10-16**|**Not All Votes Count! Programs as Verifiers Improve Self-Consistency of Language Models for Math Reasoning**|Vernon Y. H. Toh et.al.|[2410.12608](http://arxiv.org/abs/2410.12608)|**[link](https://github.com/declare-lab/prove)**|
 |**2024-10-16**|**CCSBench: Evaluating Compositional Controllability in LLMs for Scientific Document Summarization**|Yixi Ding et.al.|[2410.12601](http://arxiv.org/abs/2410.12601)|null|
 
-<p align=right>(<a href=#updated-on-20250305>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250306>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
