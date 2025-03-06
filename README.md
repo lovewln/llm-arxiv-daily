@@ -20,6 +20,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-05**|**The MASK Benchmark: Disentangling Honesty From Accuracy in AI Systems**|Richard Ren et.al.|[2503.03750](http://arxiv.org/abs/2503.03750)|null|
+|**2025-03-05**|**Process-based Self-Rewarding Language Models**|Shimao Zhang et.al.|[2503.03746](http://arxiv.org/abs/2503.03746)|null|
+|**2025-03-05**|**Towards Understanding Distilled Reasoning Models: A Representational Approach**|David D. Baek et.al.|[2503.03730](http://arxiv.org/abs/2503.03730)|null|
+|**2025-03-05**|**Improving LLM Safety Alignment with Dual-Objective Optimization**|Xuandong Zhao et.al.|[2503.03710](http://arxiv.org/abs/2503.03710)|null|
+|**2025-03-05**|**Effective LLM Knowledge Learning via Model Generalization**|Mingkang Zhu et.al.|[2503.03705](http://arxiv.org/abs/2503.03705)|null|
+|**2025-03-05**|**A Practical Memory Injection Attack against LLM Agents**|Shen Dong et.al.|[2503.03704](http://arxiv.org/abs/2503.03704)|null|
+|**2025-03-05**|**Developing and Utilizing a Large-Scale Cantonese Dataset for Multi-Tasking in Large Language Models**|Jiyue Jiang et.al.|[2503.03702](http://arxiv.org/abs/2503.03702)|null|
+|**2025-03-05**|**Addressing Overprescribing Challenges: Fine-Tuning Large Language Models for Medication Recommendation Tasks**|Zihao Zhao et.al.|[2503.03687](http://arxiv.org/abs/2503.03687)|null|
+|**2025-03-05**|**Attentive Reasoning Queries: A Systematic Method for Optimizing Instruction-Following in Large Language Models**|Bar Karov et.al.|[2503.03669](http://arxiv.org/abs/2503.03669)|null|
+|**2025-03-05**|**Analogical Reasoning Inside Large Language Models: Concept Vectors and the Limits of Abstraction**|Gustaw Opiełka et.al.|[2503.03666](http://arxiv.org/abs/2503.03666)|null|
+|**2025-03-05**|**Improving Neutral Point of View Text Generation through Parameter-Efficient Reinforcement Learning and a Small-Scale High-Quality Dataset**|Jessica Hoffmann et.al.|[2503.03654](http://arxiv.org/abs/2503.03654)|null|
+|**2025-03-05**|**Token-Level Privacy in Large Language Models**|Re'em Harel et.al.|[2503.03652](http://arxiv.org/abs/2503.03652)|null|
+|**2025-03-05**|**Psy-Copilot: Visual Chain of Thought for Counseling**|Keqi Chen et.al.|[2503.03645](http://arxiv.org/abs/2503.03645)|null|
+|**2025-03-05**|**Large language models in finance: estimating financial sentiment for stock prediction**|Kemal Kirtac et.al.|[2503.03612](http://arxiv.org/abs/2503.03612)|null|
+|**2025-03-05**|**Enhancing the Accuracy and Comprehensibility in Architectural Tactics Detection via Small Model-Augmented Prompt Engineering**|Lingli Cao et.al.|[2503.03609](http://arxiv.org/abs/2503.03609)|null|
+|**2025-03-05**|**Psy-Insight: Explainable Multi-turn Bilingual Dataset for Mental Health Counseling**|Keqi Chen et.al.|[2503.03607](http://arxiv.org/abs/2503.03607)|null|
+|**2025-03-05**|**Feature-Level Insights into Artificial Text Detection with Sparse Autoencoders**|Kristian Kuznetsov et.al.|[2503.03601](http://arxiv.org/abs/2503.03601)|null|
+|**2025-03-05**|**PowerAttention: Exponentially Scaling of Receptive Fields for Effective Sparse Attention**|Lida Chen et.al.|[2503.03588](http://arxiv.org/abs/2503.03588)|null|
+|**2025-03-05**|**"You don't need a university degree to comprehend data protection this way": LLM-Powered Interactive Privacy Policy Assessment**|Vincent Freiberger et.al.|[2503.03587](http://arxiv.org/abs/2503.03587)|null|
+|**2025-03-05**|**Benchmarking LLMs and LLM-based Agents in Practical Vulnerability Detection for Code Repositories**|Alperen Yildiz et.al.|[2503.03586](http://arxiv.org/abs/2503.03586)|null|
 |**2025-03-04**|**Wikipedia in the Era of LLMs: Evolution and Risks**|Siming Huang et.al.|[2503.02879](http://arxiv.org/abs/2503.02879)|null|
 |**2025-03-04**|**The First Few Tokens Are All You Need: An Efficient and Effective Unsupervised Prefix Fine-Tuning Method for Reasoning Models**|Ke Ji et.al.|[2503.02875](http://arxiv.org/abs/2503.02875)|null|
 |**2025-03-04**|**Prompting Generative AI with Interaction-Augmented Instructions**|Leixian Shen et.al.|[2503.02874](http://arxiv.org/abs/2503.02874)|null|
@@ -1827,6 +1847,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-05**|**The MASK Benchmark: Disentangling Honesty From Accuracy in AI Systems**|Richard Ren et.al.|[2503.03750](http://arxiv.org/abs/2503.03750)|null|
+|**2025-03-05**|**Process-based Self-Rewarding Language Models**|Shimao Zhang et.al.|[2503.03746](http://arxiv.org/abs/2503.03746)|null|
+|**2025-03-05**|**CHOP: Mobile Operating Assistant with Constrained High-frequency Optimized Subtask Planning**|Yuqi Zhou et.al.|[2503.03743](http://arxiv.org/abs/2503.03743)|null|
+|**2025-03-05**|**Towards Understanding Distilled Reasoning Models: A Representational Approach**|David D. Baek et.al.|[2503.03730](http://arxiv.org/abs/2503.03730)|null|
+|**2025-03-05**|**Improving LLM Safety Alignment with Dual-Objective Optimization**|Xuandong Zhao et.al.|[2503.03710](http://arxiv.org/abs/2503.03710)|null|
+|**2025-03-05**|**Effective LLM Knowledge Learning via Model Generalization**|Mingkang Zhu et.al.|[2503.03705](http://arxiv.org/abs/2503.03705)|null|
+|**2025-03-05**|**A Practical Memory Injection Attack against LLM Agents**|Shen Dong et.al.|[2503.03704](http://arxiv.org/abs/2503.03704)|null|
+|**2025-03-05**|**Developing and Utilizing a Large-Scale Cantonese Dataset for Multi-Tasking in Large Language Models**|Jiyue Jiang et.al.|[2503.03702](http://arxiv.org/abs/2503.03702)|null|
+|**2025-03-05**|**Addressing Overprescribing Challenges: Fine-Tuning Large Language Models for Medication Recommendation Tasks**|Zihao Zhao et.al.|[2503.03687](http://arxiv.org/abs/2503.03687)|null|
+|**2025-03-05**|**MAS-GPT: Training LLMs to Build LLM-based Multi-Agent Systems**|Rui Ye et.al.|[2503.03686](http://arxiv.org/abs/2503.03686)|null|
+|**2025-03-05**|**Optimally Installing Strict Equilibria**|Jeremy McMahan et.al.|[2503.03676](http://arxiv.org/abs/2503.03676)|null|
+|**2025-03-05**|**Attentive Reasoning Queries: A Systematic Method for Optimizing Instruction-Following in Large Language Models**|Bar Karov et.al.|[2503.03669](http://arxiv.org/abs/2503.03669)|null|
+|**2025-03-05**|**Analogical Reasoning Inside Large Language Models: Concept Vectors and the Limits of Abstraction**|Gustaw Opiełka et.al.|[2503.03666](http://arxiv.org/abs/2503.03666)|null|
+|**2025-03-05**|**A Generative Approach to High Fidelity 3D Reconstruction from Text Data**|Venkat Kumar R et.al.|[2503.03664](http://arxiv.org/abs/2503.03664)|null|
+|**2025-03-05**|**Improving Neutral Point of View Text Generation through Parameter-Efficient Reinforcement Learning and a Small-Scale High-Quality Dataset**|Jessica Hoffmann et.al.|[2503.03654](http://arxiv.org/abs/2503.03654)|null|
+|**2025-03-05**|**Token-Level Privacy in Large Language Models**|Re'em Harel et.al.|[2503.03652](http://arxiv.org/abs/2503.03652)|null|
+|**2025-03-05**|**Psy-Copilot: Visual Chain of Thought for Counseling**|Keqi Chen et.al.|[2503.03645](http://arxiv.org/abs/2503.03645)|null|
+|**2025-03-05**|**Motion Planning and Control with Unknown Nonlinear Dynamics through Predicted Reachability**|Zhiquan Zhang et.al.|[2503.03633](http://arxiv.org/abs/2503.03633)|null|
+|**2025-03-05**|**TeraSim: Uncovering Unknown Unsafe Events for Autonomous Vehicles through Generative Simulation**|Haowei Sun et.al.|[2503.03629](http://arxiv.org/abs/2503.03629)|null|
+|**2025-03-05**|**Large language models in finance: estimating financial sentiment for stock prediction**|Kemal Kirtac et.al.|[2503.03612](http://arxiv.org/abs/2503.03612)|null|
 |**2025-03-04**|**Wikipedia in the Era of LLMs: Evolution and Risks**|Siming Huang et.al.|[2503.02879](http://arxiv.org/abs/2503.02879)|null|
 |**2025-03-04**|**The First Few Tokens Are All You Need: An Efficient and Effective Unsupervised Prefix Fine-Tuning Method for Reasoning Models**|Ke Ji et.al.|[2503.02875](http://arxiv.org/abs/2503.02875)|null|
 |**2025-03-04**|**Prompting Generative AI with Interaction-Augmented Instructions**|Leixian Shen et.al.|[2503.02874](http://arxiv.org/abs/2503.02874)|null|
@@ -3634,6 +3674,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-05**|**The MASK Benchmark: Disentangling Honesty From Accuracy in AI Systems**|Richard Ren et.al.|[2503.03750](http://arxiv.org/abs/2503.03750)|null|
+|**2025-03-05**|**Process-based Self-Rewarding Language Models**|Shimao Zhang et.al.|[2503.03746](http://arxiv.org/abs/2503.03746)|null|
+|**2025-03-05**|**CHOP: Mobile Operating Assistant with Constrained High-frequency Optimized Subtask Planning**|Yuqi Zhou et.al.|[2503.03743](http://arxiv.org/abs/2503.03743)|null|
+|**2025-03-05**|**OTTER: A Vision-Language-Action Model with Text-Aware Visual Feature Extraction**|Huang Huang et.al.|[2503.03734](http://arxiv.org/abs/2503.03734)|null|
+|**2025-03-05**|**Can Hyperbolic Diffusion Help Explain Sharp Edges in the Gaps in Saturn's Rings?**|Peter Todd Williams et.al.|[2503.03732](http://arxiv.org/abs/2503.03732)|null|
+|**2025-03-05**|**Towards Understanding Distilled Reasoning Models: A Representational Approach**|David D. Baek et.al.|[2503.03730](http://arxiv.org/abs/2503.03730)|null|
+|**2025-03-05**|**Evaluating Compression and Nanoindentation in FCC Nickel: A Methodology for Interatomic Potential Selection**|K. Cichocki et.al.|[2503.03723](http://arxiv.org/abs/2503.03723)|null|
+|**2025-03-05**|**Robustness Optimization for Compact Free-electron Laser Driven by Laser Wakefield Accelerators**|Hai Jiang et.al.|[2503.03718](http://arxiv.org/abs/2503.03718)|null|
+|**2025-03-05**|**Improving LLM Safety Alignment with Dual-Objective Optimization**|Xuandong Zhao et.al.|[2503.03710](http://arxiv.org/abs/2503.03710)|null|
+|**2025-03-05**|**Curating Demonstrations using Online Experience**|Annie S. Chen et.al.|[2503.03707](http://arxiv.org/abs/2503.03707)|null|
+|**2025-03-05**|**An Automated Computational Pipeline for Generating Large-Scale Cohorts of Patient-Specific Ventricular Models in Electromechanical In Silico Trials**|Ruben Doste et.al.|[2503.03706](http://arxiv.org/abs/2503.03706)|null|
+|**2025-03-05**|**Effective LLM Knowledge Learning via Model Generalization**|Mingkang Zhu et.al.|[2503.03705](http://arxiv.org/abs/2503.03705)|null|
+|**2025-03-05**|**A Practical Memory Injection Attack against LLM Agents**|Shen Dong et.al.|[2503.03704](http://arxiv.org/abs/2503.03704)|null|
+|**2025-03-05**|**Developing and Utilizing a Large-Scale Cantonese Dataset for Multi-Tasking in Large Language Models**|Jiyue Jiang et.al.|[2503.03702](http://arxiv.org/abs/2503.03702)|null|
+|**2025-03-05**|**Capturing methane in a barn environment: the CH4 Livestock Emission (CH4rLiE) project**|Francesco Alessandro Angiulli et.al.|[2503.03692](http://arxiv.org/abs/2503.03692)|null|
+|**2025-03-05**|**Ambiguity-Free Broadband DOA Estimation Relying on Parameterized Time-Frequency Transform**|Wei Wang et.al.|[2503.03691](http://arxiv.org/abs/2503.03691)|null|
+|**2025-03-05**|**Addressing Overprescribing Challenges: Fine-Tuning Large Language Models for Medication Recommendation Tasks**|Zihao Zhao et.al.|[2503.03687](http://arxiv.org/abs/2503.03687)|null|
+|**2025-03-05**|**Empowering Multi-class Classification for Complex Functional Data with Simultaneous Feature Selection**|Shuoyang Wang et.al.|[2503.03679](http://arxiv.org/abs/2503.03679)|null|
+|**2025-03-05**|**The $M_{*}-M_{\rm BH}$ Relation Evolution from z $\sim$ 6 to the Present Epoch**|Yang Sun et.al.|[2503.03675](http://arxiv.org/abs/2503.03675)|null|
+|**2025-03-05**|**A modeling framework to support the electrification of private transport in African cities: a case study of Addis Ababa**|Jérémy Dumoulin et.al.|[2503.03671](http://arxiv.org/abs/2503.03671)|null|
 |**2025-03-04**|**The SRG/eROSITA all-sky survey: View of the Fornax galaxy cluster**|T. H. Reiprich et.al.|[2503.02884](http://arxiv.org/abs/2503.02884)|null|
 |**2025-03-04**|**Wikipedia in the Era of LLMs: Evolution and Risks**|Siming Huang et.al.|[2503.02879](http://arxiv.org/abs/2503.02879)|null|
 |**2025-03-04**|**The First Few Tokens Are All You Need: An Efficient and Effective Unsupervised Prefix Fine-Tuning Method for Reasoning Models**|Ke Ji et.al.|[2503.02875](http://arxiv.org/abs/2503.02875)|null|
@@ -5441,6 +5501,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-05**|**The MASK Benchmark: Disentangling Honesty From Accuracy in AI Systems**|Richard Ren et.al.|[2503.03750](http://arxiv.org/abs/2503.03750)|null|
+|**2025-03-05**|**PacketCLIP: Multi-Modal Embedding of Network Traffic and Language for Cybersecurity Reasoning**|Ryozo Masukawa et.al.|[2503.03747](http://arxiv.org/abs/2503.03747)|null|
+|**2025-03-05**|**Process-based Self-Rewarding Language Models**|Shimao Zhang et.al.|[2503.03746](http://arxiv.org/abs/2503.03746)|null|
+|**2025-03-05**|**Towards Understanding Distilled Reasoning Models: A Representational Approach**|David D. Baek et.al.|[2503.03730](http://arxiv.org/abs/2503.03730)|null|
+|**2025-03-05**|**Improving LLM Safety Alignment with Dual-Objective Optimization**|Xuandong Zhao et.al.|[2503.03710](http://arxiv.org/abs/2503.03710)|null|
+|**2025-03-05**|**Effective LLM Knowledge Learning via Model Generalization**|Mingkang Zhu et.al.|[2503.03705](http://arxiv.org/abs/2503.03705)|null|
+|**2025-03-05**|**A Practical Memory Injection Attack against LLM Agents**|Shen Dong et.al.|[2503.03704](http://arxiv.org/abs/2503.03704)|null|
+|**2025-03-05**|**Developing and Utilizing a Large-Scale Cantonese Dataset for Multi-Tasking in Large Language Models**|Jiyue Jiang et.al.|[2503.03702](http://arxiv.org/abs/2503.03702)|null|
+|**2025-03-05**|**ILLC: Iterative Layer-by-Layer Compression for Enhancing Structural Faithfulness in SpArX**|Ungsik Kim et.al.|[2503.03693](http://arxiv.org/abs/2503.03693)|null|
+|**2025-03-05**|**Addressing Overprescribing Challenges: Fine-Tuning Large Language Models for Medication Recommendation Tasks**|Zihao Zhao et.al.|[2503.03687](http://arxiv.org/abs/2503.03687)|null|
+|**2025-03-05**|**Attentive Reasoning Queries: A Systematic Method for Optimizing Instruction-Following in Large Language Models**|Bar Karov et.al.|[2503.03669](http://arxiv.org/abs/2503.03669)|null|
+|**2025-03-05**|**Analogical Reasoning Inside Large Language Models: Concept Vectors and the Limits of Abstraction**|Gustaw Opiełka et.al.|[2503.03666](http://arxiv.org/abs/2503.03666)|null|
+|**2025-03-05**|**Improving Neutral Point of View Text Generation through Parameter-Efficient Reinforcement Learning and a Small-Scale High-Quality Dataset**|Jessica Hoffmann et.al.|[2503.03654](http://arxiv.org/abs/2503.03654)|null|
+|**2025-03-05**|**Token-Level Privacy in Large Language Models**|Re'em Harel et.al.|[2503.03652](http://arxiv.org/abs/2503.03652)|null|
+|**2025-03-05**|**Psy-Copilot: Visual Chain of Thought for Counseling**|Keqi Chen et.al.|[2503.03645](http://arxiv.org/abs/2503.03645)|null|
+|**2025-03-05**|**Theory of Cation Solvation in the Helmholtz Layer of Li-ion Battery Electrolytes**|Zachary A. H. Goodwin et.al.|[2503.03616](http://arxiv.org/abs/2503.03616)|null|
+|**2025-03-05**|**Large language models in finance: estimating financial sentiment for stock prediction**|Kemal Kirtac et.al.|[2503.03612](http://arxiv.org/abs/2503.03612)|null|
+|**2025-03-05**|**Enhancing the Accuracy and Comprehensibility in Architectural Tactics Detection via Small Model-Augmented Prompt Engineering**|Lingli Cao et.al.|[2503.03609](http://arxiv.org/abs/2503.03609)|null|
+|**2025-03-05**|**Psy-Insight: Explainable Multi-turn Bilingual Dataset for Mental Health Counseling**|Keqi Chen et.al.|[2503.03607](http://arxiv.org/abs/2503.03607)|null|
+|**2025-03-05**|**Feature-Level Insights into Artificial Text Detection with Sparse Autoencoders**|Kristian Kuznetsov et.al.|[2503.03601](http://arxiv.org/abs/2503.03601)|null|
 |**2025-03-04**|**Wikipedia in the Era of LLMs: Evolution and Risks**|Siming Huang et.al.|[2503.02879](http://arxiv.org/abs/2503.02879)|null|
 |**2025-03-04**|**Language Models can Self-Improve at State-Value Estimation for Better Search**|Ethan Mendes et.al.|[2503.02878](http://arxiv.org/abs/2503.02878)|null|
 |**2025-03-04**|**The First Few Tokens Are All You Need: An Efficient and Effective Unsupervised Prefix Fine-Tuning Method for Reasoning Models**|Ke Ji et.al.|[2503.02875](http://arxiv.org/abs/2503.02875)|null|
