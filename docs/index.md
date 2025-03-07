@@ -14,6 +14,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-06**|**L $^2$ M: Mutual Information Scaling Law for Long-Context Language Modeling**|Zhuo Chen et.al.|[2503.04725](http://arxiv.org/abs/2503.04725)|null|
+|**2025-03-06**|**Shifting Long-Context LLMs Research from Input to Output**|Yuhao Wu et.al.|[2503.04723](http://arxiv.org/abs/2503.04723)|null|
+|**2025-03-06**|**Enough Coin Flips Can Make LLMs Act Bayesian**|Ritwik Gupta et.al.|[2503.04722](http://arxiv.org/abs/2503.04722)|null|
+|**2025-03-06**|**Predictable Scale: Part I -- Optimal Hyperparameter Scaling Law in Large Language Model Pretraining**|Houyi Li et.al.|[2503.04715](http://arxiv.org/abs/2503.04715)|null|
+|**2025-03-06**|**Universality of Layer-Level Entropy-Weighted Quantization Beyond Model Architecture and Size**|Alireza Behtash et.al.|[2503.04704](http://arxiv.org/abs/2503.04704)|null|
+|**2025-03-06**|**UIPE: Enhancing LLM Unlearning by Removing Knowledge Related to Forgetting Targets**|Wenyu Wang et.al.|[2503.04693](http://arxiv.org/abs/2503.04693)|null|
+|**2025-03-06**|**Quantifying the Reasoning Abilities of LLMs on Real-world Clinical Cases**|Pengcheng Qiu et.al.|[2503.04691](http://arxiv.org/abs/2503.04691)|null|
+|**2025-03-06**|**LLM-guided Plan and Retrieval: A Strategic Alignment for Interpretable User Satisfaction Estimation in Dialogue**|Sangyeop Kim et.al.|[2503.04675](http://arxiv.org/abs/2503.04675)|null|
+|**2025-03-06**|**Implicit Cross-Lingual Rewarding for Efficient Multilingual Preference Alignment**|Wen Yang et.al.|[2503.04647](http://arxiv.org/abs/2503.04647)|null|
+|**2025-03-06**|**Mark Your LLM: Detecting the Misuse of Open-Source Large Language Models via Watermarking**|Yijie Xu et.al.|[2503.04636](http://arxiv.org/abs/2503.04636)|null|
+|**2025-03-06**|**Better Process Supervision with Bi-directional Rewarding Signals**|Wenxiang Chen et.al.|[2503.04618](http://arxiv.org/abs/2503.04618)|null|
+|**2025-03-06**|**Towards Data-Efficient Language Models: A Child-Inspired Approach to Language Learning**|Mohammad Amin Ghanizadeh et.al.|[2503.04611](http://arxiv.org/abs/2503.04611)|null|
+|**2025-03-06**|**HybridNorm: Towards Stable and Efficient Transformer Training via Hybrid Normalization**|Zhijian Zhuo et.al.|[2503.04598](http://arxiv.org/abs/2503.04598)|null|
+|**2025-03-06**|**The Next Frontier of LLM Applications: Open Ecosystems and Hardware Synergy**|Xinyi Hou et.al.|[2503.04596](http://arxiv.org/abs/2503.04596)|null|
+|**2025-03-06**|**Learning Generalizable Language-Conditioned Cloth Manipulation from Long Demonstrations**|Hanyi Zhao et.al.|[2503.04557](http://arxiv.org/abs/2503.04557)|null|
+|**2025-03-06**|**Compositional Translation: A Novel LLM-based Approach for Low-resource Machine Translation**|Armel Zebaze et.al.|[2503.04554](http://arxiv.org/abs/2503.04554)|null|
+|**2025-03-06**|**Benchmarking Reasoning Robustness in Large Language Models**|Tong Yu et.al.|[2503.04550](http://arxiv.org/abs/2503.04550)|null|
+|**2025-03-06**|**Keeping Yourself is Important in Downstream Tuning Multimodal Large Language Model**|Wenke Huang et.al.|[2503.04543](http://arxiv.org/abs/2503.04543)|null|
+|**2025-03-06**|**SOLAR: Scalable Optimization of Large-scale Architecture for Reasoning**|Chen Li et.al.|[2503.04530](http://arxiv.org/abs/2503.04530)|null|
+|**2025-03-06**|**Multi-modal Summarization in Model-Based Engineering: Automotive Software Development Case Study**|Nenad Petrovic et.al.|[2503.04506](http://arxiv.org/abs/2503.04506)|null|
 |**2025-03-05**|**The MASK Benchmark: Disentangling Honesty From Accuracy in AI Systems**|Richard Ren et.al.|[2503.03750](http://arxiv.org/abs/2503.03750)|null|
 |**2025-03-05**|**Process-based Self-Rewarding Language Models**|Shimao Zhang et.al.|[2503.03746](http://arxiv.org/abs/2503.03746)|null|
 |**2025-03-05**|**Towards Understanding Distilled Reasoning Models: A Representational Approach**|David D. Baek et.al.|[2503.03730](http://arxiv.org/abs/2503.03730)|null|
@@ -1839,6 +1859,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-06**|**L $^2$ M: Mutual Information Scaling Law for Long-Context Language Modeling**|Zhuo Chen et.al.|[2503.04725](http://arxiv.org/abs/2503.04725)|null|
+|**2025-03-06**|**Shifting Long-Context LLMs Research from Input to Output**|Yuhao Wu et.al.|[2503.04723](http://arxiv.org/abs/2503.04723)|null|
+|**2025-03-06**|**Enough Coin Flips Can Make LLMs Act Bayesian**|Ritwik Gupta et.al.|[2503.04722](http://arxiv.org/abs/2503.04722)|null|
+|**2025-03-06**|**Predictable Scale: Part I -- Optimal Hyperparameter Scaling Law in Large Language Model Pretraining**|Houyi Li et.al.|[2503.04715](http://arxiv.org/abs/2503.04715)|null|
+|**2025-03-06**|**Universality of Layer-Level Entropy-Weighted Quantization Beyond Model Architecture and Size**|Alireza Behtash et.al.|[2503.04704](http://arxiv.org/abs/2503.04704)|null|
+|**2025-03-06**|**UIPE: Enhancing LLM Unlearning by Removing Knowledge Related to Forgetting Targets**|Wenyu Wang et.al.|[2503.04693](http://arxiv.org/abs/2503.04693)|null|
+|**2025-03-06**|**The Influence of Prior Discourse on Conversational Agent-Driven Decision-Making**|Stephen Pilli et.al.|[2503.04692](http://arxiv.org/abs/2503.04692)|null|
+|**2025-03-06**|**Quantifying the Reasoning Abilities of LLMs on Real-world Clinical Cases**|Pengcheng Qiu et.al.|[2503.04691](http://arxiv.org/abs/2503.04691)|null|
+|**2025-03-06**|**Multi-Agent Inverse Q-Learning from Demonstrations**|Nathaniel Haynam et.al.|[2503.04679](http://arxiv.org/abs/2503.04679)|null|
+|**2025-03-06**|**LLM-guided Plan and Retrieval: A Strategic Alignment for Interpretable User Satisfaction Estimation in Dialogue**|Sangyeop Kim et.al.|[2503.04675](http://arxiv.org/abs/2503.04675)|null|
+|**2025-03-06**|**Data-Driven Distributed Optimization via Aggregative Tracking and Deep-Learning**|Riccardo Brumali et.al.|[2503.04668](http://arxiv.org/abs/2503.04668)|null|
+|**2025-03-06**|**Assessing the performance of compartmental and renewal models for learning $R_{t}$ using spatially heterogeneous epidemic simulations on real geographies**|Matthew Ghosh et.al.|[2503.04648](http://arxiv.org/abs/2503.04648)|null|
+|**2025-03-06**|**Implicit Cross-Lingual Rewarding for Efficient Multilingual Preference Alignment**|Wen Yang et.al.|[2503.04647](http://arxiv.org/abs/2503.04647)|null|
+|**2025-03-06**|**Mark Your LLM: Detecting the Misuse of Open-Source Large Language Models via Watermarking**|Yijie Xu et.al.|[2503.04636](http://arxiv.org/abs/2503.04636)|null|
+|**2025-03-06**|**SurveyForge: On the Outline Heuristics, Memory-Driven Generation, and Multi-dimensional Evaluation for Automated Survey Writing**|Xiangchao Yan et.al.|[2503.04629](http://arxiv.org/abs/2503.04629)|null|
+|**2025-03-06**|**Better Process Supervision with Bi-directional Rewarding Signals**|Wenxiang Chen et.al.|[2503.04618](http://arxiv.org/abs/2503.04618)|null|
+|**2025-03-06**|**Towards Data-Efficient Language Models: A Child-Inspired Approach to Language Learning**|Mohammad Amin Ghanizadeh et.al.|[2503.04611](http://arxiv.org/abs/2503.04611)|null|
+|**2025-03-06**|**HybridNorm: Towards Stable and Efficient Transformer Training via Hybrid Normalization**|Zhijian Zhuo et.al.|[2503.04598](http://arxiv.org/abs/2503.04598)|null|
+|**2025-03-06**|**The Next Frontier of LLM Applications: Open Ecosystems and Hardware Synergy**|Xinyi Hou et.al.|[2503.04596](http://arxiv.org/abs/2503.04596)|null|
+|**2025-03-06**|**Advancing Solutions for the Three-Body Problem Through Physics-Informed Neural Networks**|Manuel Santos Pereira et.al.|[2503.04585](http://arxiv.org/abs/2503.04585)|null|
 |**2025-03-05**|**The MASK Benchmark: Disentangling Honesty From Accuracy in AI Systems**|Richard Ren et.al.|[2503.03750](http://arxiv.org/abs/2503.03750)|null|
 |**2025-03-05**|**Process-based Self-Rewarding Language Models**|Shimao Zhang et.al.|[2503.03746](http://arxiv.org/abs/2503.03746)|null|
 |**2025-03-05**|**CHOP: Mobile Operating Assistant with Constrained High-frequency Optimized Subtask Planning**|Yuqi Zhou et.al.|[2503.03743](http://arxiv.org/abs/2503.03743)|null|
@@ -3664,6 +3704,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-06**|**L $^2$ M: Mutual Information Scaling Law for Long-Context Language Modeling**|Zhuo Chen et.al.|[2503.04725](http://arxiv.org/abs/2503.04725)|null|
+|**2025-03-06**|**Shifting Long-Context LLMs Research from Input to Output**|Yuhao Wu et.al.|[2503.04723](http://arxiv.org/abs/2503.04723)|null|
+|**2025-03-06**|**Enough Coin Flips Can Make LLMs Act Bayesian**|Ritwik Gupta et.al.|[2503.04722](http://arxiv.org/abs/2503.04722)|null|
+|**2025-03-06**|**FluidNexus: 3D Fluid Reconstruction and Prediction from a Single Video**|Yue Gao et.al.|[2503.04720](http://arxiv.org/abs/2503.04720)|null|
+|**2025-03-06**|**Predictable Scale: Part I -- Optimal Hyperparameter Scaling Law in Large Language Model Pretraining**|Houyi Li et.al.|[2503.04715](http://arxiv.org/abs/2503.04715)|null|
+|**2025-03-06**|**An Extended State Space Model of Aggregated Electric Vehicles for Flexibility Estimation and Power Control**|Yiping Liu et.al.|[2503.04714](http://arxiv.org/abs/2503.04714)|null|
+|**2025-03-06**|**Improving Cosmic Birefringence Constraints via Delensing**|Anto Idicherian Lonappan et.al.|[2503.04708](http://arxiv.org/abs/2503.04708)|null|
+|**2025-03-06**|**Universality of Layer-Level Entropy-Weighted Quantization Beyond Model Architecture and Size**|Alireza Behtash et.al.|[2503.04704](http://arxiv.org/abs/2503.04704)|null|
+|**2025-03-06**|**A linearly-implicit energy preserving scheme for geometrically nonlinear mechanics based on non-canonical Hamiltonian formulations**|Andrea Brugnoli et.al.|[2503.04695](http://arxiv.org/abs/2503.04695)|null|
+|**2025-03-06**|**UIPE: Enhancing LLM Unlearning by Removing Knowledge Related to Forgetting Targets**|Wenyu Wang et.al.|[2503.04693](http://arxiv.org/abs/2503.04693)|null|
+|**2025-03-06**|**Quantifying the Reasoning Abilities of LLMs on Real-world Clinical Cases**|Pengcheng Qiu et.al.|[2503.04691](http://arxiv.org/abs/2503.04691)|null|
+|**2025-03-06**|**Coarse graining and reduced order models for plume ejection dynamics**|Ike Griss Salas et.al.|[2503.04690](http://arxiv.org/abs/2503.04690)|null|
+|**2025-03-06**|**Multi-Agent Inverse Q-Learning from Demonstrations**|Nathaniel Haynam et.al.|[2503.04679](http://arxiv.org/abs/2503.04679)|null|
+|**2025-03-06**|**LLM-guided Plan and Retrieval: A Strategic Alignment for Interpretable User Satisfaction Estimation in Dialogue**|Sangyeop Kim et.al.|[2503.04675](http://arxiv.org/abs/2503.04675)|null|
+|**2025-03-06**|**Data-Driven Distributed Optimization via Aggregative Tracking and Deep-Learning**|Riccardo Brumali et.al.|[2503.04668](http://arxiv.org/abs/2503.04668)|null|
+|**2025-03-06**|**Predicting Heteropolymer Phase Separation Using Two-Chain Contact Maps**|Jessica Jin et.al.|[2503.04659](http://arxiv.org/abs/2503.04659)|null|
+|**2025-03-06**|**Assessing the performance of compartmental and renewal models for learning $R_{t}$ using spatially heterogeneous epidemic simulations on real geographies**|Matthew Ghosh et.al.|[2503.04648](http://arxiv.org/abs/2503.04648)|null|
+|**2025-03-06**|**Implicit Cross-Lingual Rewarding for Efficient Multilingual Preference Alignment**|Wen Yang et.al.|[2503.04647](http://arxiv.org/abs/2503.04647)|null|
+|**2025-03-06**|**Characterization and Mitigation of Crosstalk in Quantum Error Correction**|Zeyuan Zhou et.al.|[2503.04642](http://arxiv.org/abs/2503.04642)|null|
+|**2025-03-06**|**Simulating the Real World: A Unified Survey of Multimodal Generative Models**|Yuqi Hu et.al.|[2503.04641](http://arxiv.org/abs/2503.04641)|null|
 |**2025-03-05**|**The MASK Benchmark: Disentangling Honesty From Accuracy in AI Systems**|Richard Ren et.al.|[2503.03750](http://arxiv.org/abs/2503.03750)|null|
 |**2025-03-05**|**Process-based Self-Rewarding Language Models**|Shimao Zhang et.al.|[2503.03746](http://arxiv.org/abs/2503.03746)|null|
 |**2025-03-05**|**CHOP: Mobile Operating Assistant with Constrained High-frequency Optimized Subtask Planning**|Yuqi Zhou et.al.|[2503.03743](http://arxiv.org/abs/2503.03743)|null|
@@ -5489,6 +5549,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-06**|**L $^2$ M: Mutual Information Scaling Law for Long-Context Language Modeling**|Zhuo Chen et.al.|[2503.04725](http://arxiv.org/abs/2503.04725)|null|
+|**2025-03-06**|**Shifting Long-Context LLMs Research from Input to Output**|Yuhao Wu et.al.|[2503.04723](http://arxiv.org/abs/2503.04723)|null|
+|**2025-03-06**|**Enough Coin Flips Can Make LLMs Act Bayesian**|Ritwik Gupta et.al.|[2503.04722](http://arxiv.org/abs/2503.04722)|null|
+|**2025-03-06**|**Predictable Scale: Part I -- Optimal Hyperparameter Scaling Law in Large Language Model Pretraining**|Houyi Li et.al.|[2503.04715](http://arxiv.org/abs/2503.04715)|null|
+|**2025-03-06**|**Universality of Layer-Level Entropy-Weighted Quantization Beyond Model Architecture and Size**|Alireza Behtash et.al.|[2503.04704](http://arxiv.org/abs/2503.04704)|null|
+|**2025-03-06**|**L1: Controlling How Long A Reasoning Model Thinks With Reinforcement Learning**|Pranjal Aggarwal et.al.|[2503.04697](http://arxiv.org/abs/2503.04697)|null|
+|**2025-03-06**|**UIPE: Enhancing LLM Unlearning by Removing Knowledge Related to Forgetting Targets**|Wenyu Wang et.al.|[2503.04693](http://arxiv.org/abs/2503.04693)|null|
+|**2025-03-06**|**Quantifying the Reasoning Abilities of LLMs on Real-world Clinical Cases**|Pengcheng Qiu et.al.|[2503.04691](http://arxiv.org/abs/2503.04691)|null|
+|**2025-03-06**|**DIMSUM: Discourse in Mathematical Reasoning as a Supervision Module**|Krish Sharma et.al.|[2503.04685](http://arxiv.org/abs/2503.04685)|null|
+|**2025-03-06**|**Matrix Factorization for Inferring Associations and Missing Links**|Ryan Barron et.al.|[2503.04680](http://arxiv.org/abs/2503.04680)|null|
+|**2025-03-06**|**LLM-guided Plan and Retrieval: A Strategic Alignment for Interpretable User Satisfaction Estimation in Dialogue**|Sangyeop Kim et.al.|[2503.04675](http://arxiv.org/abs/2503.04675)|null|
+|**2025-03-06**|**Implicit Cross-Lingual Rewarding for Efficient Multilingual Preference Alignment**|Wen Yang et.al.|[2503.04647](http://arxiv.org/abs/2503.04647)|null|
+|**2025-03-06**|**Mark Your LLM: Detecting the Misuse of Open-Source Large Language Models via Watermarking**|Yijie Xu et.al.|[2503.04636](http://arxiv.org/abs/2503.04636)|null|
+|**2025-03-06**|**START: Self-taught Reasoner with Tools**|Chengpeng Li et.al.|[2503.04625](http://arxiv.org/abs/2503.04625)|null|
+|**2025-03-06**|**Better Process Supervision with Bi-directional Rewarding Signals**|Wenxiang Chen et.al.|[2503.04618](http://arxiv.org/abs/2503.04618)|null|
+|**2025-03-06**|**Towards Data-Efficient Language Models: A Child-Inspired Approach to Language Learning**|Mohammad Amin Ghanizadeh et.al.|[2503.04611](http://arxiv.org/abs/2503.04611)|null|
+|**2025-03-06**|**HybridNorm: Towards Stable and Efficient Transformer Training via Hybrid Normalization**|Zhijian Zhuo et.al.|[2503.04598](http://arxiv.org/abs/2503.04598)|null|
+|**2025-03-06**|**The Next Frontier of LLM Applications: Open Ecosystems and Hardware Synergy**|Xinyi Hou et.al.|[2503.04596](http://arxiv.org/abs/2503.04596)|null|
+|**2025-03-06**|**Learning Generalizable Language-Conditioned Cloth Manipulation from Long Demonstrations**|Hanyi Zhao et.al.|[2503.04557](http://arxiv.org/abs/2503.04557)|null|
+|**2025-03-06**|**Compositional Causal Reasoning Evaluation in Language Models**|Jacqueline R. M. A. Maasch et.al.|[2503.04556](http://arxiv.org/abs/2503.04556)|null|
 |**2025-03-05**|**The MASK Benchmark: Disentangling Honesty From Accuracy in AI Systems**|Richard Ren et.al.|[2503.03750](http://arxiv.org/abs/2503.03750)|null|
 |**2025-03-05**|**PacketCLIP: Multi-Modal Embedding of Network Traffic and Language for Cybersecurity Reasoning**|Ryozo Masukawa et.al.|[2503.03747](http://arxiv.org/abs/2503.03747)|null|
 |**2025-03-05**|**Process-based Self-Rewarding Language Models**|Shimao Zhang et.al.|[2503.03746](http://arxiv.org/abs/2503.03746)|null|
