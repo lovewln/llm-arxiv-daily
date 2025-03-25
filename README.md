@@ -20,6 +20,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-24**|**SlowFast-LLaVA-1.5: A Family of Token-Efficient Video Large Language Models for Long-Form Video Understanding**|Mingze Xu et.al.|[2503.18943](http://arxiv.org/abs/2503.18943)|null|
+|**2025-03-24**|**Video-T1: Test-Time Scaling for Video Generation**|Fangfu Liu et.al.|[2503.18942](http://arxiv.org/abs/2503.18942)|null|
+|**2025-03-24**|**Exploring Training and Inference Scaling Laws in Generative Retrieval**|Hongru Cai et.al.|[2503.18941](http://arxiv.org/abs/2503.18941)|null|
+|**2025-03-24**|**Trajectory Balance with Asynchrony: Decoupling Exploration and Learning for Fast, Scalable LLM Post-Training**|Brian R. Bartoldson et.al.|[2503.18929](http://arxiv.org/abs/2503.18929)|null|
+|**2025-03-24**|**FFN Fusion: Rethinking Sequential Computation in Large Language Models**|Akhiad Bercovich et.al.|[2503.18908](http://arxiv.org/abs/2503.18908)|null|
+|**2025-03-24**|**xKV: Cross-Layer SVD for KV-Cache Compression**|Chi-Chih Chang et.al.|[2503.18893](http://arxiv.org/abs/2503.18893)|null|
+|**2025-03-24**|**AgentDropout: Dynamic Agent Elimination for Token-Efficient and High-Performance LLM-Based Multi-Agent Collaboration**|Zhexuan Wang et.al.|[2503.18891](http://arxiv.org/abs/2503.18891)|null|
+|**2025-03-24**|**Toward building next-generation Geocoding systems: a systematic review**|Zhengcong Yin et.al.|[2503.18888](http://arxiv.org/abs/2503.18888)|null|
+|**2025-03-24**|**I Have Covered All the Bases Here: Interpreting Reasoning Features in Large Language Models via Sparse Autoencoders**|Andrey Galichin et.al.|[2503.18878](http://arxiv.org/abs/2503.18878)|null|
+|**2025-03-24**|**Reimagining Memory Access for LLM Inference: Compression-Aware Memory Controller Design**|Rui Xie et.al.|[2503.18869](http://arxiv.org/abs/2503.18869)|null|
+|**2025-03-24**|**Structuring Scientific Innovation: A Framework for Modeling and Discovering Impactful Knowledge Combinations**|Junlan Chen et.al.|[2503.18865](http://arxiv.org/abs/2503.18865)|null|
+|**2025-03-24**|**Defeating Prompt Injections by Design**|Edoardo Debenedetti et.al.|[2503.18813](http://arxiv.org/abs/2503.18813)|null|
+|**2025-03-24**|**Classical Planning with LLM-Generated Heuristics: Challenging the State of the Art with Python Code**|Augusto B. Corrêa et.al.|[2503.18809](http://arxiv.org/abs/2503.18809)|null|
+|**2025-03-24**|**REALM: A Dataset of Real-World LLM Use Cases**|Jingwen Cheng et.al.|[2503.18792](http://arxiv.org/abs/2503.18792)|null|
+|**2025-03-24**|**BitDecoding: Unlocking Tensor Cores for Long-Context LLMs Decoding with Low-Bit KV Cache**|Dayou Du et.al.|[2503.18773](http://arxiv.org/abs/2503.18773)|null|
+|**2025-03-24**|**AlphaSpace: Enabling Robotic Actions through Semantic Tokenization and Symbolic Reasoning**|Alan Dao et.al.|[2503.18769](http://arxiv.org/abs/2503.18769)|null|
+|**2025-03-24**|**LLaVAction: evaluating and training multi-modal large language models for action recognition**|Shaokai Ye et.al.|[2503.18712](http://arxiv.org/abs/2503.18712)|null|
+|**2025-03-24**|**Commander-GPT: Fully Unleashing the Sarcasm Detection Capability of Multi-Modal Large Language Models**|Yazhou Zhang et.al.|[2503.18681](http://arxiv.org/abs/2503.18681)|null|
+|**2025-03-24**|**Boosting Virtual Agent Learning and Reasoning: A Step-wise, Multi-dimensional, and Generalist Reward Model with Benchmark**|Bingchen Miao et.al.|[2503.18665](http://arxiv.org/abs/2503.18665)|null|
+|**2025-03-24**|**From Fragment to One Piece: A Survey on AI-Driven Graphic Design**|Xingxing Zou et.al.|[2503.18641](http://arxiv.org/abs/2503.18641)|null|
 |**2025-03-21**|**Dancing with Critiques: Enhancing LLM Reasoning with Stepwise Natural Language Self-Critique**|Yansi Li et.al.|[2503.17363](http://arxiv.org/abs/2503.17363)|null|
 |**2025-03-21**|**OpenVLThinker: An Early Exploration to Complex Vision-Language Reasoning via Iterative Self-Improvement**|Yihe Deng et.al.|[2503.17352](http://arxiv.org/abs/2503.17352)|null|
 |**2025-03-21**|**Capturing Individual Human Preferences with Reward Features**|André Barreto et.al.|[2503.17338](http://arxiv.org/abs/2503.17338)|null|
@@ -2088,6 +2108,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-24**|**SlowFast-LLaVA-1.5: A Family of Token-Efficient Video Large Language Models for Long-Form Video Understanding**|Mingze Xu et.al.|[2503.18943](http://arxiv.org/abs/2503.18943)|null|
+|**2025-03-24**|**Video-T1: Test-Time Scaling for Video Generation**|Fangfu Liu et.al.|[2503.18942](http://arxiv.org/abs/2503.18942)|null|
+|**2025-03-24**|**Exploring Training and Inference Scaling Laws in Generative Retrieval**|Hongru Cai et.al.|[2503.18941](http://arxiv.org/abs/2503.18941)|null|
+|**2025-03-24**|**AdaWorld: Learning Adaptable World Models with Latent Actions**|Shenyuan Gao et.al.|[2503.18938](http://arxiv.org/abs/2503.18938)|null|
+|**2025-03-24**|**Trajectory Balance with Asynchrony: Decoupling Exploration and Learning for Fast, Scalable LLM Post-Training**|Brian R. Bartoldson et.al.|[2503.18929](http://arxiv.org/abs/2503.18929)|null|
+|**2025-03-24**|**FFN Fusion: Rethinking Sequential Computation in Large Language Models**|Akhiad Bercovich et.al.|[2503.18908](http://arxiv.org/abs/2503.18908)|null|
+|**2025-03-24**|**xKV: Cross-Layer SVD for KV-Cache Compression**|Chi-Chih Chang et.al.|[2503.18893](http://arxiv.org/abs/2503.18893)|null|
+|**2025-03-24**|**AgentDropout: Dynamic Agent Elimination for Token-Efficient and High-Performance LLM-Based Multi-Agent Collaboration**|Zhexuan Wang et.al.|[2503.18891](http://arxiv.org/abs/2503.18891)|null|
+|**2025-03-24**|**Toward building next-generation Geocoding systems: a systematic review**|Zhengcong Yin et.al.|[2503.18888](http://arxiv.org/abs/2503.18888)|null|
+|**2025-03-24**|**I Have Covered All the Bases Here: Interpreting Reasoning Features in Large Language Models via Sparse Autoencoders**|Andrey Galichin et.al.|[2503.18878](http://arxiv.org/abs/2503.18878)|null|
+|**2025-03-24**|**Reimagining Memory Access for LLM Inference: Compression-Aware Memory Controller Design**|Rui Xie et.al.|[2503.18869](http://arxiv.org/abs/2503.18869)|null|
+|**2025-03-24**|**Structuring Scientific Innovation: A Framework for Modeling and Discovering Impactful Knowledge Combinations**|Junlan Chen et.al.|[2503.18865](http://arxiv.org/abs/2503.18865)|null|
+|**2025-03-24**|**Dynamics of Insect Paraintelligence: How a Mindless Colony of Ants Meaningfully Moves a Beetle**|Eldar Knar et.al.|[2503.18858](http://arxiv.org/abs/2503.18858)|null|
+|**2025-03-24**|**Self-Organizing Graph Reasoning Evolves into a Critical State for Continuous Discovery Through Structural-Semantic Dynamics**|Markus J. Buehler et.al.|[2503.18852](http://arxiv.org/abs/2503.18852)|null|
+|**2025-03-24**|**EconEvals: Benchmarks and Litmus Tests for LLM Agents in Unknown Environments**|Sara Fish et.al.|[2503.18825](http://arxiv.org/abs/2503.18825)|null|
+|**2025-03-24**|**Faster Heat Transfer Clarifies the Unexpected Twist in the Simultaneous Freezing of Hot versus Cold Water**|James D. Brownridge et.al.|[2503.18820](http://arxiv.org/abs/2503.18820)|null|
+|**2025-03-24**|**Learning Multi-Robot Coordination through Locality-Based Factorized Multi-Agent Actor-Critic Algorithm**|Chak Lam Shek et.al.|[2503.18816](http://arxiv.org/abs/2503.18816)|null|
+|**2025-03-24**|**Defeating Prompt Injections by Design**|Edoardo Debenedetti et.al.|[2503.18813](http://arxiv.org/abs/2503.18813)|null|
+|**2025-03-24**|**Classical Planning with LLM-Generated Heuristics: Challenging the State of the Art with Python Code**|Augusto B. Corrêa et.al.|[2503.18809](http://arxiv.org/abs/2503.18809)|null|
+|**2025-03-24**|**REALM: A Dataset of Real-World LLM Use Cases**|Jingwen Cheng et.al.|[2503.18792](http://arxiv.org/abs/2503.18792)|null|
 |**2025-03-21**|**Dancing with Critiques: Enhancing LLM Reasoning with Stepwise Natural Language Self-Critique**|Yansi Li et.al.|[2503.17363](http://arxiv.org/abs/2503.17363)|null|
 |**2025-03-21**|**HCAST: Human-Calibrated Autonomy Software Tasks**|David Rein et.al.|[2503.17354](http://arxiv.org/abs/2503.17354)|null|
 |**2025-03-21**|**OpenVLThinker: An Early Exploration to Complex Vision-Language Reasoning via Iterative Self-Improvement**|Yihe Deng et.al.|[2503.17352](http://arxiv.org/abs/2503.17352)|null|
@@ -4156,6 +4196,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-24**|**SlowFast-LLaVA-1.5: A Family of Token-Efficient Video Large Language Models for Long-Form Video Understanding**|Mingze Xu et.al.|[2503.18943](http://arxiv.org/abs/2503.18943)|null|
+|**2025-03-24**|**Video-T1: Test-Time Scaling for Video Generation**|Fangfu Liu et.al.|[2503.18942](http://arxiv.org/abs/2503.18942)|null|
+|**2025-03-24**|**Exploring Training and Inference Scaling Laws in Generative Retrieval**|Hongru Cai et.al.|[2503.18941](http://arxiv.org/abs/2503.18941)|null|
+|**2025-03-24**|**Simulation of Fermionic circuits using Majorana Propagation**|Aaron Miller et.al.|[2503.18939](http://arxiv.org/abs/2503.18939)|null|
+|**2025-03-24**|**AdaWorld: Learning Adaptable World Models with Latent Actions**|Shenyuan Gao et.al.|[2503.18938](http://arxiv.org/abs/2503.18938)|null|
+|**2025-03-24**|**Modeling matter(s) in SEOBNRv5THM: Generating fast and accurate effective-one-body waveforms for spin-aligned binary neutron stars**|Marcus Haberland et.al.|[2503.18934](http://arxiv.org/abs/2503.18934)|null|
+|**2025-03-24**|**Trajectory Balance with Asynchrony: Decoupling Exploration and Learning for Fast, Scalable LLM Post-Training**|Brian R. Bartoldson et.al.|[2503.18929](http://arxiv.org/abs/2503.18929)|null|
+|**2025-03-24**|**Coincidence measurement of two-photon double ionization of argon through an autoionizing resonance**|Sebastian Hell et.al.|[2503.18913](http://arxiv.org/abs/2503.18913)|null|
+|**2025-03-24**|**Causal Links Between Anthropogenic Emissions and Air Pollution Dynamics in Delhi**|Sourish Das et.al.|[2503.18912](http://arxiv.org/abs/2503.18912)|null|
+|**2025-03-24**|**FFN Fusion: Rethinking Sequential Computation in Large Language Models**|Akhiad Bercovich et.al.|[2503.18908](http://arxiv.org/abs/2503.18908)|null|
+|**2025-03-24**|**Entropy of a restricted primitive model electrolyte using a mean electrostatic potential approach**|S. Lamperski et.al.|[2503.18907](http://arxiv.org/abs/2503.18907)|null|
+|**2025-03-24**|**On the temperature, pressure and composition effects in the properties of water-methanol mixtures. I. Density, excess mixing volume and enthalpy, and self-diffusion coefficients from molecular dynamics simulations**|M. Cruz Sanchez et.al.|[2503.18901](http://arxiv.org/abs/2503.18901)|null|
+|**2025-03-24**|**xKV: Cross-Layer SVD for KV-Cache Compression**|Chi-Chih Chang et.al.|[2503.18893](http://arxiv.org/abs/2503.18893)|null|
+|**2025-03-24**|**AgentDropout: Dynamic Agent Elimination for Token-Efficient and High-Performance LLM-Based Multi-Agent Collaboration**|Zhexuan Wang et.al.|[2503.18891](http://arxiv.org/abs/2503.18891)|null|
+|**2025-03-24**|**Toward building next-generation Geocoding systems: a systematic review**|Zhengcong Yin et.al.|[2503.18888](http://arxiv.org/abs/2503.18888)|null|
+|**2025-03-24**|**Further evidence of saturated, boosted, and disrupted magnetic braking from evolutionary tracks of cataclysmic variables**|Joaquín A. Barraza Jorquera et.al.|[2503.18884](http://arxiv.org/abs/2503.18884)|null|
+|**2025-03-24**|**Scaling properties of diblock copolymers: dynamic simulations study**|K. Haydukivska et.al.|[2503.18881](http://arxiv.org/abs/2503.18881)|null|
+|**2025-03-24**|**Optimizing compensation in Ising spin- $1/2$ site-diluted trilayered square ferrimagnets: Insights from Monte Carlo Simulations**|Soham Chandra et.al.|[2503.18879](http://arxiv.org/abs/2503.18879)|null|
+|**2025-03-24**|**I Have Covered All the Bases Here: Interpreting Reasoning Features in Large Language Models via Sparse Autoencoders**|Andrey Galichin et.al.|[2503.18878](http://arxiv.org/abs/2503.18878)|null|
+|**2025-03-24**|**A semantic communication-based workload-adjustable transceiver for wireless AI-generated content (AIGC) delivery**|Runze Cheng et.al.|[2503.18874](http://arxiv.org/abs/2503.18874)|null|
 |**2025-03-21**|**Dancing with Critiques: Enhancing LLM Reasoning with Stepwise Natural Language Self-Critique**|Yansi Li et.al.|[2503.17363](http://arxiv.org/abs/2503.17363)|null|
 |**2025-03-21**|**OpenVLThinker: An Early Exploration to Complex Vision-Language Reasoning via Iterative Self-Improvement**|Yihe Deng et.al.|[2503.17352](http://arxiv.org/abs/2503.17352)|null|
 |**2025-03-21**|**The impact of the Galactic bar and the Large Magellanic Cloud on hypervelocity star trajectories**|Isabella Armstrong et.al.|[2503.17344](http://arxiv.org/abs/2503.17344)|null|
@@ -6228,6 +6288,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-24**|**Aether: Geometric-Aware Unified World Modeling**|Aether Team et.al.|[2503.18945](http://arxiv.org/abs/2503.18945)|null|
+|**2025-03-24**|**SlowFast-LLaVA-1.5: A Family of Token-Efficient Video Large Language Models for Long-Form Video Understanding**|Mingze Xu et.al.|[2503.18943](http://arxiv.org/abs/2503.18943)|null|
+|**2025-03-24**|**Video-T1: Test-Time Scaling for Video Generation**|Fangfu Liu et.al.|[2503.18942](http://arxiv.org/abs/2503.18942)|null|
+|**2025-03-24**|**Exploring Training and Inference Scaling Laws in Generative Retrieval**|Hongru Cai et.al.|[2503.18941](http://arxiv.org/abs/2503.18941)|null|
+|**2025-03-24**|**Trajectory Balance with Asynchrony: Decoupling Exploration and Learning for Fast, Scalable LLM Post-Training**|Brian R. Bartoldson et.al.|[2503.18929](http://arxiv.org/abs/2503.18929)|null|
+|**2025-03-24**|**Video SimpleQA: Towards Factuality Evaluation in Large Video Language Models**|Meng Cao et.al.|[2503.18923](http://arxiv.org/abs/2503.18923)|null|
+|**2025-03-24**|**FFN Fusion: Rethinking Sequential Computation in Large Language Models**|Akhiad Bercovich et.al.|[2503.18908](http://arxiv.org/abs/2503.18908)|null|
+|**2025-03-24**|**xKV: Cross-Layer SVD for KV-Cache Compression**|Chi-Chih Chang et.al.|[2503.18893](http://arxiv.org/abs/2503.18893)|null|
+|**2025-03-24**|**SimpleRL-Zoo: Investigating and Taming Zero Reinforcement Learning for Open Base Models in the Wild**|Weihao Zeng et.al.|[2503.18892](http://arxiv.org/abs/2503.18892)|null|
+|**2025-03-24**|**AgentDropout: Dynamic Agent Elimination for Token-Efficient and High-Performance LLM-Based Multi-Agent Collaboration**|Zhexuan Wang et.al.|[2503.18891](http://arxiv.org/abs/2503.18891)|null|
+|**2025-03-24**|**Toward building next-generation Geocoding systems: a systematic review**|Zhengcong Yin et.al.|[2503.18888](http://arxiv.org/abs/2503.18888)|null|
+|**2025-03-24**|**I Have Covered All the Bases Here: Interpreting Reasoning Features in Large Language Models via Sparse Autoencoders**|Andrey Galichin et.al.|[2503.18878](http://arxiv.org/abs/2503.18878)|null|
+|**2025-03-24**|**Reimagining Memory Access for LLM Inference: Compression-Aware Memory Controller Design**|Rui Xie et.al.|[2503.18869](http://arxiv.org/abs/2503.18869)|null|
+|**2025-03-24**|**Reasoning to Learn from Latent Thoughts**|Yangjun Ruan et.al.|[2503.18866](http://arxiv.org/abs/2503.18866)|null|
+|**2025-03-24**|**Structuring Scientific Innovation: A Framework for Modeling and Discovering Impactful Knowledge Combinations**|Junlan Chen et.al.|[2503.18865](http://arxiv.org/abs/2503.18865)|null|
+|**2025-03-24**|**Self-Organizing Graph Reasoning Evolves into a Critical State for Continuous Discovery Through Structural-Semantic Dynamics**|Markus J. Buehler et.al.|[2503.18852](http://arxiv.org/abs/2503.18852)|null|
+|**2025-03-24**|**Dual-domain Multi-path Self-supervised Diffusion Model for Accelerated MRI Reconstruction**|Yuxuan Zhang et.al.|[2503.18836](http://arxiv.org/abs/2503.18836)|null|
+|**2025-03-24**|**Defeating Prompt Injections by Design**|Edoardo Debenedetti et.al.|[2503.18813](http://arxiv.org/abs/2503.18813)|null|
+|**2025-03-24**|**Classical Planning with LLM-Generated Heuristics: Challenging the State of the Art with Python Code**|Augusto B. Corrêa et.al.|[2503.18809](http://arxiv.org/abs/2503.18809)|null|
+|**2025-03-24**|**REALM: A Dataset of Real-World LLM Use Cases**|Jingwen Cheng et.al.|[2503.18792](http://arxiv.org/abs/2503.18792)|null|
 |**2025-03-21**|**Dancing with Critiques: Enhancing LLM Reasoning with Stepwise Natural Language Self-Critique**|Yansi Li et.al.|[2503.17363](http://arxiv.org/abs/2503.17363)|null|
 |**2025-03-21**|**Position: Interactive Generative Video as Next-Generation Game Engine**|Jiwen Yu et.al.|[2503.17359](http://arxiv.org/abs/2503.17359)|null|
 |**2025-03-21**|**HCAST: Human-Calibrated Autonomy Software Tasks**|David Rein et.al.|[2503.17354](http://arxiv.org/abs/2503.17354)|null|
