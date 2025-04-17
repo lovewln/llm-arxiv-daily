@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.04.16
+## Updated on 2025.04.17
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## large language model
@@ -27,7 +27,7 @@ layout: default
 |**2025-04-15**|**A Minimalist Approach to LLM Reasoning: from Rejection Sampling to Reinforce**|Wei Xiong et.al.|[2504.11343](http://arxiv.org/abs/2504.11343)|null|
 |**2025-04-15**|**Optimizing LLM Inference: Fluid-Guided Online Scheduling with Memory Constraints**|Ruicheng Ao et.al.|[2504.11320](http://arxiv.org/abs/2504.11320)|null|
 |**2025-04-15**|**Learning to Be A Doctor: Searching for Effective Medical Agent Architectures**|Yangyang Zhuang et.al.|[2504.11301](http://arxiv.org/abs/2504.11301)|null|
-|**2025-04-15**|**Automated Python Translation**|Joshua Otten et.al.|[2504.11290](http://arxiv.org/abs/2504.11290)|null|
+|**2025-04-16**|**Automated Python Translation**|Joshua Otten et.al.|[2504.11290](http://arxiv.org/abs/2504.11290)|null|
 |**2025-04-15**|**The Obvious Invisible Threat: LLM-Powered GUI Agents' Vulnerability to Fine-Print Injections**|Chaoran Chen et.al.|[2504.11281](http://arxiv.org/abs/2504.11281)|null|
 |**2025-04-15**|**From Misleading Queries to Accurate Answers: A Three-Stage Fine-Tuning Method for LLMs**|Guocong Li et.al.|[2504.11277](http://arxiv.org/abs/2504.11277)|null|
 |**2025-04-15**|**Distillation-Supervised Convolutional Low-Rank Adaptation for Efficient Image Super-Resolution**|Xinning Chai et.al.|[2504.11271](http://arxiv.org/abs/2504.11271)|null|
@@ -2416,7 +2416,7 @@ layout: default
 |**2025-04-15**|**Optimizing LLM Inference: Fluid-Guided Online Scheduling with Memory Constraints**|Ruicheng Ao et.al.|[2504.11320](http://arxiv.org/abs/2504.11320)|null|
 |**2025-04-15**|**Learning to Be A Doctor: Searching for Effective Medical Agent Architectures**|Yangyang Zhuang et.al.|[2504.11301](http://arxiv.org/abs/2504.11301)|null|
 |**2025-04-15**|**Policy heterogeneity improves collective olfactory search in 3-D turbulence**|Lorenzo Piro et.al.|[2504.11291](http://arxiv.org/abs/2504.11291)|null|
-|**2025-04-15**|**Automated Python Translation**|Joshua Otten et.al.|[2504.11290](http://arxiv.org/abs/2504.11290)|null|
+|**2025-04-16**|**Automated Python Translation**|Joshua Otten et.al.|[2504.11290](http://arxiv.org/abs/2504.11290)|null|
 |**2025-04-15**|**The Obvious Invisible Threat: LLM-Powered GUI Agents' Vulnerability to Fine-Print Injections**|Chaoran Chen et.al.|[2504.11281](http://arxiv.org/abs/2504.11281)|null|
 |**2025-04-15**|**From Misleading Queries to Accurate Answers: A Three-Stage Fine-Tuning Method for LLMs**|Guocong Li et.al.|[2504.11277](http://arxiv.org/abs/2504.11277)|null|
 |**2025-04-15**|**Distillation-Supervised Convolutional Low-Rank Adaptation for Efficient Image Super-Resolution**|Xinning Chai et.al.|[2504.11271](http://arxiv.org/abs/2504.11271)|null|
@@ -4802,7 +4802,7 @@ layout: default
 |**2025-04-15**|**MLPs and KANs for data-driven learning in physical problems: A performance comparison**|Raghav Pant et.al.|[2504.11397](http://arxiv.org/abs/2504.11397)|null|
 |**2025-04-15**|**DataDecide: How to Predict Best Pretraining Data with Small Experiments**|Ian Magnusson et.al.|[2504.11393](http://arxiv.org/abs/2504.11393)|null|
 |**2025-04-15**|**Unraveling Momentum and Heat Intercoupling in Reattaching Turbulent Boundary Layers Using Dynamic Mode Decomposition**|Rozie Zangeneh et.al.|[2504.11390](http://arxiv.org/abs/2504.11390)|null|
-|**2025-04-15**|**Accelerating Multiscale Modeling with Hybrid Solvers: Coupling FEM and Neural Operators with Domain Decomposition**|Wei Wanga et.al.|[2504.11383](http://arxiv.org/abs/2504.11383)|null|
+|**2025-04-16**|**Accelerating Multiscale Modeling with Hybrid Solvers: Coupling FEM and Neural Operators with Domain Decomposition**|Wei Wang et.al.|[2504.11383](http://arxiv.org/abs/2504.11383)|null|
 |**2025-04-15**|**RankAlign: A Ranking View of the Generator-Validator Gap in Large Language Models**|Juan Diego Rodriguez et.al.|[2504.11381](http://arxiv.org/abs/2504.11381)|null|
 |**2025-04-15**|**Speak with Confidence: Designing an Augmented Reality Training Tool for Public Speaking**|Mark Edison Jim et.al.|[2504.11380](http://arxiv.org/abs/2504.11380)|null|
 |**2025-04-15**|**A Multi-Stage Potts Machine based on Coupled CMOS Ring Oscillators**|Yilmaz Ege Gonul et.al.|[2504.11376](http://arxiv.org/abs/2504.11376)|null|
@@ -7177,7 +7177,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-04-15**|**DeepMath-103K: A Large-Scale, Challenging, Decontaminated, and Verifiable Mathematical Dataset for Advancing Reasoning**|Zhiwei He et.al.|[2504.11456](http://arxiv.org/abs/2504.11456)|null|
-|**2025-04-15**|**Diffusion Distillation With Direct Preference Optimization For Efficient 3D LiDAR Scene Completion**|An Zhaol et.al.|[2504.11447](http://arxiv.org/abs/2504.11447)|null|
+|**2025-04-16**|**Diffusion Distillation With Direct Preference Optimization For Efficient 3D LiDAR Scene Completion**|An Zhao et.al.|[2504.11447](http://arxiv.org/abs/2504.11447)|null|
 |**2025-04-15**|**TextArena**|Leon Guertler et.al.|[2504.11442](http://arxiv.org/abs/2504.11442)|null|
 |**2025-04-15**|**Masculine Defaults via Gendered Discourse in Podcasts and Large Language Models**|Maria Teleki et.al.|[2504.11431](http://arxiv.org/abs/2504.11431)|null|
 |**2025-04-15**|**A Dual-Space Framework for General Knowledge Distillation of Large Language Models**|Xue Zhang et.al.|[2504.11426](http://arxiv.org/abs/2504.11426)|null|
@@ -7195,7 +7195,7 @@ layout: default
 |**2025-04-15**|**Optimizing LLM Inference: Fluid-Guided Online Scheduling with Memory Constraints**|Ruicheng Ao et.al.|[2504.11320](http://arxiv.org/abs/2504.11320)|null|
 |**2025-04-15**|**Learning to Be A Doctor: Searching for Effective Medical Agent Architectures**|Yangyang Zhuang et.al.|[2504.11301](http://arxiv.org/abs/2504.11301)|null|
 |**2025-04-15**|**Transforming Resonance Fluorescence into Maximally Entangled Photon Pairs Using Minimal Resources**|Xin-Xin Hu et.al.|[2504.11294](http://arxiv.org/abs/2504.11294)|null|
-|**2025-04-15**|**Automated Python Translation**|Joshua Otten et.al.|[2504.11290](http://arxiv.org/abs/2504.11290)|null|
+|**2025-04-16**|**Automated Python Translation**|Joshua Otten et.al.|[2504.11290](http://arxiv.org/abs/2504.11290)|null|
 |**2025-04-14**|**xVerify: Efficient Answer Verifier for Reasoning Model Evaluations**|Ding Chen et.al.|[2504.10481](http://arxiv.org/abs/2504.10481)|null|
 |**2025-04-14**|**InternVL3: Exploring Advanced Training and Test-Time Recipes for Open-Source Multimodal Models**|Jinguo Zhu et.al.|[2504.10479](http://arxiv.org/abs/2504.10479)|null|
 |**2025-04-14**|**Weight Ensembling Improves Reasoning in Language Models**|Xingyu Dang et.al.|[2504.10478](http://arxiv.org/abs/2504.10478)|null|
