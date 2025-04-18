@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.04.17
+## Updated on 2025.04.18
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -2422,7 +2422,7 @@
 |**2024-10-16**|**FTII-Bench: A Comprehensive Multimodal Benchmark for Flow Text with Image Insertion**|Jiacheng Ruan et.al.|[2410.12564](http://arxiv.org/abs/2410.12564)|**[link](https://github.com/IAAR-Shanghai/FTIIBench)**|
 |**2024-10-17**|**LLM-based Translation Inference with Iterative Bilingual Understanding**|Andong Chen et.al.|[2410.12543](http://arxiv.org/abs/2410.12543)|null|
 
-<p align=right>(<a href=#updated-on-20250417>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250418>back to top</a>)</p>
 
 ## llm agent
 
@@ -4830,14 +4830,14 @@
 |**2024-10-16**|**Not All Votes Count! Programs as Verifiers Improve Self-Consistency of Language Models for Math Reasoning**|Vernon Y. H. Toh et.al.|[2410.12608](http://arxiv.org/abs/2410.12608)|**[link](https://github.com/declare-lab/prove)**|
 |**2024-10-16**|**CCSBench: Evaluating Compositional Controllability in LLMs for Scientific Document Summarization**|Yixi Ding et.al.|[2410.12601](http://arxiv.org/abs/2410.12601)|null|
 
-<p align=right>(<a href=#updated-on-20250417>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250418>back to top</a>)</p>
 
 ## llm simulation
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2025-04-16**|**Liouvillean Spectral Transition in Noisy Quantum Many-Body Scars**|Jin-Lou Ma et.al.|[2504.12291](http://arxiv.org/abs/2504.12291)|null|
-|**2025-04-16**|**The underlap coefficient as a measure of a biomarker's discriminatory ability**|Zhaoxi Zhang et.al.|[2504.12288](http://arxiv.org/abs/2504.12288)|null|
+|**2025-04-17**|**The underlap coefficient as a measure of a biomarker's discriminatory ability**|Zhaoxi Zhang et.al.|[2504.12288](http://arxiv.org/abs/2504.12288)|null|
 |**2025-04-16**|**Long-time soliton dynamics via a coarse-grained space-time method**|Dung N. Pham et.al.|[2504.12286](http://arxiv.org/abs/2504.12286)|null|
 |**2025-04-16**|**BitNet b1.58 2B4T Technical Report**|Shuming Ma et.al.|[2504.12285](http://arxiv.org/abs/2504.12285)|null|
 |**2025-04-16**|**On the effective magnetostrictive properties of anisotropic magneto-active elastomers in the small-deformation limit**|Connor D. Pierce et.al.|[2504.12271](http://arxiv.org/abs/2504.12271)|null|
@@ -7242,7 +7242,7 @@
 |**2024-10-16**|**Structure of the water/magnetite interface from sum frequency generation experiments and neural network based molecular dynamics simulations**|Salvatore Romano et.al.|[2410.12717](http://arxiv.org/abs/2410.12717)|null|
 |**2024-10-16**|**A Simple Interactive Fixed Effects Estimator for Short Panels**|Robert F. Phillips et.al.|[2410.12709](http://arxiv.org/abs/2410.12709)|null|
 
-<p align=right>(<a href=#updated-on-20250417>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250418>back to top</a>)</p>
 
 ## llm reasoning
 
@@ -9651,7 +9651,7 @@
 |**2024-10-16**|**Not All Votes Count! Programs as Verifiers Improve Self-Consistency of Language Models for Math Reasoning**|Vernon Y. H. Toh et.al.|[2410.12608](http://arxiv.org/abs/2410.12608)|**[link](https://github.com/declare-lab/prove)**|
 |**2024-10-16**|**CCSBench: Evaluating Compositional Controllability in LLMs for Scientific Document Summarization**|Yixi Ding et.al.|[2410.12601](http://arxiv.org/abs/2410.12601)|null|
 
-<p align=right>(<a href=#updated-on-20250417>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250418>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
