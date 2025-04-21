@@ -14,6 +14,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-18**|**Generative AI Act II: Test Time Scaling Drives Cognition Engineering**|Shijie Xia et.al.|[2504.13828](http://arxiv.org/abs/2504.13828)|null|
+|**2025-04-18**|**Feature Alignment and Representation Transfer in Knowledge Distillation for Large Language Models**|Junjie Yang et.al.|[2504.13825](http://arxiv.org/abs/2504.13825)|null|
+|**2025-04-18**|**Not All Rollouts are Useful: Down-Sampling Rollouts in LLM Reinforcement Learning**|Yixuan Even Xu et.al.|[2504.13818](http://arxiv.org/abs/2504.13818)|null|
+|**2025-04-18**|**BadApex: Backdoor Attack Based on Adaptive Optimization Mechanism of Black-box Large Language Models**|Zhengxian Wu et.al.|[2504.13775](http://arxiv.org/abs/2504.13775)|null|
+|**2025-04-18**|**DP2Unlearning: An Efficient and Guaranteed Unlearning Framework for LLMs**|Tamim Al Mahmud et.al.|[2504.13774](http://arxiv.org/abs/2504.13774)|null|
+|**2025-04-18**|**Detecting Malicious Source Code in PyPI Packages with LLMs: Does RAG Come in Handy?**|Motunrayo Ibiyo et.al.|[2504.13769](http://arxiv.org/abs/2504.13769)|null|
+|**2025-04-18**|**Scaling sparse feature circuit finding for in-context learning**|Dmitrii Kharlapenko et.al.|[2504.13756](http://arxiv.org/abs/2504.13756)|null|
+|**2025-04-18**|**Controlled Territory and Conflict Tracking (CONTACT): (Geo-)Mapping Occupied Territory from Open Source Intelligence**|Paul K. Mandal et.al.|[2504.13730](http://arxiv.org/abs/2504.13730)|null|
+|**2025-04-18**|**OpenDeception: Benchmarking and Investigating AI Deceptive Behaviors via Open-ended Interaction Simulation**|Yichen Wu et.al.|[2504.13707](http://arxiv.org/abs/2504.13707)|null|
+|**2025-04-18**|**Exploring Multimodal Prompt for Visualization Authoring with Large Language Models**|Zhen Wen et.al.|[2504.13700](http://arxiv.org/abs/2504.13700)|null|
+|**2025-04-18**|**Intelligent Interaction Strategies for Context-Aware Cognitive Augmentation**|Xiangrong et.al.|[2504.13684](http://arxiv.org/abs/2504.13684)|null|
+|**2025-04-18**|**Large Language Models Will Change The Way Children Think About Technology And Impact Every Interaction Paradigm**|Russell Beale et.al.|[2504.13667](http://arxiv.org/abs/2504.13667)|null|
+|**2025-04-18**|**Do Prompt Patterns Affect Code Quality? A First Empirical Assessment of ChatGPT-Generated Code**|Antonio Della Porta et.al.|[2504.13656](http://arxiv.org/abs/2504.13656)|null|
+|**2025-04-18**|**Exploring the Potential for Large Language Models to Demonstrate Rational Probabilistic Beliefs**|Gabriel Freedman et.al.|[2504.13644](http://arxiv.org/abs/2504.13644)|null|
+|**2025-04-18**|**Divergent LLM Adoption and Heterogeneous Convergence Paths in Research Writing**|Cong William Lin et.al.|[2504.13629](http://arxiv.org/abs/2504.13629)|null|
+|**2025-04-18**|**PV-VLM: A Multimodal Vision-Language Approach Incorporating Sky Images for Intra-Hour Photovoltaic Power Forecasting**|Huapeng Lin et.al.|[2504.13624](http://arxiv.org/abs/2504.13624)|null|
+|**2025-04-18**|**Compile Scene Graphs with Reinforcement Learning**|Zuyao Chen et.al.|[2504.13617](http://arxiv.org/abs/2504.13617)|null|
+|**2025-04-18**|**Long-context Non-factoid Question Answering in Indic Languages**|Ritwik Mishra et.al.|[2504.13615](http://arxiv.org/abs/2504.13615)|null|
+|**2025-04-18**|**Continual Pre-Training is (not) What You Need in Domain Adaption**|Pin-Er Chen et.al.|[2504.13603](http://arxiv.org/abs/2504.13603)|null|
+|**2025-04-18**|**Towards End-to-End Network Intent Management with Large Language Models**|Lam Dinh et.al.|[2504.13589](http://arxiv.org/abs/2504.13589)|null|
 |**2025-04-17**|**Sleep-time Compute: Beyond Inference Scaling at Test-time**|Kevin Lin et.al.|[2504.13171](http://arxiv.org/abs/2504.13171)|**[link](https://github.com/letta-ai/sleep-time-compute)**|
 |**2025-04-17**|**Exploring Expert Failures Improves LLM Agent Tuning**|Li-Cheng Lan et.al.|[2504.13145](http://arxiv.org/abs/2504.13145)|null|
 |**2025-04-17**|**Syntactic and Semantic Control of Large Language Models via Sequential Monte Carlo**|João Loula et.al.|[2504.13139](http://arxiv.org/abs/2504.13139)|null|
@@ -2440,6 +2460,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-18**|**Science Hierarchography: Hierarchical Organization of Science Literature**|Muhan Gao et.al.|[2504.13834](http://arxiv.org/abs/2504.13834)|null|
+|**2025-04-18**|**Generative AI Act II: Test Time Scaling Drives Cognition Engineering**|Shijie Xia et.al.|[2504.13828](http://arxiv.org/abs/2504.13828)|null|
+|**2025-04-18**|**Feature Alignment and Representation Transfer in Knowledge Distillation for Large Language Models**|Junjie Yang et.al.|[2504.13825](http://arxiv.org/abs/2504.13825)|null|
+|**2025-04-18**|**Not All Rollouts are Useful: Down-Sampling Rollouts in LLM Reinforcement Learning**|Yixuan Even Xu et.al.|[2504.13818](http://arxiv.org/abs/2504.13818)|null|
+|**2025-04-18**|**LearnAct: Few-Shot Mobile GUI Agent with a Unified Demonstration Benchmark**|Guangyi Liu et.al.|[2504.13805](http://arxiv.org/abs/2504.13805)|null|
+|**2025-04-18**|**ChatNekoHacker: Real-Time Fan Engagement with Conversational Agents**|Takuya Sera et.al.|[2504.13793](http://arxiv.org/abs/2504.13793)|null|
+|**2025-04-18**|**BadApex: Backdoor Attack Based on Adaptive Optimization Mechanism of Black-box Large Language Models**|Zhengxian Wu et.al.|[2504.13775](http://arxiv.org/abs/2504.13775)|null|
+|**2025-04-18**|**DP2Unlearning: An Efficient and Guaranteed Unlearning Framework for LLMs**|Tamim Al Mahmud et.al.|[2504.13774](http://arxiv.org/abs/2504.13774)|null|
+|**2025-04-18**|**Detecting Malicious Source Code in PyPI Packages with LLMs: Does RAG Come in Handy?**|Motunrayo Ibiyo et.al.|[2504.13769](http://arxiv.org/abs/2504.13769)|null|
+|**2025-04-18**|**Scaling sparse feature circuit finding for in-context learning**|Dmitrii Kharlapenko et.al.|[2504.13756](http://arxiv.org/abs/2504.13756)|null|
+|**2025-04-18**|**Controlled Territory and Conflict Tracking (CONTACT): (Geo-)Mapping Occupied Territory from Open Source Intelligence**|Paul K. Mandal et.al.|[2504.13730](http://arxiv.org/abs/2504.13730)|null|
+|**2025-04-18**|**$O(p \log d)$ Subgraph Isomorphism using Stigmergic Swarming Agents**|H. Van Dyke Parunak et.al.|[2504.13722](http://arxiv.org/abs/2504.13722)|null|
+|**2025-04-18**|**Stability of flocking in the reciprocal two-species Vicsek model: Effects of relative population, motility, and noise**|Aditya Kumar Dutta et.al.|[2504.13709](http://arxiv.org/abs/2504.13709)|null|
+|**2025-04-18**|**OpenDeception: Benchmarking and Investigating AI Deceptive Behaviors via Open-ended Interaction Simulation**|Yichen Wu et.al.|[2504.13707](http://arxiv.org/abs/2504.13707)|null|
+|**2025-04-18**|**Modelling Immunity in Agent-based Models**|Gray Manicom et.al.|[2504.13706](http://arxiv.org/abs/2504.13706)|null|
+|**2025-04-18**|**Exploring Multimodal Prompt for Visualization Authoring with Large Language Models**|Zhen Wen et.al.|[2504.13700](http://arxiv.org/abs/2504.13700)|null|
+|**2025-04-18**|**Intelligent Interaction Strategies for Context-Aware Cognitive Augmentation**|Xiangrong et.al.|[2504.13684](http://arxiv.org/abs/2504.13684)|null|
+|**2025-04-18**|**Large Language Models Will Change The Way Children Think About Technology And Impact Every Interaction Paradigm**|Russell Beale et.al.|[2504.13667](http://arxiv.org/abs/2504.13667)|null|
+|**2025-04-18**|**Do Prompt Patterns Affect Code Quality? A First Empirical Assessment of ChatGPT-Generated Code**|Antonio Della Porta et.al.|[2504.13656](http://arxiv.org/abs/2504.13656)|null|
+|**2025-04-18**|**EyecareGPT: Boosting Comprehensive Ophthalmology Understanding with Tailored Dataset, Benchmark and Model**|Sijing Li et.al.|[2504.13650](http://arxiv.org/abs/2504.13650)|null|
 |**2025-04-17**|**Sleep-time Compute: Beyond Inference Scaling at Test-time**|Kevin Lin et.al.|[2504.13171](http://arxiv.org/abs/2504.13171)|**[link](https://github.com/letta-ai/sleep-time-compute)**|
 |**2025-04-17**|**Exploring Expert Failures Improves LLM Agent Tuning**|Li-Cheng Lan et.al.|[2504.13145](http://arxiv.org/abs/2504.13145)|null|
 |**2025-04-17**|**Syntactic and Semantic Control of Large Language Models via Sequential Monte Carlo**|João Loula et.al.|[2504.13139](http://arxiv.org/abs/2504.13139)|null|
@@ -4866,6 +4906,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-18**|**Generative AI Act II: Test Time Scaling Drives Cognition Engineering**|Shijie Xia et.al.|[2504.13828](http://arxiv.org/abs/2504.13828)|null|
+|**2025-04-18**|**Feature Alignment and Representation Transfer in Knowledge Distillation for Large Language Models**|Junjie Yang et.al.|[2504.13825](http://arxiv.org/abs/2504.13825)|null|
+|**2025-04-18**|**Not All Rollouts are Useful: Down-Sampling Rollouts in LLM Reinforcement Learning**|Yixuan Even Xu et.al.|[2504.13818](http://arxiv.org/abs/2504.13818)|null|
+|**2025-04-18**|**DiffOG: Differentiable Policy Trajectory Optimization with Generalizability**|Zhengtong Xu et.al.|[2504.13807](http://arxiv.org/abs/2504.13807)|null|
+|**2025-04-18**|**Closed-form formulas for the biases of the Theil and Atkinson index estimators in Gamma distributed populations**|Roberto Vila et.al.|[2504.13806](http://arxiv.org/abs/2504.13806)|null|
+|**2025-04-18**|**Imitation Learning with Precisely Labeled Human Demonstrations**|Yilong Song et.al.|[2504.13803](http://arxiv.org/abs/2504.13803)|null|
+|**2025-04-18**|**Addressing outliers in mixed-effects logistic regression: a more robust modeling approach**|Divan A. Burger et.al.|[2504.13781](http://arxiv.org/abs/2504.13781)|null|
+|**2025-04-18**|**Punitive policies to combat misreporting in dynamic supply chains**|Madhu Dhiman et.al.|[2504.13780](http://arxiv.org/abs/2504.13780)|null|
+|**2025-04-18**|**Internal noise in hardware deep and recurrent neural networks helps with learning**|Ivan Kolesnikov et.al.|[2504.13778](http://arxiv.org/abs/2504.13778)|null|
+|**2025-04-18**|**BadApex: Backdoor Attack Based on Adaptive Optimization Mechanism of Black-box Large Language Models**|Zhengxian Wu et.al.|[2504.13775](http://arxiv.org/abs/2504.13775)|null|
+|**2025-04-18**|**DP2Unlearning: An Efficient and Guaranteed Unlearning Framework for LLMs**|Tamim Al Mahmud et.al.|[2504.13774](http://arxiv.org/abs/2504.13774)|null|
+|**2025-04-18**|**Detecting Malicious Source Code in PyPI Packages with LLMs: Does RAG Come in Handy?**|Motunrayo Ibiyo et.al.|[2504.13769](http://arxiv.org/abs/2504.13769)|null|
+|**2025-04-18**|**Equi-Euler GraphNet: An Equivariant, Temporal-Dynamics Informed Graph Neural Network for Dual Force and Trajectory Prediction in Multi-Body Systems**|Vinay Sharma et.al.|[2504.13768](http://arxiv.org/abs/2504.13768)|null|
+|**2025-04-18**|**An eco-epidemiological model with prey-taxis and slow diffusion: Global existence, boundedness and novel dynamics**|Ranjit Kumar Upadhyay et.al.|[2504.13764](http://arxiv.org/abs/2504.13764)|null|
+|**2025-04-18**|**Realizing string breaking dynamics in a $Z_2$ lattice gauge theory on quantum hardware**|Constantia Alexandrou et.al.|[2504.13760](http://arxiv.org/abs/2504.13760)|null|
+|**2025-04-18**|**Scaling sparse feature circuit finding for in-context learning**|Dmitrii Kharlapenko et.al.|[2504.13756](http://arxiv.org/abs/2504.13756)|null|
+|**2025-04-18**|**JANC: A cost-effective, differentiable compressible reacting flow solver featured with JAX-based adaptive mesh refinement**|Haocheng Wen et.al.|[2504.13750](http://arxiv.org/abs/2504.13750)|null|
+|**2025-04-18**|**Generating new coordination compounds via multireference simulations, genetic algorithms and machine learning: the case of Co(II) molecular magnets**|Lion Frangoulis et.al.|[2504.13749](http://arxiv.org/abs/2504.13749)|null|
+|**2025-04-18**|**Equivalence of Serial and Parallel A-Posteriori Probabilities in the Decoding of DAB Systems**|Andrea Di Giusto et.al.|[2504.13740](http://arxiv.org/abs/2504.13740)|null|
+|**2025-04-18**|**Controlled Territory and Conflict Tracking (CONTACT): (Geo-)Mapping Occupied Territory from Open Source Intelligence**|Paul K. Mandal et.al.|[2504.13730](http://arxiv.org/abs/2504.13730)|null|
 |**2025-04-17**|**Novel Demonstration Generation with Gaussian Splatting Enables Robust One-Shot Manipulation**|Sizhe Yang et.al.|[2504.13175](http://arxiv.org/abs/2504.13175)|null|
 |**2025-04-17**|**Sleep-time Compute: Beyond Inference Scaling at Test-time**|Kevin Lin et.al.|[2504.13171](http://arxiv.org/abs/2504.13171)|**[link](https://github.com/letta-ai/sleep-time-compute)**|
 |**2025-04-17**|**Discovery and Dynamics of the Nontransiting Planet Kepler-139f**|Caleb Lammers et.al.|[2504.13160](http://arxiv.org/abs/2504.13160)|null|
@@ -7296,6 +7356,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-18**|**Does Reinforcement Learning Really Incentivize Reasoning Capacity in LLMs Beyond the Base Model?**|Yang Yue et.al.|[2504.13837](http://arxiv.org/abs/2504.13837)|null|
+|**2025-04-18**|**Generative AI Act II: Test Time Scaling Drives Cognition Engineering**|Shijie Xia et.al.|[2504.13828](http://arxiv.org/abs/2504.13828)|null|
+|**2025-04-18**|**Feature Alignment and Representation Transfer in Knowledge Distillation for Large Language Models**|Junjie Yang et.al.|[2504.13825](http://arxiv.org/abs/2504.13825)|null|
+|**2025-04-18**|**Not All Rollouts are Useful: Down-Sampling Rollouts in LLM Reinforcement Learning**|Yixuan Even Xu et.al.|[2504.13818](http://arxiv.org/abs/2504.13818)|null|
+|**2025-04-18**|**Learning Through Retrospection: Improving Trajectory Prediction for Automated Driving with Error Feedback**|Steffen Hagedorn et.al.|[2504.13785](http://arxiv.org/abs/2504.13785)|null|
+|**2025-04-18**|**BadApex: Backdoor Attack Based on Adaptive Optimization Mechanism of Black-box Large Language Models**|Zhengxian Wu et.al.|[2504.13775](http://arxiv.org/abs/2504.13775)|null|
+|**2025-04-18**|**DP2Unlearning: An Efficient and Guaranteed Unlearning Framework for LLMs**|Tamim Al Mahmud et.al.|[2504.13774](http://arxiv.org/abs/2504.13774)|null|
+|**2025-04-18**|**Detecting Malicious Source Code in PyPI Packages with LLMs: Does RAG Come in Handy?**|Motunrayo Ibiyo et.al.|[2504.13769](http://arxiv.org/abs/2504.13769)|null|
+|**2025-04-18**|**Scaling sparse feature circuit finding for in-context learning**|Dmitrii Kharlapenko et.al.|[2504.13756](http://arxiv.org/abs/2504.13756)|null|
+|**2025-04-18**|**Controlled Territory and Conflict Tracking (CONTACT): (Geo-)Mapping Occupied Territory from Open Source Intelligence**|Paul K. Mandal et.al.|[2504.13730](http://arxiv.org/abs/2504.13730)|null|
+|**2025-04-18**|**Human-aligned Deep Learning: Explainability, Causality, and Biological Inspiration**|Gianluca Carloni et.al.|[2504.13717](http://arxiv.org/abs/2504.13717)|null|
+|**2025-04-18**|**OpenDeception: Benchmarking and Investigating AI Deceptive Behaviors via Open-ended Interaction Simulation**|Yichen Wu et.al.|[2504.13707](http://arxiv.org/abs/2504.13707)|null|
+|**2025-04-18**|**Exploring Multimodal Prompt for Visualization Authoring with Large Language Models**|Zhen Wen et.al.|[2504.13700](http://arxiv.org/abs/2504.13700)|null|
+|**2025-04-18**|**Analysing the Robustness of Vision-Language-Models to Common Corruptions**|Muhammad Usama et.al.|[2504.13690](http://arxiv.org/abs/2504.13690)|null|
+|**2025-04-18**|**Intelligent Interaction Strategies for Context-Aware Cognitive Augmentation**|Xiangrong et.al.|[2504.13684](http://arxiv.org/abs/2504.13684)|null|
+|**2025-04-18**|**Large Language Models Will Change The Way Children Think About Technology And Impact Every Interaction Paradigm**|Russell Beale et.al.|[2504.13667](http://arxiv.org/abs/2504.13667)|null|
+|**2025-04-18**|**Do Prompt Patterns Affect Code Quality? A First Empirical Assessment of ChatGPT-Generated Code**|Antonio Della Porta et.al.|[2504.13656](http://arxiv.org/abs/2504.13656)|null|
+|**2025-04-18**|**Exploring the Potential for Large Language Models to Demonstrate Rational Probabilistic Beliefs**|Gabriel Freedman et.al.|[2504.13644](http://arxiv.org/abs/2504.13644)|null|
+|**2025-04-18**|**Divergent LLM Adoption and Heterogeneous Convergence Paths in Research Writing**|Cong William Lin et.al.|[2504.13629](http://arxiv.org/abs/2504.13629)|null|
+|**2025-04-18**|**Thought Manipulation: External Thought Can Be Efficient for Large Reasoning Models**|Yule Liu et.al.|[2504.13626](http://arxiv.org/abs/2504.13626)|null|
 |**2025-04-17**|**PerceptionLM: Open-Access Data and Models for Detailed Visual Understanding**|Jang Hyun Cho et.al.|[2504.13180](http://arxiv.org/abs/2504.13180)|null|
 |**2025-04-17**|**Aligning Constraint Generation with Design Intent in Parametric CAD**|Evan Casey et.al.|[2504.13178](http://arxiv.org/abs/2504.13178)|null|
 |**2025-04-17**|**It's All Connected: A Journey Through Test-Time Memorization, Attentional Bias, Retention, and Online Optimization**|Ali Behrouz et.al.|[2504.13173](http://arxiv.org/abs/2504.13173)|null|
