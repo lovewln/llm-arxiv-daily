@@ -20,6 +20,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-02**|**Helping Big Language Models Protect Themselves: An Enhanced Filtering and Summarization System**|Sheikh Samit Muhaimin et.al.|[2505.01315](http://arxiv.org/abs/2505.01315)|null|
+|**2025-05-02**|**Enhancing SPARQL Query Rewriting for Complex Ontology Alignments**|Anicet Lepetit Ondo et.al.|[2505.01309](http://arxiv.org/abs/2505.01309)|null|
+|**2025-05-02**|**Document Retrieval Augmented Fine-Tuning (DRAFT) for safety-critical software assessments**|Regan Bolton et.al.|[2505.01307](http://arxiv.org/abs/2505.01307)|null|
+|**2025-05-02**|**FlowDubber: Movie Dubbing with LLM-based Semantic-aware Learning and Flow Matching based Voice Enhancing**|Gaoxiang Cong et.al.|[2505.01263](http://arxiv.org/abs/2505.01263)|null|
+|**2025-05-02**|**Digital Pathway Curation (DPC): a comparative pipeline to assess the reproducibility, consensus and accuracy across Gemini, PubMed, and scientific reviewers in biomedical research**|Flavio Lichtenstein et.al.|[2505.01259](http://arxiv.org/abs/2505.01259)|null|
+|**2025-05-02**|**CaReAQA: A Cardiac and Respiratory Audio Question Answering Model for Open-Ended Diagnostic Reasoning**|Tsai-Ning Wang et.al.|[2505.01199](http://arxiv.org/abs/2505.01199)|null|
+|**2025-05-02**|**LLM Security: Vulnerabilities, Attacks, Defenses, and Countermeasures**|Francisco Aguilera-Martínez et.al.|[2505.01177](http://arxiv.org/abs/2505.01177)|null|
+|**2025-05-02**|**Methodological Foundations for AI-Driven Survey Question Generation**|Ted K. Mburu et.al.|[2505.01150](http://arxiv.org/abs/2505.01150)|null|
+|**2025-05-02**|**Retrieval-Augmented Generation in Biomedicine: A Survey of Technologies, Datasets, and Clinical Applications**|Jiawei He et.al.|[2505.01146](http://arxiv.org/abs/2505.01146)|null|
+|**2025-05-02**|**MateICL: Mitigating Attention Dispersion in Large-Scale In-Context Learning**|Murtadha Ahmed et.al.|[2505.01110](http://arxiv.org/abs/2505.01110)|null|
+|**2025-05-02**|**MADIL: An MDL-based Framework for Efficient Program Synthesis in the ARC Benchmark**|Sébastien Ferré et.al.|[2505.01081](http://arxiv.org/abs/2505.01081)|null|
+|**2025-05-02**|**Zero-Shot Document-Level Biomedical Relation Extraction via Scenario-based Prompt Design in Two-Stage with LLM**|Lei Zhao et.al.|[2505.01077](http://arxiv.org/abs/2505.01077)|null|
+|**2025-05-02**|**WirelessAgent: Large Language Model Agents for Intelligent Wireless Networks**|Jingwen Tong et.al.|[2505.01074](http://arxiv.org/abs/2505.01074)|null|
+|**2025-05-02**|**Retrieval Augmented Learning: A Retrial-based Large Language Model Self-Supervised Learning and Autonomous Knowledge Generation**|Zongyuan Li et.al.|[2505.01073](http://arxiv.org/abs/2505.01073)|null|
+|**2025-05-02**|**A Rusty Link in the AI Supply Chain: Detecting Evil Configurations in Model Repositories**|Ziqi Ding et.al.|[2505.01067](http://arxiv.org/abs/2505.01067)|null|
+|**2025-05-02**|**Good News for Script Kiddies? Evaluating Large Language Models for Automated Exploit Generation**|David Jin et.al.|[2505.01065](http://arxiv.org/abs/2505.01065)|null|
+|**2025-05-02**|**Efficient Vocabulary-Free Fine-Grained Visual Recognition in the Age of Multimodal LLMs**|Hari Chandana Kuchibhotla et.al.|[2505.01064](http://arxiv.org/abs/2505.01064)|null|
+|**2025-05-02**|**Transferable Adversarial Attacks on Black-Box Vision-Language Models**|Kai Hu et.al.|[2505.01050](http://arxiv.org/abs/2505.01050)|null|
+|**2025-05-02**|**Low-Precision Training of Large Language Models: Methods, Challenges, and Opportunities**|Zhiwei Hao et.al.|[2505.01043](http://arxiv.org/abs/2505.01043)|null|
+|**2025-05-02**|**Do We Need a Detailed Rubric for Automated Essay Scoring using Large Language Models?**|Lui Yoshida et.al.|[2505.01035](http://arxiv.org/abs/2505.01035)|null|
 |**2025-05-01**|**T2I-R1: Reinforcing Image Generation with Collaborative Semantic-level and Token-level CoT**|Dongzhi Jiang et.al.|[2505.00703](http://arxiv.org/abs/2505.00703)|null|
 |**2025-05-01**|**Steering Large Language Models with Register Analysis for Arbitrary Style Transfer**|Xinchen Yang et.al.|[2505.00679](http://arxiv.org/abs/2505.00679)|null|
 |**2025-05-01**|**Rethinking Memory in AI: Taxonomy, Operations, Topics, and Future Directions**|Yiming Du et.al.|[2505.00675](http://arxiv.org/abs/2505.00675)|null|
@@ -2648,6 +2668,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-02**|**Enhancing Diversity in Parallel Agents: A Maximum State Entropy Exploration Story**|Vincenzo De Paola et.al.|[2505.01336](http://arxiv.org/abs/2505.01336)|null|
+|**2025-05-02**|**Integration of Multi-Mode Preference into Home Energy Management System Using Deep Reinforcement Learning**|Mohammed Sumayli et.al.|[2505.01332](http://arxiv.org/abs/2505.01332)|null|
+|**2025-05-02**|**Helping Big Language Models Protect Themselves: An Enhanced Filtering and Summarization System**|Sheikh Samit Muhaimin et.al.|[2505.01315](http://arxiv.org/abs/2505.01315)|null|
+|**2025-05-02**|**Enhancing SPARQL Query Rewriting for Complex Ontology Alignments**|Anicet Lepetit Ondo et.al.|[2505.01309](http://arxiv.org/abs/2505.01309)|null|
+|**2025-05-02**|**Document Retrieval Augmented Fine-Tuning (DRAFT) for safety-critical software assessments**|Regan Bolton et.al.|[2505.01307](http://arxiv.org/abs/2505.01307)|null|
+|**2025-05-02**|**The Dance of the Sheared Eigenfunctions**|J. Oliveira-Cony et.al.|[2505.01303](http://arxiv.org/abs/2505.01303)|null|
+|**2025-05-02**|**Pattern formation using an intrinsic optimal control approach**|Tianhao Li et.al.|[2505.01302](http://arxiv.org/abs/2505.01302)|null|
+|**2025-05-02**|**FlowDubber: Movie Dubbing with LLM-based Semantic-aware Learning and Flow Matching based Voice Enhancing**|Gaoxiang Cong et.al.|[2505.01263](http://arxiv.org/abs/2505.01263)|null|
+|**2025-05-02**|**Digital Pathway Curation (DPC): a comparative pipeline to assess the reproducibility, consensus and accuracy across Gemini, PubMed, and scientific reviewers in biomedical research**|Flavio Lichtenstein et.al.|[2505.01259](http://arxiv.org/abs/2505.01259)|null|
+|**2025-05-02**|**Essential Workers at Risk: An Agent-Based Model (SAFE-ABM) with Bayesian Uncertainty Quantification**|Elizabeth B. Amona et.al.|[2505.01243](http://arxiv.org/abs/2505.01243)|null|
+|**2025-05-02**|**Bilateral Cognitive Security Games in Networked Control Systems under Stealthy Injection Attacks**|Anh Tung Nguyen et.al.|[2505.01232](http://arxiv.org/abs/2505.01232)|null|
+|**2025-05-02**|**Non-universal Impact of Cholesterol on Ionic Liquid-Membrane Interactions**|J. Gupta et.al.|[2505.01230](http://arxiv.org/abs/2505.01230)|null|
+|**2025-05-02**|**A Space-Time Trade-off for Fast Self-Stabilizing Leader Election in Population Protocols**|Henry Austin et.al.|[2505.01210](http://arxiv.org/abs/2505.01210)|null|
+|**2025-05-02**|**CaReAQA: A Cardiac and Respiratory Audio Question Answering Model for Open-Ended Diagnostic Reasoning**|Tsai-Ning Wang et.al.|[2505.01199](http://arxiv.org/abs/2505.01199)|null|
+|**2025-05-02**|**Explainable AI Based Diagnosis of Poisoning Attacks in Evolutionary Swarms**|Mehrdad Asadi et.al.|[2505.01181](http://arxiv.org/abs/2505.01181)|null|
+|**2025-05-02**|**LLM Security: Vulnerabilities, Attacks, Defenses, and Countermeasures**|Francisco Aguilera-Martínez et.al.|[2505.01177](http://arxiv.org/abs/2505.01177)|null|
+|**2025-05-02**|**Methodological Foundations for AI-Driven Survey Question Generation**|Ted K. Mburu et.al.|[2505.01150](http://arxiv.org/abs/2505.01150)|null|
+|**2025-05-02**|**Retrieval-Augmented Generation in Biomedicine: A Survey of Technologies, Datasets, and Clinical Applications**|Jiawei He et.al.|[2505.01146](http://arxiv.org/abs/2505.01146)|null|
+|**2025-05-02**|**Simulating Tertiary Educational Decision Dynamics: An Agent-Based Model for the Netherlands**|Jean-Paul Daemen et.al.|[2505.01142](http://arxiv.org/abs/2505.01142)|null|
+|**2025-05-02**|**Exploring Equity of Climate Policies using Multi-Agent Multi-Objective Reinforcement Learning**|Palok Biswas et.al.|[2505.01115](http://arxiv.org/abs/2505.01115)|null|
 |**2025-05-01**|**T2I-R1: Reinforcing Image Generation with Collaborative Semantic-level and Token-level CoT**|Dongzhi Jiang et.al.|[2505.00703](http://arxiv.org/abs/2505.00703)|null|
 |**2025-05-01**|**Towards Autonomous Micromobility through Scalable Urban Simulation**|Wayne Wu et.al.|[2505.00690](http://arxiv.org/abs/2505.00690)|null|
 |**2025-05-01**|**Visual Test-time Scaling for GUI Agent Grounding**|Tiange Luo et.al.|[2505.00684](http://arxiv.org/abs/2505.00684)|null|
@@ -5276,6 +5316,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-02**|**Computational, Data-Driven, and Physics-Informed Machine Learning Approaches for Microstructure Modeling in Metal Additive Manufacturing**|D. Patel et.al.|[2505.01424](http://arxiv.org/abs/2505.01424)|null|
+|**2025-05-02**|**SEAMM: A Simulation Environment for Atomistic and Molecular Modeling**|Paul Saxe et.al.|[2505.01400](http://arxiv.org/abs/2505.01400)|null|
+|**2025-05-02**|**Bridging the Atmospheric Circulations of Hot and Warm Giant Exoplanets**|J. W. Skinner et.al.|[2505.01397](http://arxiv.org/abs/2505.01397)|null|
+|**2025-05-02**|**SIME: Enhancing Policy Self-Improvement with Modal-level Exploration**|Yang Jin et.al.|[2505.01396](http://arxiv.org/abs/2505.01396)|null|
+|**2025-05-02**|**FalconWing: An Open-Source Platform for Ultra-Light Fixed-Wing Aircraft Research**|Yan Miao et.al.|[2505.01383](http://arxiv.org/abs/2505.01383)|null|
+|**2025-05-02**|**An Efficient Real-Time Planning Method for Swarm Robotics Based on an Optimal Virtual Tube**|Pengda Mao et.al.|[2505.01380](http://arxiv.org/abs/2505.01380)|null|
+|**2025-05-02**|**Controlling the effect of quantum fluctuations in a driven nonlinear parametric oscillator**|Somnath Roy et.al.|[2505.01373](http://arxiv.org/abs/2505.01373)|null|
+|**2025-05-02**|**SimICD: A Closed-Loop Simulation Framework For ICD Therapy**|Hannah Lydon et.al.|[2505.01371](http://arxiv.org/abs/2505.01371)|null|
+|**2025-05-02**|**Deep Learning-Enabled System Diagnosis in Microgrids: A Feature-Feedback GAN Approach**|Swetha Rani Kasimalla et.al.|[2505.01366](http://arxiv.org/abs/2505.01366)|null|
+|**2025-05-02**|**Modelling spontaneous ductile (viscous) strain localisation on Earth**|Andréa Tommasi et.al.|[2505.01360](http://arxiv.org/abs/2505.01360)|null|
+|**2025-05-02**|**Dual system estimation using mixed effects loglinear models**|Ceejay Hammond et.al.|[2505.01359](http://arxiv.org/abs/2505.01359)|null|
+|**2025-05-02**|**Weight-calibrated estimation for factor models of high-dimensional time series**|Xinghao Qiao et.al.|[2505.01357](http://arxiv.org/abs/2505.01357)|null|
+|**2025-05-02**|**Hybrid Nonlinear Effects in Photonic Integrated Circuits**|Arghadeep Pal et.al.|[2505.01352](http://arxiv.org/abs/2505.01352)|null|
+|**2025-05-02**|**Designing Band Gaps with Randomly Distributed Sub-Wavelength Helmholtz Resonators**|Paulo S. Piva et.al.|[2505.01347](http://arxiv.org/abs/2505.01347)|null|
+|**2025-05-02**|**How much to Dereverberate? Low-Latency Single-Channel Speech Enhancement in Distant Microphone Scenarios**|Satvik Venkatesh et.al.|[2505.01338](http://arxiv.org/abs/2505.01338)|null|
+|**2025-05-02**|**Enhancing Diversity in Parallel Agents: A Maximum State Entropy Exploration Story**|Vincenzo De Paola et.al.|[2505.01336](http://arxiv.org/abs/2505.01336)|null|
+|**2025-05-02**|**Elucidating the role of ribosomal A1493 in stabilization and rigid support for the codon-anticodon helix from molecular dynamics simulations**|Shuhao Zhang et.al.|[2505.01327](http://arxiv.org/abs/2505.01327)|null|
+|**2025-05-02**|**Design-Based Inference under Random Potential Outcomes via Riesz Representation**|Yukai Yang et.al.|[2505.01324](http://arxiv.org/abs/2505.01324)|**[link](https://github.com/yukai-yang/RieszRE_Experiments)**|
+|**2025-05-02**|**Modeling Large Nonstationary Spatial Data with the Full-Scale Basis Graphical Lasso**|Matthew LeDuc et.al.|[2505.01318](http://arxiv.org/abs/2505.01318)|null|
+|**2025-05-02**|**Helping Big Language Models Protect Themselves: An Enhanced Filtering and Summarization System**|Sheikh Samit Muhaimin et.al.|[2505.01315](http://arxiv.org/abs/2505.01315)|null|
 |**2025-05-01**|**Controllable Weather Synthesis and Removal with Video Diffusion Models**|Chih-Hao Lin et.al.|[2505.00704](http://arxiv.org/abs/2505.00704)|null|
 |**2025-05-01**|**T2I-R1: Reinforcing Image Generation with Collaborative Semantic-level and Token-level CoT**|Dongzhi Jiang et.al.|[2505.00703](http://arxiv.org/abs/2505.00703)|null|
 |**2025-05-01**|**Robotic Visual Instruction**|Yanbang Li et.al.|[2505.00693](http://arxiv.org/abs/2505.00693)|null|
@@ -7908,6 +7968,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-02**|**Evaluating Frontier Models for Stealth and Situational Awareness**|Mary Phuong et.al.|[2505.01420](http://arxiv.org/abs/2505.01420)|null|
+|**2025-05-02**|**How Effective are Large Time Series Models in Hydrology? A Study on Water Level Forecasting in Everglades**|Rahuul Rangaraj et.al.|[2505.01415](http://arxiv.org/abs/2505.01415)|null|
+|**2025-05-02**|**Dynamic Robot Tool Use with Vision Language Models**|Noah Trupin et.al.|[2505.01399](http://arxiv.org/abs/2505.01399)|null|
+|**2025-05-02**|**Setting free the cosmic time in Quantum Universe**|David Vasak et.al.|[2505.01358](http://arxiv.org/abs/2505.01358)|null|
+|**2025-05-02**|**TRAVELER: A Benchmark for Evaluating Temporal Reasoning across Vague, Implicit and Explicit References**|Svenja Kenneweg et.al.|[2505.01325](http://arxiv.org/abs/2505.01325)|null|
+|**2025-05-02**|**Design-Based Inference under Random Potential Outcomes via Riesz Representation**|Yukai Yang et.al.|[2505.01324](http://arxiv.org/abs/2505.01324)|**[link](https://github.com/yukai-yang/RieszRE_Experiments)**|
+|**2025-05-02**|**FreeInsert: Disentangled Text-Guided Object Insertion in 3D Gaussian Scene without Spatial Priors**|Chenxi Li et.al.|[2505.01322](http://arxiv.org/abs/2505.01322)|null|
+|**2025-05-02**|**Helping Big Language Models Protect Themselves: An Enhanced Filtering and Summarization System**|Sheikh Samit Muhaimin et.al.|[2505.01315](http://arxiv.org/abs/2505.01315)|null|
+|**2025-05-02**|**Enhancing SPARQL Query Rewriting for Complex Ontology Alignments**|Anicet Lepetit Ondo et.al.|[2505.01309](http://arxiv.org/abs/2505.01309)|null|
+|**2025-05-02**|**Document Retrieval Augmented Fine-Tuning (DRAFT) for safety-critical software assessments**|Regan Bolton et.al.|[2505.01307](http://arxiv.org/abs/2505.01307)|null|
+|**2025-05-02**|**Cardiovascular function changes following lung resection: a computational model to compare afterload increase and contractility loss mechanisms**|Shiting Huang et.al.|[2505.01264](http://arxiv.org/abs/2505.01264)|null|
+|**2025-05-02**|**FlowDubber: Movie Dubbing with LLM-based Semantic-aware Learning and Flow Matching based Voice Enhancing**|Gaoxiang Cong et.al.|[2505.01263](http://arxiv.org/abs/2505.01263)|null|
+|**2025-05-02**|**Digital Pathway Curation (DPC): a comparative pipeline to assess the reproducibility, consensus and accuracy across Gemini, PubMed, and scientific reviewers in biomedical research**|Flavio Lichtenstein et.al.|[2505.01259](http://arxiv.org/abs/2505.01259)|null|
+|**2025-05-02**|**Bilateral Cognitive Security Games in Networked Control Systems under Stealthy Injection Attacks**|Anh Tung Nguyen et.al.|[2505.01232](http://arxiv.org/abs/2505.01232)|null|
+|**2025-05-02**|**CaReAQA: A Cardiac and Respiratory Audio Question Answering Model for Open-Ended Diagnostic Reasoning**|Tsai-Ning Wang et.al.|[2505.01199](http://arxiv.org/abs/2505.01199)|null|
+|**2025-05-02**|**TSTMotion: Training-free Scene-awarenText-to-motion Generation**|Ziyan Guo et.al.|[2505.01182](http://arxiv.org/abs/2505.01182)|null|
+|**2025-05-02**|**LLM Security: Vulnerabilities, Attacks, Defenses, and Countermeasures**|Francisco Aguilera-Martínez et.al.|[2505.01177](http://arxiv.org/abs/2505.01177)|null|
+|**2025-05-02**|**On the Limitations of Steering in Language Model Alignment**|Chebrolu Niranjan et.al.|[2505.01162](http://arxiv.org/abs/2505.01162)|null|
+|**2025-05-02**|**Connecting afterglow light curves to the GRB central engine**|Muhammed Diyaddin Ilhan et.al.|[2505.01158](http://arxiv.org/abs/2505.01158)|null|
+|**2025-05-02**|**Methodological Foundations for AI-Driven Survey Question Generation**|Ted K. Mburu et.al.|[2505.01150](http://arxiv.org/abs/2505.01150)|null|
 |**2025-05-01**|**T2I-R1: Reinforcing Image Generation with Collaborative Semantic-level and Token-level CoT**|Dongzhi Jiang et.al.|[2505.00703](http://arxiv.org/abs/2505.00703)|null|
 |**2025-05-01**|**MINERVA: Evaluating Complex Video Reasoning**|Arsha Nagrani et.al.|[2505.00681](http://arxiv.org/abs/2505.00681)|null|
 |**2025-05-01**|**Steering Large Language Models with Register Analysis for Arbitrary Style Transfer**|Xinchen Yang et.al.|[2505.00679](http://arxiv.org/abs/2505.00679)|null|
