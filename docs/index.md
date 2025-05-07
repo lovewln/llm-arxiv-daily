@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.05.06
+## Updated on 2025.05.07
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## large language model
@@ -22,7 +22,7 @@ layout: default
 |**2025-05-05**|**HSplitLoRA: A Heterogeneous Split Parameter-Efficient Fine-Tuning Framework for Large Language Models**|Zheng Lin et.al.|[2505.02795](http://arxiv.org/abs/2505.02795)|null|
 |**2025-05-05**|**Giving Simulated Cells a Voice: Evolving Prompt-to-Intervention Models for Cellular Control**|Nam H. Le et.al.|[2505.02766](http://arxiv.org/abs/2505.02766)|null|
 |**2025-05-05**|**Bye-bye, Bluebook? Automating Legal Procedure with Large Language Models**|Matthew Dahl et.al.|[2505.02763](http://arxiv.org/abs/2505.02763)|null|
-|**2025-05-05**|**Knowledge Graphs for Enhancing Large Language Models in Entity Disambiguation**|Pons Gerard et.al.|[2505.02737](http://arxiv.org/abs/2505.02737)|null|
+|**2025-05-06**|**Knowledge Graphs for Enhancing Large Language Models in Entity Disambiguation**|Gerard Pons et.al.|[2505.02737](http://arxiv.org/abs/2505.02737)|null|
 |**2025-05-05**|**FormalMATH: Benchmarking Formal Mathematical Reasoning of Large Language Models**|Zhouliang Yu et.al.|[2505.02735](http://arxiv.org/abs/2505.02735)|null|
 |**2025-05-05**|**Enhancing LLMs' Clinical Reasoning with Real-World Data from a Nationwide Sepsis Registry**|Junu Kim et.al.|[2505.02722](http://arxiv.org/abs/2505.02722)|null|
 |**2025-05-05**|**Less is More: Efficient Weight Farcasting with 1-Layer Neural Network**|Xiao Shou et.al.|[2505.02714](http://arxiv.org/abs/2505.02714)|null|
@@ -32,7 +32,7 @@ layout: default
 |**2025-05-05**|**Sailing AI by the Stars: A Survey of Learning from Rewards in Post-Training and Test-Time Scaling of Large Language Models**|Xiaobao Wu et.al.|[2505.02686](http://arxiv.org/abs/2505.02686)|null|
 |**2025-05-05**|**A Survey on Progress in LLM Alignment from the Perspective of Reward Design**|Miaomiao Ji et.al.|[2505.02666](http://arxiv.org/abs/2505.02666)|null|
 |**2025-05-05**|**A Survey of Slow Thinking-based Reasoning LLMs using Reinforced Learning and Inference-time Scaling Law**|Qianjun Pan et.al.|[2505.02665](http://arxiv.org/abs/2505.02665)|null|
-|**2025-05-05**|**A Note on Statistically Accurate Tabular Data Generation Using Large Language Models**|Andrey Sidorenko et.al.|[2505.02659](http://arxiv.org/abs/2505.02659)|null|
+|**2025-05-06**|**A Note on Statistically Accurate Tabular Data Generation Using Large Language Models**|Andrey Sidorenko et.al.|[2505.02659](http://arxiv.org/abs/2505.02659)|null|
 |**2025-05-05**|**Enhancing Chemical Reaction and Retrosynthesis Prediction with Large Language Model and Dual-task Learning**|Xuan Lin et.al.|[2505.02639](http://arxiv.org/abs/2505.02639)|null|
 |**2025-05-05**|**Helping Large Language Models Protect Themselves: An Enhanced Filtering and Summarization System**|Sheikh Samit Muhaimin et.al.|[2505.01315](http://arxiv.org/abs/2505.01315)|null|
 |**2025-05-02**|**Enhancing SPARQL Query Rewriting for Complex Ontology Alignments**|Anicet Lepetit Ondo et.al.|[2505.01309](http://arxiv.org/abs/2505.01309)|null|
@@ -2691,7 +2691,7 @@ layout: default
 |**2025-05-05**|**Brief Announcement: Minimizing Energy Solves Relative Majority with a Cubic Number of States in Population Protocols**|Tom-Lukas Breitkopf et.al.|[2505.02785](http://arxiv.org/abs/2505.02785)|null|
 |**2025-05-05**|**Giving Simulated Cells a Voice: Evolving Prompt-to-Intervention Models for Cellular Control**|Nam H. Le et.al.|[2505.02766](http://arxiv.org/abs/2505.02766)|null|
 |**2025-05-05**|**Bye-bye, Bluebook? Automating Legal Procedure with Large Language Models**|Matthew Dahl et.al.|[2505.02763](http://arxiv.org/abs/2505.02763)|null|
-|**2025-05-05**|**Knowledge Graphs for Enhancing Large Language Models in Entity Disambiguation**|Pons Gerard et.al.|[2505.02737](http://arxiv.org/abs/2505.02737)|null|
+|**2025-05-06**|**Knowledge Graphs for Enhancing Large Language Models in Entity Disambiguation**|Gerard Pons et.al.|[2505.02737](http://arxiv.org/abs/2505.02737)|null|
 |**2025-05-05**|**FormalMATH: Benchmarking Formal Mathematical Reasoning of Large Language Models**|Zhouliang Yu et.al.|[2505.02735](http://arxiv.org/abs/2505.02735)|null|
 |**2025-05-05**|**Merging plasmoids and nanojet-like ejections in a coronal current sheet**|Samrat Sen et.al.|[2505.02733](http://arxiv.org/abs/2505.02733)|null|
 |**2025-05-05**|**Enhancing LLMs' Clinical Reasoning with Real-World Data from a Nationwide Sepsis Registry**|Junu Kim et.al.|[2505.02722](http://arxiv.org/abs/2505.02722)|null|
@@ -5360,8 +5360,8 @@ layout: default
 |**2025-05-05**|**Bye-bye, Bluebook? Automating Legal Procedure with Large Language Models**|Matthew Dahl et.al.|[2505.02763](http://arxiv.org/abs/2505.02763)|null|
 |**2025-05-05**|**DUCA: Dynamic Universe Cosmological Analysis. II. The impact of clustering dark energy on the halo mass function**|Tiago Castro et.al.|[2505.02762](http://arxiv.org/abs/2505.02762)|null|
 |**2025-05-05**|**Debiased inference in error-in-variable problems with non-Gaussian measurement error**|Nicholas W. Woolsey et.al.|[2505.02754](http://arxiv.org/abs/2505.02754)|null|
-|**2025-05-05**|**dyGRASS: Dynamic Spectral Graph Sparsification via Localized Random Walks on GPUs**|Yihang Yuan et.al.|[2505.02741](http://arxiv.org/abs/2505.02741)|null|
-|**2025-05-05**|**Knowledge Graphs for Enhancing Large Language Models in Entity Disambiguation**|Pons Gerard et.al.|[2505.02737](http://arxiv.org/abs/2505.02737)|null|
+|**2025-05-06**|**dyGRASS: Dynamic Spectral Graph Sparsification via Localized Random Walks on GPUs**|Yihang Yuan et.al.|[2505.02741](http://arxiv.org/abs/2505.02741)|null|
+|**2025-05-06**|**Knowledge Graphs for Enhancing Large Language Models in Entity Disambiguation**|Gerard Pons et.al.|[2505.02737](http://arxiv.org/abs/2505.02737)|null|
 |**2025-05-05**|**FormalMATH: Benchmarking Formal Mathematical Reasoning of Large Language Models**|Zhouliang Yu et.al.|[2505.02735](http://arxiv.org/abs/2505.02735)|null|
 |**2025-05-05**|**Merging plasmoids and nanojet-like ejections in a coronal current sheet**|Samrat Sen et.al.|[2505.02733](http://arxiv.org/abs/2505.02733)|null|
 |**2025-05-05**|**Enhancing LLMs' Clinical Reasoning with Real-World Data from a Nationwide Sepsis Registry**|Junu Kim et.al.|[2505.02722](http://arxiv.org/abs/2505.02722)|null|
@@ -8027,7 +8027,7 @@ layout: default
 |**2025-05-05**|**HSplitLoRA: A Heterogeneous Split Parameter-Efficient Fine-Tuning Framework for Large Language Models**|Zheng Lin et.al.|[2505.02795](http://arxiv.org/abs/2505.02795)|null|
 |**2025-05-05**|**Giving Simulated Cells a Voice: Evolving Prompt-to-Intervention Models for Cellular Control**|Nam H. Le et.al.|[2505.02766](http://arxiv.org/abs/2505.02766)|null|
 |**2025-05-05**|**Bye-bye, Bluebook? Automating Legal Procedure with Large Language Models**|Matthew Dahl et.al.|[2505.02763](http://arxiv.org/abs/2505.02763)|null|
-|**2025-05-05**|**Knowledge Graphs for Enhancing Large Language Models in Entity Disambiguation**|Pons Gerard et.al.|[2505.02737](http://arxiv.org/abs/2505.02737)|null|
+|**2025-05-06**|**Knowledge Graphs for Enhancing Large Language Models in Entity Disambiguation**|Gerard Pons et.al.|[2505.02737](http://arxiv.org/abs/2505.02737)|null|
 |**2025-05-05**|**FormalMATH: Benchmarking Formal Mathematical Reasoning of Large Language Models**|Zhouliang Yu et.al.|[2505.02735](http://arxiv.org/abs/2505.02735)|null|
 |**2025-05-05**|**Enhancing LLMs' Clinical Reasoning with Real-World Data from a Nationwide Sepsis Registry**|Junu Kim et.al.|[2505.02722](http://arxiv.org/abs/2505.02722)|null|
 |**2025-05-05**|**Less is More: Efficient Weight Farcasting with 1-Layer Neural Network**|Xiao Shou et.al.|[2505.02714](http://arxiv.org/abs/2505.02714)|null|
