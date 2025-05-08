@@ -14,6 +14,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-07**|**EchoInk-R1: Exploring Audio-Visual Reasoning in Multimodal LLMs via Reinforcement Learning**|Zhenghao Xing et.al.|[2505.04623](http://arxiv.org/abs/2505.04623)|null|
+|**2025-05-07**|**On Path to Multimodal Generalist: General-Level and General-Bench**|Hao Fei et.al.|[2505.04620](http://arxiv.org/abs/2505.04620)|null|
+|**2025-05-07**|**OmniGIRL: A Multilingual and Multimodal Benchmark for GitHub Issue Resolution**|Lianghong Guo et.al.|[2505.04606](http://arxiv.org/abs/2505.04606)|null|
+|**2025-05-07**|**MonoCoP: Chain-of-Prediction for Monocular 3D Object Detection**|Zhihao Zhang et.al.|[2505.04594](http://arxiv.org/abs/2505.04594)|null|
+|**2025-05-07**|**ZeroSearch: Incentivize the Search Capability of LLMs without Searching**|Hao Sun et.al.|[2505.04588](http://arxiv.org/abs/2505.04588)|null|
+|**2025-05-07**|**SlideItRight: Using AI to Find Relevant Slides and Provide Feedback for Open-Ended Questions**|Chloe Qianhui Zhao et.al.|[2505.04584](http://arxiv.org/abs/2505.04584)|null|
+|**2025-05-07**|**Fight Fire with Fire: Defending Against Malicious RL Fine-Tuning via Reward Neutralization**|Wenjun Cao et.al.|[2505.04578](http://arxiv.org/abs/2505.04578)|null|
+|**2025-05-07**|**Comparative Analysis of Carbon Footprint in Manual vs. LLM-Assisted Code Development**|Kuen Sum Cheung et.al.|[2505.04521](http://arxiv.org/abs/2505.04521)|null|
+|**2025-05-07**|**Pangu Ultra MoE: How to Train Your Big MoE on Ascend NPUs**|Yehui Tang et.al.|[2505.04519](http://arxiv.org/abs/2505.04519)|null|
+|**2025-05-07**|**CAD-Llama: Leveraging Large Language Models for Computer-Aided Design Parametric 3D Model Generation**|Jiahao Li et.al.|[2505.04481](http://arxiv.org/abs/2505.04481)|null|
+|**2025-05-07**|**TrajEvo: Designing Trajectory Prediction Heuristics via LLM-driven Evolution**|Zhikai Zhao et.al.|[2505.04480](http://arxiv.org/abs/2505.04480)|null|
+|**2025-05-07**|**Miipher-2: A Universal Speech Restoration Model for Million-Hour Scale Data Restoration**|Shigeki Karita et.al.|[2505.04457](http://arxiv.org/abs/2505.04457)|null|
+|**2025-05-07**|**M2Rec: Multi-scale Mamba for Efficient Sequential Recommendation**|Qianru Zhang et.al.|[2505.04445](http://arxiv.org/abs/2505.04445)|null|
+|**2025-05-07**|**Towards Effectively Leveraging Execution Traces for Program Repair with Code LLMs**|Mirazul Haque et.al.|[2505.04441](http://arxiv.org/abs/2505.04441)|null|
+|**2025-05-07**|**OBLIVIATE: Robust and Practical Machine Unlearning for Large Language Models**|Xiaoyu Xu et.al.|[2505.04416](http://arxiv.org/abs/2505.04416)|null|
+|**2025-05-07**|**YABLoCo: Yet Another Benchmark for Long Context Code Generation**|Aidar Valeev et.al.|[2505.04406](http://arxiv.org/abs/2505.04406)|null|
+|**2025-05-07**|**Large Means Left: Political Bias in Large Language Models Increases with Their Number of Parameters**|David Exler et.al.|[2505.04393](http://arxiv.org/abs/2505.04393)|null|
+|**2025-05-07**|**The Aloe Family Recipe for Open and Specialized Healthcare LLMs**|Dario Garcia-Gasulla et.al.|[2505.04388](http://arxiv.org/abs/2505.04388)|null|
+|**2025-05-07**|**CDE-Mapper: Using Retrieval-Augmented Language Models for Linking Clinical Data Elements to Controlled Vocabularies**|Komal Gilani et.al.|[2505.04365](http://arxiv.org/abs/2505.04365)|null|
+|**2025-05-07**|**Benchmarking LLMs' Swarm intelligence**|Kai Ruan et.al.|[2505.04364](http://arxiv.org/abs/2505.04364)|**[link](https://github.com/x66ccff/swarmbench)**|
 |**2025-05-06**|**VITA-Audio: Fast Interleaved Cross-Modal Token Generation for Efficient Large Speech-Language Model**|Zuwei Long et.al.|[2505.03739](http://arxiv.org/abs/2505.03739)|**[link](https://github.com/vita-mllm/vita-audio)**|
 |**2025-05-06**|**Graph Drawing for LLMs: An Empirical Evaluation**|Walter Didimo et.al.|[2505.03678](http://arxiv.org/abs/2505.03678)|null|
 |**2025-05-06**|**Binding threshold units with artificial oscillatory neurons**|Vladimir Fanaskov et.al.|[2505.03648](http://arxiv.org/abs/2505.03648)|null|
@@ -2700,6 +2720,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-07**|**EchoInk-R1: Exploring Audio-Visual Reasoning in Multimodal LLMs via Reinforcement Learning**|Zhenghao Xing et.al.|[2505.04623](http://arxiv.org/abs/2505.04623)|null|
+|**2025-05-07**|**On Path to Multimodal Generalist: General-Level and General-Bench**|Hao Fei et.al.|[2505.04620](http://arxiv.org/abs/2505.04620)|null|
+|**2025-05-07**|**OmniGIRL: A Multilingual and Multimodal Benchmark for GitHub Issue Resolution**|Lianghong Guo et.al.|[2505.04606](http://arxiv.org/abs/2505.04606)|null|
+|**2025-05-07**|**MonoCoP: Chain-of-Prediction for Monocular 3D Object Detection**|Zhihao Zhang et.al.|[2505.04594](http://arxiv.org/abs/2505.04594)|null|
+|**2025-05-07**|**ZeroSearch: Incentivize the Search Capability of LLMs without Searching**|Hao Sun et.al.|[2505.04588](http://arxiv.org/abs/2505.04588)|null|
+|**2025-05-07**|**SlideItRight: Using AI to Find Relevant Slides and Provide Feedback for Open-Ended Questions**|Chloe Qianhui Zhao et.al.|[2505.04584](http://arxiv.org/abs/2505.04584)|null|
+|**2025-05-07**|**Implicitly Aligning Humans and Autonomous Agents through Shared Task Abstractions**|Stéphane Aroca-Ouellette et.al.|[2505.04579](http://arxiv.org/abs/2505.04579)|null|
+|**2025-05-07**|**Fight Fire with Fire: Defending Against Malicious RL Fine-Tuning via Reward Neutralization**|Wenjun Cao et.al.|[2505.04578](http://arxiv.org/abs/2505.04578)|null|
+|**2025-05-07**|**Optimal Deterministic Rendezvous in Labeled Lines**|Yann Bourreau et.al.|[2505.04564](http://arxiv.org/abs/2505.04564)|null|
+|**2025-05-07**|**Qualitative Analysis of $ω$ -Regular Objectives on Robust MDPs**|Ali Asadi et.al.|[2505.04539](http://arxiv.org/abs/2505.04539)|null|
+|**2025-05-07**|**Beyond Theorem Proving: Formulation, Framework and Benchmark for Formal Problem-Solving**|Qi Liu et.al.|[2505.04528](http://arxiv.org/abs/2505.04528)|null|
+|**2025-05-07**|**Comparative Analysis of Carbon Footprint in Manual vs. LLM-Assisted Code Development**|Kuen Sum Cheung et.al.|[2505.04521](http://arxiv.org/abs/2505.04521)|null|
+|**2025-05-07**|**Pangu Ultra MoE: How to Train Your Big MoE on Ascend NPUs**|Yehui Tang et.al.|[2505.04519](http://arxiv.org/abs/2505.04519)|null|
+|**2025-05-07**|**CAD-Llama: Leveraging Large Language Models for Computer-Aided Design Parametric 3D Model Generation**|Jiahao Li et.al.|[2505.04481](http://arxiv.org/abs/2505.04481)|null|
+|**2025-05-07**|**TrajEvo: Designing Trajectory Prediction Heuristics via LLM-driven Evolution**|Zhikai Zhao et.al.|[2505.04480](http://arxiv.org/abs/2505.04480)|null|
+|**2025-05-07**|**Miipher-2: A Universal Speech Restoration Model for Million-Hour Scale Data Restoration**|Shigeki Karita et.al.|[2505.04457](http://arxiv.org/abs/2505.04457)|null|
+|**2025-05-07**|**M2Rec: Multi-scale Mamba for Efficient Sequential Recommendation**|Qianru Zhang et.al.|[2505.04445](http://arxiv.org/abs/2505.04445)|null|
+|**2025-05-07**|**Towards Effectively Leveraging Execution Traces for Program Repair with Code LLMs**|Mirazul Haque et.al.|[2505.04441](http://arxiv.org/abs/2505.04441)|null|
+|**2025-05-07**|**RLMiniStyler: Light-weight RL Style Agent for Arbitrary Sequential Neural Style Generation**|Jing Hu et.al.|[2505.04424](http://arxiv.org/abs/2505.04424)|null|
+|**2025-05-07**|**OBLIVIATE: Robust and Practical Machine Unlearning for Large Language Models**|Xiaoyu Xu et.al.|[2505.04416](http://arxiv.org/abs/2505.04416)|null|
 |**2025-05-06**|**VITA-Audio: Fast Interleaved Cross-Modal Token Generation for Efficient Large Speech-Language Model**|Zuwei Long et.al.|[2505.03739](http://arxiv.org/abs/2505.03739)|**[link](https://github.com/vita-mllm/vita-audio)**|
 |**2025-05-06**|**Multi-Agent System for Comprehensive Soccer Understanding**|Jiayuan Rao et.al.|[2505.03735](http://arxiv.org/abs/2505.03735)|null|
 |**2025-05-06**|**WebGen-Bench: Evaluating LLMs on Generating Interactive and Functional Websites from Scratch**|Zimu Lu et.al.|[2505.03733](http://arxiv.org/abs/2505.03733)|null|
@@ -5386,6 +5426,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-07**|**EchoInk-R1: Exploring Audio-Visual Reasoning in Multimodal LLMs via Reinforcement Learning**|Zhenghao Xing et.al.|[2505.04623](http://arxiv.org/abs/2505.04623)|null|
+|**2025-05-07**|**Score Distillation Sampling for Audio: Source Separation, Synthesis, and Beyond**|Jessie Richter-Powell et.al.|[2505.04621](http://arxiv.org/abs/2505.04621)|null|
+|**2025-05-07**|**On Path to Multimodal Generalist: General-Level and General-Bench**|Hao Fei et.al.|[2505.04620](http://arxiv.org/abs/2505.04620)|null|
+|**2025-05-07**|**OmniGIRL: A Multilingual and Multimodal Benchmark for GitHub Issue Resolution**|Lianghong Guo et.al.|[2505.04606](http://arxiv.org/abs/2505.04606)|null|
+|**2025-05-07**|**Likelihood-Free Adaptive Bayesian Inference via Nonparametric Distribution Matching**|Wenhui Sophia Lu et.al.|[2505.04603](http://arxiv.org/abs/2505.04603)|null|
+|**2025-05-07**|**Extracting local velocity from cosmic dipole using simulations**|Mohit Panwar et.al.|[2505.04602](http://arxiv.org/abs/2505.04602)|null|
+|**2025-05-07**|**Dynamic Network Flow Optimization for Task Scheduling in PTZ Camera Surveillance Systems**|Mohammad Merati et.al.|[2505.04596](http://arxiv.org/abs/2505.04596)|null|
+|**2025-05-07**|**Adiabatic state preparation and thermalization of simulated phase noise in a Rydberg spin Hamiltonian**|Tomas Kozlej et.al.|[2505.04595](http://arxiv.org/abs/2505.04595)|null|
+|**2025-05-07**|**MonoCoP: Chain-of-Prediction for Monocular 3D Object Detection**|Zhihao Zhang et.al.|[2505.04594](http://arxiv.org/abs/2505.04594)|null|
+|**2025-05-07**|**ZeroSearch: Incentivize the Search Capability of LLMs without Searching**|Hao Sun et.al.|[2505.04588](http://arxiv.org/abs/2505.04588)|null|
+|**2025-05-07**|**SlideItRight: Using AI to Find Relevant Slides and Provide Feedback for Open-Ended Questions**|Chloe Qianhui Zhao et.al.|[2505.04584](http://arxiv.org/abs/2505.04584)|null|
+|**2025-05-07**|**Ponderomotive-expulsion: toward creating an electron-free volume**|Smrithan Ravichandran et.al.|[2505.04582](http://arxiv.org/abs/2505.04582)|null|
+|**2025-05-07**|**Fight Fire with Fire: Defending Against Malicious RL Fine-Tuning via Reward Neutralization**|Wenjun Cao et.al.|[2505.04578](http://arxiv.org/abs/2505.04578)|null|
+|**2025-05-07**|**Scintillometry of Fast Radio Bursts: Resolution effects in two-screen models**|Sachin Pradeep E. T et.al.|[2505.04576](http://arxiv.org/abs/2505.04576)|null|
+|**2025-05-07**|**Privacy-preserving neutral atom-based quantum classifier towards real healthcare applications**|Ettore Canonici et.al.|[2505.04570](http://arxiv.org/abs/2505.04570)|null|
+|**2025-05-07**|**Assessing the Reconstruction of the Critical Line in the QCD Phase Diagram from Imaginary to Real Chemical Potential**|Fabrizio Murgana et.al.|[2505.04569](http://arxiv.org/abs/2505.04569)|null|
+|**2025-05-07**|**Conformal Survival Bands for Risk Screening under Right-Censoring**|Matteo Sesia et.al.|[2505.04568](http://arxiv.org/abs/2505.04568)|**[link](https://github.com/msesia/conformal_survival_screening)**|
+|**2025-05-07**|**Hierarchical Task Decomposition for Execution Monitoring and Error Recovery: Understanding the Rationale Behind Task Demonstrations**|Christoph Willibald et.al.|[2505.04565](http://arxiv.org/abs/2505.04565)|null|
+|**2025-05-07**|**MuAPBEK: An Improved Analytical Kinetic Energy Density Functional for Quantum Chemistry**|Siwoo Lee et.al.|[2505.04559](http://arxiv.org/abs/2505.04559)|null|
+|**2025-05-07**|**Large-scale exponential correlations of non-affine elastic response of strongly disordered materials**|D. A. Conyuh et.al.|[2505.04554](http://arxiv.org/abs/2505.04554)|null|
 |**2025-05-06**|**VITA-Audio: Fast Interleaved Cross-Modal Token Generation for Efficient Large Speech-Language Model**|Zuwei Long et.al.|[2505.03739](http://arxiv.org/abs/2505.03739)|**[link](https://github.com/vita-mllm/vita-audio)**|
 |**2025-05-06**|**AMO: Adaptive Motion Optimization for Hyper-Dexterous Humanoid Whole-Body Control**|Jialong Li et.al.|[2505.03738](http://arxiv.org/abs/2505.03738)|null|
 |**2025-05-06**|**Critical habitat size of organisms diffusing with stochastic resetting**|Luiz Menon et.al.|[2505.03727](http://arxiv.org/abs/2505.03727)|null|
@@ -8076,6 +8136,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-07**|**EchoInk-R1: Exploring Audio-Visual Reasoning in Multimodal LLMs via Reinforcement Learning**|Zhenghao Xing et.al.|[2505.04623](http://arxiv.org/abs/2505.04623)|null|
+|**2025-05-07**|**On Path to Multimodal Generalist: General-Level and General-Bench**|Hao Fei et.al.|[2505.04620](http://arxiv.org/abs/2505.04620)|null|
+|**2025-05-07**|**OmniGIRL: A Multilingual and Multimodal Benchmark for GitHub Issue Resolution**|Lianghong Guo et.al.|[2505.04606](http://arxiv.org/abs/2505.04606)|null|
+|**2025-05-07**|**MonoCoP: Chain-of-Prediction for Monocular 3D Object Detection**|Zhihao Zhang et.al.|[2505.04594](http://arxiv.org/abs/2505.04594)|null|
+|**2025-05-07**|**ZeroSearch: Incentivize the Search Capability of LLMs without Searching**|Hao Sun et.al.|[2505.04588](http://arxiv.org/abs/2505.04588)|null|
+|**2025-05-07**|**SlideItRight: Using AI to Find Relevant Slides and Provide Feedback for Open-Ended Questions**|Chloe Qianhui Zhao et.al.|[2505.04584](http://arxiv.org/abs/2505.04584)|null|
+|**2025-05-07**|**Fight Fire with Fire: Defending Against Malicious RL Fine-Tuning via Reward Neutralization**|Wenjun Cao et.al.|[2505.04578](http://arxiv.org/abs/2505.04578)|null|
+|**2025-05-07**|**Comparative Analysis of Carbon Footprint in Manual vs. LLM-Assisted Code Development**|Kuen Sum Cheung et.al.|[2505.04521](http://arxiv.org/abs/2505.04521)|null|
+|**2025-05-07**|**Pangu Ultra MoE: How to Train Your Big MoE on Ascend NPUs**|Yehui Tang et.al.|[2505.04519](http://arxiv.org/abs/2505.04519)|null|
+|**2025-05-07**|**Model-Based AI planning and Execution Systems for Robotics**|Or Wertheim et.al.|[2505.04493](http://arxiv.org/abs/2505.04493)|null|
+|**2025-05-07**|**CAD-Llama: Leveraging Large Language Models for Computer-Aided Design Parametric 3D Model Generation**|Jiahao Li et.al.|[2505.04481](http://arxiv.org/abs/2505.04481)|null|
+|**2025-05-07**|**TrajEvo: Designing Trajectory Prediction Heuristics via LLM-driven Evolution**|Zhikai Zhao et.al.|[2505.04480](http://arxiv.org/abs/2505.04480)|null|
+|**2025-05-07**|**Miipher-2: A Universal Speech Restoration Model for Million-Hour Scale Data Restoration**|Shigeki Karita et.al.|[2505.04457](http://arxiv.org/abs/2505.04457)|null|
+|**2025-05-07**|**M2Rec: Multi-scale Mamba for Efficient Sequential Recommendation**|Qianru Zhang et.al.|[2505.04445](http://arxiv.org/abs/2505.04445)|null|
+|**2025-05-07**|**Towards Effectively Leveraging Execution Traces for Program Repair with Code LLMs**|Mirazul Haque et.al.|[2505.04441](http://arxiv.org/abs/2505.04441)|null|
+|**2025-05-07**|**OBLIVIATE: Robust and Practical Machine Unlearning for Large Language Models**|Xiaoyu Xu et.al.|[2505.04416](http://arxiv.org/abs/2505.04416)|null|
+|**2025-05-07**|**YABLoCo: Yet Another Benchmark for Long Context Code Generation**|Aidar Valeev et.al.|[2505.04406](http://arxiv.org/abs/2505.04406)|null|
+|**2025-05-07**|**Large Means Left: Political Bias in Large Language Models Increases with Their Number of Parameters**|David Exler et.al.|[2505.04393](http://arxiv.org/abs/2505.04393)|null|
+|**2025-05-07**|**The Aloe Family Recipe for Open and Specialized Healthcare LLMs**|Dario Garcia-Gasulla et.al.|[2505.04388](http://arxiv.org/abs/2505.04388)|null|
+|**2025-05-07**|**CDE-Mapper: Using Retrieval-Augmented Language Models for Linking Clinical Data Elements to Controlled Vocabularies**|Komal Gilani et.al.|[2505.04365](http://arxiv.org/abs/2505.04365)|null|
 |**2025-05-06**|**VITA-Audio: Fast Interleaved Cross-Modal Token Generation for Efficient Large Speech-Language Model**|Zuwei Long et.al.|[2505.03739](http://arxiv.org/abs/2505.03739)|**[link](https://github.com/vita-mllm/vita-audio)**|
 |**2025-05-06**|**Multi-Agent System for Comprehensive Soccer Understanding**|Jiayuan Rao et.al.|[2505.03735](http://arxiv.org/abs/2505.03735)|null|
 |**2025-05-06**|**Meta-Optimization and Program Search using Language Models for Task and Motion Planning**|Denis Shcherba et.al.|[2505.03725](http://arxiv.org/abs/2505.03725)|null|
