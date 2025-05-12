@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.05.11
+## Updated on 2025.05.12
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## large language model
@@ -22,16 +22,16 @@ layout: default
 |**2025-05-08**|**Conversational Process Model Redesign**|Nataliia Klievtsova et.al.|[2505.05453](http://arxiv.org/abs/2505.05453)|null|
 |**2025-05-08**|**clem:todd: A Framework for the Systematic Benchmarking of LLM-Based Task-Oriented Dialogue System Realisations**|Chalamalasetti Kranti et.al.|[2505.05445](http://arxiv.org/abs/2505.05445)|null|
 |**2025-05-08**|**GesPrompt: Leveraging Co-Speech Gestures to Augment LLM-Based Interaction in Virtual Reality**|Xiyun Hu et.al.|[2505.05441](http://arxiv.org/abs/2505.05441)|null|
-|**2025-05-08**|**EcoAgent: An Efficient Edge-Cloud Collaborative Multi-Agent Framework for Mobile Automation**|Biao Yi et.al.|[2505.05440](http://arxiv.org/abs/2505.05440)|null|
+|**2025-05-09**|**EcoAgent: An Efficient Edge-Cloud Collaborative Multi-Agent Framework for Mobile Automation**|Biao Yi et.al.|[2505.05440](http://arxiv.org/abs/2505.05440)|null|
 |**2025-05-08**|**Ultra-FineWeb: Efficient Data Filtering and Verification for High-Quality LLM Training Data**|Yudong Wang et.al.|[2505.05427](http://arxiv.org/abs/2505.05427)|null|
-|**2025-05-08**|**TransProQA: an LLM-based literary Translation evaluation metric with Professional Question Answering**|Ran Zhang et.al.|[2505.05423](http://arxiv.org/abs/2505.05423)|null|
+|**2025-05-09**|**LiTransProQA: an LLM-based Literary Translation evaluation metric with Professional Question Answering**|Ran Zhang et.al.|[2505.05423](http://arxiv.org/abs/2505.05423)|**[link](https://github.com/zhangr2021/TransProQA)**|
 |**2025-05-08**|**Crosslingual Reasoning through Test-Time Scaling**|Zheng-Xin Yong et.al.|[2505.05408](http://arxiv.org/abs/2505.05408)|null|
 |**2025-05-08**|**Frame In, Frame Out: Do LLMs Generate More Biased News Headlines than Humans?**|Valeria Pastorino et.al.|[2505.05406](http://arxiv.org/abs/2505.05406)|null|
 |**2025-05-08**|**DSDrive: Distilling Large Language Model for Lightweight End-to-End Autonomous Driving with Unified Reasoning and Planning**|Wenru Liu et.al.|[2505.05360](http://arxiv.org/abs/2505.05360)|null|
 |**2025-05-08**|**ICon: In-Context Contribution for Automatic Data Selection**|Yixin Yang et.al.|[2505.05327](http://arxiv.org/abs/2505.05327)|null|
 |**2025-05-08**|**Toward Reasonable Parrots: Why Large Language Models Should Argue with Us by Design**|Elena Musi et.al.|[2505.05298](http://arxiv.org/abs/2505.05298)|null|
 |**2025-05-08**|**HEXGEN-TEXT2SQL: Optimizing LLM Inference Request Scheduling for Agentic Text-to-SQL Workflow**|You Peng et.al.|[2505.05286](http://arxiv.org/abs/2505.05286)|null|
-|**2025-05-08**|**Software Development Life Cycle Perspective: A Survey of Benchmarks for CodeLLMs and Agents**|Kaixin Wang et.al.|[2505.05283](http://arxiv.org/abs/2505.05283)|null|
+|**2025-05-09**|**Software Development Life Cycle Perspective: A Survey of Benchmarks for Code Large Language Models and Agents**|Kaixin Wang et.al.|[2505.05283](http://arxiv.org/abs/2505.05283)|null|
 |**2025-05-08**|**PADriver: Towards Personalized Autonomous Driving**|Genghua Kou et.al.|[2505.05240](http://arxiv.org/abs/2505.05240)|null|
 |**2025-05-08**|**Latte: Transfering LLMs` Latent-level Knowledge for Few-shot Tabular Learning**|Ruxue Shi et.al.|[2505.05237](http://arxiv.org/abs/2505.05237)|null|
 |**2025-05-07**|**EchoInk-R1: Exploring Audio-Visual Reasoning in Multimodal LLMs via Reinforcement Learning**|Zhenghao Xing et.al.|[2505.04623](http://arxiv.org/abs/2505.04623)|null|
@@ -2749,10 +2749,10 @@ layout: default
 |**2025-05-08**|**RL-DAUNCE: Reinforcement Learning-Driven Data Assimilation with Uncertainty-Aware Constrained Ensembles**|Pouria Behnoudfar et.al.|[2505.05452](http://arxiv.org/abs/2505.05452)|null|
 |**2025-05-08**|**clem:todd: A Framework for the Systematic Benchmarking of LLM-Based Task-Oriented Dialogue System Realisations**|Chalamalasetti Kranti et.al.|[2505.05445](http://arxiv.org/abs/2505.05445)|null|
 |**2025-05-08**|**GesPrompt: Leveraging Co-Speech Gestures to Augment LLM-Based Interaction in Virtual Reality**|Xiyun Hu et.al.|[2505.05441](http://arxiv.org/abs/2505.05441)|null|
-|**2025-05-08**|**EcoAgent: An Efficient Edge-Cloud Collaborative Multi-Agent Framework for Mobile Automation**|Biao Yi et.al.|[2505.05440](http://arxiv.org/abs/2505.05440)|null|
+|**2025-05-09**|**EcoAgent: An Efficient Edge-Cloud Collaborative Multi-Agent Framework for Mobile Automation**|Biao Yi et.al.|[2505.05440](http://arxiv.org/abs/2505.05440)|null|
 |**2025-05-08**|**Empowering Scientific Workflows with Federated Agents**|J. Gregory Pauloski et.al.|[2505.05428](http://arxiv.org/abs/2505.05428)|null|
 |**2025-05-08**|**Ultra-FineWeb: Efficient Data Filtering and Verification for High-Quality LLM Training Data**|Yudong Wang et.al.|[2505.05427](http://arxiv.org/abs/2505.05427)|null|
-|**2025-05-08**|**TransProQA: an LLM-based literary Translation evaluation metric with Professional Question Answering**|Ran Zhang et.al.|[2505.05423](http://arxiv.org/abs/2505.05423)|null|
+|**2025-05-09**|**LiTransProQA: an LLM-based Literary Translation evaluation metric with Professional Question Answering**|Ran Zhang et.al.|[2505.05423](http://arxiv.org/abs/2505.05423)|**[link](https://github.com/zhangr2021/TransProQA)**|
 |**2025-05-08**|**Robustly optimal dynamics for active matter reservoir computing**|Mario U. Gaimann et.al.|[2505.05420](http://arxiv.org/abs/2505.05420)|null|
 |**2025-05-08**|**Crosslingual Reasoning through Test-Time Scaling**|Zheng-Xin Yong et.al.|[2505.05408](http://arxiv.org/abs/2505.05408)|null|
 |**2025-05-08**|**Frame In, Frame Out: Do LLMs Generate More Biased News Headlines than Humans?**|Valeria Pastorino et.al.|[2505.05406](http://arxiv.org/abs/2505.05406)|null|
@@ -5476,11 +5476,11 @@ layout: default
 |**2025-05-08**|**clem:todd: A Framework for the Systematic Benchmarking of LLM-Based Task-Oriented Dialogue System Realisations**|Chalamalasetti Kranti et.al.|[2505.05445](http://arxiv.org/abs/2505.05445)|null|
 |**2025-05-08**|**Density modulated star formation efficiency: implications for the observed abundance of ultra-violet luminous galaxies at z>10**|Rachel S. Somerville et.al.|[2505.05442](http://arxiv.org/abs/2505.05442)|null|
 |**2025-05-08**|**GesPrompt: Leveraging Co-Speech Gestures to Augment LLM-Based Interaction in Virtual Reality**|Xiyun Hu et.al.|[2505.05441](http://arxiv.org/abs/2505.05441)|null|
-|**2025-05-08**|**EcoAgent: An Efficient Edge-Cloud Collaborative Multi-Agent Framework for Mobile Automation**|Biao Yi et.al.|[2505.05440](http://arxiv.org/abs/2505.05440)|null|
+|**2025-05-09**|**EcoAgent: An Efficient Edge-Cloud Collaborative Multi-Agent Framework for Mobile Automation**|Biao Yi et.al.|[2505.05440](http://arxiv.org/abs/2505.05440)|null|
 |**2025-05-08**|**Asymmetric decay of quantum many-body scars in XYZ quantum spin chains**|Dhiman Bhowmick et.al.|[2505.05435](http://arxiv.org/abs/2505.05435)|null|
 |**2025-05-08**|**Statistical Characterization of Entanglement Degradation Under Markovian Noise in Composite Quantum Systems**|Nunzia Cerrato et.al.|[2505.05431](http://arxiv.org/abs/2505.05431)|null|
 |**2025-05-08**|**Ultra-FineWeb: Efficient Data Filtering and Verification for High-Quality LLM Training Data**|Yudong Wang et.al.|[2505.05427](http://arxiv.org/abs/2505.05427)|null|
-|**2025-05-08**|**TransProQA: an LLM-based literary Translation evaluation metric with Professional Question Answering**|Ran Zhang et.al.|[2505.05423](http://arxiv.org/abs/2505.05423)|null|
+|**2025-05-09**|**LiTransProQA: an LLM-based Literary Translation evaluation metric with Professional Question Answering**|Ran Zhang et.al.|[2505.05423](http://arxiv.org/abs/2505.05423)|**[link](https://github.com/zhangr2021/TransProQA)**|
 |**2025-05-08**|**Robustly optimal dynamics for active matter reservoir computing**|Mario U. Gaimann et.al.|[2505.05420](http://arxiv.org/abs/2505.05420)|null|
 |**2025-05-08**|**Variable Selection for Fixed and Random Effects in Multilevel Functional Mixed Effects Models**|Rahul Ghosal et.al.|[2505.05416](http://arxiv.org/abs/2505.05416)|null|
 |**2025-05-08**|**Dynamic injection of a compressible gas into a confined porous layer**|Peter Castellucci et.al.|[2505.05412](http://arxiv.org/abs/2505.05412)|null|
@@ -8207,9 +8207,9 @@ layout: default
 |**2025-05-08**|**Adaptive Markup Language Generation for Contextually-Grounded Visual Document Understanding**|Han Xiao et.al.|[2505.05446](http://arxiv.org/abs/2505.05446)|null|
 |**2025-05-08**|**clem:todd: A Framework for the Systematic Benchmarking of LLM-Based Task-Oriented Dialogue System Realisations**|Chalamalasetti Kranti et.al.|[2505.05445](http://arxiv.org/abs/2505.05445)|null|
 |**2025-05-08**|**GesPrompt: Leveraging Co-Speech Gestures to Augment LLM-Based Interaction in Virtual Reality**|Xiyun Hu et.al.|[2505.05441](http://arxiv.org/abs/2505.05441)|null|
-|**2025-05-08**|**EcoAgent: An Efficient Edge-Cloud Collaborative Multi-Agent Framework for Mobile Automation**|Biao Yi et.al.|[2505.05440](http://arxiv.org/abs/2505.05440)|null|
+|**2025-05-09**|**EcoAgent: An Efficient Edge-Cloud Collaborative Multi-Agent Framework for Mobile Automation**|Biao Yi et.al.|[2505.05440](http://arxiv.org/abs/2505.05440)|null|
 |**2025-05-08**|**Ultra-FineWeb: Efficient Data Filtering and Verification for High-Quality LLM Training Data**|Yudong Wang et.al.|[2505.05427](http://arxiv.org/abs/2505.05427)|null|
-|**2025-05-08**|**TransProQA: an LLM-based literary Translation evaluation metric with Professional Question Answering**|Ran Zhang et.al.|[2505.05423](http://arxiv.org/abs/2505.05423)|null|
+|**2025-05-09**|**LiTransProQA: an LLM-based Literary Translation evaluation metric with Professional Question Answering**|Ran Zhang et.al.|[2505.05423](http://arxiv.org/abs/2505.05423)|**[link](https://github.com/zhangr2021/TransProQA)**|
 |**2025-05-08**|**Reasoning Models Don't Always Say What They Think**|Yanda Chen et.al.|[2505.05410](http://arxiv.org/abs/2505.05410)|null|
 |**2025-05-08**|**Crosslingual Reasoning through Test-Time Scaling**|Zheng-Xin Yong et.al.|[2505.05408](http://arxiv.org/abs/2505.05408)|null|
 |**2025-05-08**|**Frame In, Frame Out: Do LLMs Generate More Biased News Headlines than Humans?**|Valeria Pastorino et.al.|[2505.05406](http://arxiv.org/abs/2505.05406)|null|
