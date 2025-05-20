@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.05.19
+## Updated on 2025.05.20
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## large language model
@@ -22,7 +22,7 @@ layout: default
 |**2025-05-16**|**LLMs unlock new paths to monetizing exploits**|Nicholas Carlini et.al.|[2505.11449](http://arxiv.org/abs/2505.11449)|null|
 |**2025-05-16**|**Is Compression Really Linear with Code Intelligence?**|Xianzhen Luo et.al.|[2505.11441](http://arxiv.org/abs/2505.11441)|null|
 |**2025-05-16**|**GODBench: A Benchmark for Multimodal Large Language Models in Video Comment Art**|Chenkai Zhang et.al.|[2505.11436](http://arxiv.org/abs/2505.11436)|null|
-|**2025-05-16**|**MegaScale-MoE: Large-Scale Communication-Efficient Training of Mixture-of-Experts Models in Production**|Chao Jin et.al.|[2505.11432](http://arxiv.org/abs/2505.11432)|null|
+|**2025-05-19**|**MegaScale-MoE: Large-Scale Communication-Efficient Training of Mixture-of-Experts Models in Production**|Chao Jin et.al.|[2505.11432](http://arxiv.org/abs/2505.11432)|null|
 |**2025-05-16**|**When Thinking Fails: The Pitfalls of Reasoning for Instruction-Following in LLMs**|Xiaomin Li et.al.|[2505.11423](http://arxiv.org/abs/2505.11423)|null|
 |**2025-05-16**|**EdgeWisePersona: A Dataset for On-Device User Profiling from Natural Language Interactions**|Patryk Bartkowiak et.al.|[2505.11417](http://arxiv.org/abs/2505.11417)|null|
 |**2025-05-16**|**MoE-CAP: Benchmarking Cost, Accuracy and Performance of Sparse Mixture-of-Experts Systems**|Yinsicheng Jiang et.al.|[2505.11415](http://arxiv.org/abs/2505.11415)|null|
@@ -31,7 +31,7 @@ layout: default
 |**2025-05-16**|**Large Language Model Use Impact Locus of Control**|Jenny Xiyu Fu et.al.|[2505.11406](http://arxiv.org/abs/2505.11406)|null|
 |**2025-05-16**|**EmotionHallucer: Evaluating Emotion Hallucinations in Multimodal Large Language Models**|Bohao Xing et.al.|[2505.11405](http://arxiv.org/abs/2505.11405)|null|
 |**2025-05-16**|**GuideBench: Benchmarking Domain-Oriented Guideline Following for LLM Agents**|Lingxiao Diao et.al.|[2505.11368](http://arxiv.org/abs/2505.11368)|null|
-|**2025-05-16**|**Phare: A Safety Probe for Large Language Models**|Pierre Le Jeune et.al.|[2505.11365](http://arxiv.org/abs/2505.11365)|null|
+|**2025-05-19**|**Phare: A Safety Probe for Large Language Models**|Pierre Le Jeune et.al.|[2505.11365](http://arxiv.org/abs/2505.11365)|null|
 |**2025-05-16**|**LegoSLM: Connecting LLM with Speech Encoder using CTC Posteriors**|Rao Ma et.al.|[2505.11352](http://arxiv.org/abs/2505.11352)|null|
 |**2025-05-16**|**Context parroting: A simple but tough-to-beat baseline for foundation models in scientific machine learning**|Yuanzhao Zhang et.al.|[2505.11349](http://arxiv.org/abs/2505.11349)|null|
 |**2025-05-15**|**End-to-End Vision Tokenizer Tuning**|Wenxuan Wang et.al.|[2505.10562](http://arxiv.org/abs/2505.10562)|null|
@@ -2870,7 +2870,7 @@ layout: default
 |**2025-05-16**|**LLMs unlock new paths to monetizing exploits**|Nicholas Carlini et.al.|[2505.11449](http://arxiv.org/abs/2505.11449)|null|
 |**2025-05-16**|**Is Compression Really Linear with Code Intelligence?**|Xianzhen Luo et.al.|[2505.11441](http://arxiv.org/abs/2505.11441)|null|
 |**2025-05-16**|**GODBench: A Benchmark for Multimodal Large Language Models in Video Comment Art**|Chenkai Zhang et.al.|[2505.11436](http://arxiv.org/abs/2505.11436)|null|
-|**2025-05-16**|**MegaScale-MoE: Large-Scale Communication-Efficient Training of Mixture-of-Experts Models in Production**|Chao Jin et.al.|[2505.11432](http://arxiv.org/abs/2505.11432)|null|
+|**2025-05-19**|**MegaScale-MoE: Large-Scale Communication-Efficient Training of Mixture-of-Experts Models in Production**|Chao Jin et.al.|[2505.11432](http://arxiv.org/abs/2505.11432)|null|
 |**2025-05-16**|**Robust Equilibria in Shared Resource Allocation via Strengthening Border's Theorem**|David X. Lin et.al.|[2505.11431](http://arxiv.org/abs/2505.11431)|null|
 |**2025-05-16**|**When Thinking Fails: The Pitfalls of Reasoning for Instruction-Following in LLMs**|Xiaomin Li et.al.|[2505.11423](http://arxiv.org/abs/2505.11423)|null|
 |**2025-05-16**|**EdgeWisePersona: A Dataset for On-Device User Profiling from Natural Language Interactions**|Patryk Bartkowiak et.al.|[2505.11417](http://arxiv.org/abs/2505.11417)|null|
@@ -5718,11 +5718,11 @@ layout: default
 |**2025-05-16**|**Disentangling Reasoning and Knowledge in Medical Large Language Models**|Rahul Thapa et.al.|[2505.11462](http://arxiv.org/abs/2505.11462)|null|
 |**2025-05-16**|**ProxyPrompt: Securing System Prompts against Prompt Extraction Attacks**|Zhixiong Zhuang et.al.|[2505.11459](http://arxiv.org/abs/2505.11459)|null|
 |**2025-05-16**|**LLMs unlock new paths to monetizing exploits**|Nicholas Carlini et.al.|[2505.11449](http://arxiv.org/abs/2505.11449)|null|
-|**2025-05-16**|**Polarization Signatures of Quasi-Periodic Oscillations in Simulated Tilted, Truncated Disks**|P. Chris Fragile et.al.|[2505.11446](http://arxiv.org/abs/2505.11446)|null|
+|**2025-05-19**|**Polarization Signatures of Quasi-Periodic Oscillations in Simulated Tilted, Truncated Disks**|P. Chris Fragile et.al.|[2505.11446](http://arxiv.org/abs/2505.11446)|null|
 |**2025-05-16**|**Is Compression Really Linear with Code Intelligence?**|Xianzhen Luo et.al.|[2505.11441](http://arxiv.org/abs/2505.11441)|null|
 |**2025-05-16**|**Inferring correlated distributions: boosted top jets**|Ezequiel Alvarez et.al.|[2505.11438](http://arxiv.org/abs/2505.11438)|null|
 |**2025-05-16**|**GODBench: A Benchmark for Multimodal Large Language Models in Video Comment Art**|Chenkai Zhang et.al.|[2505.11436](http://arxiv.org/abs/2505.11436)|null|
-|**2025-05-16**|**MegaScale-MoE: Large-Scale Communication-Efficient Training of Mixture-of-Experts Models in Production**|Chao Jin et.al.|[2505.11432](http://arxiv.org/abs/2505.11432)|null|
+|**2025-05-19**|**MegaScale-MoE: Large-Scale Communication-Efficient Training of Mixture-of-Experts Models in Production**|Chao Jin et.al.|[2505.11432](http://arxiv.org/abs/2505.11432)|null|
 |**2025-05-16**|**When Thinking Fails: The Pitfalls of Reasoning for Instruction-Following in LLMs**|Xiaomin Li et.al.|[2505.11423](http://arxiv.org/abs/2505.11423)|null|
 |**2025-05-16**|**EdgeWisePersona: A Dataset for On-Device User Profiling from Natural Language Interactions**|Patryk Bartkowiak et.al.|[2505.11417](http://arxiv.org/abs/2505.11417)|null|
 |**2025-05-16**|**MoE-CAP: Benchmarking Cost, Accuracy and Performance of Sparse Mixture-of-Experts Systems**|Yinsicheng Jiang et.al.|[2505.11415](http://arxiv.org/abs/2505.11415)|null|
@@ -8568,7 +8568,7 @@ layout: default
 |**2025-05-16**|**LLMs unlock new paths to monetizing exploits**|Nicholas Carlini et.al.|[2505.11449](http://arxiv.org/abs/2505.11449)|null|
 |**2025-05-16**|**Is Compression Really Linear with Code Intelligence?**|Xianzhen Luo et.al.|[2505.11441](http://arxiv.org/abs/2505.11441)|null|
 |**2025-05-16**|**GODBench: A Benchmark for Multimodal Large Language Models in Video Comment Art**|Chenkai Zhang et.al.|[2505.11436](http://arxiv.org/abs/2505.11436)|null|
-|**2025-05-16**|**MegaScale-MoE: Large-Scale Communication-Efficient Training of Mixture-of-Experts Models in Production**|Chao Jin et.al.|[2505.11432](http://arxiv.org/abs/2505.11432)|null|
+|**2025-05-19**|**MegaScale-MoE: Large-Scale Communication-Efficient Training of Mixture-of-Experts Models in Production**|Chao Jin et.al.|[2505.11432](http://arxiv.org/abs/2505.11432)|null|
 |**2025-05-16**|**When Thinking Fails: The Pitfalls of Reasoning for Instruction-Following in LLMs**|Xiaomin Li et.al.|[2505.11423](http://arxiv.org/abs/2505.11423)|null|
 |**2025-05-16**|**EdgeWisePersona: A Dataset for On-Device User Profiling from Natural Language Interactions**|Patryk Bartkowiak et.al.|[2505.11417](http://arxiv.org/abs/2505.11417)|null|
 |**2025-05-16**|**MoE-CAP: Benchmarking Cost, Accuracy and Performance of Sparse Mixture-of-Experts Systems**|Yinsicheng Jiang et.al.|[2505.11415](http://arxiv.org/abs/2505.11415)|null|
