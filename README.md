@@ -20,6 +20,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-19**|**Trust, But Verify: A Self-Verification Approach to Reinforcement Learning with Verifiable Rewards**|Xiaoyuan Liu et.al.|[2505.13445](http://arxiv.org/abs/2505.13445)|null|
+|**2025-05-19**|**Optimizing Anytime Reasoning via Budget Relative Policy Optimization**|Penghui Qi et.al.|[2505.13438](http://arxiv.org/abs/2505.13438)|**[link](https://github.com/sail-sg/anytimereasoner)**|
+|**2025-05-19**|**SMOTExT: SMOTE meets Large Language Models**|Mateusz Bystroński et.al.|[2505.13434](http://arxiv.org/abs/2505.13434)|null|
+|**2025-05-19**|**Fine-tuning Quantized Neural Networks with Zeroth-order Optimization**|Sifeng Shang et.al.|[2505.13430](http://arxiv.org/abs/2505.13430)|null|
+|**2025-05-19**|**MM-PRM: Enhancing Multimodal Mathematical Reasoning with Scalable Step-Level Supervision**|Lingxiao Du et.al.|[2505.13427](http://arxiv.org/abs/2505.13427)|**[link](https://github.com/modalminds/mm-prm)**|
+|**2025-05-19**|**Learnware of Language Models: Specialized Small Language Models Can Do Big**|Zhi-Hao Tan et.al.|[2505.13425](http://arxiv.org/abs/2505.13425)|null|
+|**2025-05-19**|**Make Still Further Progress: Chain of Thoughts for Tabular Data Leaderboard**|Si-Yang Liu et.al.|[2505.13421](http://arxiv.org/abs/2505.13421)|null|
+|**2025-05-19**|**FEALLM: Advancing Facial Emotion Analysis in Multimodal Large Language Models with Emotional Synergy and Reasoning**|Zhuozhao Hu et.al.|[2505.13419](http://arxiv.org/abs/2505.13419)|**[link](https://github.com/953206211/feallm)**|
+|**2025-05-19**|**CoT-Kinetics: A Theoretical Modeling Assessing LRM Reasoning Process**|Jinhe Bi et.al.|[2505.13408](http://arxiv.org/abs/2505.13408)|null|
+|**2025-05-19**|**AutoMathKG: The automated mathematical knowledge graph based on LLM and vector database**|Rong Bian et.al.|[2505.13406](http://arxiv.org/abs/2505.13406)|null|
+|**2025-05-19**|**MR. Judge: Multimodal Reasoner as a Judge**|Renjie Pi et.al.|[2505.13403](http://arxiv.org/abs/2505.13403)|null|
+|**2025-05-19**|**CompeteSMoE -- Statistically Guaranteed Mixture of Experts Training via Competition**|Nam V. Nguyen et.al.|[2505.13380](http://arxiv.org/abs/2505.13380)|null|
+|**2025-05-19**|**Seeing, Saying, Solving: An LLM-to-TL Framework for Cooperative Robots**|Dan BW Choe et.al.|[2505.13376](http://arxiv.org/abs/2505.13376)|null|
+|**2025-05-19**|**Multi-Armed Bandits Meet Large Language Models**|Djallel Bouneffouf et.al.|[2505.13355](http://arxiv.org/abs/2505.13355)|null|
+|**2025-05-19**|**Sense and Sensitivity: Examining the Influence of Semantic Recall on Long Context Code Reasoning**|Adam Štorek et.al.|[2505.13353](http://arxiv.org/abs/2505.13353)|null|
+|**2025-05-19**|**Investigating the Vulnerability of LLM-as-a-Judge Architectures to Prompt-Injection Attacks**|Narek Maloyan et.al.|[2505.13348](http://arxiv.org/abs/2505.13348)|null|
+|**2025-05-19**|**J4R: Learning to Judge with Equivalent Initial State Group Relative Preference Optimization**|Austin Xu et.al.|[2505.13346](http://arxiv.org/abs/2505.13346)|null|
+|**2025-05-19**|**Thinking Short and Right Over Thinking Long: Serving LLM Reasoning Efficiently and Accurately**|Yuhang Wang et.al.|[2505.13326](http://arxiv.org/abs/2505.13326)|null|
+|**2025-05-19**|**VesselGPT: Autoregressive Modeling of Vascular Geometry**|Paula Feldman et.al.|[2505.13318](http://arxiv.org/abs/2505.13318)|null|
+|**2025-05-19**|**GUARD: Generation-time LLM Unlearning via Adaptive Restriction and Detection**|Zhijie Deng et.al.|[2505.13312](http://arxiv.org/abs/2505.13312)|null|
 |**2025-05-16**|**msf-CNN: Patch-based Multi-Stage Fusion with Convolutional Neural Networks for TinyML**|Zhaolan Huang et.al.|[2505.11483](http://arxiv.org/abs/2505.11483)|null|
 |**2025-05-16**|**Improving Assembly Code Performance with Large Language Models via Reinforcement Learning**|Anjiang Wei et.al.|[2505.11480](http://arxiv.org/abs/2505.11480)|null|
 |**2025-05-16**|**HelpSteer3-Preference: Open Human-Annotated Preference Data across Diverse Tasks and Languages**|Zhilin Wang et.al.|[2505.11475](http://arxiv.org/abs/2505.11475)|null|
@@ -2868,6 +2888,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-19**|**Trust, But Verify: A Self-Verification Approach to Reinforcement Learning with Verifiable Rewards**|Xiaoyuan Liu et.al.|[2505.13445](http://arxiv.org/abs/2505.13445)|null|
+|**2025-05-19**|**Optimizing Anytime Reasoning via Budget Relative Policy Optimization**|Penghui Qi et.al.|[2505.13438](http://arxiv.org/abs/2505.13438)|**[link](https://github.com/sail-sg/anytimereasoner)**|
+|**2025-05-19**|**SMOTExT: SMOTE meets Large Language Models**|Mateusz Bystroński et.al.|[2505.13434](http://arxiv.org/abs/2505.13434)|null|
+|**2025-05-19**|**Fine-tuning Quantized Neural Networks with Zeroth-order Optimization**|Sifeng Shang et.al.|[2505.13430](http://arxiv.org/abs/2505.13430)|null|
+|**2025-05-19**|**MM-PRM: Enhancing Multimodal Mathematical Reasoning with Scalable Step-Level Supervision**|Lingxiao Du et.al.|[2505.13427](http://arxiv.org/abs/2505.13427)|**[link](https://github.com/modalminds/mm-prm)**|
+|**2025-05-19**|**G1: Bootstrapping Perception and Reasoning Abilities of Vision-Language Model via Reinforcement Learning**|Liang Chen et.al.|[2505.13426](http://arxiv.org/abs/2505.13426)|**[link](https://github.com/chenllliang/g1)**|
+|**2025-05-19**|**Learnware of Language Models: Specialized Small Language Models Can Do Big**|Zhi-Hao Tan et.al.|[2505.13425](http://arxiv.org/abs/2505.13425)|null|
+|**2025-05-19**|**Make Still Further Progress: Chain of Thoughts for Tabular Data Leaderboard**|Si-Yang Liu et.al.|[2505.13421](http://arxiv.org/abs/2505.13421)|null|
+|**2025-05-19**|**FEALLM: Advancing Facial Emotion Analysis in Multimodal Large Language Models with Emotional Synergy and Reasoning**|Zhuozhao Hu et.al.|[2505.13419](http://arxiv.org/abs/2505.13419)|**[link](https://github.com/953206211/feallm)**|
+|**2025-05-19**|**CoT-Kinetics: A Theoretical Modeling Assessing LRM Reasoning Process**|Jinhe Bi et.al.|[2505.13408](http://arxiv.org/abs/2505.13408)|null|
+|**2025-05-19**|**AutoMathKG: The automated mathematical knowledge graph based on LLM and vector database**|Rong Bian et.al.|[2505.13406](http://arxiv.org/abs/2505.13406)|null|
+|**2025-05-19**|**A Dataless Reinforcement Learning Approach to Rounding Hyperplane Optimization for Max-Cut**|Gabriel Malikal et.al.|[2505.13405](http://arxiv.org/abs/2505.13405)|null|
+|**2025-05-19**|**MR. Judge: Multimodal Reasoner as a Judge**|Renjie Pi et.al.|[2505.13403](http://arxiv.org/abs/2505.13403)|null|
+|**2025-05-19**|**Robin: A multi-agent system for automating scientific discovery**|Ali Essam Ghareeb et.al.|[2505.13400](http://arxiv.org/abs/2505.13400)|null|
+|**2025-05-19**|**CompeteSMoE -- Statistically Guaranteed Mixture of Experts Training via Competition**|Nam V. Nguyen et.al.|[2505.13380](http://arxiv.org/abs/2505.13380)|null|
+|**2025-05-19**|**Seeing, Saying, Solving: An LLM-to-TL Framework for Cooperative Robots**|Dan BW Choe et.al.|[2505.13376](http://arxiv.org/abs/2505.13376)|null|
+|**2025-05-19**|**Multi-Armed Bandits Meet Large Language Models**|Djallel Bouneffouf et.al.|[2505.13355](http://arxiv.org/abs/2505.13355)|null|
+|**2025-05-19**|**Sense and Sensitivity: Examining the Influence of Semantic Recall on Long Context Code Reasoning**|Adam Štorek et.al.|[2505.13353](http://arxiv.org/abs/2505.13353)|null|
+|**2025-05-19**|**Investigating the Vulnerability of LLM-as-a-Judge Architectures to Prompt-Injection Attacks**|Narek Maloyan et.al.|[2505.13348](http://arxiv.org/abs/2505.13348)|null|
+|**2025-05-19**|**J4R: Learning to Judge with Equivalent Initial State Group Relative Preference Optimization**|Austin Xu et.al.|[2505.13346](http://arxiv.org/abs/2505.13346)|null|
 |**2025-05-16**|**msf-CNN: Patch-based Multi-Stage Fusion with Convolutional Neural Networks for TinyML**|Zhaolan Huang et.al.|[2505.11483](http://arxiv.org/abs/2505.11483)|null|
 |**2025-05-16**|**Improving Assembly Code Performance with Large Language Models via Reinforcement Learning**|Anjiang Wei et.al.|[2505.11480](http://arxiv.org/abs/2505.11480)|null|
 |**2025-05-16**|**Automatic Reward Shaping from Confounded Offline Data**|Mingxuan Li et.al.|[2505.11478](http://arxiv.org/abs/2505.11478)|null|
@@ -5716,6 +5756,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-19**|**Trust, But Verify: A Self-Verification Approach to Reinforcement Learning with Verifiable Rewards**|Xiaoyuan Liu et.al.|[2505.13445](http://arxiv.org/abs/2505.13445)|null|
+|**2025-05-19**|**Wonderings on Wiggly Bispectra: Non-linear Evolution and Reconstruction of Oscillations in the Squeezed Bispectrum**|Samuel Goldstein et.al.|[2505.13443](http://arxiv.org/abs/2505.13443)|null|
+|**2025-05-19**|**Optimizing Anytime Reasoning via Budget Relative Policy Optimization**|Penghui Qi et.al.|[2505.13438](http://arxiv.org/abs/2505.13438)|**[link](https://github.com/sail-sg/anytimereasoner)**|
+|**2025-05-19**|**SMOTExT: SMOTE meets Large Language Models**|Mateusz Bystroński et.al.|[2505.13434](http://arxiv.org/abs/2505.13434)|null|
+|**2025-05-19**|**Fine-tuning Quantized Neural Networks with Zeroth-order Optimization**|Sifeng Shang et.al.|[2505.13430](http://arxiv.org/abs/2505.13430)|null|
+|**2025-05-19**|**MM-PRM: Enhancing Multimodal Mathematical Reasoning with Scalable Step-Level Supervision**|Lingxiao Du et.al.|[2505.13427](http://arxiv.org/abs/2505.13427)|**[link](https://github.com/modalminds/mm-prm)**|
+|**2025-05-19**|**Learnware of Language Models: Specialized Small Language Models Can Do Big**|Zhi-Hao Tan et.al.|[2505.13425](http://arxiv.org/abs/2505.13425)|null|
+|**2025-05-19**|**The Enduring Relevance of Semiempirical Quantum Mechanics**|Jonathan E. Moussa et.al.|[2505.13424](http://arxiv.org/abs/2505.13424)|null|
+|**2025-05-19**|**Machine learning the first stage in 2SLS: Practical guidance from bias decomposition and simulation**|Connor Lennon et.al.|[2505.13422](http://arxiv.org/abs/2505.13422)|null|
+|**2025-05-19**|**Make Still Further Progress: Chain of Thoughts for Tabular Data Leaderboard**|Si-Yang Liu et.al.|[2505.13421](http://arxiv.org/abs/2505.13421)|null|
+|**2025-05-19**|**FEALLM: Advancing Facial Emotion Analysis in Multimodal Large Language Models with Emotional Synergy and Reasoning**|Zhuozhao Hu et.al.|[2505.13419](http://arxiv.org/abs/2505.13419)|**[link](https://github.com/953206211/feallm)**|
+|**2025-05-19**|**CoT-Kinetics: A Theoretical Modeling Assessing LRM Reasoning Process**|Jinhe Bi et.al.|[2505.13408](http://arxiv.org/abs/2505.13408)|null|
+|**2025-05-19**|**AutoMathKG: The automated mathematical knowledge graph based on LLM and vector database**|Rong Bian et.al.|[2505.13406](http://arxiv.org/abs/2505.13406)|null|
+|**2025-05-19**|**MR. Judge: Multimodal Reasoner as a Judge**|Renjie Pi et.al.|[2505.13403](http://arxiv.org/abs/2505.13403)|null|
+|**2025-05-19**|**MGPBD: A Multigrid Accelerated Global XPBD Solver**|Chunlei Li et.al.|[2505.13390](http://arxiv.org/abs/2505.13390)|null|
+|**2025-05-19**|**CompeteSMoE -- Statistically Guaranteed Mixture of Experts Training via Competition**|Nam V. Nguyen et.al.|[2505.13380](http://arxiv.org/abs/2505.13380)|null|
+|**2025-05-19**|**The SXS Collaboration's third catalog of binary black hole simulations**|Mark A. Scheel et.al.|[2505.13378](http://arxiv.org/abs/2505.13378)|null|
+|**2025-05-19**|**Seeing, Saying, Solving: An LLM-to-TL Framework for Cooperative Robots**|Dan BW Choe et.al.|[2505.13376](http://arxiv.org/abs/2505.13376)|null|
+|**2025-05-19**|**Minimum-Excess-Work Guidance**|Christopher Kolloff et.al.|[2505.13375](http://arxiv.org/abs/2505.13375)|null|
+|**2025-05-19**|**Feedback-Driven Dynamical Model for Axonal Extension on Parallel Micropatterns**|Kyle Cheng et.al.|[2505.13361](http://arxiv.org/abs/2505.13361)|null|
 |**2025-05-16**|**Evolution of granular salty ice analogs for Europa: Sublimation and Irradiation**|Rafael Ottersberg et.al.|[2505.11498](http://arxiv.org/abs/2505.11498)|null|
 |**2025-05-16**|**Desirability of outcome ranking (DOOR) analysis for multivariate survival outcomes with application to ACTT-1 trial**|Shiyu Shu et.al.|[2505.11496](http://arxiv.org/abs/2505.11496)|null|
 |**2025-05-16**|**Bracing for Impact: Robust Humanoid Push Recovery and Locomotion with Reduced Order Models**|Lizhi Yang et.al.|[2505.11495](http://arxiv.org/abs/2505.11495)|null|
@@ -8568,6 +8628,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-19**|**Trust, But Verify: A Self-Verification Approach to Reinforcement Learning with Verifiable Rewards**|Xiaoyuan Liu et.al.|[2505.13445](http://arxiv.org/abs/2505.13445)|null|
+|**2025-05-19**|**ChartMuseum: Testing Visual Reasoning Capabilities of Large Vision-Language Models**|Liyan Tang et.al.|[2505.13444](http://arxiv.org/abs/2505.13444)|null|
+|**2025-05-19**|**Optimizing Anytime Reasoning via Budget Relative Policy Optimization**|Penghui Qi et.al.|[2505.13438](http://arxiv.org/abs/2505.13438)|**[link](https://github.com/sail-sg/anytimereasoner)**|
+|**2025-05-19**|**SMOTExT: SMOTE meets Large Language Models**|Mateusz Bystroński et.al.|[2505.13434](http://arxiv.org/abs/2505.13434)|null|
+|**2025-05-19**|**Fine-tuning Quantized Neural Networks with Zeroth-order Optimization**|Sifeng Shang et.al.|[2505.13430](http://arxiv.org/abs/2505.13430)|null|
+|**2025-05-19**|**MM-PRM: Enhancing Multimodal Mathematical Reasoning with Scalable Step-Level Supervision**|Lingxiao Du et.al.|[2505.13427](http://arxiv.org/abs/2505.13427)|**[link](https://github.com/modalminds/mm-prm)**|
+|**2025-05-19**|**G1: Bootstrapping Perception and Reasoning Abilities of Vision-Language Model via Reinforcement Learning**|Liang Chen et.al.|[2505.13426](http://arxiv.org/abs/2505.13426)|**[link](https://github.com/chenllliang/g1)**|
+|**2025-05-19**|**Learnware of Language Models: Specialized Small Language Models Can Do Big**|Zhi-Hao Tan et.al.|[2505.13425](http://arxiv.org/abs/2505.13425)|null|
+|**2025-05-19**|**Make Still Further Progress: Chain of Thoughts for Tabular Data Leaderboard**|Si-Yang Liu et.al.|[2505.13421](http://arxiv.org/abs/2505.13421)|null|
+|**2025-05-19**|**FEALLM: Advancing Facial Emotion Analysis in Multimodal Large Language Models with Emotional Synergy and Reasoning**|Zhuozhao Hu et.al.|[2505.13419](http://arxiv.org/abs/2505.13419)|**[link](https://github.com/953206211/feallm)**|
+|**2025-05-19**|**AdaptThink: Reasoning Models Can Learn When to Think**|Jiajie Zhang et.al.|[2505.13417](http://arxiv.org/abs/2505.13417)|**[link](https://github.com/thu-keg/adaptthink)**|
+|**2025-05-19**|**CoT-Kinetics: A Theoretical Modeling Assessing LRM Reasoning Process**|Jinhe Bi et.al.|[2505.13408](http://arxiv.org/abs/2505.13408)|null|
+|**2025-05-19**|**AutoMathKG: The automated mathematical knowledge graph based on LLM and vector database**|Rong Bian et.al.|[2505.13406](http://arxiv.org/abs/2505.13406)|null|
+|**2025-05-19**|**MR. Judge: Multimodal Reasoner as a Judge**|Renjie Pi et.al.|[2505.13403](http://arxiv.org/abs/2505.13403)|null|
+|**2025-05-19**|**Advancing Generalization Across a Variety of Abstract Visual Reasoning Tasks**|Mikołaj Małkiński et.al.|[2505.13391](http://arxiv.org/abs/2505.13391)|null|
+|**2025-05-19**|**R3: Robust Rubric-Agnostic Reward Models**|David Anugraha et.al.|[2505.13388](http://arxiv.org/abs/2505.13388)|**[link](https://github.com/rubricreward/r3)**|
+|**2025-05-19**|**CompeteSMoE -- Statistically Guaranteed Mixture of Experts Training via Competition**|Nam V. Nguyen et.al.|[2505.13380](http://arxiv.org/abs/2505.13380)|null|
+|**2025-05-19**|**Thinkless: LLM Learns When to Think**|Gongfan Fang et.al.|[2505.13379](http://arxiv.org/abs/2505.13379)|**[link](https://github.com/vainf/thinkless)**|
+|**2025-05-19**|**Seeing, Saying, Solving: An LLM-to-TL Framework for Cooperative Robots**|Dan BW Choe et.al.|[2505.13376](http://arxiv.org/abs/2505.13376)|null|
+|**2025-05-19**|**Mixed Quantum-Classical Methods for Polaron Spectral Functions**|Haimi Nguyen et.al.|[2505.13365](http://arxiv.org/abs/2505.13365)|null|
 |**2025-05-16**|**NVSS J151002+570243: accretion and spin of a z > 4 Fermi detected blazar**|Gabriele Alzati et.al.|[2505.11500](http://arxiv.org/abs/2505.11500)|null|
 |**2025-05-16**|**SoftCoT++: Test-Time Scaling with Soft Chain-of-Thought Reasoning**|Yige Xu et.al.|[2505.11484](http://arxiv.org/abs/2505.11484)|null|
 |**2025-05-16**|**msf-CNN: Patch-based Multi-Stage Fusion with Convolutional Neural Networks for TinyML**|Zhaolan Huang et.al.|[2505.11483](http://arxiv.org/abs/2505.11483)|null|
