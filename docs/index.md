@@ -14,6 +14,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-23**|**Fann or Flop: A Multigenre, Multiera Benchmark for Arabic Poetry Understanding in LLMs**|Wafa Alghallabi et.al.|[2505.18152](http://arxiv.org/abs/2505.18152)|null|
+|**2025-05-23**|**First Finish Search: Efficient Test-Time Scaling in Large Language Models**|Aradhye Agarwal et.al.|[2505.18149](http://arxiv.org/abs/2505.18149)|null|
+|**2025-05-23**|**Lost in the Haystack: Smaller Needles are More Difficult for LLMs to Find**|Owen Bianchi et.al.|[2505.18148](http://arxiv.org/abs/2505.18148)|null|
+|**2025-05-23**|**Gaming Tool Preferences in Agentic LLMs**|Kazem Faghih et.al.|[2505.18135](http://arxiv.org/abs/2505.18135)|null|
+|**2025-05-23**|**Reward Model Overoptimisation in Iterated RLHF**|Lorenz Wolf et.al.|[2505.18126](http://arxiv.org/abs/2505.18126)|null|
+|**2025-05-23**|**UNJOIN: Enhancing Multi-Table Text-to-SQL Generation via Schema Simplification**|Poojah Ganesan et.al.|[2505.18122](http://arxiv.org/abs/2505.18122)|null|
+|**2025-05-23**|**ProgRM: Build Better GUI Agents with Progress Rewards**|Danyang Zhang et.al.|[2505.18121](http://arxiv.org/abs/2505.18121)|null|
+|**2025-05-23**|**Bidirectional Knowledge Distillation for Enhancing Sequential Recommendation with Large Language Models**|Jiongran Wu et.al.|[2505.18120](http://arxiv.org/abs/2505.18120)|null|
+|**2025-05-23**|**Watch and Listen: Understanding Audio-Visual-Speech Moments with Multimodal LLM**|Zinuo Li et.al.|[2505.18110](http://arxiv.org/abs/2505.18110)|null|
+|**2025-05-23**|**ManuSearch: Democratizing Deep Search in Large Language Models with a Transparent and Open Multi-Agent Framework**|Lisheng Huang et.al.|[2505.18105](http://arxiv.org/abs/2505.18105)|null|
+|**2025-05-23**|**How Can I Publish My LLM Benchmark Without Giving the True Answers Away?**|Takashi Ishida et.al.|[2505.18102](http://arxiv.org/abs/2505.18102)|null|
+|**2025-05-23**|**Planning without Search: Refining Frontier LLMs with Offline Goal-Conditioned RL**|Joey Hong et.al.|[2505.18098](http://arxiv.org/abs/2505.18098)|null|
+|**2025-05-23**|**QwenLong-CPRS: Towards $\infty$ -LLMs with Dynamic Context Optimization**|Weizhou Shen et.al.|[2505.18092](http://arxiv.org/abs/2505.18092)|null|
+|**2025-05-23**|**Data Mixing Can Induce Phase Transitions in Knowledge Acquisition**|Xinran Gu et.al.|[2505.18091](http://arxiv.org/abs/2505.18091)|null|
+|**2025-05-23**|**Deep Video Discovery: Agentic Search with Tool Use for Long-form Video Understanding**|Xiaoyi Zhang et.al.|[2505.18079](http://arxiv.org/abs/2505.18079)|null|
+|**2025-05-23**|**Extended Inductive Reasoning for Personalized Preference Inference from Behavioral Signals**|Jia-Nan Li et.al.|[2505.18071](http://arxiv.org/abs/2505.18071)|null|
+|**2025-05-23**|**Emergence of Hebbian Dynamics in Regularized Non-Local Learners**|David Koplow et.al.|[2505.18069](http://arxiv.org/abs/2505.18069)|null|
+|**2025-05-23**|**Reward Model Generalization for Compute-Aware Test-Time Reasoning**|Zeen Song et.al.|[2505.18065](http://arxiv.org/abs/2505.18065)|null|
+|**2025-05-23**|**MathEDU: Towards Adaptive Feedback for Student Mathematical Problem-Solving**|Wei-Ling Hsu et.al.|[2505.18056](http://arxiv.org/abs/2505.18056)|null|
+|**2025-05-23**|**Contrastive Distillation of Emotion Knowledge from LLMs for Zero-Shot Emotion Recognition**|Minxue Niu et.al.|[2505.18040](http://arxiv.org/abs/2505.18040)|null|
 |**2025-05-22**|**CrossLMM: Decoupling Long Video Sequences from LMMs via Dual Cross-Attention Mechanisms**|Shilin Yan et.al.|[2505.17020](http://arxiv.org/abs/2505.17020)|**[link](https://github.com/shilinyan99/crosslmm)**|
 |**2025-05-22**|**Let Androids Dream of Electric Sheep: A Human-like Image Implication Understanding and Reasoning Framework**|Chenhao Zhang et.al.|[2505.17019](http://arxiv.org/abs/2505.17019)|**[link](https://github.com/ming-zch/let-androids-dream-of-electric-sheep)**|
 |**2025-05-22**|**SophiaVL-R1: Reinforcing MLLMs Reasoning with Thinking Reward**|Kaixuan Fan et.al.|[2505.17018](http://arxiv.org/abs/2505.17018)|**[link](https://github.com/kxfan2002/sophiavl-r1)**|
@@ -2940,6 +2960,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-23**|**Fann or Flop: A Multigenre, Multiera Benchmark for Arabic Poetry Understanding in LLMs**|Wafa Alghallabi et.al.|[2505.18152](http://arxiv.org/abs/2505.18152)|null|
+|**2025-05-23**|**First Finish Search: Efficient Test-Time Scaling in Large Language Models**|Aradhye Agarwal et.al.|[2505.18149](http://arxiv.org/abs/2505.18149)|null|
+|**2025-05-23**|**Lost in the Haystack: Smaller Needles are More Difficult for LLMs to Find**|Owen Bianchi et.al.|[2505.18148](http://arxiv.org/abs/2505.18148)|null|
+|**2025-05-23**|**Stochastic agent-based Monte Carlo simulations for reaction-diffusion models, population dynamics, and epidemic spreading**|Mohamed Swailem et.al.|[2505.18145](http://arxiv.org/abs/2505.18145)|null|
+|**2025-05-23**|**Gaming Tool Preferences in Agentic LLMs**|Kazem Faghih et.al.|[2505.18135](http://arxiv.org/abs/2505.18135)|null|
+|**2025-05-23**|**Reward Model Overoptimisation in Iterated RLHF**|Lorenz Wolf et.al.|[2505.18126](http://arxiv.org/abs/2505.18126)|null|
+|**2025-05-23**|**UNJOIN: Enhancing Multi-Table Text-to-SQL Generation via Schema Simplification**|Poojah Ganesan et.al.|[2505.18122](http://arxiv.org/abs/2505.18122)|null|
+|**2025-05-23**|**ProgRM: Build Better GUI Agents with Progress Rewards**|Danyang Zhang et.al.|[2505.18121](http://arxiv.org/abs/2505.18121)|null|
+|**2025-05-23**|**Bidirectional Knowledge Distillation for Enhancing Sequential Recommendation with Large Language Models**|Jiongran Wu et.al.|[2505.18120](http://arxiv.org/abs/2505.18120)|null|
+|**2025-05-23**|**Facility Location with Public Locations and Private Doubly-Peaked Costs**|Richard Cole et.al.|[2505.18114](http://arxiv.org/abs/2505.18114)|null|
+|**2025-05-23**|**Watch and Listen: Understanding Audio-Visual-Speech Moments with Multimodal LLM**|Zinuo Li et.al.|[2505.18110](http://arxiv.org/abs/2505.18110)|null|
+|**2025-05-23**|**ManuSearch: Democratizing Deep Search in Large Language Models with a Transparent and Open Multi-Agent Framework**|Lisheng Huang et.al.|[2505.18105](http://arxiv.org/abs/2505.18105)|null|
+|**2025-05-23**|**How Can I Publish My LLM Benchmark Without Giving the True Answers Away?**|Takashi Ishida et.al.|[2505.18102](http://arxiv.org/abs/2505.18102)|null|
+|**2025-05-23**|**Planning without Search: Refining Frontier LLMs with Offline Goal-Conditioned RL**|Joey Hong et.al.|[2505.18098](http://arxiv.org/abs/2505.18098)|null|
+|**2025-05-23**|**QwenLong-CPRS: Towards $\infty$ -LLMs with Dynamic Context Optimization**|Weizhou Shen et.al.|[2505.18092](http://arxiv.org/abs/2505.18092)|null|
+|**2025-05-23**|**Data Mixing Can Induce Phase Transitions in Knowledge Acquisition**|Xinran Gu et.al.|[2505.18091](http://arxiv.org/abs/2505.18091)|null|
+|**2025-05-23**|**Deep Video Discovery: Agentic Search with Tool Use for Long-form Video Understanding**|Xiaoyi Zhang et.al.|[2505.18079](http://arxiv.org/abs/2505.18079)|null|
+|**2025-05-23**|**Extended Inductive Reasoning for Personalized Preference Inference from Behavioral Signals**|Jia-Nan Li et.al.|[2505.18071](http://arxiv.org/abs/2505.18071)|null|
+|**2025-05-23**|**Emergence of Hebbian Dynamics in Regularized Non-Local Learners**|David Koplow et.al.|[2505.18069](http://arxiv.org/abs/2505.18069)|null|
+|**2025-05-23**|**Reward Model Generalization for Compute-Aware Test-Time Reasoning**|Zeen Song et.al.|[2505.18065](http://arxiv.org/abs/2505.18065)|null|
 |**2025-05-22**|**CrossLMM: Decoupling Long Video Sequences from LMMs via Dual Cross-Attention Mechanisms**|Shilin Yan et.al.|[2505.17020](http://arxiv.org/abs/2505.17020)|**[link](https://github.com/shilinyan99/crosslmm)**|
 |**2025-05-22**|**Let Androids Dream of Electric Sheep: A Human-like Image Implication Understanding and Reasoning Framework**|Chenhao Zhang et.al.|[2505.17019](http://arxiv.org/abs/2505.17019)|**[link](https://github.com/ming-zch/let-androids-dream-of-electric-sheep)**|
 |**2025-05-22**|**SophiaVL-R1: Reinforcing MLLMs Reasoning with Thinking Reward**|Kaixuan Fan et.al.|[2505.17018](http://arxiv.org/abs/2505.17018)|**[link](https://github.com/kxfan2002/sophiavl-r1)**|
@@ -5866,6 +5906,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-23**|**Modeling Cosmic-Ray Transport: Magnetized versus Unmagnetized Motion in Astrophysical Magnetic Turbulence**|Jeremiah Lübke et.al.|[2505.18155](http://arxiv.org/abs/2505.18155)|null|
+|**2025-05-23**|**Fann or Flop: A Multigenre, Multiera Benchmark for Arabic Poetry Understanding in LLMs**|Wafa Alghallabi et.al.|[2505.18152](http://arxiv.org/abs/2505.18152)|null|
+|**2025-05-23**|**WonderPlay: Dynamic 3D Scene Generation from a Single Image and Actions**|Zizhang Li et.al.|[2505.18151](http://arxiv.org/abs/2505.18151)|null|
+|**2025-05-23**|**First Finish Search: Efficient Test-Time Scaling in Large Language Models**|Aradhye Agarwal et.al.|[2505.18149](http://arxiv.org/abs/2505.18149)|null|
+|**2025-05-23**|**Lost in the Haystack: Smaller Needles are More Difficult for LLMs to Find**|Owen Bianchi et.al.|[2505.18148](http://arxiv.org/abs/2505.18148)|null|
+|**2025-05-23**|**Nonadiabatic reactive scattering of hydrogen on different surface facets of copper**|Wojciech G. Stark et.al.|[2505.18147](http://arxiv.org/abs/2505.18147)|null|
+|**2025-05-23**|**Stochastic agent-based Monte Carlo simulations for reaction-diffusion models, population dynamics, and epidemic spreading**|Mohamed Swailem et.al.|[2505.18145](http://arxiv.org/abs/2505.18145)|null|
+|**2025-05-23**|**Grand Theft Moons. Formation of habitable moons around giant planets**|Zoltan Dencs et.al.|[2505.18144](http://arxiv.org/abs/2505.18144)|null|
+|**2025-05-23**|**Statistical Localization in a Rydberg Simulator of $U(1)$ Lattice Gauge Theory**|Prithvi Raj Datla et.al.|[2505.18143](http://arxiv.org/abs/2505.18143)|null|
+|**2025-05-23**|**Gaming Tool Preferences in Agentic LLMs**|Kazem Faghih et.al.|[2505.18135](http://arxiv.org/abs/2505.18135)|null|
+|**2025-05-23**|**Reward Model Overoptimisation in Iterated RLHF**|Lorenz Wolf et.al.|[2505.18126](http://arxiv.org/abs/2505.18126)|null|
+|**2025-05-23**|**UNJOIN: Enhancing Multi-Table Text-to-SQL Generation via Schema Simplification**|Poojah Ganesan et.al.|[2505.18122](http://arxiv.org/abs/2505.18122)|null|
+|**2025-05-23**|**ProgRM: Build Better GUI Agents with Progress Rewards**|Danyang Zhang et.al.|[2505.18121](http://arxiv.org/abs/2505.18121)|null|
+|**2025-05-23**|**Bidirectional Knowledge Distillation for Enhancing Sequential Recommendation with Large Language Models**|Jiongran Wu et.al.|[2505.18120](http://arxiv.org/abs/2505.18120)|null|
+|**2025-05-23**|**Scalable Policy Maximization Under Network Interference**|Aidan Gleich et.al.|[2505.18118](http://arxiv.org/abs/2505.18118)|null|
+|**2025-05-23**|**Multi-Modal Spectral Parametrization Method (MMSPM) for analyzing EEG activity with distinct scaling regimes**|Frigyes Samuel Racz et.al.|[2505.18117](http://arxiv.org/abs/2505.18117)|null|
+|**2025-05-23**|**Watch and Listen: Understanding Audio-Visual-Speech Moments with Multimodal LLM**|Zinuo Li et.al.|[2505.18110](http://arxiv.org/abs/2505.18110)|null|
+|**2025-05-23**|**ManuSearch: Democratizing Deep Search in Large Language Models with a Transparent and Open Multi-Agent Framework**|Lisheng Huang et.al.|[2505.18105](http://arxiv.org/abs/2505.18105)|null|
+|**2025-05-23**|**How Can I Publish My LLM Benchmark Without Giving the True Answers Away?**|Takashi Ishida et.al.|[2505.18102](http://arxiv.org/abs/2505.18102)|null|
+|**2025-05-23**|**Planning without Search: Refining Frontier LLMs with Offline Goal-Conditioned RL**|Joey Hong et.al.|[2505.18098](http://arxiv.org/abs/2505.18098)|null|
 |**2025-05-22**|**CrossLMM: Decoupling Long Video Sequences from LMMs via Dual Cross-Attention Mechanisms**|Shilin Yan et.al.|[2505.17020](http://arxiv.org/abs/2505.17020)|**[link](https://github.com/shilinyan99/crosslmm)**|
 |**2025-05-22**|**Let Androids Dream of Electric Sheep: A Human-like Image Implication Understanding and Reasoning Framework**|Chenhao Zhang et.al.|[2505.17019](http://arxiv.org/abs/2505.17019)|**[link](https://github.com/ming-zch/let-androids-dream-of-electric-sheep)**|
 |**2025-05-22**|**SophiaVL-R1: Reinforcing MLLMs Reasoning with Thinking Reward**|Kaixuan Fan et.al.|[2505.17018](http://arxiv.org/abs/2505.17018)|**[link](https://github.com/kxfan2002/sophiavl-r1)**|
@@ -8796,6 +8856,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-23**|**The Staircase of Ethics: Probing LLM Value Priorities through Multi-Step Induction to Complex Moral Dilemmas**|Ya Wu et.al.|[2505.18154](http://arxiv.org/abs/2505.18154)|null|
+|**2025-05-23**|**Fann or Flop: A Multigenre, Multiera Benchmark for Arabic Poetry Understanding in LLMs**|Wafa Alghallabi et.al.|[2505.18152](http://arxiv.org/abs/2505.18152)|null|
+|**2025-05-23**|**Generative Distribution Embeddings**|Nic Fishman et.al.|[2505.18150](http://arxiv.org/abs/2505.18150)|null|
+|**2025-05-23**|**First Finish Search: Efficient Test-Time Scaling in Large Language Models**|Aradhye Agarwal et.al.|[2505.18149](http://arxiv.org/abs/2505.18149)|null|
+|**2025-05-23**|**Lost in the Haystack: Smaller Needles are More Difficult for LLMs to Find**|Owen Bianchi et.al.|[2505.18148](http://arxiv.org/abs/2505.18148)|null|
+|**2025-05-23**|**Gaming Tool Preferences in Agentic LLMs**|Kazem Faghih et.al.|[2505.18135](http://arxiv.org/abs/2505.18135)|null|
+|**2025-05-23**|**One RL to See Them All: Visual Triple Unified Reinforcement Learning**|Yan Ma et.al.|[2505.18129](http://arxiv.org/abs/2505.18129)|null|
+|**2025-05-23**|**Reward Model Overoptimisation in Iterated RLHF**|Lorenz Wolf et.al.|[2505.18126](http://arxiv.org/abs/2505.18126)|null|
+|**2025-05-23**|**UNJOIN: Enhancing Multi-Table Text-to-SQL Generation via Schema Simplification**|Poojah Ganesan et.al.|[2505.18122](http://arxiv.org/abs/2505.18122)|null|
+|**2025-05-23**|**ProgRM: Build Better GUI Agents with Progress Rewards**|Danyang Zhang et.al.|[2505.18121](http://arxiv.org/abs/2505.18121)|null|
+|**2025-05-23**|**Bidirectional Knowledge Distillation for Enhancing Sequential Recommendation with Large Language Models**|Jiongran Wu et.al.|[2505.18120](http://arxiv.org/abs/2505.18120)|null|
+|**2025-05-23**|**Bridging Supervised Learning and Reinforcement Learning in Math Reasoning**|Huayu Chen et.al.|[2505.18116](http://arxiv.org/abs/2505.18116)|null|
+|**2025-05-23**|**Watch and Listen: Understanding Audio-Visual-Speech Moments with Multimodal LLM**|Zinuo Li et.al.|[2505.18110](http://arxiv.org/abs/2505.18110)|null|
+|**2025-05-23**|**ManuSearch: Democratizing Deep Search in Large Language Models with a Transparent and Open Multi-Agent Framework**|Lisheng Huang et.al.|[2505.18105](http://arxiv.org/abs/2505.18105)|null|
+|**2025-05-23**|**How Can I Publish My LLM Benchmark Without Giving the True Answers Away?**|Takashi Ishida et.al.|[2505.18102](http://arxiv.org/abs/2505.18102)|null|
+|**2025-05-23**|**Planning without Search: Refining Frontier LLMs with Offline Goal-Conditioned RL**|Joey Hong et.al.|[2505.18098](http://arxiv.org/abs/2505.18098)|null|
+|**2025-05-23**|**QwenLong-CPRS: Towards $\infty$ -LLMs with Dynamic Context Optimization**|Weizhou Shen et.al.|[2505.18092](http://arxiv.org/abs/2505.18092)|null|
+|**2025-05-23**|**Data Mixing Can Induce Phase Transitions in Knowledge Acquisition**|Xinran Gu et.al.|[2505.18091](http://arxiv.org/abs/2505.18091)|null|
+|**2025-05-23**|**CXReasonBench: A Benchmark for Evaluating Structured Diagnostic Reasoning in Chest X-rays**|Hyungyung Lee et.al.|[2505.18087](http://arxiv.org/abs/2505.18087)|null|
+|**2025-05-23**|**Stable Reinforcement Learning for Efficient Reasoning**|Muzhi Dai et.al.|[2505.18086](http://arxiv.org/abs/2505.18086)|null|
 |**2025-05-22**|**GoT-R1: Unleashing Reasoning Capability of MLLM for Visual Generation with Reinforcement Learning**|Chengqi Duan et.al.|[2505.17022](http://arxiv.org/abs/2505.17022)|**[link](https://github.com/gogoduan/got-r1)**|
 |**2025-05-22**|**ARB: A Comprehensive Arabic Multimodal Reasoning Benchmark**|Sara Ghaboura et.al.|[2505.17021](http://arxiv.org/abs/2505.17021)|**[link](https://github.com/mbzuai-oryx/arb)**|
 |**2025-05-22**|**CrossLMM: Decoupling Long Video Sequences from LMMs via Dual Cross-Attention Mechanisms**|Shilin Yan et.al.|[2505.17020](http://arxiv.org/abs/2505.17020)|**[link](https://github.com/shilinyan99/crosslmm)**|
