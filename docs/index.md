@@ -14,6 +14,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-27**|**Silence is Not Consensus: Disrupting Agreement Bias in Multi-Agent LLMs via Catfish Agent for Clinical Decision Making**|Yihan Wang et.al.|[2505.21503](http://arxiv.org/abs/2505.21503)|null|
+|**2025-05-27**|**Adversarial Attacks against Closed-Source MLLMs via Feature Optimal Alignment**|Xiaojun Jia et.al.|[2505.21494](http://arxiv.org/abs/2505.21494)|null|
+|**2025-05-27**|**Reinforcing General Reasoning without Verifiers**|Xiangxin Zhou et.al.|[2505.21493](http://arxiv.org/abs/2505.21493)|null|
+|**2025-05-27**|**Robust Hypothesis Generation: LLM-Automated Language Bias for Inductive Logic Programming**|Yang Yang et.al.|[2505.21486](http://arxiv.org/abs/2505.21486)|null|
+|**2025-05-27**|**Are Language Models Consequentialist or Deontological Moral Reasoners?**|Keenan Samway et.al.|[2505.21479](http://arxiv.org/abs/2505.21479)|null|
+|**2025-05-27**|**Policy Optimized Text-to-Image Pipeline Design**|Uri Gadot et.al.|[2505.21478](http://arxiv.org/abs/2505.21478)|null|
+|**2025-05-27**|**Scaling External Knowledge Input Beyond Context Windows of LLMs via Multi-Agent Collaboration**|Zijun Liu et.al.|[2505.21471](http://arxiv.org/abs/2505.21471)|null|
+|**2025-05-27**|**Do LLMs Need to Think in One Language? Correlation between Latent Language and Task Performance**|Shintaro Ozaki et.al.|[2505.21458](http://arxiv.org/abs/2505.21458)|null|
+|**2025-05-27**|**Active-O3: Empowering Multimodal Large Language Models with Active Perception via GRPO**|Muzhi Zhu et.al.|[2505.21457](http://arxiv.org/abs/2505.21457)|null|
+|**2025-05-27**|**Can Large Reasoning Models Self-Train?**|Sheikh Shafayat et.al.|[2505.21444](http://arxiv.org/abs/2505.21444)|null|
+|**2025-05-27**|**Hume: Introducing System-2 Thinking in Visual-Language-Action Model**|Haoming Song et.al.|[2505.21432](http://arxiv.org/abs/2505.21432)|null|
+|**2025-05-27**|**Policy Induction: Predicting Startup Success via Explainable Memory-Augmented In-Context Learning**|Xianling Mu et.al.|[2505.21427](http://arxiv.org/abs/2505.21427)|null|
+|**2025-05-27**|**GUARD:Dual-Agent based Backdoor Defense on Chain-of-Thought in Neural Code Generation**|Naizhu Jin et.al.|[2505.21425](http://arxiv.org/abs/2505.21425)|null|
+|**2025-05-27**|**Autonomous Multi-Modal LLM Agents for Treatment Planning in Focused Ultrasound Ablation Surgery**|Lina Zhao et.al.|[2505.21418](http://arxiv.org/abs/2505.21418)|null|
+|**2025-05-27**|**RefTool: Enhancing Model Reasoning with Reference-Guided Tool Creation**|Xiao Liu et.al.|[2505.21413](http://arxiv.org/abs/2505.21413)|null|
+|**2025-05-27**|**Pangu Pro MoE: Mixture of Grouped Experts for Efficient Sparsity**|Yehui Tang et.al.|[2505.21411](http://arxiv.org/abs/2505.21411)|null|
+|**2025-05-27**|**RelationalFactQA: A Benchmark for Evaluating Tabular Fact Retrieval from Large Language Models**|Dario Satriani et.al.|[2505.21409](http://arxiv.org/abs/2505.21409)|null|
+|**2025-05-27**|**A Convergence Theory for Diffusion Language Models: An Information-Theoretic Perspective**|Gen Li et.al.|[2505.21400](http://arxiv.org/abs/2505.21400)|null|
+|**2025-05-27**|**Factual Self-Awareness in Language Models: Representation, Robustness, and Scaling**|Hovhannes Tamoyan et.al.|[2505.21399](http://arxiv.org/abs/2505.21399)|null|
+|**2025-05-27**|**DecisionFlow: Advancing Large Language Model as Principled Decision Maker**|Xiusi Chen et.al.|[2505.21397](http://arxiv.org/abs/2505.21397)|null|
 |**2025-05-26**|**Pangu Light: Weight Re-Initialization for Pruning and Accelerating LLMs**|Hanting Chen et.al.|[2505.20155](http://arxiv.org/abs/2505.20155)|null|
 |**2025-05-26**|**UORA: Uniform Orthogonal Reinitialization Adaptation in Parameter-Efficient Fine-Tuning of Large Models**|Xueyan Zhang et.al.|[2505.20154](http://arxiv.org/abs/2505.20154)|null|
 |**2025-05-27**|**MineAnyBuild: Benchmarking Spatial Planning for Open-world AI Agents**|Ziming Wei et.al.|[2505.20148](http://arxiv.org/abs/2505.20148)|null|
@@ -2982,6 +3002,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-27**|**Silence is Not Consensus: Disrupting Agreement Bias in Multi-Agent LLMs via Catfish Agent for Clinical Decision Making**|Yihan Wang et.al.|[2505.21503](http://arxiv.org/abs/2505.21503)|null|
+|**2025-05-27**|**AdInject: Real-World Black-Box Attacks on Web Agents via Advertising Delivery**|Haowei Wang et.al.|[2505.21499](http://arxiv.org/abs/2505.21499)|null|
+|**2025-05-27**|**Paper2Poster: Towards Multimodal Poster Automation from Scientific Papers**|Wei Pang et.al.|[2505.21497](http://arxiv.org/abs/2505.21497)|null|
+|**2025-05-27**|**UI-Genie: A Self-Improving Approach for Iteratively Boosting MLLM-based Mobile GUI Agents**|Han Xiao et.al.|[2505.21496](http://arxiv.org/abs/2505.21496)|null|
+|**2025-05-27**|**Adversarial Attacks against Closed-Source MLLMs via Feature Optimal Alignment**|Xiaojun Jia et.al.|[2505.21494](http://arxiv.org/abs/2505.21494)|null|
+|**2025-05-27**|**Reinforcing General Reasoning without Verifiers**|Xiangxin Zhou et.al.|[2505.21493](http://arxiv.org/abs/2505.21493)|null|
+|**2025-05-27**|**Robust Hypothesis Generation: LLM-Automated Language Bias for Inductive Logic Programming**|Yang Yang et.al.|[2505.21486](http://arxiv.org/abs/2505.21486)|null|
+|**2025-05-27**|**Are Language Models Consequentialist or Deontological Moral Reasoners?**|Keenan Samway et.al.|[2505.21479](http://arxiv.org/abs/2505.21479)|null|
+|**2025-05-27**|**Policy Optimized Text-to-Image Pipeline Design**|Uri Gadot et.al.|[2505.21478](http://arxiv.org/abs/2505.21478)|null|
+|**2025-05-27**|**Scaling External Knowledge Input Beyond Context Windows of LLMs via Multi-Agent Collaboration**|Zijun Liu et.al.|[2505.21471](http://arxiv.org/abs/2505.21471)|null|
+|**2025-05-27**|**Do LLMs Need to Think in One Language? Correlation between Latent Language and Task Performance**|Shintaro Ozaki et.al.|[2505.21458](http://arxiv.org/abs/2505.21458)|null|
+|**2025-05-27**|**Active-O3: Empowering Multimodal Large Language Models with Active Perception via GRPO**|Muzhi Zhu et.al.|[2505.21457](http://arxiv.org/abs/2505.21457)|null|
+|**2025-05-27**|**Can Large Reasoning Models Self-Train?**|Sheikh Shafayat et.al.|[2505.21444](http://arxiv.org/abs/2505.21444)|null|
+|**2025-05-27**|**Hume: Introducing System-2 Thinking in Visual-Language-Action Model**|Haoming Song et.al.|[2505.21432](http://arxiv.org/abs/2505.21432)|null|
+|**2025-05-27**|**Policy Induction: Predicting Startup Success via Explainable Memory-Augmented In-Context Learning**|Xianling Mu et.al.|[2505.21427](http://arxiv.org/abs/2505.21427)|null|
+|**2025-05-27**|**Learning Individual Behavior in Agent-Based Models with Graph Diffusion Networks**|Francesco Cozzi et.al.|[2505.21426](http://arxiv.org/abs/2505.21426)|null|
+|**2025-05-27**|**GUARD:Dual-Agent based Backdoor Defense on Chain-of-Thought in Neural Code Generation**|Naizhu Jin et.al.|[2505.21425](http://arxiv.org/abs/2505.21425)|null|
+|**2025-05-27**|**Autonomous Multi-Modal LLM Agents for Treatment Planning in Focused Ultrasound Ablation Surgery**|Lina Zhao et.al.|[2505.21418](http://arxiv.org/abs/2505.21418)|null|
+|**2025-05-27**|**A Framework for Adversarial Analysis of Decision Support Systems Prior to Deployment**|Brett Bissey et.al.|[2505.21414](http://arxiv.org/abs/2505.21414)|null|
+|**2025-05-27**|**RefTool: Enhancing Model Reasoning with Reference-Guided Tool Creation**|Xiao Liu et.al.|[2505.21413](http://arxiv.org/abs/2505.21413)|null|
 |**2025-05-26**|**Pangu Light: Weight Re-Initialization for Pruning and Accelerating LLMs**|Hanting Chen et.al.|[2505.20155](http://arxiv.org/abs/2505.20155)|null|
 |**2025-05-26**|**UORA: Uniform Orthogonal Reinitialization Adaptation in Parameter-Efficient Fine-Tuning of Large Models**|Xueyan Zhang et.al.|[2505.20154](http://arxiv.org/abs/2505.20154)|null|
 |**2025-05-27**|**MineAnyBuild: Benchmarking Spatial Planning for Open-world AI Agents**|Ziming Wei et.al.|[2505.20148](http://arxiv.org/abs/2505.20148)|null|
@@ -5950,6 +5990,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-27**|**Silence is Not Consensus: Disrupting Agreement Bias in Multi-Agent LLMs via Catfish Agent for Clinical Decision Making**|Yihan Wang et.al.|[2505.21503](http://arxiv.org/abs/2505.21503)|null|
+|**2025-05-27**|**AdInject: Real-World Black-Box Attacks on Web Agents via Advertising Delivery**|Haowei Wang et.al.|[2505.21499](http://arxiv.org/abs/2505.21499)|null|
+|**2025-05-27**|**Adversarial Attacks against Closed-Source MLLMs via Feature Optimal Alignment**|Xiaojun Jia et.al.|[2505.21494](http://arxiv.org/abs/2505.21494)|null|
+|**2025-05-27**|**Reinforcing General Reasoning without Verifiers**|Xiangxin Zhou et.al.|[2505.21493](http://arxiv.org/abs/2505.21493)|null|
+|**2025-05-27**|**Bayesian Dynamic Clustering Factor Models**|Tsering Dolkar et.al.|[2505.21490](http://arxiv.org/abs/2505.21490)|null|
+|**2025-05-27**|**Robust Hypothesis Generation: LLM-Automated Language Bias for Inductive Logic Programming**|Yang Yang et.al.|[2505.21486](http://arxiv.org/abs/2505.21486)|null|
+|**2025-05-27**|**Tissue-specific predictive performance: A unified estimation and inference framework for multi-category screening tests**|A. Gregory DiRienzo et.al.|[2505.21482](http://arxiv.org/abs/2505.21482)|null|
+|**2025-05-27**|**Are Language Models Consequentialist or Deontological Moral Reasoners?**|Keenan Samway et.al.|[2505.21479](http://arxiv.org/abs/2505.21479)|null|
+|**2025-05-27**|**Policy Optimized Text-to-Image Pipeline Design**|Uri Gadot et.al.|[2505.21478](http://arxiv.org/abs/2505.21478)|null|
+|**2025-05-27**|**Scaling External Knowledge Input Beyond Context Windows of LLMs via Multi-Agent Collaboration**|Zijun Liu et.al.|[2505.21471](http://arxiv.org/abs/2505.21471)|null|
+|**2025-05-27**|**Changing disc compositions via internal photoevaporation II: M dwarf systems**|Julia Lena Lienert et.al.|[2505.21470](http://arxiv.org/abs/2505.21470)|null|
+|**2025-05-27**|**Causal Posterior Estimation**|Simon Dirmeier et.al.|[2505.21468](http://arxiv.org/abs/2505.21468)|null|
+|**2025-05-27**|**Do LLMs Need to Think in One Language? Correlation between Latent Language and Task Performance**|Shintaro Ozaki et.al.|[2505.21458](http://arxiv.org/abs/2505.21458)|null|
+|**2025-05-27**|**Active-O3: Empowering Multimodal Large Language Models with Active Perception via GRPO**|Muzhi Zhu et.al.|[2505.21457](http://arxiv.org/abs/2505.21457)|null|
+|**2025-05-27**|**Words Like Knives: Backstory-Personalized Modeling and Detection of Violent Communication**|Jocelyn Shen et.al.|[2505.21451](http://arxiv.org/abs/2505.21451)|null|
+|**2025-05-27**|**A Bayesian approach to the survivor average causal effect in cluster-randomized crossover trials**|Dane Isenberg et.al.|[2505.21447](http://arxiv.org/abs/2505.21447)|null|
+|**2025-05-27**|**Can Large Reasoning Models Self-Train?**|Sheikh Shafayat et.al.|[2505.21444](http://arxiv.org/abs/2505.21444)|null|
+|**2025-05-27**|**Hume: Introducing System-2 Thinking in Visual-Language-Action Model**|Haoming Song et.al.|[2505.21432](http://arxiv.org/abs/2505.21432)|null|
+|**2025-05-27**|**Policy Induction: Predicting Startup Success via Explainable Memory-Augmented In-Context Learning**|Xianling Mu et.al.|[2505.21427](http://arxiv.org/abs/2505.21427)|null|
+|**2025-05-27**|**Learning Individual Behavior in Agent-Based Models with Graph Diffusion Networks**|Francesco Cozzi et.al.|[2505.21426](http://arxiv.org/abs/2505.21426)|null|
 |**2025-05-26**|**Pangu Light: Weight Re-Initialization for Pruning and Accelerating LLMs**|Hanting Chen et.al.|[2505.20155](http://arxiv.org/abs/2505.20155)|null|
 |**2025-05-26**|**UORA: Uniform Orthogonal Reinitialization Adaptation in Parameter-Efficient Fine-Tuning of Large Models**|Xueyan Zhang et.al.|[2505.20154](http://arxiv.org/abs/2505.20154)|null|
 |**2025-05-26**|**The evolving categories multinomial distribution: introduction with applications to movement ecology and vote transfer**|Ricardo Carrizo Vergara et.al.|[2505.20151](http://arxiv.org/abs/2505.20151)|null|
@@ -8922,6 +8982,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-27**|**How does Alignment Enhance LLMs' Multilingual Capabilities? A Language Neurons Perspective**|Shimao Zhang et.al.|[2505.21505](http://arxiv.org/abs/2505.21505)|null|
+|**2025-05-27**|**Silence is Not Consensus: Disrupting Agreement Bias in Multi-Agent LLMs via Catfish Agent for Clinical Decision Making**|Yihan Wang et.al.|[2505.21503](http://arxiv.org/abs/2505.21503)|null|
+|**2025-05-27**|**ViewSpatial-Bench: Evaluating Multi-perspective Spatial Localization in Vision-Language Models**|Dingming Li et.al.|[2505.21500](http://arxiv.org/abs/2505.21500)|null|
+|**2025-05-27**|**Adversarial Attacks against Closed-Source MLLMs via Feature Optimal Alignment**|Xiaojun Jia et.al.|[2505.21494](http://arxiv.org/abs/2505.21494)|null|
+|**2025-05-27**|**Reinforcing General Reasoning without Verifiers**|Xiangxin Zhou et.al.|[2505.21493](http://arxiv.org/abs/2505.21493)|null|
+|**2025-05-27**|**Robust Hypothesis Generation: LLM-Automated Language Bias for Inductive Logic Programming**|Yang Yang et.al.|[2505.21486](http://arxiv.org/abs/2505.21486)|null|
+|**2025-05-27**|**Tissue-specific predictive performance: A unified estimation and inference framework for multi-category screening tests**|A. Gregory DiRienzo et.al.|[2505.21482](http://arxiv.org/abs/2505.21482)|null|
+|**2025-05-27**|**Are Language Models Consequentialist or Deontological Moral Reasoners?**|Keenan Samway et.al.|[2505.21479](http://arxiv.org/abs/2505.21479)|null|
+|**2025-05-27**|**Policy Optimized Text-to-Image Pipeline Design**|Uri Gadot et.al.|[2505.21478](http://arxiv.org/abs/2505.21478)|null|
+|**2025-05-27**|**Scaling External Knowledge Input Beyond Context Windows of LLMs via Multi-Agent Collaboration**|Zijun Liu et.al.|[2505.21471](http://arxiv.org/abs/2505.21471)|null|
+|**2025-05-27**|**Accelerating Diffusion Language Model Inference via Efficient KV Caching and Guided Diffusion**|Zhanqiu Hu et.al.|[2505.21467](http://arxiv.org/abs/2505.21467)|null|
+|**2025-05-27**|**ID-Align: RoPE-Conscious Position Remapping for Dynamic High-Resolution Adaptation in Vision-Language Models**|Bozhou Li et.al.|[2505.21465](http://arxiv.org/abs/2505.21465)|null|
+|**2025-05-27**|**Do LLMs Need to Think in One Language? Correlation between Latent Language and Task Performance**|Shintaro Ozaki et.al.|[2505.21458](http://arxiv.org/abs/2505.21458)|null|
+|**2025-05-27**|**Active-O3: Empowering Multimodal Large Language Models with Active Perception via GRPO**|Muzhi Zhu et.al.|[2505.21457](http://arxiv.org/abs/2505.21457)|null|
+|**2025-05-27**|**Can Large Reasoning Models Self-Train?**|Sheikh Shafayat et.al.|[2505.21444](http://arxiv.org/abs/2505.21444)|null|
+|**2025-05-27**|**Towards Better Instruction Following Retrieval Models**|Yuchen Zhuang et.al.|[2505.21439](http://arxiv.org/abs/2505.21439)|null|
+|**2025-05-27**|**Hume: Introducing System-2 Thinking in Visual-Language-Action Model**|Haoming Song et.al.|[2505.21432](http://arxiv.org/abs/2505.21432)|null|
+|**2025-05-27**|**Policy Induction: Predicting Startup Success via Explainable Memory-Augmented In-Context Learning**|Xianling Mu et.al.|[2505.21427](http://arxiv.org/abs/2505.21427)|null|
+|**2025-05-27**|**GUARD:Dual-Agent based Backdoor Defense on Chain-of-Thought in Neural Code Generation**|Naizhu Jin et.al.|[2505.21425](http://arxiv.org/abs/2505.21425)|null|
+|**2025-05-27**|**Autonomous Multi-Modal LLM Agents for Treatment Planning in Focused Ultrasound Ablation Surgery**|Lina Zhao et.al.|[2505.21418](http://arxiv.org/abs/2505.21418)|null|
 |**2025-05-26**|**Pangu Light: Weight Re-Initialization for Pruning and Accelerating LLMs**|Hanting Chen et.al.|[2505.20155](http://arxiv.org/abs/2505.20155)|null|
 |**2025-05-26**|**UORA: Uniform Orthogonal Reinitialization Adaptation in Parameter-Efficient Fine-Tuning of Large Models**|Xueyan Zhang et.al.|[2505.20154](http://arxiv.org/abs/2505.20154)|null|
 |**2025-05-26**|**Hard Negative Contrastive Learning for Fine-Grained Geometric Understanding in Large Multimodal Models**|Kai Sun et.al.|[2505.20152](http://arxiv.org/abs/2505.20152)|null|
