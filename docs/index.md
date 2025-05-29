@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.05.28
+## Updated on 2025.05.29
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## large language model
@@ -20,7 +20,7 @@ layout: default
 |**2025-05-27**|**Robust Hypothesis Generation: LLM-Automated Language Bias for Inductive Logic Programming**|Yang Yang et.al.|[2505.21486](http://arxiv.org/abs/2505.21486)|null|
 |**2025-05-27**|**Are Language Models Consequentialist or Deontological Moral Reasoners?**|Keenan Samway et.al.|[2505.21479](http://arxiv.org/abs/2505.21479)|null|
 |**2025-05-27**|**Policy Optimized Text-to-Image Pipeline Design**|Uri Gadot et.al.|[2505.21478](http://arxiv.org/abs/2505.21478)|null|
-|**2025-05-27**|**Scaling External Knowledge Input Beyond Context Windows of LLMs via Multi-Agent Collaboration**|Zijun Liu et.al.|[2505.21471](http://arxiv.org/abs/2505.21471)|null|
+|**2025-05-27**|**Scaling External Knowledge Input Beyond Context Windows of LLMs via Multi-Agent Collaboration**|Zijun Liu et.al.|[2505.21471](http://arxiv.org/abs/2505.21471)|**[link](https://github.com/thunlp-mt/extagents)**|
 |**2025-05-27**|**Do LLMs Need to Think in One Language? Correlation between Latent Language and Task Performance**|Shintaro Ozaki et.al.|[2505.21458](http://arxiv.org/abs/2505.21458)|null|
 |**2025-05-27**|**Active-O3: Empowering Multimodal Large Language Models with Active Perception via GRPO**|Muzhi Zhu et.al.|[2505.21457](http://arxiv.org/abs/2505.21457)|null|
 |**2025-05-27**|**Can Large Reasoning Models Self-Train?**|Sheikh Shafayat et.al.|[2505.21444](http://arxiv.org/abs/2505.21444)|null|
@@ -29,7 +29,7 @@ layout: default
 |**2025-05-27**|**GUARD:Dual-Agent based Backdoor Defense on Chain-of-Thought in Neural Code Generation**|Naizhu Jin et.al.|[2505.21425](http://arxiv.org/abs/2505.21425)|null|
 |**2025-05-27**|**Autonomous Multi-Modal LLM Agents for Treatment Planning in Focused Ultrasound Ablation Surgery**|Lina Zhao et.al.|[2505.21418](http://arxiv.org/abs/2505.21418)|null|
 |**2025-05-27**|**RefTool: Enhancing Model Reasoning with Reference-Guided Tool Creation**|Xiao Liu et.al.|[2505.21413](http://arxiv.org/abs/2505.21413)|null|
-|**2025-05-27**|**Pangu Pro MoE: Mixture of Grouped Experts for Efficient Sparsity**|Yehui Tang et.al.|[2505.21411](http://arxiv.org/abs/2505.21411)|null|
+|**2025-05-28**|**Pangu Pro MoE: Mixture of Grouped Experts for Efficient Sparsity**|Yehui Tang et.al.|[2505.21411](http://arxiv.org/abs/2505.21411)|null|
 |**2025-05-27**|**RelationalFactQA: A Benchmark for Evaluating Tabular Fact Retrieval from Large Language Models**|Dario Satriani et.al.|[2505.21409](http://arxiv.org/abs/2505.21409)|null|
 |**2025-05-27**|**A Convergence Theory for Diffusion Language Models: An Information-Theoretic Perspective**|Gen Li et.al.|[2505.21400](http://arxiv.org/abs/2505.21400)|null|
 |**2025-05-27**|**Factual Self-Awareness in Language Models: Representation, Robustness, and Scaling**|Hovhannes Tamoyan et.al.|[2505.21399](http://arxiv.org/abs/2505.21399)|null|
@@ -3011,7 +3011,7 @@ layout: default
 |**2025-05-27**|**Robust Hypothesis Generation: LLM-Automated Language Bias for Inductive Logic Programming**|Yang Yang et.al.|[2505.21486](http://arxiv.org/abs/2505.21486)|null|
 |**2025-05-27**|**Are Language Models Consequentialist or Deontological Moral Reasoners?**|Keenan Samway et.al.|[2505.21479](http://arxiv.org/abs/2505.21479)|null|
 |**2025-05-27**|**Policy Optimized Text-to-Image Pipeline Design**|Uri Gadot et.al.|[2505.21478](http://arxiv.org/abs/2505.21478)|null|
-|**2025-05-27**|**Scaling External Knowledge Input Beyond Context Windows of LLMs via Multi-Agent Collaboration**|Zijun Liu et.al.|[2505.21471](http://arxiv.org/abs/2505.21471)|null|
+|**2025-05-27**|**Scaling External Knowledge Input Beyond Context Windows of LLMs via Multi-Agent Collaboration**|Zijun Liu et.al.|[2505.21471](http://arxiv.org/abs/2505.21471)|**[link](https://github.com/thunlp-mt/extagents)**|
 |**2025-05-27**|**Do LLMs Need to Think in One Language? Correlation between Latent Language and Task Performance**|Shintaro Ozaki et.al.|[2505.21458](http://arxiv.org/abs/2505.21458)|null|
 |**2025-05-27**|**Active-O3: Empowering Multimodal Large Language Models with Active Perception via GRPO**|Muzhi Zhu et.al.|[2505.21457](http://arxiv.org/abs/2505.21457)|null|
 |**2025-05-27**|**Can Large Reasoning Models Self-Train?**|Sheikh Shafayat et.al.|[2505.21444](http://arxiv.org/abs/2505.21444)|null|
@@ -5999,7 +5999,7 @@ layout: default
 |**2025-05-27**|**Tissue-specific predictive performance: A unified estimation and inference framework for multi-category screening tests**|A. Gregory DiRienzo et.al.|[2505.21482](http://arxiv.org/abs/2505.21482)|null|
 |**2025-05-27**|**Are Language Models Consequentialist or Deontological Moral Reasoners?**|Keenan Samway et.al.|[2505.21479](http://arxiv.org/abs/2505.21479)|null|
 |**2025-05-27**|**Policy Optimized Text-to-Image Pipeline Design**|Uri Gadot et.al.|[2505.21478](http://arxiv.org/abs/2505.21478)|null|
-|**2025-05-27**|**Scaling External Knowledge Input Beyond Context Windows of LLMs via Multi-Agent Collaboration**|Zijun Liu et.al.|[2505.21471](http://arxiv.org/abs/2505.21471)|null|
+|**2025-05-27**|**Scaling External Knowledge Input Beyond Context Windows of LLMs via Multi-Agent Collaboration**|Zijun Liu et.al.|[2505.21471](http://arxiv.org/abs/2505.21471)|**[link](https://github.com/thunlp-mt/extagents)**|
 |**2025-05-27**|**Changing disc compositions via internal photoevaporation II: M dwarf systems**|Julia Lena Lienert et.al.|[2505.21470](http://arxiv.org/abs/2505.21470)|null|
 |**2025-05-27**|**Causal Posterior Estimation**|Simon Dirmeier et.al.|[2505.21468](http://arxiv.org/abs/2505.21468)|null|
 |**2025-05-27**|**Do LLMs Need to Think in One Language? Correlation between Latent Language and Task Performance**|Shintaro Ozaki et.al.|[2505.21458](http://arxiv.org/abs/2505.21458)|null|
@@ -8991,7 +8991,7 @@ layout: default
 |**2025-05-27**|**Tissue-specific predictive performance: A unified estimation and inference framework for multi-category screening tests**|A. Gregory DiRienzo et.al.|[2505.21482](http://arxiv.org/abs/2505.21482)|null|
 |**2025-05-27**|**Are Language Models Consequentialist or Deontological Moral Reasoners?**|Keenan Samway et.al.|[2505.21479](http://arxiv.org/abs/2505.21479)|null|
 |**2025-05-27**|**Policy Optimized Text-to-Image Pipeline Design**|Uri Gadot et.al.|[2505.21478](http://arxiv.org/abs/2505.21478)|null|
-|**2025-05-27**|**Scaling External Knowledge Input Beyond Context Windows of LLMs via Multi-Agent Collaboration**|Zijun Liu et.al.|[2505.21471](http://arxiv.org/abs/2505.21471)|null|
+|**2025-05-27**|**Scaling External Knowledge Input Beyond Context Windows of LLMs via Multi-Agent Collaboration**|Zijun Liu et.al.|[2505.21471](http://arxiv.org/abs/2505.21471)|**[link](https://github.com/thunlp-mt/extagents)**|
 |**2025-05-27**|**Accelerating Diffusion Language Model Inference via Efficient KV Caching and Guided Diffusion**|Zhanqiu Hu et.al.|[2505.21467](http://arxiv.org/abs/2505.21467)|null|
 |**2025-05-27**|**ID-Align: RoPE-Conscious Position Remapping for Dynamic High-Resolution Adaptation in Vision-Language Models**|Bozhou Li et.al.|[2505.21465](http://arxiv.org/abs/2505.21465)|null|
 |**2025-05-27**|**Do LLMs Need to Think in One Language? Correlation between Latent Language and Task Performance**|Shintaro Ozaki et.al.|[2505.21458](http://arxiv.org/abs/2505.21458)|null|
