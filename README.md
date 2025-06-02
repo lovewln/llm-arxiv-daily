@@ -20,6 +20,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-30**|**MoDoMoDo: Multi-Domain Data Mixtures for Multimodal LLM Reinforcement Learning**|Yiqing Liang et.al.|[2505.24871](http://arxiv.org/abs/2505.24871)|null|
+|**2025-05-30**|**SiLVR: A Simple Language-based Video Reasoning Framework**|Ce Zhang et.al.|[2505.24869](http://arxiv.org/abs/2505.24869)|null|
+|**2025-05-30**|**ProRL: Prolonged Reinforcement Learning Expands Reasoning Boundaries in Large Language Models**|Mingjie Liu et.al.|[2505.24864](http://arxiv.org/abs/2505.24864)|null|
+|**2025-05-30**|**MiCRo: Mixture Modeling and Context-aware Routing for Personalized Preference Learning**|Jingyan Shen et.al.|[2505.24846](http://arxiv.org/abs/2505.24846)|null|
+|**2025-05-30**|**Chameleon: A Flexible Data-mixing Framework for Language Model Pretraining and Finetuning**|Wanyun Xie et.al.|[2505.24844](http://arxiv.org/abs/2505.24844)|null|
+|**2025-05-30**|**Vision LLMs Are Bad at Hierarchical Visual Understanding, and LLMs Are the Bottleneck**|Yuwen Tan et.al.|[2505.24840](http://arxiv.org/abs/2505.24840)|null|
+|**2025-05-30**|**VideoCAD: A Large-Scale Video Dataset for Learning UI Interactions and 3D Reasoning from CAD Software**|Brandon Man et.al.|[2505.24838](http://arxiv.org/abs/2505.24838)|null|
+|**2025-05-30**|**Improving Reliability and Explainability of Medical Question Answering through Atomic Fact Checking in Retrieval-Augmented LLMs**|Juraj Vladika et.al.|[2505.24830](http://arxiv.org/abs/2505.24830)|null|
+|**2025-05-30**|**LegalEval-Q: A New Benchmark for The Quality Evaluation of LLM-Generated Legal Text**|Li yunhan et.al.|[2505.24826](http://arxiv.org/abs/2505.24826)|null|
+|**2025-05-30**|**PhySense: Principle-Based Physics Reasoning Benchmarking for Large Language Models**|Yinggan Xu et.al.|[2505.24823](http://arxiv.org/abs/2505.24823)|null|
+|**2025-05-30**|**Guiding Generative Storytelling with Knowledge Graphs**|Zhijun Pan et.al.|[2505.24803](http://arxiv.org/abs/2505.24803)|null|
+|**2025-05-30**|**Draw ALL Your Imagine: A Holistic Benchmark and Agent Framework for Complex Instruction-based Image Generation**|Yucheng Zhou et.al.|[2505.24787](http://arxiv.org/abs/2505.24787)|null|
+|**2025-05-30**|**Revisiting Epistemic Markers in Confidence Estimation: Can Markers Accurately Reflect Large Language Models' Uncertainty?**|Jiayu Liu et.al.|[2505.24778](http://arxiv.org/abs/2505.24778)|null|
+|**2025-05-30**|**AFLoRA: Adaptive Federated Fine-Tuning of Large Language Models with Resource-Aware Low-Rank Adaption**|Yajie Zhou et.al.|[2505.24773](http://arxiv.org/abs/2505.24773)|null|
+|**2025-05-30**|**From Macro to Micro: Probing Dataset Diversity in Language Model Fine-Tuning**|Haoyu Li et.al.|[2505.24768](http://arxiv.org/abs/2505.24768)|null|
+|**2025-05-30**|**A survey of using EHR as real-world evidence for discovering and validating new drug indications**|Nabasmita Talukdar et.al.|[2505.24767](http://arxiv.org/abs/2505.24767)|null|
+|**2025-05-30**|**LGAR: Zero-Shot LLM-Guided Neural Ranking for Abstract Screening in Systematic Literature Reviews**|Christian Jaumann et.al.|[2505.24757](http://arxiv.org/abs/2505.24757)|null|
+|**2025-05-30**|**SUMO: Subspace-Aware Moment-Orthogonalization for Accelerating Memory-Efficient LLM Training**|Yehonathan Refael et.al.|[2505.24749](http://arxiv.org/abs/2505.24749)|null|
+|**2025-05-30**|**Circuit Stability Characterizes Language Model Generalization**|Alan Sun et.al.|[2505.24731](http://arxiv.org/abs/2505.24731)|null|
+|**2025-05-30**|**Reflect, Retry, Reward: Self-Improving LLMs via Reinforcement Learning**|Shelly Bensal et.al.|[2505.24726](http://arxiv.org/abs/2505.24726)|null|
 |**2025-05-29**|**Argus: Vision-Centric Reasoning with Grounded Chain-of-Thought**|Yunze Man et.al.|[2505.23766](http://arxiv.org/abs/2505.23766)|null|
 |**2025-05-29**|**From Chat Logs to Collective Insights: Aggregative Question Answering**|Wentao Zhang et.al.|[2505.23765](http://arxiv.org/abs/2505.23765)|null|
 |**2025-05-29**|**MMSI-Bench: A Benchmark for Multi-Image Spatial Intelligence**|Sihan Yang et.al.|[2505.23764](http://arxiv.org/abs/2505.23764)|null|
@@ -3050,6 +3070,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-30**|**Open CaptchaWorld: A Comprehensive Web-based Platform for Testing and Benchmarking Multimodal LLM Agents**|Yaxin Luo et.al.|[2505.24878](http://arxiv.org/abs/2505.24878)|null|
+|**2025-05-30**|**Agent-X: Evaluating Deep Multimodal Reasoning in Vision-Centric Agentic Tasks**|Tajamul Ashraf et.al.|[2505.24876](http://arxiv.org/abs/2505.24876)|null|
+|**2025-05-30**|**MoDoMoDo: Multi-Domain Data Mixtures for Multimodal LLM Reinforcement Learning**|Yiqing Liang et.al.|[2505.24871](http://arxiv.org/abs/2505.24871)|null|
+|**2025-05-30**|**SiLVR: A Simple Language-based Video Reasoning Framework**|Ce Zhang et.al.|[2505.24869](http://arxiv.org/abs/2505.24869)|null|
+|**2025-05-30**|**ProRL: Prolonged Reinforcement Learning Expands Reasoning Boundaries in Large Language Models**|Mingjie Liu et.al.|[2505.24864](http://arxiv.org/abs/2505.24864)|null|
+|**2025-05-30**|**MiCRo: Mixture Modeling and Context-aware Routing for Personalized Preference Learning**|Jingyan Shen et.al.|[2505.24846](http://arxiv.org/abs/2505.24846)|null|
+|**2025-05-30**|**Chameleon: A Flexible Data-mixing Framework for Language Model Pretraining and Finetuning**|Wanyun Xie et.al.|[2505.24844](http://arxiv.org/abs/2505.24844)|null|
+|**2025-05-30**|**Vision LLMs Are Bad at Hierarchical Visual Understanding, and LLMs Are the Bottleneck**|Yuwen Tan et.al.|[2505.24840](http://arxiv.org/abs/2505.24840)|null|
+|**2025-05-30**|**VideoCAD: A Large-Scale Video Dataset for Learning UI Interactions and 3D Reasoning from CAD Software**|Brandon Man et.al.|[2505.24838](http://arxiv.org/abs/2505.24838)|null|
+|**2025-05-30**|**Improving Reliability and Explainability of Medical Question Answering through Atomic Fact Checking in Retrieval-Augmented LLMs**|Juraj Vladika et.al.|[2505.24830](http://arxiv.org/abs/2505.24830)|null|
+|**2025-05-30**|**LegalEval-Q: A New Benchmark for The Quality Evaluation of LLM-Generated Legal Text**|Li yunhan et.al.|[2505.24826](http://arxiv.org/abs/2505.24826)|null|
+|**2025-05-30**|**PhySense: Principle-Based Physics Reasoning Benchmarking for Large Language Models**|Yinggan Xu et.al.|[2505.24823](http://arxiv.org/abs/2505.24823)|null|
+|**2025-05-30**|**Guiding Generative Storytelling with Knowledge Graphs**|Zhijun Pan et.al.|[2505.24803](http://arxiv.org/abs/2505.24803)|null|
+|**2025-05-30**|**Draw ALL Your Imagine: A Holistic Benchmark and Agent Framework for Complex Instruction-based Image Generation**|Yucheng Zhou et.al.|[2505.24787](http://arxiv.org/abs/2505.24787)|null|
+|**2025-05-30**|**EXP-Bench: Can AI Conduct AI Research Experiments?**|Patrick Tser Jern Kon et.al.|[2505.24785](http://arxiv.org/abs/2505.24785)|null|
+|**2025-05-30**|**Revisiting Epistemic Markers in Confidence Estimation: Can Markers Accurately Reflect Large Language Models' Uncertainty?**|Jiayu Liu et.al.|[2505.24778](http://arxiv.org/abs/2505.24778)|null|
+|**2025-05-30**|**AFLoRA: Adaptive Federated Fine-Tuning of Large Language Models with Resource-Aware Low-Rank Adaption**|Yajie Zhou et.al.|[2505.24773](http://arxiv.org/abs/2505.24773)|null|
+|**2025-05-30**|**From Macro to Micro: Probing Dataset Diversity in Language Model Fine-Tuning**|Haoyu Li et.al.|[2505.24768](http://arxiv.org/abs/2505.24768)|null|
+|**2025-05-30**|**A survey of using EHR as real-world evidence for discovering and validating new drug indications**|Nabasmita Talukdar et.al.|[2505.24767](http://arxiv.org/abs/2505.24767)|null|
+|**2025-05-30**|**LGAR: Zero-Shot LLM-Guided Neural Ranking for Abstract Screening in Systematic Literature Reviews**|Christian Jaumann et.al.|[2505.24757](http://arxiv.org/abs/2505.24757)|null|
 |**2025-05-29**|**Argus: Vision-Centric Reasoning with Grounded Chain-of-Thought**|Yunze Man et.al.|[2505.23766](http://arxiv.org/abs/2505.23766)|null|
 |**2025-05-29**|**From Chat Logs to Collective Insights: Aggregative Question Answering**|Wentao Zhang et.al.|[2505.23765](http://arxiv.org/abs/2505.23765)|null|
 |**2025-05-29**|**MMSI-Bench: A Benchmark for Multi-Image Spatial Intelligence**|Sihan Yang et.al.|[2505.23764](http://arxiv.org/abs/2505.23764)|null|
@@ -6080,6 +6120,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-30**|**MoDoMoDo: Multi-Domain Data Mixtures for Multimodal LLM Reinforcement Learning**|Yiqing Liang et.al.|[2505.24871](http://arxiv.org/abs/2505.24871)|null|
+|**2025-05-30**|**SiLVR: A Simple Language-based Video Reasoning Framework**|Ce Zhang et.al.|[2505.24869](http://arxiv.org/abs/2505.24869)|null|
+|**2025-05-30**|**Quantum Acoustics with Tunable Nonlinearity in the Superstrong Coupling Regime**|Marco Scigliuzzo et.al.|[2505.24865](http://arxiv.org/abs/2505.24865)|null|
+|**2025-05-30**|**ProRL: Prolonged Reinforcement Learning Expands Reasoning Boundaries in Large Language Models**|Mingjie Liu et.al.|[2505.24864](http://arxiv.org/abs/2505.24864)|null|
+|**2025-05-30**|**PB&J: Peanut Butter and Joints for Damped Articulation**|Avery S. Williamson et.al.|[2505.24860](http://arxiv.org/abs/2505.24860)|null|
+|**2025-05-30**|**The SPHEREx Sky Simulator: Science Data Modeling for the First All-Sky Near-Infrared Spectral Survey**|Brendan P. Crill et.al.|[2505.24856](http://arxiv.org/abs/2505.24856)|null|
+|**2025-05-30**|**DexMachina: Functional Retargeting for Bimanual Dexterous Manipulation**|Zhao Mandi et.al.|[2505.24853](http://arxiv.org/abs/2505.24853)|null|
+|**2025-05-30**|**Realistic quantum network simulation for experimental BBM92 key distribution**|Michelle Chalupnik et.al.|[2505.24851](http://arxiv.org/abs/2505.24851)|null|
+|**2025-05-30**|**MiCRo: Mixture Modeling and Context-aware Routing for Personalized Preference Learning**|Jingyan Shen et.al.|[2505.24846](http://arxiv.org/abs/2505.24846)|null|
+|**2025-05-30**|**Chameleon: A Flexible Data-mixing Framework for Language Model Pretraining and Finetuning**|Wanyun Xie et.al.|[2505.24844](http://arxiv.org/abs/2505.24844)|null|
+|**2025-05-30**|**Vision LLMs Are Bad at Hierarchical Visual Understanding, and LLMs Are the Bottleneck**|Yuwen Tan et.al.|[2505.24840](http://arxiv.org/abs/2505.24840)|null|
+|**2025-05-30**|**VideoCAD: A Large-Scale Video Dataset for Learning UI Interactions and 3D Reasoning from CAD Software**|Brandon Man et.al.|[2505.24838](http://arxiv.org/abs/2505.24838)|null|
+|**2025-05-30**|**Improving Reliability and Explainability of Medical Question Answering through Atomic Fact Checking in Retrieval-Augmented LLMs**|Juraj Vladika et.al.|[2505.24830](http://arxiv.org/abs/2505.24830)|null|
+|**2025-05-30**|**Accurate and efficient likelihood modeling for large-scale CMB data**|Giacomo Galloni et.al.|[2505.24829](http://arxiv.org/abs/2505.24829)|null|
+|**2025-05-30**|**LegalEval-Q: A New Benchmark for The Quality Evaluation of LLM-Generated Legal Text**|Li yunhan et.al.|[2505.24826](http://arxiv.org/abs/2505.24826)|null|
+|**2025-05-30**|**PhySense: Principle-Based Physics Reasoning Benchmarking for Large Language Models**|Yinggan Xu et.al.|[2505.24823](http://arxiv.org/abs/2505.24823)|null|
+|**2025-05-30**|**Critical demand in a stochastic model of flows in supply networks**|Yannick Feld et.al.|[2505.24813](http://arxiv.org/abs/2505.24813)|null|
+|**2025-05-30**|**Optimizing Server Load Distribution in Multimedia IoT Environments through LSTM-Based Predictive Algorithms**|Somaye Imanpour et.al.|[2505.24806](http://arxiv.org/abs/2505.24806)|null|
+|**2025-05-30**|**Guiding Generative Storytelling with Knowledge Graphs**|Zhijun Pan et.al.|[2505.24803](http://arxiv.org/abs/2505.24803)|null|
+|**2025-05-30**|**ByzFL: Research Framework for Robust Federated Learning**|Marc González et.al.|[2505.24802](http://arxiv.org/abs/2505.24802)|null|
 |**2025-05-29**|**Turbulence in Primordial Dark Matter Halos and Its Impact on the First Star Formation**|Meng-Yuan Ho et.al.|[2505.23768](http://arxiv.org/abs/2505.23768)|null|
 |**2025-05-29**|**Argus: Vision-Centric Reasoning with Grounded Chain-of-Thought**|Yunze Man et.al.|[2505.23766](http://arxiv.org/abs/2505.23766)|null|
 |**2025-05-29**|**From Chat Logs to Collective Insights: Aggregative Question Answering**|Wentao Zhang et.al.|[2505.23765](http://arxiv.org/abs/2505.23765)|null|
@@ -9114,6 +9174,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-30**|**Open CaptchaWorld: A Comprehensive Web-based Platform for Testing and Benchmarking Multimodal LLM Agents**|Yaxin Luo et.al.|[2505.24878](http://arxiv.org/abs/2505.24878)|null|
+|**2025-05-30**|**Agent-X: Evaluating Deep Multimodal Reasoning in Vision-Centric Agentic Tasks**|Tajamul Ashraf et.al.|[2505.24876](http://arxiv.org/abs/2505.24876)|null|
+|**2025-05-30**|**ReasonGen-R1: CoT for Autoregressive Image generation models through SFT and RL**|Yu Zhang et.al.|[2505.24875](http://arxiv.org/abs/2505.24875)|null|
+|**2025-05-30**|**The Road to Generalizable Neuro-Symbolic Learning Should be Paved with Foundation Models**|Adam Stein et.al.|[2505.24874](http://arxiv.org/abs/2505.24874)|null|
+|**2025-05-30**|**ProxyThinker: Test-Time Guidance through Small Visual Reasoners**|Zilin Xiao et.al.|[2505.24872](http://arxiv.org/abs/2505.24872)|null|
+|**2025-05-30**|**MoDoMoDo: Multi-Domain Data Mixtures for Multimodal LLM Reinforcement Learning**|Yiqing Liang et.al.|[2505.24871](http://arxiv.org/abs/2505.24871)|null|
+|**2025-05-30**|**SiLVR: A Simple Language-based Video Reasoning Framework**|Ce Zhang et.al.|[2505.24869](http://arxiv.org/abs/2505.24869)|null|
+|**2025-05-30**|**Time Blindness: Why Video-Language Models Can't See What Humans Can?**|Ujjwal Upadhyay et.al.|[2505.24867](http://arxiv.org/abs/2505.24867)|null|
+|**2025-05-30**|**ProRL: Prolonged Reinforcement Learning Expands Reasoning Boundaries in Large Language Models**|Mingjie Liu et.al.|[2505.24864](http://arxiv.org/abs/2505.24864)|null|
+|**2025-05-30**|**AlphaOne: Reasoning Models Thinking Slow and Fast at Test Time**|Junyu Zhang et.al.|[2505.24863](http://arxiv.org/abs/2505.24863)|null|
+|**2025-05-30**|**Accelerated Sampling from Masked Diffusion Models via Entropy Bounded Unmasking**|Heli Ben-Hamu et.al.|[2505.24857](http://arxiv.org/abs/2505.24857)|null|
+|**2025-05-30**|**Harnessing Negative Signals: Reinforcement Distillation from Teacher Data for LLM Reasoning**|Shuyao Xu et.al.|[2505.24850](http://arxiv.org/abs/2505.24850)|null|
+|**2025-05-30**|**MiCRo: Mixture Modeling and Context-aware Routing for Personalized Preference Learning**|Jingyan Shen et.al.|[2505.24846](http://arxiv.org/abs/2505.24846)|null|
+|**2025-05-30**|**Chameleon: A Flexible Data-mixing Framework for Language Model Pretraining and Finetuning**|Wanyun Xie et.al.|[2505.24844](http://arxiv.org/abs/2505.24844)|null|
+|**2025-05-30**|**Vision LLMs Are Bad at Hierarchical Visual Understanding, and LLMs Are the Bottleneck**|Yuwen Tan et.al.|[2505.24840](http://arxiv.org/abs/2505.24840)|null|
+|**2025-05-30**|**VideoCAD: A Large-Scale Video Dataset for Learning UI Interactions and 3D Reasoning from CAD Software**|Brandon Man et.al.|[2505.24838](http://arxiv.org/abs/2505.24838)|null|
+|**2025-05-30**|**Improving Reliability and Explainability of Medical Question Answering through Atomic Fact Checking in Retrieval-Augmented LLMs**|Juraj Vladika et.al.|[2505.24830](http://arxiv.org/abs/2505.24830)|null|
+|**2025-05-30**|**LegalEval-Q: A New Benchmark for The Quality Evaluation of LLM-Generated Legal Text**|Li yunhan et.al.|[2505.24826](http://arxiv.org/abs/2505.24826)|null|
+|**2025-05-30**|**PhySense: Principle-Based Physics Reasoning Benchmarking for Large Language Models**|Yinggan Xu et.al.|[2505.24823](http://arxiv.org/abs/2505.24823)|null|
+|**2025-05-30**|**RealDrive: Retrieval-Augmented Driving with Diffusion Models**|Wenhao Ding et.al.|[2505.24808](http://arxiv.org/abs/2505.24808)|null|
 |**2025-05-29**|**Argus: Vision-Centric Reasoning with Grounded Chain-of-Thought**|Yunze Man et.al.|[2505.23766](http://arxiv.org/abs/2505.23766)|null|
 |**2025-05-29**|**From Chat Logs to Collective Insights: Aggregative Question Answering**|Wentao Zhang et.al.|[2505.23765](http://arxiv.org/abs/2505.23765)|null|
 |**2025-05-29**|**MMSI-Bench: A Benchmark for Multi-Image Spatial Intelligence**|Sihan Yang et.al.|[2505.23764](http://arxiv.org/abs/2505.23764)|null|
