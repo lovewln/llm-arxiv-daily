@@ -14,6 +14,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-12**|**AutoMind: Adaptive Knowledgeable Agent for Automated Data Science**|Yixin Ou et.al.|[2506.10974](http://arxiv.org/abs/2506.10974)|null|
+|**2025-06-12**|**Farseer: A Refined Scaling Law in Large Language Models**|Houyi Li et.al.|[2506.10972](http://arxiv.org/abs/2506.10972)|null|
+|**2025-06-12**|**Beyond Attention or Similarity: Maximizing Conditional Diversity for Token Pruning in MLLMs**|Qizhe Zhang et.al.|[2506.10967](http://arxiv.org/abs/2506.10967)|null|
+|**2025-06-12**|**ChineseHarm-Bench: A Chinese Harmful Content Detection Benchmark**|Kangwei Liu et.al.|[2506.10960](http://arxiv.org/abs/2506.10960)|null|
+|**2025-06-12**|**SWE-Factory: Your Automated Factory for Issue Resolution Training Data and Evaluation Benchmarks**|Lianghong Guo et.al.|[2506.10954](http://arxiv.org/abs/2506.10954)|null|
+|**2025-06-12**|**Build the web for agents, not agents for the web**|Xing Han Lù et.al.|[2506.10953](http://arxiv.org/abs/2506.10953)|null|
+|**2025-06-12**|**Execution Guided Line-by-Line Code Generation**|Boaz Lavon et.al.|[2506.10948](http://arxiv.org/abs/2506.10948)|null|
+|**2025-06-12**|**GUARD: Guided Unlearning and Retention via Data Attribution for Large Language Models**|Evelyn Ma et.al.|[2506.10946](http://arxiv.org/abs/2506.10946)|null|
+|**2025-06-12**|**Self-Adapting Language Models**|Adam Zweiger et.al.|[2506.10943](http://arxiv.org/abs/2506.10943)|null|
+|**2025-06-12**|**Dynamic Epistemic Friction in Dialogue**|Timothy Obiso et.al.|[2506.10934](http://arxiv.org/abs/2506.10934)|null|
+|**2025-06-12**|**The Role of Generative AI in Facilitating Social Interactions: A Scoping Review**|T. T. J. E. Arets et.al.|[2506.10927](http://arxiv.org/abs/2506.10927)|null|
+|**2025-06-12**|**Robustly Improving LLM Fairness in Realistic Settings via Interpretability**|Adam Karvonen et.al.|[2506.10922](http://arxiv.org/abs/2506.10922)|null|
+|**2025-06-12**|**Decomposing MLP Activations into Interpretable Features via Semi-Nonnegative Matrix Factorization**|Or Shafran et.al.|[2506.10920](http://arxiv.org/abs/2506.10920)|null|
+|**2025-06-12**|**Breaking Bad Molecules: Are MLLMs Ready for Structure-Level Molecular Detoxification?**|Fei Lin et.al.|[2506.10912](http://arxiv.org/abs/2506.10912)|null|
+|**2025-06-12**|**NoLoCo: No-all-reduce Low Communication Training Method for Large Models**|Jari Kolehmainen et.al.|[2506.10911](http://arxiv.org/abs/2506.10911)|null|
+|**2025-06-12**|**Probably Approximately Correct Labels**|Emmanuel J. Candès et.al.|[2506.10908](http://arxiv.org/abs/2506.10908)|null|
+|**2025-06-12**|**Beyond Gold Standards: Epistemic Ensemble of LLM Judges for Formal Mathematical Reasoning**|Lan Zhang et.al.|[2506.10903](http://arxiv.org/abs/2506.10903)|null|
+|**2025-06-12**|**GenPlanX. Generation of Plans and Execution**|Daniel Borrajo et.al.|[2506.10897](http://arxiv.org/abs/2506.10897)|null|
+|**2025-06-12**|**Generalization or Hallucination? Understanding Out-of-Context Reasoning in Transformers**|Yixiao Huang et.al.|[2506.10887](http://arxiv.org/abs/2506.10887)|null|
+|**2025-06-12**|**Slimming Down LLMs Without Losing Their Minds**|Qingda et.al.|[2506.10885](http://arxiv.org/abs/2506.10885)|null|
 |**2025-06-11**|**Flipping Against All Odds: Reducing LLM Coin Flip Bias via Verbalized Rejection Sampling**|Tim Z. Xiao et.al.|[2506.09998](http://arxiv.org/abs/2506.09998)|null|
 |**2025-06-11**|**From Judgment to Interference: Early Stopping LLM Harmful Outputs via Streaming Content Monitoring**|Yang Li et.al.|[2506.09996](http://arxiv.org/abs/2506.09996)|null|
 |**2025-06-11**|**Large Language Models for Toxic Language Detection in Low-Resource Balkan Languages**|Amel Muminovic et.al.|[2506.09992](http://arxiv.org/abs/2506.09992)|null|
@@ -3202,6 +3222,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-12**|**AutoMind: Adaptive Knowledgeable Agent for Automated Data Science**|Yixin Ou et.al.|[2506.10974](http://arxiv.org/abs/2506.10974)|null|
+|**2025-06-12**|**Farseer: A Refined Scaling Law in Large Language Models**|Houyi Li et.al.|[2506.10972](http://arxiv.org/abs/2506.10972)|null|
+|**2025-06-12**|**Eye, Robot: Learning to Look to Act with a BC-RL Perception-Action Loop**|Justin Kerr et.al.|[2506.10968](http://arxiv.org/abs/2506.10968)|null|
+|**2025-06-12**|**Beyond Attention or Similarity: Maximizing Conditional Diversity for Token Pruning in MLLMs**|Qizhe Zhang et.al.|[2506.10967](http://arxiv.org/abs/2506.10967)|null|
+|**2025-06-12**|**ChineseHarm-Bench: A Chinese Harmful Content Detection Benchmark**|Kangwei Liu et.al.|[2506.10960](http://arxiv.org/abs/2506.10960)|null|
+|**2025-06-12**|**SWE-Factory: Your Automated Factory for Issue Resolution Training Data and Evaluation Benchmarks**|Lianghong Guo et.al.|[2506.10954](http://arxiv.org/abs/2506.10954)|null|
+|**2025-06-12**|**Build the web for agents, not agents for the web**|Xing Han Lù et.al.|[2506.10953](http://arxiv.org/abs/2506.10953)|null|
+|**2025-06-12**|**Monitoring Decomposition Attacks in LLMs with Lightweight Sequential Monitors**|Chen Yueh-Han et.al.|[2506.10949](http://arxiv.org/abs/2506.10949)|null|
+|**2025-06-12**|**Execution Guided Line-by-Line Code Generation**|Boaz Lavon et.al.|[2506.10948](http://arxiv.org/abs/2506.10948)|null|
+|**2025-06-12**|**GUARD: Guided Unlearning and Retention via Data Attribution for Large Language Models**|Evelyn Ma et.al.|[2506.10946](http://arxiv.org/abs/2506.10946)|null|
+|**2025-06-12**|**Self-Adapting Language Models**|Adam Zweiger et.al.|[2506.10943](http://arxiv.org/abs/2506.10943)|null|
+|**2025-06-12**|**Dynamic Epistemic Friction in Dialogue**|Timothy Obiso et.al.|[2506.10934](http://arxiv.org/abs/2506.10934)|null|
+|**2025-06-12**|**The Role of Generative AI in Facilitating Social Interactions: A Scoping Review**|T. T. J. E. Arets et.al.|[2506.10927](http://arxiv.org/abs/2506.10927)|null|
+|**2025-06-12**|**Agentic Semantic Control for Autonomous Wireless Space Networks: Extending Space-O-RAN with MCP-Driven Distributed Intelligence**|Eduardo Baena et.al.|[2506.10925](http://arxiv.org/abs/2506.10925)|null|
+|**2025-06-12**|**Robustly Improving LLM Fairness in Realistic Settings via Interpretability**|Adam Karvonen et.al.|[2506.10922](http://arxiv.org/abs/2506.10922)|null|
+|**2025-06-12**|**Decomposing MLP Activations into Interpretable Features via Semi-Nonnegative Matrix Factorization**|Or Shafran et.al.|[2506.10920](http://arxiv.org/abs/2506.10920)|null|
+|**2025-06-12**|**Breaking Bad Molecules: Are MLLMs Ready for Structure-Level Molecular Detoxification?**|Fei Lin et.al.|[2506.10912](http://arxiv.org/abs/2506.10912)|null|
+|**2025-06-12**|**NoLoCo: No-all-reduce Low Communication Training Method for Large Models**|Jari Kolehmainen et.al.|[2506.10911](http://arxiv.org/abs/2506.10911)|null|
+|**2025-06-12**|**Probably Approximately Correct Labels**|Emmanuel J. Candès et.al.|[2506.10908](http://arxiv.org/abs/2506.10908)|null|
+|**2025-06-12**|**Beyond Gold Standards: Epistemic Ensemble of LLM Judges for Formal Mathematical Reasoning**|Lan Zhang et.al.|[2506.10903](http://arxiv.org/abs/2506.10903)|null|
 |**2025-06-11**|**Flipping Against All Odds: Reducing LLM Coin Flip Bias via Verbalized Rejection Sampling**|Tim Z. Xiao et.al.|[2506.09998](http://arxiv.org/abs/2506.09998)|null|
 |**2025-06-11**|**From Judgment to Interference: Early Stopping LLM Harmful Outputs via Streaming Content Monitoring**|Yang Li et.al.|[2506.09996](http://arxiv.org/abs/2506.09996)|null|
 |**2025-06-11**|**Large Language Models for Toxic Language Detection in Low-Resource Balkan Languages**|Amel Muminovic et.al.|[2506.09992](http://arxiv.org/abs/2506.09992)|null|
@@ -6390,6 +6430,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-12**|**GenWorld: Towards Detecting AI-generated Real-world Simulation Videos**|Weiliang Chen et.al.|[2506.10975](http://arxiv.org/abs/2506.10975)|null|
+|**2025-06-12**|**AutoMind: Adaptive Knowledgeable Agent for Automated Data Science**|Yixin Ou et.al.|[2506.10974](http://arxiv.org/abs/2506.10974)|null|
+|**2025-06-12**|**Farseer: A Refined Scaling Law in Large Language Models**|Houyi Li et.al.|[2506.10972](http://arxiv.org/abs/2506.10972)|null|
+|**2025-06-12**|**Eye, Robot: Learning to Look to Act with a BC-RL Perception-Action Loop**|Justin Kerr et.al.|[2506.10968](http://arxiv.org/abs/2506.10968)|null|
+|**2025-06-12**|**Beyond Attention or Similarity: Maximizing Conditional Diversity for Token Pruning in MLLMs**|Qizhe Zhang et.al.|[2506.10967](http://arxiv.org/abs/2506.10967)|null|
+|**2025-06-12**|**GENMANIP: LLM-driven Simulation for Generalizable Instruction-Following Manipulation**|Ning Gao et.al.|[2506.10966](http://arxiv.org/abs/2506.10966)|null|
+|**2025-06-12**|**The Urban Model Platform: A Public Backbone for Modeling and Simulation in Urban Digital Twins**|Rico H Herzog et.al.|[2506.10964](http://arxiv.org/abs/2506.10964)|null|
+|**2025-06-12**|**ChineseHarm-Bench: A Chinese Harmful Content Detection Benchmark**|Kangwei Liu et.al.|[2506.10960](http://arxiv.org/abs/2506.10960)|null|
+|**2025-06-12**|**SWE-Factory: Your Automated Factory for Issue Resolution Training Data and Evaluation Benchmarks**|Lianghong Guo et.al.|[2506.10954](http://arxiv.org/abs/2506.10954)|null|
+|**2025-06-12**|**Build the web for agents, not agents for the web**|Xing Han Lù et.al.|[2506.10953](http://arxiv.org/abs/2506.10953)|null|
+|**2025-06-12**|**Execution Guided Line-by-Line Code Generation**|Boaz Lavon et.al.|[2506.10948](http://arxiv.org/abs/2506.10948)|null|
+|**2025-06-12**|**GUARD: Guided Unlearning and Retention via Data Attribution for Large Language Models**|Evelyn Ma et.al.|[2506.10946](http://arxiv.org/abs/2506.10946)|null|
+|**2025-06-12**|**Non-Abelian dynamics on a cube: improving quantum compilation through qudit-based simulations**|Jacky Jiang et.al.|[2506.10945](http://arxiv.org/abs/2506.10945)|null|
+|**2025-06-12**|**Coupled reaction and diffusion governing interface evolution in solid-state batteries**|Jingxuan Ding et.al.|[2506.10944](http://arxiv.org/abs/2506.10944)|null|
+|**2025-06-12**|**Self-Adapting Language Models**|Adam Zweiger et.al.|[2506.10943](http://arxiv.org/abs/2506.10943)|null|
+|**2025-06-12**|**Dynamic Epistemic Friction in Dialogue**|Timothy Obiso et.al.|[2506.10934](http://arxiv.org/abs/2506.10934)|null|
+|**2025-06-12**|**On feature selection in double-imbalanced data settings: a Random Forest approach**|Fabio Demaria et.al.|[2506.10929](http://arxiv.org/abs/2506.10929)|null|
+|**2025-06-12**|**The Role of Generative AI in Facilitating Social Interactions: A Scoping Review**|T. T. J. E. Arets et.al.|[2506.10927](http://arxiv.org/abs/2506.10927)|null|
+|**2025-06-12**|**Robustly Improving LLM Fairness in Realistic Settings via Interpretability**|Adam Karvonen et.al.|[2506.10922](http://arxiv.org/abs/2506.10922)|null|
+|**2025-06-12**|**Decomposing MLP Activations into Interpretable Features via Semi-Nonnegative Matrix Factorization**|Or Shafran et.al.|[2506.10920](http://arxiv.org/abs/2506.10920)|null|
 |**2025-06-11**|**Flipping Against All Odds: Reducing LLM Coin Flip Bias via Verbalized Rejection Sampling**|Tim Z. Xiao et.al.|[2506.09998](http://arxiv.org/abs/2506.09998)|null|
 |**2025-06-11**|**From Judgment to Interference: Early Stopping LLM Harmful Outputs via Streaming Content Monitoring**|Yang Li et.al.|[2506.09996](http://arxiv.org/abs/2506.09996)|null|
 |**2025-06-11**|**PlayerOne: Egocentric World Simulator**|Yuanpeng Tu et.al.|[2506.09995](http://arxiv.org/abs/2506.09995)|null|
@@ -9582,6 +9642,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-12**|**How Well Can Reasoning Models Identify and Recover from Unhelpful Thoughts?**|Sohee Yang et.al.|[2506.10979](http://arxiv.org/abs/2506.10979)|null|
+|**2025-06-12**|**AutoMind: Adaptive Knowledgeable Agent for Automated Data Science**|Yixin Ou et.al.|[2506.10974](http://arxiv.org/abs/2506.10974)|null|
+|**2025-06-12**|**Farseer: A Refined Scaling Law in Large Language Models**|Houyi Li et.al.|[2506.10972](http://arxiv.org/abs/2506.10972)|null|
+|**2025-06-12**|**The Gap-Giant Association: Are Planets Hiding in the Gaps?**|Caleb Lammers et.al.|[2506.10969](http://arxiv.org/abs/2506.10969)|null|
+|**2025-06-12**|**Beyond Attention or Similarity: Maximizing Conditional Diversity for Token Pruning in MLLMs**|Qizhe Zhang et.al.|[2506.10967](http://arxiv.org/abs/2506.10967)|null|
+|**2025-06-12**|**GENMANIP: LLM-driven Simulation for Generalizable Instruction-Following Manipulation**|Ning Gao et.al.|[2506.10966](http://arxiv.org/abs/2506.10966)|null|
+|**2025-06-12**|**MMMG: A Massive, Multidisciplinary, Multi-Tier Generation Benchmark for Text-to-Image Reasoning**|Yuxuan Luo et.al.|[2506.10963](http://arxiv.org/abs/2506.10963)|null|
+|**2025-06-12**|**ChineseHarm-Bench: A Chinese Harmful Content Detection Benchmark**|Kangwei Liu et.al.|[2506.10960](http://arxiv.org/abs/2506.10960)|null|
+|**2025-06-12**|**SWE-Factory: Your Automated Factory for Issue Resolution Training Data and Evaluation Benchmarks**|Lianghong Guo et.al.|[2506.10954](http://arxiv.org/abs/2506.10954)|null|
+|**2025-06-12**|**Build the web for agents, not agents for the web**|Xing Han Lù et.al.|[2506.10953](http://arxiv.org/abs/2506.10953)|null|
+|**2025-06-12**|**Monitoring Decomposition Attacks in LLMs with Lightweight Sequential Monitors**|Chen Yueh-Han et.al.|[2506.10949](http://arxiv.org/abs/2506.10949)|null|
+|**2025-06-12**|**Execution Guided Line-by-Line Code Generation**|Boaz Lavon et.al.|[2506.10948](http://arxiv.org/abs/2506.10948)|null|
+|**2025-06-12**|**Spurious Rewards: Rethinking Training Signals in RLVR**|Rulin Shao et.al.|[2506.10947](http://arxiv.org/abs/2506.10947)|null|
+|**2025-06-12**|**GUARD: Guided Unlearning and Retention via Data Attribution for Large Language Models**|Evelyn Ma et.al.|[2506.10946](http://arxiv.org/abs/2506.10946)|null|
+|**2025-06-12**|**Self-Adapting Language Models**|Adam Zweiger et.al.|[2506.10943](http://arxiv.org/abs/2506.10943)|null|
+|**2025-06-12**|**Dynamic Epistemic Friction in Dialogue**|Timothy Obiso et.al.|[2506.10934](http://arxiv.org/abs/2506.10934)|null|
+|**2025-06-12**|**The Role of Generative AI in Facilitating Social Interactions: A Scoping Review**|T. T. J. E. Arets et.al.|[2506.10927](http://arxiv.org/abs/2506.10927)|null|
+|**2025-06-12**|**Agentic Semantic Control for Autonomous Wireless Space Networks: Extending Space-O-RAN with MCP-Driven Distributed Intelligence**|Eduardo Baena et.al.|[2506.10925](http://arxiv.org/abs/2506.10925)|null|
+|**2025-06-12**|**Robustly Improving LLM Fairness in Realistic Settings via Interpretability**|Adam Karvonen et.al.|[2506.10922](http://arxiv.org/abs/2506.10922)|null|
+|**2025-06-12**|**Decomposing MLP Activations into Interpretable Features via Semi-Nonnegative Matrix Factorization**|Or Shafran et.al.|[2506.10920](http://arxiv.org/abs/2506.10920)|null|
 |**2025-06-11**|**Flipping Against All Odds: Reducing LLM Coin Flip Bias via Verbalized Rejection Sampling**|Tim Z. Xiao et.al.|[2506.09998](http://arxiv.org/abs/2506.09998)|null|
 |**2025-06-11**|**From Judgment to Interference: Early Stopping LLM Harmful Outputs via Streaming Content Monitoring**|Yang Li et.al.|[2506.09996](http://arxiv.org/abs/2506.09996)|null|
 |**2025-06-11**|**Large Language Models for Toxic Language Detection in Low-Resource Balkan Languages**|Amel Muminovic et.al.|[2506.09992](http://arxiv.org/abs/2506.09992)|null|
