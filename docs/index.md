@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.06.17
+## Updated on 2025.06.18
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## large language model
@@ -23,7 +23,7 @@ layout: default
 |**2025-06-16**|**Balancing Knowledge Delivery and Emotional Comfort in Healthcare Conversational Systems**|Shang-Chi Tsai et.al.|[2506.13692](http://arxiv.org/abs/2506.13692)|null|
 |**2025-06-16**|**What Happens During the Loss Plateau? Understanding Abrupt Learning in Transformers**|Pulkit Gopalani et.al.|[2506.13688](http://arxiv.org/abs/2506.13688)|null|
 |**2025-06-16**|**An LLM's Apology: Outsourcing Awkwardness in the Age of AI**|Twm Stone et.al.|[2506.13685](http://arxiv.org/abs/2506.13685)|null|
-|**2025-06-16**|**Prefix-Tuning+: Modernizing Prefix-Tuning through Attention Independent Prefix Data**|Haonan Wang et.al.|[2506.13674](http://arxiv.org/abs/2506.13674)|null|
+|**2025-06-17**|**Prefix-Tuning+: Modernizing Prefix-Tuning by Decoupling the Prefix from Attention**|Haonan Wang et.al.|[2506.13674](http://arxiv.org/abs/2506.13674)|null|
 |**2025-06-16**|**We Should Identify and Mitigate Third-Party Safety Risks in MCP-Powered Agent Systems**|Junfeng Fang et.al.|[2506.13666](http://arxiv.org/abs/2506.13666)|null|
 |**2025-06-16**|**DesignCoder: Hierarchy-Aware and Self-Correcting UI Code Generation with Large Language Models**|Yunnong Chen et.al.|[2506.13663](http://arxiv.org/abs/2506.13663)|null|
 |**2025-06-16**|**Stream-Omni: Simultaneous Multimodal Interactions with Large Language-Vision-Speech Model**|Shaolei Zhang et.al.|[2506.13642](http://arxiv.org/abs/2506.13642)|null|
@@ -3273,7 +3273,7 @@ layout: default
 |**2025-06-16**|**Balancing Knowledge Delivery and Emotional Comfort in Healthcare Conversational Systems**|Shang-Chi Tsai et.al.|[2506.13692](http://arxiv.org/abs/2506.13692)|null|
 |**2025-06-16**|**What Happens During the Loss Plateau? Understanding Abrupt Learning in Transformers**|Pulkit Gopalani et.al.|[2506.13688](http://arxiv.org/abs/2506.13688)|null|
 |**2025-06-16**|**An LLM's Apology: Outsourcing Awkwardness in the Age of AI**|Twm Stone et.al.|[2506.13685](http://arxiv.org/abs/2506.13685)|null|
-|**2025-06-16**|**Prefix-Tuning+: Modernizing Prefix-Tuning through Attention Independent Prefix Data**|Haonan Wang et.al.|[2506.13674](http://arxiv.org/abs/2506.13674)|null|
+|**2025-06-17**|**Prefix-Tuning+: Modernizing Prefix-Tuning by Decoupling the Prefix from Attention**|Haonan Wang et.al.|[2506.13674](http://arxiv.org/abs/2506.13674)|null|
 |**2025-06-16**|**The Courage to Stop: Overcoming Sunk Cost Fallacy in Deep Reinforcement Learning**|Jiashun Liu et.al.|[2506.13672](http://arxiv.org/abs/2506.13672)|null|
 |**2025-06-16**|**We Should Identify and Mitigate Third-Party Safety Risks in MCP-Powered Agent Systems**|Junfeng Fang et.al.|[2506.13666](http://arxiv.org/abs/2506.13666)|null|
 |**2025-06-16**|**DesignCoder: Hierarchy-Aware and Self-Correcting UI Code Generation with Large Language Models**|Yunnong Chen et.al.|[2506.13663](http://arxiv.org/abs/2506.13663)|null|
@@ -9776,7 +9776,7 @@ layout: default
 |**2025-06-16**|**Balancing Knowledge Delivery and Emotional Comfort in Healthcare Conversational Systems**|Shang-Chi Tsai et.al.|[2506.13692](http://arxiv.org/abs/2506.13692)|null|
 |**2025-06-16**|**What Happens During the Loss Plateau? Understanding Abrupt Learning in Transformers**|Pulkit Gopalani et.al.|[2506.13688](http://arxiv.org/abs/2506.13688)|null|
 |**2025-06-16**|**An LLM's Apology: Outsourcing Awkwardness in the Age of AI**|Twm Stone et.al.|[2506.13685](http://arxiv.org/abs/2506.13685)|null|
-|**2025-06-16**|**Prefix-Tuning+: Modernizing Prefix-Tuning through Attention Independent Prefix Data**|Haonan Wang et.al.|[2506.13674](http://arxiv.org/abs/2506.13674)|null|
+|**2025-06-17**|**Prefix-Tuning+: Modernizing Prefix-Tuning by Decoupling the Prefix from Attention**|Haonan Wang et.al.|[2506.13674](http://arxiv.org/abs/2506.13674)|null|
 |**2025-06-16**|**We Should Identify and Mitigate Third-Party Safety Risks in MCP-Powered Agent Systems**|Junfeng Fang et.al.|[2506.13666](http://arxiv.org/abs/2506.13666)|null|
 |**2025-06-16**|**DesignCoder: Hierarchy-Aware and Self-Correcting UI Code Generation with Large Language Models**|Yunnong Chen et.al.|[2506.13663](http://arxiv.org/abs/2506.13663)|null|
 |**2025-06-16**|**Ego-R1: Chain-of-Tool-Thought for Ultra-Long Egocentric Video Reasoning**|Shulin Tian et.al.|[2506.13654](http://arxiv.org/abs/2506.13654)|null|
