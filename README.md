@@ -20,6 +20,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-23**|**Vision as a Dialect: Unifying Visual Understanding and Generation via Text-Aligned Representations**|Jiaming Han et.al.|[2506.18898](http://arxiv.org/abs/2506.18898)|null|
+|**2025-06-23**|**ReasonFlux-PRM: Trajectory-Aware PRMs for Long Chain-of-Thought Reasoning in LLMs**|Jiaru Zou et.al.|[2506.18896](http://arxiv.org/abs/2506.18896)|null|
+|**2025-06-23**|**Universal Video Temporal Grounding with Generative Multi-modal Large Language Models**|Zeqian Li et.al.|[2506.18883](http://arxiv.org/abs/2506.18883)|null|
+|**2025-06-23**|**CommVQ: Commutative Vector Quantization for KV Cache Compression**|Junyan Li et.al.|[2506.18879](http://arxiv.org/abs/2506.18879)|null|
+|**2025-06-23**|**TAMMs: Temporal-Aware Multimodal Model for Satellite Image Change Understanding and Forecasting**|Zhongbin Guo et.al.|[2506.18862](http://arxiv.org/abs/2506.18862)|null|
+|**2025-06-23**|**LongWriter-Zero: Mastering Ultra-Long Text Generation via Reinforcement Learning**|Yuhao Wu et.al.|[2506.18841](http://arxiv.org/abs/2506.18841)|null|
+|**2025-06-23**|**STU-PID: Steering Token Usage via PID Controller for Efficient Large Language Model Reasoning**|Aryasomayajula Ram Bharadwaj et.al.|[2506.18831](http://arxiv.org/abs/2506.18831)|null|
+|**2025-06-23**|**Understanding Software Engineering Agents: A Study of Thought-Action-Result Trajectories**|Islem Bouzenia et.al.|[2506.18824](http://arxiv.org/abs/2506.18824)|null|
+|**2025-06-23**|**RWESummary: A Framework and Test for Choosing Large Language Models to Summarize Real-World Evidence (RWE) Studies**|Arjun Mukerji et.al.|[2506.18819](http://arxiv.org/abs/2506.18819)|null|
+|**2025-06-23**|**Context-Aware CodeLLM Eviction for AI-assisted Coding**|Kishanthan Thangarajah et.al.|[2506.18796](http://arxiv.org/abs/2506.18796)|null|
+|**2025-06-23**|**TRIZ Agents: A Multi-Agent LLM Approach for TRIZ-Based Innovation**|Kamil Szczepanik et.al.|[2506.18783](http://arxiv.org/abs/2506.18783)|null|
+|**2025-06-23**|**Existing LLMs Are Not Self-Consistent For Simple Tasks**|Zhenru Lin et.al.|[2506.18781](http://arxiv.org/abs/2506.18781)|null|
+|**2025-06-23**|**Programming by Backprop: LLMs Acquire Reusable Algorithmic Abstractions During Code Training**|Jonathan Cook et.al.|[2506.18777](http://arxiv.org/abs/2506.18777)|null|
+|**2025-06-23**|**PARALLELPROMPT: Extracting Parallelism from Large Language Model Queries**|Steven Kolawole et.al.|[2506.18728](http://arxiv.org/abs/2506.18728)|null|
+|**2025-06-23**|**LLM-enhanced Interactions in Human-Robot Collaborative Drawing with Older Adults**|Marianne Bossema et.al.|[2506.18711](http://arxiv.org/abs/2506.18711)|null|
+|**2025-06-23**|**Benchmarking the Pedagogical Knowledge of Large Language Models**|Maxime Lelièvre et.al.|[2506.18710](http://arxiv.org/abs/2506.18710)|null|
+|**2025-06-23**|**Is There a Case for Conversation Optimized Tokenizers in Large Language Models?**|Raquel Ferrando et.al.|[2506.18674](http://arxiv.org/abs/2506.18674)|null|
+|**2025-06-23**|**Harnessing the Power of Reinforcement Learning for Language-Model-Based Information Retriever via Query-Document Co-Augmentation**|Jingming Liu et.al.|[2506.18670](http://arxiv.org/abs/2506.18670)|null|
+|**2025-06-23**|**A Random Matrix Analysis of In-context Memorization for Nonlinear Attention**|Zhenyu Liao et.al.|[2506.18656](http://arxiv.org/abs/2506.18656)|null|
+|**2025-06-23**|**ReDit: Reward Dithering for Improved LLM Policy Optimization**|Chenxing Wei et.al.|[2506.18631](http://arxiv.org/abs/2506.18631)|null|
 |**2025-06-20**|**VLN-R1: Vision-Language Navigation via Reinforcement Fine-Tuning**|Zhangyang Qi et.al.|[2506.17221](http://arxiv.org/abs/2506.17221)|null|
 |**2025-06-20**|**No Free Lunch: Rethinking Internal Feedback for LLM Reasoning**|Yanzhi Zhang et.al.|[2506.17219](http://arxiv.org/abs/2506.17219)|null|
 |**2025-06-20**|**Fine-Tuning Lowers Safety and Disrupts Evaluation Consistency**|Kathleen C. Fraser et.al.|[2506.17209](http://arxiv.org/abs/2506.17209)|null|
@@ -3330,6 +3350,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-23**|**Audit & Repair: An Agentic Framework for Consistent Story Visualization in Text-to-Image Diffusion Models**|Kiymet Akdemir et.al.|[2506.18900](http://arxiv.org/abs/2506.18900)|null|
+|**2025-06-23**|**Vision as a Dialect: Unifying Visual Understanding and Generation via Text-Aligned Representations**|Jiaming Han et.al.|[2506.18898](http://arxiv.org/abs/2506.18898)|null|
+|**2025-06-23**|**ReasonFlux-PRM: Trajectory-Aware PRMs for Long Chain-of-Thought Reasoning in LLMs**|Jiaru Zou et.al.|[2506.18896](http://arxiv.org/abs/2506.18896)|null|
+|**2025-06-23**|**Steering Conceptual Bias via Transformer Latent-Subspace Activation**|Vansh Sharma et.al.|[2506.18887](http://arxiv.org/abs/2506.18887)|null|
+|**2025-06-23**|**GRAND-SLAM: Local Optimization for Globally Consistent Large-Scale Multi-Agent Gaussian SLAM**|Annika Thomas et.al.|[2506.18885](http://arxiv.org/abs/2506.18885)|null|
+|**2025-06-23**|**Universal Video Temporal Grounding with Generative Multi-modal Large Language Models**|Zeqian Li et.al.|[2506.18883](http://arxiv.org/abs/2506.18883)|null|
+|**2025-06-23**|**CommVQ: Commutative Vector Quantization for KV Cache Compression**|Junyan Li et.al.|[2506.18879](http://arxiv.org/abs/2506.18879)|null|
+|**2025-06-23**|**Broad Validity of the First-Order Approach in Moral Hazard**|Eduardo Azevedo et.al.|[2506.18873](http://arxiv.org/abs/2506.18873)|null|
+|**2025-06-23**|**TAMMs: Temporal-Aware Multimodal Model for Satellite Image Change Understanding and Forecasting**|Zhongbin Guo et.al.|[2506.18862](http://arxiv.org/abs/2506.18862)|null|
+|**2025-06-23**|**Offline Goal-Conditioned Reinforcement Learning with Projective Quasimetric Planning**|Anthony Kobanda et.al.|[2506.18847](http://arxiv.org/abs/2506.18847)|null|
+|**2025-06-23**|**LongWriter-Zero: Mastering Ultra-Long Text Generation via Reinforcement Learning**|Yuhao Wu et.al.|[2506.18841](http://arxiv.org/abs/2506.18841)|null|
+|**2025-06-23**|**STU-PID: Steering Token Usage via PID Controller for Efficient Large Language Model Reasoning**|Aryasomayajula Ram Bharadwaj et.al.|[2506.18831](http://arxiv.org/abs/2506.18831)|null|
+|**2025-06-23**|**Understanding Software Engineering Agents: A Study of Thought-Action-Result Trajectories**|Islem Bouzenia et.al.|[2506.18824](http://arxiv.org/abs/2506.18824)|null|
+|**2025-06-23**|**RWESummary: A Framework and Test for Choosing Large Language Models to Summarize Real-World Evidence (RWE) Studies**|Arjun Mukerji et.al.|[2506.18819](http://arxiv.org/abs/2506.18819)|null|
+|**2025-06-23**|**Multi-Agent Online Control with Adversarial Disturbances**|Anas Barakat et.al.|[2506.18814](http://arxiv.org/abs/2506.18814)|null|
+|**2025-06-23**|**Context-Aware CodeLLM Eviction for AI-assisted Coding**|Kishanthan Thangarajah et.al.|[2506.18796](http://arxiv.org/abs/2506.18796)|null|
+|**2025-06-23**|**Fair Allocation with Money: What is Your Objective?**|Noga Klein Elmalem et.al.|[2506.18794](http://arxiv.org/abs/2506.18794)|null|
+|**2025-06-23**|**TRIZ Agents: A Multi-Agent LLM Approach for TRIZ-Based Innovation**|Kamil Szczepanik et.al.|[2506.18783](http://arxiv.org/abs/2506.18783)|null|
+|**2025-06-23**|**Existing LLMs Are Not Self-Consistent For Simple Tasks**|Zhenru Lin et.al.|[2506.18781](http://arxiv.org/abs/2506.18781)|null|
+|**2025-06-23**|**Programming by Backprop: LLMs Acquire Reusable Algorithmic Abstractions During Code Training**|Jonathan Cook et.al.|[2506.18777](http://arxiv.org/abs/2506.18777)|null|
 |**2025-06-20**|**VLN-R1: Vision-Language Navigation via Reinforcement Fine-Tuning**|Zhangyang Qi et.al.|[2506.17221](http://arxiv.org/abs/2506.17221)|null|
 |**2025-06-20**|**No Free Lunch: Rethinking Internal Feedback for LLM Reasoning**|Yanzhi Zhang et.al.|[2506.17219](http://arxiv.org/abs/2506.17219)|null|
 |**2025-06-20**|**Long-term Traffic Simulation with Interleaved Autoregressive Motion and Scenario Generation**|Xiuyu Yang et.al.|[2506.17213](http://arxiv.org/abs/2506.17213)|null|
@@ -6640,6 +6680,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-23**|**FilMaster: Bridging Cinematic Principles and Generative AI for Automated Film Generation**|Kaiyi Huang et.al.|[2506.18899](http://arxiv.org/abs/2506.18899)|null|
+|**2025-06-23**|**Vision as a Dialect: Unifying Visual Understanding and Generation via Text-Aligned Representations**|Jiaming Han et.al.|[2506.18898](http://arxiv.org/abs/2506.18898)|null|
+|**2025-06-23**|**MinD: Unified Visual Imagination and Control via Hierarchical World Models**|Xiaowei Chi et.al.|[2506.18897](http://arxiv.org/abs/2506.18897)|null|
+|**2025-06-23**|**ReasonFlux-PRM: Trajectory-Aware PRMs for Long Chain-of-Thought Reasoning in LLMs**|Jiaru Zou et.al.|[2506.18896](http://arxiv.org/abs/2506.18896)|null|
+|**2025-06-23**|**Universal Video Temporal Grounding with Generative Multi-modal Large Language Models**|Zeqian Li et.al.|[2506.18883](http://arxiv.org/abs/2506.18883)|null|
+|**2025-06-23**|**CommVQ: Commutative Vector Quantization for KV Cache Compression**|Junyan Li et.al.|[2506.18879](http://arxiv.org/abs/2506.18879)|null|
+|**2025-06-23**|**Integrating Classical and Quantum Software for Enhanced Simulation of Realistic Chemical Systems**|Tomoya Shiota et.al.|[2506.18877](http://arxiv.org/abs/2506.18877)|null|
+|**2025-06-23**|**A field-level reaction for screened modified gravity**|Daniela Saadeh et.al.|[2506.18876](http://arxiv.org/abs/2506.18876)|null|
+|**2025-06-23**|**A B-Spline Finite Element Method for Cloth Simulation**|Yuqi Meng et.al.|[2506.18867](http://arxiv.org/abs/2506.18867)|null|
+|**2025-06-23**|**TAMMs: Temporal-Aware Multimodal Model for Satellite Image Change Understanding and Forecasting**|Zhongbin Guo et.al.|[2506.18862](http://arxiv.org/abs/2506.18862)|null|
+|**2025-06-23**|**ECLEIRS: Exact conservation law embedded identification of reduced states for parameterized partial differential equations from sparse and noisy data**|Aviral Prakash et.al.|[2506.18855](http://arxiv.org/abs/2506.18855)|null|
+|**2025-06-23**|**LongWriter-Zero: Mastering Ultra-Long Text Generation via Reinforcement Learning**|Yuhao Wu et.al.|[2506.18841](http://arxiv.org/abs/2506.18841)|null|
+|**2025-06-23**|**Neel Skyrmion interactions derived by their arrangement in regular lattices**|Ioanna Karagianni et.al.|[2506.18840](http://arxiv.org/abs/2506.18840)|null|
+|**2025-06-23**|**Chelation of the mercury ions by polyethyleneimine: Atomistic molecular dynamics study**|Halyna Butovych et.al.|[2506.18835](http://arxiv.org/abs/2506.18835)|null|
+|**2025-06-23**|**UrQMD Simulations of Higher-order Cumulants in Au+Au Collisions at High Baryon Density**|Xin Zhang et.al.|[2506.18832](http://arxiv.org/abs/2506.18832)|null|
+|**2025-06-23**|**STU-PID: Steering Token Usage via PID Controller for Efficient Large Language Model Reasoning**|Aryasomayajula Ram Bharadwaj et.al.|[2506.18831](http://arxiv.org/abs/2506.18831)|null|
+|**2025-06-23**|**Understanding Software Engineering Agents: A Study of Thought-Action-Result Trajectories**|Islem Bouzenia et.al.|[2506.18824](http://arxiv.org/abs/2506.18824)|null|
+|**2025-06-23**|**Hierarchical friction memory leads to subdiffusive configurational dynamics of fast-folding proteins**|Anton Klimek et.al.|[2506.18823](http://arxiv.org/abs/2506.18823)|null|
+|**2025-06-23**|**Role of bubble positioning in force induced melting of DNA**|Bidisha Mukherjee et.al.|[2506.18821](http://arxiv.org/abs/2506.18821)|null|
+|**2025-06-23**|**Structure and dynamics of finite three-dimensional Yukawa clusters in complex plasmas : Newtonian versus Langevin Dynamics**|Hirakjyoti Sarma et.al.|[2506.18820](http://arxiv.org/abs/2506.18820)|null|
 |**2025-06-20**|**Impact of the large-scale cosmic web on the X-ray emitting circumgalactic medium**|Soumya Shreeram et.al.|[2506.17222](http://arxiv.org/abs/2506.17222)|null|
 |**2025-06-20**|**VLN-R1: Vision-Language Navigation via Reinforcement Fine-Tuning**|Zhangyang Qi et.al.|[2506.17221](http://arxiv.org/abs/2506.17221)|null|
 |**2025-06-20**|**No Free Lunch: Rethinking Internal Feedback for LLM Reasoning**|Yanzhi Zhang et.al.|[2506.17219](http://arxiv.org/abs/2506.17219)|null|
@@ -9954,6 +10014,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-23**|**Vision as a Dialect: Unifying Visual Understanding and Generation via Text-Aligned Representations**|Jiaming Han et.al.|[2506.18898](http://arxiv.org/abs/2506.18898)|null|
+|**2025-06-23**|**ReasonFlux-PRM: Trajectory-Aware PRMs for Long Chain-of-Thought Reasoning in LLMs**|Jiaru Zou et.al.|[2506.18896](http://arxiv.org/abs/2506.18896)|null|
+|**2025-06-23**|**Universal Video Temporal Grounding with Generative Multi-modal Large Language Models**|Zeqian Li et.al.|[2506.18883](http://arxiv.org/abs/2506.18883)|null|
+|**2025-06-23**|**OMEGA: Can LLMs Reason Outside the Box in Math? Evaluating Exploratory, Compositional, and Transformative Generalization**|Yiyou Sun et.al.|[2506.18880](http://arxiv.org/abs/2506.18880)|null|
+|**2025-06-23**|**CommVQ: Commutative Vector Quantization for KV Cache Compression**|Junyan Li et.al.|[2506.18879](http://arxiv.org/abs/2506.18879)|null|
+|**2025-06-23**|**TAMMs: Temporal-Aware Multimodal Model for Satellite Image Change Understanding and Forecasting**|Zhongbin Guo et.al.|[2506.18862](http://arxiv.org/abs/2506.18862)|null|
+|**2025-06-23**|**LongWriter-Zero: Mastering Ultra-Long Text Generation via Reinforcement Learning**|Yuhao Wu et.al.|[2506.18841](http://arxiv.org/abs/2506.18841)|null|
+|**2025-06-23**|**STU-PID: Steering Token Usage via PID Controller for Efficient Large Language Model Reasoning**|Aryasomayajula Ram Bharadwaj et.al.|[2506.18831](http://arxiv.org/abs/2506.18831)|null|
+|**2025-06-23**|**Understanding Software Engineering Agents: A Study of Thought-Action-Result Trajectories**|Islem Bouzenia et.al.|[2506.18824](http://arxiv.org/abs/2506.18824)|null|
+|**2025-06-23**|**RWESummary: A Framework and Test for Choosing Large Language Models to Summarize Real-World Evidence (RWE) Studies**|Arjun Mukerji et.al.|[2506.18819](http://arxiv.org/abs/2506.18819)|null|
+|**2025-06-23**|**ConciseHint: Boosting Efficient Reasoning via Continuous Concise Hints during Generation**|Siao Tang et.al.|[2506.18810](http://arxiv.org/abs/2506.18810)|**[link](https://github.com/tsa18/ConciseHint)**|
+|**2025-06-23**|**Context-Aware CodeLLM Eviction for AI-assisted Coding**|Kishanthan Thangarajah et.al.|[2506.18796](http://arxiv.org/abs/2506.18796)|null|
+|**2025-06-23**|**TRIZ Agents: A Multi-Agent LLM Approach for TRIZ-Based Innovation**|Kamil Szczepanik et.al.|[2506.18783](http://arxiv.org/abs/2506.18783)|null|
+|**2025-06-23**|**Existing LLMs Are Not Self-Consistent For Simple Tasks**|Zhenru Lin et.al.|[2506.18781](http://arxiv.org/abs/2506.18781)|null|
+|**2025-06-23**|**Programming by Backprop: LLMs Acquire Reusable Algorithmic Abstractions During Code Training**|Jonathan Cook et.al.|[2506.18777](http://arxiv.org/abs/2506.18777)|null|
+|**2025-06-23**|**PARALLELPROMPT: Extracting Parallelism from Large Language Model Queries**|Steven Kolawole et.al.|[2506.18728](http://arxiv.org/abs/2506.18728)|null|
+|**2025-06-23**|**LLM-enhanced Interactions in Human-Robot Collaborative Drawing with Older Adults**|Marianne Bossema et.al.|[2506.18711](http://arxiv.org/abs/2506.18711)|null|
+|**2025-06-23**|**Benchmarking the Pedagogical Knowledge of Large Language Models**|Maxime Lelièvre et.al.|[2506.18710](http://arxiv.org/abs/2506.18710)|null|
+|**2025-06-23**|**SaGIF: Improving Individual Fairness in Graph Neural Networks via Similarity Encoding**|Yuchang Zhu et.al.|[2506.18696](http://arxiv.org/abs/2506.18696)|null|
+|**2025-06-23**|**SIM-Net: A Multimodal Fusion Network Using Inferred 3D Object Shape Point Clouds from RGB Images for 2D Classification**|Youcef Sklab et.al.|[2506.18683](http://arxiv.org/abs/2506.18683)|null|
 |**2025-06-20**|**VLN-R1: Vision-Language Navigation via Reinforcement Fine-Tuning**|Zhangyang Qi et.al.|[2506.17221](http://arxiv.org/abs/2506.17221)|null|
 |**2025-06-20**|**No Free Lunch: Rethinking Internal Feedback for LLM Reasoning**|Yanzhi Zhang et.al.|[2506.17219](http://arxiv.org/abs/2506.17219)|null|
 |**2025-06-20**|**Machine Mental Imagery: Empower Multimodal Reasoning with Latent Visual Tokens**|Zeyuan Yang et.al.|[2506.17218](http://arxiv.org/abs/2506.17218)|null|
