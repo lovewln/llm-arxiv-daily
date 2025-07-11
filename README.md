@@ -20,6 +20,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-10**|**Skip a Layer or Loop it? Test-Time Depth Adaptation of Pretrained LLMs**|Ziyue Li et.al.|[2507.07996](http://arxiv.org/abs/2507.07996)|null|
+|**2025-07-10**|**Multigranular Evaluation for Brain Visual Decoding**|Weihao Xia et.al.|[2507.07993](http://arxiv.org/abs/2507.07993)|null|
+|**2025-07-10**|**Multi-Granular Spatio-Temporal Token Merging for Training-Free Acceleration of Video LLMs**|Jeongseok Hyun et.al.|[2507.07990](http://arxiv.org/abs/2507.07990)|null|
+|**2025-07-10**|**Automating Expert-Level Medical Reasoning Evaluation of Large Language Models**|Shuang Zhou et.al.|[2507.07988](http://arxiv.org/abs/2507.07988)|null|
+|**2025-07-10**|**OST-Bench: Evaluating the Capabilities of MLLMs in Online Spatio-temporal Scene Understanding**|JingLi Lin et.al.|[2507.07984](http://arxiv.org/abs/2507.07984)|null|
+|**2025-07-10**|**Performance and Practical Considerations of Large and Small Language Models in Clinical Decision Support in Rheumatology**|Sabine Felde et.al.|[2507.07983](http://arxiv.org/abs/2507.07983)|null|
+|**2025-07-10**|**Defending Against Prompt Injection With a Few DefensiveTokens**|Sizhe Chen et.al.|[2507.07974](http://arxiv.org/abs/2507.07974)|null|
+|**2025-07-10**|**Can Large Language Models Improve Phishing Defense? A Large-Scale Controlled Experiment on Warning Dialogue Explanations**|Federico Maria Cau et.al.|[2507.07916](http://arxiv.org/abs/2507.07916)|null|
+|**2025-07-10**|**MIRA: A Novel Framework for Fusing Modalities in Medical RAG**|Jinhong Wang et.al.|[2507.07902](http://arxiv.org/abs/2507.07902)|null|
+|**2025-07-10**|**An Integrated Framework of Prompt Engineering and Multidimensional Knowledge Graphs for Legal Dispute Analysis**|Mingda Zhang et.al.|[2507.07893](http://arxiv.org/abs/2507.07893)|null|
+|**2025-07-10**|**Automating MD simulations for Proteins using Large language Models: NAMD-Agent**|Achuth Chandrasekhar et.al.|[2507.07887](http://arxiv.org/abs/2507.07887)|null|
+|**2025-07-10**|**Opting Out of Generative AI: a Behavioral Experiment on the Role of Education in Perplexity AI Avoidance**|Roberto Ulloa et.al.|[2507.07881](http://arxiv.org/abs/2507.07881)|null|
+|**2025-07-10**|**DocCHA: Towards LLM-Augmented Interactive Online diagnosis System**|Xinyi Liu et.al.|[2507.07870](http://arxiv.org/abs/2507.07870)|null|
+|**2025-07-10**|**From Ambiguity to Accuracy: The Transformative Effect of Coreference Resolution on Retrieval-Augmented Generation systems**|Youngjoon Jang et.al.|[2507.07847](http://arxiv.org/abs/2507.07847)|null|
+|**2025-07-10**|**MoSE: Skill-by-Skill Mixture-of-Expert Learning for Autonomous Driving**|Lu Xu et.al.|[2507.07818](http://arxiv.org/abs/2507.07818)|null|
+|**2025-07-10**|**Understanding and Controlling Repetition Neurons and Induction Heads in In-Context Learning**|Nhi Hoai Doan et.al.|[2507.07810](http://arxiv.org/abs/2507.07810)|null|
+|**2025-07-10**|**SecureSpeech: Prompt-based Speaker and Content Protection**|Belinda Soh Hui Hui et.al.|[2507.07799](http://arxiv.org/abs/2507.07799)|null|
+|**2025-07-10**|**Measuring AI Alignment with Human Flourishing**|Elizabeth Hilliard et.al.|[2507.07787](http://arxiv.org/abs/2507.07787)|null|
+|**2025-07-10**|**Structured Prompts, Better Outcomes? Exploring the Effects of a Structured Interface with ChatGPT in a Graduate Robotics Course**|Jerome Brender et.al.|[2507.07767](http://arxiv.org/abs/2507.07767)|null|
+|**2025-07-10**|**When Large Language Models Meet Law: Dual-Lens Taxonomy, Technical Advances, and Ethical Governance**|Peizhang Shao et.al.|[2507.07748](http://arxiv.org/abs/2507.07748)|null|
 |**2025-07-09**|**Towards Multimodal Understanding via Stable Diffusion as a Task-Aware Feature Extractor**|Vatsal Agarwal et.al.|[2507.07106](http://arxiv.org/abs/2507.07106)|null|
 |**2025-07-09**|**Vision-Language-Vision Auto-Encoder: Scalable Knowledge Distillation from Diffusion Models**|Tiezheng Zhang et.al.|[2507.07104](http://arxiv.org/abs/2507.07104)|null|
 |**2025-07-09**|**5C Prompt Contracts: A Minimalist, Creative-Friendly, Token-Efficient Design Framework for Individual and SME LLM Usage**|Ugur Ari et.al.|[2507.07045](http://arxiv.org/abs/2507.07045)|null|
@@ -3550,6 +3570,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-10**|**PyVision: Agentic Vision with Dynamic Tooling**|Shitian Zhao et.al.|[2507.07998](http://arxiv.org/abs/2507.07998)|null|
+|**2025-07-10**|**Skip a Layer or Loop it? Test-Time Depth Adaptation of Pretrained LLMs**|Ziyue Li et.al.|[2507.07996](http://arxiv.org/abs/2507.07996)|null|
+|**2025-07-10**|**Multigranular Evaluation for Brain Visual Decoding**|Weihao Xia et.al.|[2507.07993](http://arxiv.org/abs/2507.07993)|null|
+|**2025-07-10**|**Multi-Granular Spatio-Temporal Token Merging for Training-Free Acceleration of Video LLMs**|Jeongseok Hyun et.al.|[2507.07990](http://arxiv.org/abs/2507.07990)|null|
+|**2025-07-10**|**Automating Expert-Level Medical Reasoning Evaluation of Large Language Models**|Shuang Zhou et.al.|[2507.07988](http://arxiv.org/abs/2507.07988)|null|
+|**2025-07-10**|**OST-Bench: Evaluating the Capabilities of MLLMs in Online Spatio-temporal Scene Understanding**|JingLi Lin et.al.|[2507.07984](http://arxiv.org/abs/2507.07984)|null|
+|**2025-07-10**|**Performance and Practical Considerations of Large and Small Language Models in Clinical Decision Support in Rheumatology**|Sabine Felde et.al.|[2507.07983](http://arxiv.org/abs/2507.07983)|null|
+|**2025-07-10**|**Defending Against Prompt Injection With a Few DefensiveTokens**|Sizhe Chen et.al.|[2507.07974](http://arxiv.org/abs/2507.07974)|null|
+|**2025-07-10**|**Reinforcement Learning with Action Chunking**|Qiyang Li et.al.|[2507.07969](http://arxiv.org/abs/2507.07969)|null|
+|**2025-07-10**|**MIRIX: Multi-Agent Memory System for LLM-Based Agents**|Yu Wang et.al.|[2507.07957](http://arxiv.org/abs/2507.07957)|null|
+|**2025-07-10**|**Can Large Language Models Improve Phishing Defense? A Large-Scale Controlled Experiment on Warning Dialogue Explanations**|Federico Maria Cau et.al.|[2507.07916](http://arxiv.org/abs/2507.07916)|null|
+|**2025-07-10**|**Agentic Retrieval of Topics and Insights from Earnings Calls**|Anant Gupta et.al.|[2507.07906](http://arxiv.org/abs/2507.07906)|null|
+|**2025-07-10**|**MIRA: A Novel Framework for Fusing Modalities in Medical RAG**|Jinhong Wang et.al.|[2507.07902](http://arxiv.org/abs/2507.07902)|null|
+|**2025-07-10**|**The Trust Fabric: Decentralized Interoperability and Economic Coordination for the Agentic Web**|Sree Bhargavi Balija et.al.|[2507.07901](http://arxiv.org/abs/2507.07901)|null|
+|**2025-07-10**|**An Integrated Framework of Prompt Engineering and Multidimensional Knowledge Graphs for Legal Dispute Analysis**|Mingda Zhang et.al.|[2507.07893](http://arxiv.org/abs/2507.07893)|null|
+|**2025-07-10**|**Automating MD simulations for Proteins using Large language Models: NAMD-Agent**|Achuth Chandrasekhar et.al.|[2507.07887](http://arxiv.org/abs/2507.07887)|null|
+|**2025-07-10**|**Opting Out of Generative AI: a Behavioral Experiment on the Role of Education in Perplexity AI Avoidance**|Roberto Ulloa et.al.|[2507.07881](http://arxiv.org/abs/2507.07881)|null|
+|**2025-07-10**|**DocCHA: Towards LLM-Augmented Interactive Online diagnosis System**|Xinyi Liu et.al.|[2507.07870](http://arxiv.org/abs/2507.07870)|null|
+|**2025-07-10**|**"So, Tell Me About Your Policy...": Distillation of interpretable policies from Deep Reinforcement Learning agents**|Giovanni Dispoto et.al.|[2507.07848](http://arxiv.org/abs/2507.07848)|null|
+|**2025-07-10**|**From Ambiguity to Accuracy: The Transformative Effect of Coreference Resolution on Retrieval-Augmented Generation systems**|Youngjoon Jang et.al.|[2507.07847](http://arxiv.org/abs/2507.07847)|null|
 |**2025-07-09**|**Towards Multimodal Understanding via Stable Diffusion as a Task-Aware Feature Extractor**|Vatsal Agarwal et.al.|[2507.07106](http://arxiv.org/abs/2507.07106)|null|
 |**2025-07-09**|**4KAgent: Agentic Any Image to 4K Super-Resolution**|Yushen Zuo et.al.|[2507.07105](http://arxiv.org/abs/2507.07105)|null|
 |**2025-07-09**|**Vision-Language-Vision Auto-Encoder: Scalable Knowledge Distillation from Diffusion Models**|Tiezheng Zhang et.al.|[2507.07104](http://arxiv.org/abs/2507.07104)|null|
@@ -7080,6 +7120,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-10**|**Skip a Layer or Loop it? Test-Time Depth Adaptation of Pretrained LLMs**|Ziyue Li et.al.|[2507.07996](http://arxiv.org/abs/2507.07996)|null|
+|**2025-07-10**|**Multigranular Evaluation for Brain Visual Decoding**|Weihao Xia et.al.|[2507.07993](http://arxiv.org/abs/2507.07993)|null|
+|**2025-07-10**|**Baryonification II: Constraining feedback with X-ray and kinematic Sunyaev-Zel'dovich observations**|Michael Kovač et.al.|[2507.07991](http://arxiv.org/abs/2507.07991)|null|
+|**2025-07-10**|**Multi-Granular Spatio-Temporal Token Merging for Training-Free Acceleration of Video LLMs**|Jeongseok Hyun et.al.|[2507.07990](http://arxiv.org/abs/2507.07990)|null|
+|**2025-07-10**|**Automating Expert-Level Medical Reasoning Evaluation of Large Language Models**|Shuang Zhou et.al.|[2507.07988](http://arxiv.org/abs/2507.07988)|null|
+|**2025-07-10**|**OST-Bench: Evaluating the Capabilities of MLLMs in Online Spatio-temporal Scene Understanding**|JingLi Lin et.al.|[2507.07984](http://arxiv.org/abs/2507.07984)|null|
+|**2025-07-10**|**Performance and Practical Considerations of Large and Small Language Models in Clinical Decision Support in Rheumatology**|Sabine Felde et.al.|[2507.07983](http://arxiv.org/abs/2507.07983)|null|
+|**2025-07-10**|**Martian World Models: Controllable Video Synthesis with Physically Accurate 3D Reconstructions**|Longfei Li et.al.|[2507.07978](http://arxiv.org/abs/2507.07978)|null|
+|**2025-07-10**|**Defending Against Prompt Injection With a Few DefensiveTokens**|Sizhe Chen et.al.|[2507.07974](http://arxiv.org/abs/2507.07974)|null|
+|**2025-07-10**|**A Semi-Analytic model for Effects of Fuzzy Dark Matter Granule Perturbations on Orbital Motion**|Yu Zhao et.al.|[2507.07963](http://arxiv.org/abs/2507.07963)|null|
+|**2025-07-10**|**Sharp estimates of quantum covering problems via a novel trace inequality**|Hao-Chung Cheng et.al.|[2507.07961](http://arxiv.org/abs/2507.07961)|null|
+|**2025-07-10**|**Late Fusion Multi-task Learning for Semiparametric Inference with Nuisance Parameters**|Sohom Bhattacharya et.al.|[2507.07941](http://arxiv.org/abs/2507.07941)|null|
+|**2025-07-10**|**KIS-S: A GPU-Aware Kubernetes Inference Simulator with RL-Based Auto-Scaling**|Guilin Zhang et.al.|[2507.07932](http://arxiv.org/abs/2507.07932)|null|
+|**2025-07-10**|**Hydrodynamic Insight Drives Multimodal Vortex-Field Dynamics via Streamline Engineering**|Wenxiang Yan et.al.|[2507.07928](http://arxiv.org/abs/2507.07928)|null|
+|**2025-07-10**|**Phase Stability and Transformations in Lead Mixed Halide Perovskites from Machine Learning Force Fields**|Xia Liang et.al.|[2507.07926](http://arxiv.org/abs/2507.07926)|null|
+|**2025-07-10**|**ArteryX: Advancing Brain Artery Feature Extraction with Vessel-Fused Networks and a Robust Validation Framework**|Abrar Faiyaz et.al.|[2507.07920](http://arxiv.org/abs/2507.07920)|null|
+|**2025-07-10**|**Can Large Language Models Improve Phishing Defense? A Large-Scale Controlled Experiment on Warning Dialogue Explanations**|Federico Maria Cau et.al.|[2507.07916](http://arxiv.org/abs/2507.07916)|null|
+|**2025-07-10**|**Robust Lindbladian Estimation for Quantum Dynamics**|Yinchen Liu et.al.|[2507.07912](http://arxiv.org/abs/2507.07912)|null|
+|**2025-07-10**|**The Potential of Olfactory Stimuli in Stress Reduction through Virtual Reality**|Yasmin Elsaddik Valdivieso et.al.|[2507.07911](http://arxiv.org/abs/2507.07911)|null|
+|**2025-07-10**|**Document Similarity Enhanced IPS Estimation for Unbiased Learning to Rank**|Zeyan Liang et.al.|[2507.07909](http://arxiv.org/abs/2507.07909)|null|
 |**2025-07-09**|**Towards Multimodal Understanding via Stable Diffusion as a Task-Aware Feature Extractor**|Vatsal Agarwal et.al.|[2507.07106](http://arxiv.org/abs/2507.07106)|null|
 |**2025-07-09**|**Vision-Language-Vision Auto-Encoder: Scalable Knowledge Distillation from Diffusion Models**|Tiezheng Zhang et.al.|[2507.07104](http://arxiv.org/abs/2507.07104)|null|
 |**2025-07-09**|**Ray-tracing Fast Radio Bursts Through IllustrisTNG: Cosmological Dispersion Measures from Redshift 0 to 5.5**|Ralf M. Konietzka et.al.|[2507.07090](http://arxiv.org/abs/2507.07090)|null|
@@ -10614,6 +10674,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-10**|**Traceable Evidence Enhanced Visual Grounded Reasoning: Evaluation and Methodology**|Haochen Wang et.al.|[2507.07999](http://arxiv.org/abs/2507.07999)|null|
+|**2025-07-10**|**PyVision: Agentic Vision with Dynamic Tooling**|Shitian Zhao et.al.|[2507.07998](http://arxiv.org/abs/2507.07998)|null|
+|**2025-07-10**|**Skip a Layer or Loop it? Test-Time Depth Adaptation of Pretrained LLMs**|Ziyue Li et.al.|[2507.07996](http://arxiv.org/abs/2507.07996)|null|
+|**2025-07-10**|**Multigranular Evaluation for Brain Visual Decoding**|Weihao Xia et.al.|[2507.07993](http://arxiv.org/abs/2507.07993)|null|
+|**2025-07-10**|**Multi-Granular Spatio-Temporal Token Merging for Training-Free Acceleration of Video LLMs**|Jeongseok Hyun et.al.|[2507.07990](http://arxiv.org/abs/2507.07990)|null|
+|**2025-07-10**|**Automating Expert-Level Medical Reasoning Evaluation of Large Language Models**|Shuang Zhou et.al.|[2507.07988](http://arxiv.org/abs/2507.07988)|null|
+|**2025-07-10**|**OST-Bench: Evaluating the Capabilities of MLLMs in Online Spatio-temporal Scene Understanding**|JingLi Lin et.al.|[2507.07984](http://arxiv.org/abs/2507.07984)|null|
+|**2025-07-10**|**Performance and Practical Considerations of Large and Small Language Models in Clinical Decision Support in Rheumatology**|Sabine Felde et.al.|[2507.07983](http://arxiv.org/abs/2507.07983)|null|
+|**2025-07-10**|**Defending Against Prompt Injection With a Few DefensiveTokens**|Sizhe Chen et.al.|[2507.07974](http://arxiv.org/abs/2507.07974)|null|
+|**2025-07-10**|**Constraints from CMB lensing tomography with projected bispectra**|Lea Harscouet et.al.|[2507.07968](http://arxiv.org/abs/2507.07968)|null|
+|**2025-07-10**|**Scaling RL to Long Videos**|Yukang Chen et.al.|[2507.07966](http://arxiv.org/abs/2507.07966)|null|
+|**2025-07-10**|**MIRIX: Multi-Agent Memory System for LLM-Based Agents**|Yu Wang et.al.|[2507.07957](http://arxiv.org/abs/2507.07957)|null|
+|**2025-07-10**|**SAGE: A Visual Language Model for Anomaly Detection via Fact Enhancement and Entropy-aware Alignment**|Guoxin Zang et.al.|[2507.07939](http://arxiv.org/abs/2507.07939)|null|
+|**2025-07-10**|**Meek Models Shall Inherit the Earth**|Hans Gundlach et.al.|[2507.07931](http://arxiv.org/abs/2507.07931)|null|
+|**2025-07-10**|**Can Large Language Models Improve Phishing Defense? A Large-Scale Controlled Experiment on Warning Dialogue Explanations**|Federico Maria Cau et.al.|[2507.07916](http://arxiv.org/abs/2507.07916)|null|
+|**2025-07-10**|**MIRA: A Novel Framework for Fusing Modalities in Medical RAG**|Jinhong Wang et.al.|[2507.07902](http://arxiv.org/abs/2507.07902)|null|
+|**2025-07-10**|**An Integrated Framework of Prompt Engineering and Multidimensional Knowledge Graphs for Legal Dispute Analysis**|Mingda Zhang et.al.|[2507.07893](http://arxiv.org/abs/2507.07893)|null|
+|**2025-07-10**|**Automating MD simulations for Proteins using Large language Models: NAMD-Agent**|Achuth Chandrasekhar et.al.|[2507.07887](http://arxiv.org/abs/2507.07887)|null|
+|**2025-07-10**|**Opting Out of Generative AI: a Behavioral Experiment on the Role of Education in Perplexity AI Avoidance**|Roberto Ulloa et.al.|[2507.07881](http://arxiv.org/abs/2507.07881)|null|
+|**2025-07-10**|**DocCHA: Towards LLM-Augmented Interactive Online diagnosis System**|Xinyi Liu et.al.|[2507.07870](http://arxiv.org/abs/2507.07870)|null|
 |**2025-07-09**|**Towards Multimodal Understanding via Stable Diffusion as a Task-Aware Feature Extractor**|Vatsal Agarwal et.al.|[2507.07106](http://arxiv.org/abs/2507.07106)|null|
 |**2025-07-09**|**Vision-Language-Vision Auto-Encoder: Scalable Knowledge Distillation from Diffusion Models**|Tiezheng Zhang et.al.|[2507.07104](http://arxiv.org/abs/2507.07104)|null|
 |**2025-07-09**|**Evaluating Large Multimodal Models for Nutrition Analysis: A Benchmark Enriched with Contextual Metadata**|Bruce Coburn et.al.|[2507.07048](http://arxiv.org/abs/2507.07048)|null|
