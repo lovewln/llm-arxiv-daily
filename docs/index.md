@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.07.14
+## Updated on 2025.07.15
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## large language model
@@ -10728,7 +10728,7 @@ layout: default
 |**2025-07-11**|**One Token to Fool LLM-as-a-Judge**|Yulai Zhao et.al.|[2507.08794](http://arxiv.org/abs/2507.08794)|null|
 |**2025-07-11**|**BlockFFN: Towards End-Side Acceleration-Friendly Mixture-of-Experts with Chunk-Level Activation Sparsity**|Chenyang Song et.al.|[2507.08771](http://arxiv.org/abs/2507.08771)|null|
 |**2025-07-11**|**Multiplier algebras and local units**|Alfons Van Daele et.al.|[2507.08769](http://arxiv.org/abs/2507.08769)|null|
-|**2025-07-11**|**Dually Hierarchical Drift Adaptation for Online Configuration Performance Learning**|Zezhen Xiang et.al.|[2507.08730](http://arxiv.org/abs/2507.08730)|null|
+|**2025-07-14**|**Dually Hierarchical Drift Adaptation for Online Configuration Performance Learning**|Zezhen Xiang et.al.|[2507.08730](http://arxiv.org/abs/2507.08730)|null|
 |**2025-07-11**|**Multilingual Multimodal Software Developer for Code Generation**|Linzheng Chai et.al.|[2507.08719](http://arxiv.org/abs/2507.08719)|null|
 |**2025-07-11**|**KG-Attention: Knowledge Graph-Guided Attention at Test-Time via Bidirectional Information Aggregation**|Songlin Zhai et.al.|[2507.08704](http://arxiv.org/abs/2507.08704)|null|
 |**2025-07-11**|**A Personalised Formal Verification Framework for Monitoring Activities of Daily Living of Older Adults Living Independently in Their Homes**|Ricardo Contreras et.al.|[2507.08701](http://arxiv.org/abs/2507.08701)|null|
