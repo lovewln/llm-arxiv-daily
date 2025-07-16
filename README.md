@@ -20,6 +20,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-15**|**Streaming 4D Visual Geometry Transformer**|Dong Zhuo et.al.|[2507.11539](http://arxiv.org/abs/2507.11539)|null|
+|**2025-07-15**|**DrafterBench: Benchmarking Large Language Models for Tasks Automation in Civil Engineering**|Yinsheng Li et.al.|[2507.11527](http://arxiv.org/abs/2507.11527)|null|
+|**2025-07-15**|**LLM-based ambiguity detection in natural language instructions for collaborative surgical robots**|Ana Davila et.al.|[2507.11525](http://arxiv.org/abs/2507.11525)|null|
+|**2025-07-15**|**AirLLM: Diffusion Policy-based Adaptive LoRA for Remote Fine-Tuning of LLM over the Air**|Shiyi Yang et.al.|[2507.11515](http://arxiv.org/abs/2507.11515)|null|
+|**2025-07-15**|**LRMR: LLM-Driven Relational Multi-node Ranking for Lymph Node Metastasis Assessment in Rectal Cancer**|Yaoxian Dong et.al.|[2507.11457](http://arxiv.org/abs/2507.11457)|null|
+|**2025-07-15**|**Reasoning Strategies in Large Language Models: Can They Follow, Prefer, and Optimize?**|Yanjian Zhang et.al.|[2507.11423](http://arxiv.org/abs/2507.11423)|null|
+|**2025-07-15**|**Quantifying the Energy Consumption and Carbon Emissions of LLM Inference via Simulations**|Miray Özcan et.al.|[2507.11417](http://arxiv.org/abs/2507.11417)|null|
+|**2025-07-15**|**Seq vs Seq: An Open Suite of Paired Encoders and Decoders**|Orion Weller et.al.|[2507.11412](http://arxiv.org/abs/2507.11412)|null|
+|**2025-07-15**|**KisMATH: Do LLMs Have Knowledge of Implicit Structures in Mathematical Reasoning?**|Soumadeep Saha et.al.|[2507.11408](http://arxiv.org/abs/2507.11408)|null|
+|**2025-07-15**|**EXAONE 4.0: Unified Large Language Models Integrating Non-reasoning and Reasoning Modes**|LG AI Research et.al.|[2507.11407](http://arxiv.org/abs/2507.11407)|null|
+|**2025-07-15**|**DCR: Quantifying Data Contamination in LLMs Evaluation**|Cheng Xu et.al.|[2507.11405](http://arxiv.org/abs/2507.11405)|null|
+|**2025-07-15**|**Step-wise Policy for Rare-tool Knowledge (SPaRK): Offline RL that Drives Diverse Tool Use in LLMs**|Gabriel Bo et.al.|[2507.11371](http://arxiv.org/abs/2507.11371)|null|
+|**2025-07-15**|**From Chaos to Automation: Enabling the Use of Unstructured Data for Robotic Process Automation**|Kelly Kurowski et.al.|[2507.11364](http://arxiv.org/abs/2507.11364)|null|
+|**2025-07-15**|**What is the Best Process Model Representation? A Comparative Analysis for Process Modeling with Large Language Models**|Alexis Brissard et.al.|[2507.11356](http://arxiv.org/abs/2507.11356)|null|
+|**2025-07-15**|**Foundation Models for Logistics: Toward Certifiable, Conversational Planning Interfaces**|Yunhao Yang et.al.|[2507.11352](http://arxiv.org/abs/2507.11352)|null|
+|**2025-07-15**|**Guiding LLM Decision-Making with Fairness Reward Models**|Zara Hall et.al.|[2507.11344](http://arxiv.org/abs/2507.11344)|null|
+|**2025-07-15**|**Automated Novelty Evaluation of Academic Paper: A Collaborative Approach Integrating Human and Large Language Model Knowledge**|Wenqing Wu et.al.|[2507.11330](http://arxiv.org/abs/2507.11330)|null|
+|**2025-07-15**|**Internal Value Alignment in Large Language Models through Controlled Value Vector Activation**|Haoran Jin et.al.|[2507.11316](http://arxiv.org/abs/2507.11316)|null|
+|**2025-07-15**|**LRCTI: A Large Language Model-Based Framework for Multi-Step Evidence Retrieval and Reasoning in Cyber Threat Intelligence Credibility Verification**|Fengxiao Tang et.al.|[2507.11310](http://arxiv.org/abs/2507.11310)|null|
+|**2025-07-15**|**Dr.Copilot: A Multi-Agent Prompt Optimized Assistant for Improving Patient-Doctor Communication in Romanian**|Andrei Niculae et.al.|[2507.11299](http://arxiv.org/abs/2507.11299)|null|
 |**2025-07-14**|**Fusing LLM Capabilities with Routing Data**|Tao Feng et.al.|[2507.10540](http://arxiv.org/abs/2507.10540)|null|
 |**2025-07-14**|**CodeJudgeBench: Benchmarking LLM-as-a-Judge for Coding Tasks**|Hongchao Jiang et.al.|[2507.10535](http://arxiv.org/abs/2507.10535)|null|
 |**2025-07-14**|**Reasoning or Memorization? Unreliable Results of Reinforcement Learning Due to Data Contamination**|Mingqi Wu et.al.|[2507.10532](http://arxiv.org/abs/2507.10532)|null|
@@ -3610,6 +3630,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-15**|**Streaming 4D Visual Geometry Transformer**|Dong Zhuo et.al.|[2507.11539](http://arxiv.org/abs/2507.11539)|null|
+|**2025-07-15**|**DrafterBench: Benchmarking Large Language Models for Tasks Automation in Civil Engineering**|Yinsheng Li et.al.|[2507.11527](http://arxiv.org/abs/2507.11527)|null|
+|**2025-07-15**|**LLM-based ambiguity detection in natural language instructions for collaborative surgical robots**|Ana Davila et.al.|[2507.11525](http://arxiv.org/abs/2507.11525)|null|
+|**2025-07-15**|**Opinion dynamics: Statistical physics and beyond**|Michele Starnini et.al.|[2507.11521](http://arxiv.org/abs/2507.11521)|null|
+|**2025-07-15**|**AirLLM: Diffusion Policy-based Adaptive LoRA for Remote Fine-Tuning of LLM over the Air**|Shiyi Yang et.al.|[2507.11515](http://arxiv.org/abs/2507.11515)|null|
+|**2025-07-15**|**On the Complexity of the Optimal Correlated Equilibria in Extensive-Form Games**|Vincent Cheval et.al.|[2507.11509](http://arxiv.org/abs/2507.11509)|null|
+|**2025-07-15**|**LF: Online Multi-Robot Path Planning Meets Optimal Trajectory Control**|Ajay Shankar et.al.|[2507.11464](http://arxiv.org/abs/2507.11464)|null|
+|**2025-07-15**|**LRMR: LLM-Driven Relational Multi-node Ranking for Lymph Node Metastasis Assessment in Rectal Cancer**|Yaoxian Dong et.al.|[2507.11457](http://arxiv.org/abs/2507.11457)|null|
+|**2025-07-15**|**Reasoning Strategies in Large Language Models: Can They Follow, Prefer, and Optimize?**|Yanjian Zhang et.al.|[2507.11423](http://arxiv.org/abs/2507.11423)|null|
+|**2025-07-15**|**Quantifying the Energy Consumption and Carbon Emissions of LLM Inference via Simulations**|Miray Özcan et.al.|[2507.11417](http://arxiv.org/abs/2507.11417)|null|
+|**2025-07-15**|**Seq vs Seq: An Open Suite of Paired Encoders and Decoders**|Orion Weller et.al.|[2507.11412](http://arxiv.org/abs/2507.11412)|null|
+|**2025-07-15**|**KisMATH: Do LLMs Have Knowledge of Implicit Structures in Mathematical Reasoning?**|Soumadeep Saha et.al.|[2507.11408](http://arxiv.org/abs/2507.11408)|null|
+|**2025-07-15**|**EXAONE 4.0: Unified Large Language Models Integrating Non-reasoning and Reasoning Modes**|LG AI Research et.al.|[2507.11407](http://arxiv.org/abs/2507.11407)|null|
+|**2025-07-15**|**DCR: Quantifying Data Contamination in LLMs Evaluation**|Cheng Xu et.al.|[2507.11405](http://arxiv.org/abs/2507.11405)|null|
+|**2025-07-15**|**From Production Logistics to Smart Manufacturing: The Vision for a New RoboCup Industrial League**|Supun Dissanayaka et.al.|[2507.11402](http://arxiv.org/abs/2507.11402)|null|
+|**2025-07-15**|**Step-wise Policy for Rare-tool Knowledge (SPaRK): Offline RL that Drives Diverse Tool Use in LLMs**|Gabriel Bo et.al.|[2507.11371](http://arxiv.org/abs/2507.11371)|null|
+|**2025-07-15**|**From Chaos to Automation: Enabling the Use of Unstructured Data for Robotic Process Automation**|Kelly Kurowski et.al.|[2507.11364](http://arxiv.org/abs/2507.11364)|null|
+|**2025-07-15**|**What is the Best Process Model Representation? A Comparative Analysis for Process Modeling with Large Language Models**|Alexis Brissard et.al.|[2507.11356](http://arxiv.org/abs/2507.11356)|null|
+|**2025-07-15**|**Foundation Models for Logistics: Toward Certifiable, Conversational Planning Interfaces**|Yunhao Yang et.al.|[2507.11352](http://arxiv.org/abs/2507.11352)|null|
+|**2025-07-15**|**Guiding LLM Decision-Making with Fairness Reward Models**|Zara Hall et.al.|[2507.11344](http://arxiv.org/abs/2507.11344)|null|
 |**2025-07-14**|**EmbRACE-3K: Embodied Reasoning and Action in Complex Environments**|Mingxian Lin et.al.|[2507.10548](http://arxiv.org/abs/2507.10548)|null|
 |**2025-07-14**|**Fusing LLM Capabilities with Routing Data**|Tao Feng et.al.|[2507.10540](http://arxiv.org/abs/2507.10540)|null|
 |**2025-07-14**|**Graph World Model**|Tao Feng et.al.|[2507.10539](http://arxiv.org/abs/2507.10539)|null|
@@ -7200,6 +7240,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-15**|**Streaming 4D Visual Geometry Transformer**|Dong Zhuo et.al.|[2507.11539](http://arxiv.org/abs/2507.11539)|null|
+|**2025-07-15**|**Canonical Bayesian Linear System Identification**|Andrey Bryutkin et.al.|[2507.11535](http://arxiv.org/abs/2507.11535)|null|
+|**2025-07-15**|**DrafterBench: Benchmarking Large Language Models for Tasks Automation in Civil Engineering**|Yinsheng Li et.al.|[2507.11527](http://arxiv.org/abs/2507.11527)|null|
+|**2025-07-15**|**LLM-based ambiguity detection in natural language instructions for collaborative surgical robots**|Ana Davila et.al.|[2507.11525](http://arxiv.org/abs/2507.11525)|null|
+|**2025-07-15**|**Opinion dynamics: Statistical physics and beyond**|Michele Starnini et.al.|[2507.11521](http://arxiv.org/abs/2507.11521)|null|
+|**2025-07-15**|**Gaussian Noise Model of Nonlinear Distortions from Semiconductor Optical Amplifiers**|Hartmut Hafermann et.al.|[2507.11517](http://arxiv.org/abs/2507.11517)|null|
+|**2025-07-15**|**AirLLM: Diffusion Policy-based Adaptive LoRA for Remote Fine-Tuning of LLM over the Air**|Shiyi Yang et.al.|[2507.11515](http://arxiv.org/abs/2507.11515)|null|
+|**2025-07-15**|**Scaling the memory wall using mixed-precision -- HPG-MxP on an exascale machine**|Aditya Kashi et.al.|[2507.11512](http://arxiv.org/abs/2507.11512)|null|
+|**2025-07-15**|**Plane-layer Rayleigh-Bénard convection up to $Ra=10^{11}$ : Near-wall fluctuations and role of initial conditions**|Roshan J. Samuel et.al.|[2507.11510](http://arxiv.org/abs/2507.11510)|null|
+|**2025-07-15**|**Elk: Exploring the Efficiency of Inter-core Connected AI Chips with Deep Learning Compiler Techniques**|Yiqi Liu et.al.|[2507.11506](http://arxiv.org/abs/2507.11506)|null|
+|**2025-07-15**|**Clapping propulsion and thin vortex rings: a computational study of vortex dynamics, energy equivalence, and core potential energy**|Suyog V. Mahulkar et.al.|[2507.11491](http://arxiv.org/abs/2507.11491)|null|
+|**2025-07-15**|**JamShield: A Machine Learning Detection System for Over-the-Air Jamming Attacks**|Ioannis Panitsas et.al.|[2507.11483](http://arxiv.org/abs/2507.11483)|null|
+|**2025-07-15**|**CRPropa 3.3: Toward a Unified Multi-Messenger Framework from GeV to ZeV Energies**|Sophie Aerdker et.al.|[2507.11475](http://arxiv.org/abs/2507.11475)|null|
+|**2025-07-15**|**From Redshift to Real Space: Combining Linear Theory With Neural Networks**|Edoardo Maragliano et.al.|[2507.11462](http://arxiv.org/abs/2507.11462)|null|
+|**2025-07-15**|**LRMR: LLM-Driven Relational Multi-node Ranking for Lymph Node Metastasis Assessment in Rectal Cancer**|Yaoxian Dong et.al.|[2507.11457](http://arxiv.org/abs/2507.11457)|null|
+|**2025-07-15**|**Timescales for stochastic barrier crossing: inferring the potential from nonequilibrium data**|A. J. Archer et.al.|[2507.11456](http://arxiv.org/abs/2507.11456)|null|
+|**2025-07-15**|**Effects of Epoxy Composition on the Thermal and Network Properties of Crosslinked Thermosets: A Molecular-Dynamics Study**|Venkata Rama Manoj Pola et.al.|[2507.11453](http://arxiv.org/abs/2507.11453)|null|
+|**2025-07-15**|**FLsim: A Modular and Library-Agnostic Simulation Framework for Federated Learning**|Arnab Mukherjee et.al.|[2507.11430](http://arxiv.org/abs/2507.11430)|null|
+|**2025-07-15**|**Randomised Euler-Maruyama Method for SDEs with Hölder Continuous Drift Coefficient Driven by $α$ -stable Lévy Process**|Jianhai Bao et.al.|[2507.11429](http://arxiv.org/abs/2507.11429)|null|
+|**2025-07-15**|**Simulating and Sampling from Quantum Circuits with 2D Tensor Networks**|Manuel S. Rudolph et.al.|[2507.11424](http://arxiv.org/abs/2507.11424)|null|
 |**2025-07-14**|**Fusing LLM Capabilities with Routing Data**|Tao Feng et.al.|[2507.10540](http://arxiv.org/abs/2507.10540)|null|
 |**2025-07-14**|**CodeJudgeBench: Benchmarking LLM-as-a-Judge for Coding Tasks**|Hongchao Jiang et.al.|[2507.10535](http://arxiv.org/abs/2507.10535)|null|
 |**2025-07-14**|**Improved upper limits on the 21-cm signal power spectrum at $z=17.0$ and $z=20.3$ from an optimal field observed with NenuFAR**|S. Munshi et.al.|[2507.10533](http://arxiv.org/abs/2507.10533)|null|
@@ -10794,6 +10854,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-15**|**Streaming 4D Visual Geometry Transformer**|Dong Zhuo et.al.|[2507.11539](http://arxiv.org/abs/2507.11539)|null|
+|**2025-07-15**|**How Many Instructions Can LLMs Follow at Once?**|Daniel Jaroslawicz et.al.|[2507.11538](http://arxiv.org/abs/2507.11538)|null|
+|**2025-07-15**|**DrafterBench: Benchmarking Large Language Models for Tasks Automation in Civil Engineering**|Yinsheng Li et.al.|[2507.11527](http://arxiv.org/abs/2507.11527)|null|
+|**2025-07-15**|**LLM-based ambiguity detection in natural language instructions for collaborative surgical robots**|Ana Davila et.al.|[2507.11525](http://arxiv.org/abs/2507.11525)|null|
+|**2025-07-15**|**AirLLM: Diffusion Policy-based Adaptive LoRA for Remote Fine-Tuning of LLM over the Air**|Shiyi Yang et.al.|[2507.11515](http://arxiv.org/abs/2507.11515)|null|
+|**2025-07-15**|**Modeling Code: Is Text All You Need?**|Daniel Nichols et.al.|[2507.11467](http://arxiv.org/abs/2507.11467)|null|
+|**2025-07-15**|**LRMR: LLM-Driven Relational Multi-node Ranking for Lymph Node Metastasis Assessment in Rectal Cancer**|Yaoxian Dong et.al.|[2507.11457](http://arxiv.org/abs/2507.11457)|null|
+|**2025-07-15**|**Second Quantization for the Kepler Problem**|John C. Baez et.al.|[2507.11428](http://arxiv.org/abs/2507.11428)|null|
+|**2025-07-15**|**Reasoning Strategies in Large Language Models: Can They Follow, Prefer, and Optimize?**|Yanjian Zhang et.al.|[2507.11423](http://arxiv.org/abs/2507.11423)|null|
+|**2025-07-15**|**Quantifying the Energy Consumption and Carbon Emissions of LLM Inference via Simulations**|Miray Özcan et.al.|[2507.11417](http://arxiv.org/abs/2507.11417)|null|
+|**2025-07-15**|**Seq vs Seq: An Open Suite of Paired Encoders and Decoders**|Orion Weller et.al.|[2507.11412](http://arxiv.org/abs/2507.11412)|null|
+|**2025-07-15**|**KisMATH: Do LLMs Have Knowledge of Implicit Structures in Mathematical Reasoning?**|Soumadeep Saha et.al.|[2507.11408](http://arxiv.org/abs/2507.11408)|null|
+|**2025-07-15**|**EXAONE 4.0: Unified Large Language Models Integrating Non-reasoning and Reasoning Modes**|LG AI Research et.al.|[2507.11407](http://arxiv.org/abs/2507.11407)|null|
+|**2025-07-15**|**DCR: Quantifying Data Contamination in LLMs Evaluation**|Cheng Xu et.al.|[2507.11405](http://arxiv.org/abs/2507.11405)|null|
+|**2025-07-15**|**Step-wise Policy for Rare-tool Knowledge (SPaRK): Offline RL that Drives Diverse Tool Use in LLMs**|Gabriel Bo et.al.|[2507.11371](http://arxiv.org/abs/2507.11371)|null|
+|**2025-07-15**|**From Chaos to Automation: Enabling the Use of Unstructured Data for Robotic Process Automation**|Kelly Kurowski et.al.|[2507.11364](http://arxiv.org/abs/2507.11364)|null|
+|**2025-07-15**|**Neurosymbolic Reasoning Shortcuts under the Independence Assumption**|Emile van Krieken et.al.|[2507.11357](http://arxiv.org/abs/2507.11357)|null|
+|**2025-07-15**|**What is the Best Process Model Representation? A Comparative Analysis for Process Modeling with Large Language Models**|Alexis Brissard et.al.|[2507.11356](http://arxiv.org/abs/2507.11356)|null|
+|**2025-07-15**|**Foundation Models for Logistics: Toward Certifiable, Conversational Planning Interfaces**|Yunhao Yang et.al.|[2507.11352](http://arxiv.org/abs/2507.11352)|null|
+|**2025-07-15**|**Guiding LLM Decision-Making with Fairness Reward Models**|Zara Hall et.al.|[2507.11344](http://arxiv.org/abs/2507.11344)|null|
 |**2025-07-14**|**EmbRACE-3K: Embodied Reasoning and Action in Complex Environments**|Mingxian Lin et.al.|[2507.10548](http://arxiv.org/abs/2507.10548)|null|
 |**2025-07-15**|**REST: Stress Testing Large Reasoning Models by Asking Multiple Problems at Once**|Zhuoshi Pan et.al.|[2507.10541](http://arxiv.org/abs/2507.10541)|null|
 |**2025-07-14**|**Fusing LLM Capabilities with Routing Data**|Tao Feng et.al.|[2507.10540](http://arxiv.org/abs/2507.10540)|null|
