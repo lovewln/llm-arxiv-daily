@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.07.17
+## Updated on 2025.07.18
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## large language model
@@ -26,7 +26,7 @@ layout: default
 |**2025-07-16**|**Chain-of-Descriptions: Improving Code LLMs for VHDL Code Generation and Summarization**|Prashanth Vijayaraghavan et.al.|[2507.12308](http://arxiv.org/abs/2507.12308)|null|
 |**2025-07-16**|**Humans are more gullible than LLMs in believing common psychological myths**|Bevan Koopman et.al.|[2507.12296](http://arxiv.org/abs/2507.12296)|null|
 |**2025-07-16**|**Text-ADBench: Text Anomaly Detection Benchmark based on LLMs Embedding**|Feng Xiao et.al.|[2507.12295](http://arxiv.org/abs/2507.12295)|null|
-|**2025-07-16**|**Next-Gen Museum Guides: Autonomous Navigation and Visitor Interaction with an Agentic Robot**|Luca Garello et.al.|[2507.12273](http://arxiv.org/abs/2507.12273)|null|
+|**2025-07-17**|**Next-Gen Museum Guides: Autonomous Navigation and Visitor Interaction with an Agentic Robot**|Luca Garello et.al.|[2507.12273](http://arxiv.org/abs/2507.12273)|null|
 |**2025-07-16**|**Improving Contextual ASR via Multi-grained Fusion with Large Language Models**|Shilin Zhou et.al.|[2507.12252](http://arxiv.org/abs/2507.12252)|null|
 |**2025-07-16**|**MGFFD-VLM: Multi-Granularity Prompt Learning for Face Forgery Detection with VLM**|Tao Chen et.al.|[2507.12232](http://arxiv.org/abs/2507.12232)|null|
 |**2025-07-16**|**Xiangqi-R1: Enhancing Spatial Strategic Reasoning in LLMs for Chinese Chess via Reinforcement Learning**|Yuhao Chen et.al.|[2507.12215](http://arxiv.org/abs/2507.12215)|null|
@@ -3656,7 +3656,7 @@ layout: default
 |**2025-07-16**|**Chain-of-Descriptions: Improving Code LLMs for VHDL Code Generation and Summarization**|Prashanth Vijayaraghavan et.al.|[2507.12308](http://arxiv.org/abs/2507.12308)|null|
 |**2025-07-16**|**Humans are more gullible than LLMs in believing common psychological myths**|Bevan Koopman et.al.|[2507.12296](http://arxiv.org/abs/2507.12296)|null|
 |**2025-07-16**|**Text-ADBench: Text Anomaly Detection Benchmark based on LLMs Embedding**|Feng Xiao et.al.|[2507.12295](http://arxiv.org/abs/2507.12295)|null|
-|**2025-07-16**|**Next-Gen Museum Guides: Autonomous Navigation and Visitor Interaction with an Agentic Robot**|Luca Garello et.al.|[2507.12273](http://arxiv.org/abs/2507.12273)|null|
+|**2025-07-17**|**Next-Gen Museum Guides: Autonomous Navigation and Visitor Interaction with an Agentic Robot**|Luca Garello et.al.|[2507.12273](http://arxiv.org/abs/2507.12273)|null|
 |**2025-07-16**|**Infherno: End-to-end Agent-based FHIR Resource Synthesis from Free-form Clinical Notes**|Johann Frei et.al.|[2507.12261](http://arxiv.org/abs/2507.12261)|null|
 |**2025-07-16**|**Improving Contextual ASR via Multi-grained Fusion with Large Language Models**|Shilin Zhou et.al.|[2507.12252](http://arxiv.org/abs/2507.12252)|null|
 |**2025-07-16**|**MGFFD-VLM: Multi-Granularity Prompt Learning for Face Forgery Detection with VLM**|Tao Chen et.al.|[2507.12232](http://arxiv.org/abs/2507.12232)|null|
@@ -7270,11 +7270,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-07-16**|**PhysX: Physical-Grounded 3D Asset Generation**|Ziang Cao et.al.|[2507.12465](http://arxiv.org/abs/2507.12465)|null|
-|**2025-07-16**|**Does $K$-fold CV based penalty perform variable selection or does it lead to $n^{1/2}$ -consistency in Lasso?**|Mayukh Choudhury et.al.|[2507.12457](http://arxiv.org/abs/2507.12457)|null|
+|**2025-07-17**|**PhysX: Physical-Grounded 3D Asset Generation**|Ziang Cao et.al.|[2507.12465](http://arxiv.org/abs/2507.12465)|null|
+|**2025-07-17**|**Does $K$-fold CV based penalty perform variable selection or does it lead to $n^{1/2}$ -consistency in Lasso?**|Mayukh Choudhury et.al.|[2507.12457](http://arxiv.org/abs/2507.12457)|null|
 |**2025-07-16**|**Mitigating Object Hallucinations via Sentence-Level Early Intervention**|Shangpin Peng et.al.|[2507.12455](http://arxiv.org/abs/2507.12455)|null|
 |**2025-07-16**|**CRAFT: Latency and Cost-Aware Genetic-Based Framework for Node Placement in Edge-Fog Environments**|Soheil Mahdizadeh et.al.|[2507.12445](http://arxiv.org/abs/2507.12445)|null|
-|**2025-07-16**|**EgoVLA: Learning Vision-Language-Action Models from Egocentric Human Videos**|Ruihan Yang et.al.|[2507.12440](http://arxiv.org/abs/2507.12440)|null|
+|**2025-07-17**|**EgoVLA: Learning Vision-Language-Action Models from Egocentric Human Videos**|Ruihan Yang et.al.|[2507.12440](http://arxiv.org/abs/2507.12440)|null|
 |**2025-07-16**|**Heisenberg limited multiple eigenvalue estimation via off-the-grid compressed sensing**|Davide Castaldo et.al.|[2507.12438](http://arxiv.org/abs/2507.12438)|null|
 |**2025-07-16**|**Targeted Deep Architectures: A TMLE-Based Framework for Robust Causal Inference in Neural Networks**|Yi Li et.al.|[2507.12435](http://arxiv.org/abs/2507.12435)|null|
 |**2025-07-16**|**Adiabatic Cooling of Planar Motion in a Penning Trap Ion Crystal to Sub-Millikelvin Temperatures**|Wes Johnson et.al.|[2507.12429](http://arxiv.org/abs/2507.12429)|null|
@@ -10919,8 +10919,8 @@ layout: default
 |**2025-07-16**|**Chain-of-Descriptions: Improving Code LLMs for VHDL Code Generation and Summarization**|Prashanth Vijayaraghavan et.al.|[2507.12308](http://arxiv.org/abs/2507.12308)|null|
 |**2025-07-16**|**Humans are more gullible than LLMs in believing common psychological myths**|Bevan Koopman et.al.|[2507.12296](http://arxiv.org/abs/2507.12296)|null|
 |**2025-07-16**|**Text-ADBench: Text Anomaly Detection Benchmark based on LLMs Embedding**|Feng Xiao et.al.|[2507.12295](http://arxiv.org/abs/2507.12295)|null|
-|**2025-07-16**|**MERA Code: A Unified Framework for Evaluating Code Generation Across Tasks**|Artem Chervyakov et.al.|[2507.12284](http://arxiv.org/abs/2507.12284)|null|
-|**2025-07-16**|**Next-Gen Museum Guides: Autonomous Navigation and Visitor Interaction with an Agentic Robot**|Luca Garello et.al.|[2507.12273](http://arxiv.org/abs/2507.12273)|null|
+|**2025-07-17**|**MERA Code: A Unified Framework for Evaluating Code Generation Across Tasks**|Artem Chervyakov et.al.|[2507.12284](http://arxiv.org/abs/2507.12284)|null|
+|**2025-07-17**|**Next-Gen Museum Guides: Autonomous Navigation and Visitor Interaction with an Agentic Robot**|Luca Garello et.al.|[2507.12273](http://arxiv.org/abs/2507.12273)|null|
 |**2025-07-16**|**Surrogate Quantum Circuit Design for the Lattice Boltzmann Collision Operator**|Monica Lăcătuş et.al.|[2507.12256](http://arxiv.org/abs/2507.12256)|null|
 |**2025-07-15**|**Streaming 4D Visual Geometry Transformer**|Dong Zhuo et.al.|[2507.11539](http://arxiv.org/abs/2507.11539)|null|
 |**2025-07-15**|**How Many Instructions Can LLMs Follow at Once?**|Daniel Jaroslawicz et.al.|[2507.11538](http://arxiv.org/abs/2507.11538)|null|
