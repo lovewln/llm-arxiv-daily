@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.07.21
+## Updated on 2025.07.22
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -20,7 +20,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-07-18**|**CUDA-L1: Improving CUDA Optimization via Contrastive Reinforcement Learning**|Xiaoya Li et.al.|[2507.14111](http://arxiv.org/abs/2507.14111)|null|
+|**2025-07-21**|**CUDA-L1: Improving CUDA Optimization via Contrastive Reinforcement Learning**|Xiaoya Li et.al.|[2507.14111](http://arxiv.org/abs/2507.14111)|null|
 |**2025-07-18**|**Automated Interpretation of Non-Destructive Evaluation Contour Maps Using Large Language Models for Bridge Condition Assessment**|Viraj Nishesh Darji et.al.|[2507.14107](http://arxiv.org/abs/2507.14107)|null|
 |**2025-07-18**|**Generative AI-Driven High-Fidelity Human Motion Simulation**|Hari Iyer et.al.|[2507.14097](http://arxiv.org/abs/2507.14097)|null|
 |**2025-07-18**|**Lessons from the TREC Plain Language Adaptation of Biomedical Abstracts (PLABA) track**|Brian Ondov et.al.|[2507.14096](http://arxiv.org/abs/2507.14096)|null|
@@ -3684,13 +3684,13 @@
 |**2024-10-16**|**FTII-Bench: A Comprehensive Multimodal Benchmark for Flow Text with Image Insertion**|Jiacheng Ruan et.al.|[2410.12564](http://arxiv.org/abs/2410.12564)|**[link](https://github.com/IAAR-Shanghai/FTIIBench)**|
 |**2024-10-17**|**LLM-based Translation Inference with Iterative Bilingual Understanding**|Andong Chen et.al.|[2410.12543](http://arxiv.org/abs/2410.12543)|null|
 
-<p align=right>(<a href=#updated-on-20250721>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250722>back to top</a>)</p>
 
 ## llm agent
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-07-18**|**CUDA-L1: Improving CUDA Optimization via Contrastive Reinforcement Learning**|Xiaoya Li et.al.|[2507.14111](http://arxiv.org/abs/2507.14111)|null|
+|**2025-07-21**|**CUDA-L1: Improving CUDA Optimization via Contrastive Reinforcement Learning**|Xiaoya Li et.al.|[2507.14111](http://arxiv.org/abs/2507.14111)|null|
 |**2025-07-18**|**Automated Interpretation of Non-Destructive Evaluation Contour Maps Using Large Language Models for Bridge Condition Assessment**|Viraj Nishesh Darji et.al.|[2507.14107](http://arxiv.org/abs/2507.14107)|null|
 |**2025-07-18**|**Generative AI-Driven High-Fidelity Human Motion Simulation**|Hari Iyer et.al.|[2507.14097](http://arxiv.org/abs/2507.14097)|null|
 |**2025-07-18**|**Lessons from the TREC Plain Language Adaptation of Biomedical Abstracts (PLABA) track**|Brian Ondov et.al.|[2507.14096](http://arxiv.org/abs/2507.14096)|null|
@@ -7354,7 +7354,7 @@
 |**2024-10-16**|**Not All Votes Count! Programs as Verifiers Improve Self-Consistency of Language Models for Math Reasoning**|Vernon Y. H. Toh et.al.|[2410.12608](http://arxiv.org/abs/2410.12608)|**[link](https://github.com/declare-lab/prove)**|
 |**2024-10-16**|**CCSBench: Evaluating Compositional Controllability in LLMs for Scientific Document Summarization**|Yixi Ding et.al.|[2410.12601](http://arxiv.org/abs/2410.12601)|null|
 
-<p align=right>(<a href=#updated-on-20250721>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250722>back to top</a>)</p>
 
 ## llm simulation
 
@@ -7364,7 +7364,7 @@
 |**2025-07-18**|**Learning the non-Markovian features of subsystem dynamics**|Michele Coppola et.al.|[2507.14133](http://arxiv.org/abs/2507.14133)|null|
 |**2025-07-18**|**A Bayesian Dirichlet Auto-Regressive Conditional Heteroskedasticity Model for Compositional Time Series**|Harrison Katz et.al.|[2507.14132](http://arxiv.org/abs/2507.14132)|null|
 |**2025-07-18**|**Exploring near critical lattice gauge simulators with Rydberg atoms facilities**|Avi Kaufman et.al.|[2507.14128](http://arxiv.org/abs/2507.14128)|null|
-|**2025-07-18**|**CUDA-L1: Improving CUDA Optimization via Contrastive Reinforcement Learning**|Xiaoya Li et.al.|[2507.14111](http://arxiv.org/abs/2507.14111)|null|
+|**2025-07-21**|**CUDA-L1: Improving CUDA Optimization via Contrastive Reinforcement Learning**|Xiaoya Li et.al.|[2507.14111](http://arxiv.org/abs/2507.14111)|null|
 |**2025-07-18**|**Automated Interpretation of Non-Destructive Evaluation Contour Maps Using Large Language Models for Bridge Condition Assessment**|Viraj Nishesh Darji et.al.|[2507.14107](http://arxiv.org/abs/2507.14107)|null|
 |**2025-07-18**|**Quantitative Wavefront sensing with static Foucault and pyramid tests**|Francois Hénault et.al.|[2507.14104](http://arxiv.org/abs/2507.14104)|null|
 |**2025-07-18**|**Context-Aware Behavior Learning with Heuristic Motion Memory for Underwater Manipulation**|Markus Buchholz et.al.|[2507.14099](http://arxiv.org/abs/2507.14099)|null|
@@ -7377,7 +7377,7 @@
 |**2025-07-18**|**Emergent topology by Landau level mixing in quantum Hall-superconductor nanostructures**|Yuriko Baba et.al.|[2507.14074](http://arxiv.org/abs/2507.14074)|null|
 |**2025-07-18**|**Direct Measurement of the Accretion Disk Formed in Prompt Collapse Mergers with Future Gravitational-Wave Observatories**|Arnab Dhani et.al.|[2507.14071](http://arxiv.org/abs/2507.14071)|null|
 |**2025-07-18**|**MorphIt: Flexible Spherical Approximation of Robot Morphology for Representation-driven Adaptation**|Nataliya Nechyporenko et.al.|[2507.14061](http://arxiv.org/abs/2507.14061)|null|
-|**2025-07-18**|**Multiscale contact mechanics for elastoplastic contacts**|Andreas Almqvist et.al.|[2507.14054](http://arxiv.org/abs/2507.14054)|null|
+|**2025-07-21**|**Multiscale contact mechanics for elastoplastic contacts**|Andreas Almqvist et.al.|[2507.14054](http://arxiv.org/abs/2507.14054)|null|
 |**2025-07-18**|**D2IP: Deep Dynamic Image Prior for 3D Time-sequence Pulmonary Impedance Imaging**|Hao Fang et.al.|[2507.14046](http://arxiv.org/abs/2507.14046)|null|
 |**2025-07-18**|**Evaluating the Effectiveness of Cost-Efficient Large Language Models in Benchmark Biomedical Tasks**|Israt Jahan et.al.|[2507.14045](http://arxiv.org/abs/2507.14045)|null|
 |**2025-07-17**|**VideoITG: Multimodal Video Understanding with Instructed Temporal Grounding**|Shihao Wang et.al.|[2507.13353](http://arxiv.org/abs/2507.13353)|null|
@@ -11028,7 +11028,7 @@
 |**2024-10-16**|**Structure of the water/magnetite interface from sum frequency generation experiments and neural network based molecular dynamics simulations**|Salvatore Romano et.al.|[2410.12717](http://arxiv.org/abs/2410.12717)|null|
 |**2024-10-16**|**A Simple Interactive Fixed Effects Estimator for Short Panels**|Robert F. Phillips et.al.|[2410.12709](http://arxiv.org/abs/2410.12709)|null|
 
-<p align=right>(<a href=#updated-on-20250721>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250722>back to top</a>)</p>
 
 ## llm reasoning
 
@@ -11036,7 +11036,7 @@
 |---|---|---|---|---|
 |**2025-07-18**|**OpenBEATs: A Fully Open-Source General-Purpose Audio Encoder**|Shikhar Bharadwaj et.al.|[2507.14129](http://arxiv.org/abs/2507.14129)|null|
 |**2025-07-18**|**Quantum Boltzmann Machines using Parallel Annealing for Medical Image Classification**|Daniëlle Schuman et.al.|[2507.14116](http://arxiv.org/abs/2507.14116)|null|
-|**2025-07-18**|**CUDA-L1: Improving CUDA Optimization via Contrastive Reinforcement Learning**|Xiaoya Li et.al.|[2507.14111](http://arxiv.org/abs/2507.14111)|null|
+|**2025-07-21**|**CUDA-L1: Improving CUDA Optimization via Contrastive Reinforcement Learning**|Xiaoya Li et.al.|[2507.14111](http://arxiv.org/abs/2507.14111)|null|
 |**2025-07-18**|**Automated Interpretation of Non-Destructive Evaluation Contour Maps Using Large Language Models for Bridge Condition Assessment**|Viraj Nishesh Darji et.al.|[2507.14107](http://arxiv.org/abs/2507.14107)|null|
 |**2025-07-18**|**Generative AI-Driven High-Fidelity Human Motion Simulation**|Hari Iyer et.al.|[2507.14097](http://arxiv.org/abs/2507.14097)|null|
 |**2025-07-18**|**Lessons from the TREC Plain Language Adaptation of Biomedical Abstracts (PLABA) track**|Brian Ondov et.al.|[2507.14096](http://arxiv.org/abs/2507.14096)|null|
@@ -14699,7 +14699,7 @@
 |**2024-10-16**|**Not All Votes Count! Programs as Verifiers Improve Self-Consistency of Language Models for Math Reasoning**|Vernon Y. H. Toh et.al.|[2410.12608](http://arxiv.org/abs/2410.12608)|**[link](https://github.com/declare-lab/prove)**|
 |**2024-10-16**|**CCSBench: Evaluating Compositional Controllability in LLMs for Scientific Document Summarization**|Yixi Ding et.al.|[2410.12601](http://arxiv.org/abs/2410.12601)|null|
 
-<p align=right>(<a href=#updated-on-20250721>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250722>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
