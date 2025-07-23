@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.07.22
+## Updated on 2025.07.23
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## large language model
@@ -15,7 +15,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-07-21**|**Diffusion Beats Autoregressive in Data-Constrained Settings**|Mihir Prabhudesai et.al.|[2507.15857](http://arxiv.org/abs/2507.15857)|null|
-|**2025-07-21**|**Gemini 2.5 Pro Capable of Winning Gold at IMO 2025**|Yichen Huang et.al.|[2507.15855](http://arxiv.org/abs/2507.15855)|null|
+|**2025-07-22**|**Gemini 2.5 Pro Capable of Winning Gold at IMO 2025**|Yichen Huang et.al.|[2507.15855](http://arxiv.org/abs/2507.15855)|null|
 |**2025-07-21**|**The Other Mind: How Language Models Exhibit Human Temporal Cognition**|Lingyu Li et.al.|[2507.15851](http://arxiv.org/abs/2507.15851)|null|
 |**2025-07-21**|**3LM: Bridging Arabic, STEM, and Code through Benchmarking**|Basma El Amel Boussaha et.al.|[2507.15850](http://arxiv.org/abs/2507.15850)|null|
 |**2025-07-21**|**The Impact of Language Mixing on Bilingual LLM Reasoning**|Yihao Li et.al.|[2507.15849](http://arxiv.org/abs/2507.15849)|null|
@@ -3703,7 +3703,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-07-21**|**Diffusion Beats Autoregressive in Data-Constrained Settings**|Mihir Prabhudesai et.al.|[2507.15857](http://arxiv.org/abs/2507.15857)|null|
-|**2025-07-21**|**Gemini 2.5 Pro Capable of Winning Gold at IMO 2025**|Yichen Huang et.al.|[2507.15855](http://arxiv.org/abs/2507.15855)|null|
+|**2025-07-22**|**Gemini 2.5 Pro Capable of Winning Gold at IMO 2025**|Yichen Huang et.al.|[2507.15855](http://arxiv.org/abs/2507.15855)|null|
 |**2025-07-21**|**The Other Mind: How Language Models Exhibit Human Temporal Cognition**|Lingyu Li et.al.|[2507.15851](http://arxiv.org/abs/2507.15851)|null|
 |**2025-07-21**|**3LM: Bridging Arabic, STEM, and Code through Benchmarking**|Basma El Amel Boussaha et.al.|[2507.15850](http://arxiv.org/abs/2507.15850)|null|
 |**2025-07-21**|**The Impact of Language Mixing on Bilingual LLM Reasoning**|Yihao Li et.al.|[2507.15849](http://arxiv.org/abs/2507.15849)|null|
@@ -7392,7 +7392,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-07-21**|**Simulating the LOcal Web (SLOW) V. Thermodynamic Properties and Evolution of Local Galaxy Clusters**|Elena Hernández-Martínez et.al.|[2507.15858](http://arxiv.org/abs/2507.15858)|null|
 |**2025-07-21**|**Diffusion Beats Autoregressive in Data-Constrained Settings**|Mihir Prabhudesai et.al.|[2507.15857](http://arxiv.org/abs/2507.15857)|null|
-|**2025-07-21**|**Gemini 2.5 Pro Capable of Winning Gold at IMO 2025**|Yichen Huang et.al.|[2507.15855](http://arxiv.org/abs/2507.15855)|null|
+|**2025-07-22**|**Gemini 2.5 Pro Capable of Winning Gold at IMO 2025**|Yichen Huang et.al.|[2507.15855](http://arxiv.org/abs/2507.15855)|null|
 |**2025-07-21**|**The Other Mind: How Language Models Exhibit Human Temporal Cognition**|Lingyu Li et.al.|[2507.15851](http://arxiv.org/abs/2507.15851)|null|
 |**2025-07-21**|**3LM: Bridging Arabic, STEM, and Code through Benchmarking**|Basma El Amel Boussaha et.al.|[2507.15850](http://arxiv.org/abs/2507.15850)|null|
 |**2025-07-21**|**The Impact of Language Mixing on Bilingual LLM Reasoning**|Yihao Li et.al.|[2507.15849](http://arxiv.org/abs/2507.15849)|null|
@@ -11083,13 +11083,13 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-07-21**|**Diffusion Beats Autoregressive in Data-Constrained Settings**|Mihir Prabhudesai et.al.|[2507.15857](http://arxiv.org/abs/2507.15857)|null|
-|**2025-07-21**|**Gemini 2.5 Pro Capable of Winning Gold at IMO 2025**|Yichen Huang et.al.|[2507.15855](http://arxiv.org/abs/2507.15855)|null|
-|**2025-07-21**|**SeC: Advancing Complex Video Object Segmentation via Progressive Concept Construction**|Zhixiong Zhang et.al.|[2507.15852](http://arxiv.org/abs/2507.15852)|null|
+|**2025-07-22**|**Gemini 2.5 Pro Capable of Winning Gold at IMO 2025**|Yichen Huang et.al.|[2507.15855](http://arxiv.org/abs/2507.15855)|null|
+|**2025-07-22**|**SeC: Advancing Complex Video Object Segmentation via Progressive Concept Construction**|Zhixiong Zhang et.al.|[2507.15852](http://arxiv.org/abs/2507.15852)|null|
 |**2025-07-21**|**The Other Mind: How Language Models Exhibit Human Temporal Cognition**|Lingyu Li et.al.|[2507.15851](http://arxiv.org/abs/2507.15851)|null|
 |**2025-07-21**|**3LM: Bridging Arabic, STEM, and Code through Benchmarking**|Basma El Amel Boussaha et.al.|[2507.15850](http://arxiv.org/abs/2507.15850)|null|
 |**2025-07-21**|**The Impact of Language Mixing on Bilingual LLM Reasoning**|Yihao Li et.al.|[2507.15849](http://arxiv.org/abs/2507.15849)|null|
-|**2025-07-21**|**GUI-G $^2$ : Gaussian Reward Modeling for GUI Grounding**|Fei Tang et.al.|[2507.15846](http://arxiv.org/abs/2507.15846)|null|
-|**2025-07-21**|**Hierarchical Budget Policy Optimization for Adaptive Reasoning**|Shangke Lyu et.al.|[2507.15844](http://arxiv.org/abs/2507.15844)|null|
+|**2025-07-22**|**GUI-G $^2$ : Gaussian Reward Modeling for GUI Grounding**|Fei Tang et.al.|[2507.15846](http://arxiv.org/abs/2507.15846)|null|
+|**2025-07-22**|**Hierarchical Budget Policy Optimization for Adaptive Reasoning**|Shangke Lyu et.al.|[2507.15844](http://arxiv.org/abs/2507.15844)|null|
 |**2025-07-21**|**FASTGEN: Fast and Cost-Effective Synthetic Tabular Data Generation with LLMs**|Anh Nguyen et.al.|[2507.15839](http://arxiv.org/abs/2507.15839)|null|
 |**2025-07-21**|**Just Ask for Music (JAM): Multimodal and Personalized Natural Language Music Recommendation**|Alessandro B. Melchiorre et.al.|[2507.15826](http://arxiv.org/abs/2507.15826)|null|
 |**2025-07-21**|**ACS: An interactive framework for conformal selection**|Yu Gui et.al.|[2507.15825](http://arxiv.org/abs/2507.15825)|null|
