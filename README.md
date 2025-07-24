@@ -20,6 +20,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-23**|**BetterCheck: Towards Safeguarding VLMs for Automotive Perception Systems**|Malsha Ashani Mahawatta Dona et.al.|[2507.17722](http://arxiv.org/abs/2507.17722)|null|
+|**2025-07-23**|**AI Telephone Surveying: Automating Quantitative Data Collection with an AI Interviewer**|Danny D. Leybzon et.al.|[2507.17718](http://arxiv.org/abs/2507.17718)|null|
+|**2025-07-23**|**HydraOpt: Navigating the Efficiency-Performance Trade-off of Adapter Merging**|Taha Ceritli et.al.|[2507.17706](http://arxiv.org/abs/2507.17706)|null|
+|**2025-07-23**|**Towards Greater Leverage: Scaling Laws for Efficient Mixture-of-Experts Language Models**|Changxin Tian et.al.|[2507.17702](http://arxiv.org/abs/2507.17702)|null|
+|**2025-07-23**|**Thinking Isn't an Illusion: Overcoming the Limitations of Reasoning Models via Tool Augmentations**|Zhao Song et.al.|[2507.17699](http://arxiv.org/abs/2507.17699)|null|
+|**2025-07-23**|**Symbiotic Agents: A Novel Paradigm for Trustworthy AGI-driven Networks**|Ilias Chatzistefanidis et.al.|[2507.17695](http://arxiv.org/abs/2507.17695)|null|
+|**2025-07-23**|**Simulating multiple human perspectives in socio-ecological systems using large language models**|Yongchao Zeng et.al.|[2507.17680](http://arxiv.org/abs/2507.17680)|null|
+|**2025-07-23**|**See the Forest and the Trees: A Synergistic Reasoning Framework for Knowledge-Based Visual Question Answering**|Junjie Wang et.al.|[2507.17659](http://arxiv.org/abs/2507.17659)|null|
+|**2025-07-23**|**Who Attacks, and Why? Using LLMs to Identify Negative Campaigning in 18M Tweets across 19 Countries**|Victor Hartman et.al.|[2507.17636](http://arxiv.org/abs/2507.17636)|null|
+|**2025-07-23**|**A Hybrid Early-Exit Algorithm for Large Language Models Based on Space Alignment Decoding (SPADE)**|Bowen Zheng et.al.|[2507.17618](http://arxiv.org/abs/2507.17618)|null|
+|**2025-07-23**|**CodeReasoner: Enhancing the Code Reasoning Ability with Reinforcement Learning**|Lingxiao Tang et.al.|[2507.17548](http://arxiv.org/abs/2507.17548)|null|
+|**2025-07-23**|**Anticipate, Simulate, Reason (ASR): A Comprehensive Generative AI Framework for Combating Messaging Scams**|Xue Wen Tan et.al.|[2507.17543](http://arxiv.org/abs/2507.17543)|null|
+|**2025-07-23**|**AssertFlip: Reproducing Bugs via Inversion of LLM-Generated Passing Tests**|Lara Khatib et.al.|[2507.17542](http://arxiv.org/abs/2507.17542)|null|
+|**2025-07-23**|**Constructing Ophthalmic MLLM for Positioning-diagnosis Collaboration Through Clinical Cognitive Chain Reasoning**|Xinyao Liu et.al.|[2507.17539](http://arxiv.org/abs/2507.17539)|null|
+|**2025-07-23**|**Enabling Cyber Security Education through Digital Twins and Generative AI**|Vita Santa Barletta et.al.|[2507.17518](http://arxiv.org/abs/2507.17518)|null|
+|**2025-07-23**|**URPO: A Unified Reward & Policy Optimization Framework for Large Language Models**|Songshuo Lu et.al.|[2507.17515](http://arxiv.org/abs/2507.17515)|null|
+|**2025-07-23**|**An Uncertainty-Driven Adaptive Self-Alignment Framework for Large Language Models**|Haoran Sun et.al.|[2507.17477](http://arxiv.org/abs/2507.17477)|null|
+|**2025-07-23**|**MultiNRC: A Challenging and Native Multilingual Reasoning Evaluation Benchmark for LLMs**|Alexander R. Fabbri et.al.|[2507.17476](http://arxiv.org/abs/2507.17476)|null|
+|**2025-07-23**|**BGM-HAN: A Hierarchical Attention Network for Accurate and Fair Decision Assessment on Semi-Structured Profiles**|Junhua Liu et.al.|[2507.17472](http://arxiv.org/abs/2507.17472)|null|
+|**2025-07-23**|**ERMV: Editing 4D Robotic Multi-view images to enhance embodied agents**|Chang Nie et.al.|[2507.17462](http://arxiv.org/abs/2507.17462)|null|
 |**2025-07-22**|**LingBench++: A Linguistically-Informed Benchmark and Reasoning Framework for Multi-Step and Cross-Cultural Inference with LLMs**|Da-Chen Lian et.al.|[2507.16809](http://arxiv.org/abs/2507.16809)|null|
 |**2025-07-22**|**Rethinking LLM-Based RTL Code Optimization Via Timing Logic Metamorphosis**|Zhihao Xu et.al.|[2507.16808](http://arxiv.org/abs/2507.16808)|null|
 |**2025-07-23**|**Agentar-Fin-R1: Enhancing Financial Intelligence through Domain Expertise, Training Efficiency, and Advanced Reasoning**|Yanjun Zheng et.al.|[2507.16802](http://arxiv.org/abs/2507.16802)|null|
@@ -3730,6 +3750,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-23**|**DataWink: Reusing and Adapting SVG-based Visualization Examples with Large Multimodal Models**|Liwenhan Xie et.al.|[2507.17734](http://arxiv.org/abs/2507.17734)|null|
+|**2025-07-23**|**BetterCheck: Towards Safeguarding VLMs for Automotive Perception Systems**|Malsha Ashani Mahawatta Dona et.al.|[2507.17722](http://arxiv.org/abs/2507.17722)|null|
+|**2025-07-23**|**AI Telephone Surveying: Automating Quantitative Data Collection with an AI Interviewer**|Danny D. Leybzon et.al.|[2507.17718](http://arxiv.org/abs/2507.17718)|null|
+|**2025-07-23**|**HydraOpt: Navigating the Efficiency-Performance Trade-off of Adapter Merging**|Taha Ceritli et.al.|[2507.17706](http://arxiv.org/abs/2507.17706)|null|
+|**2025-07-23**|**Towards Greater Leverage: Scaling Laws for Efficient Mixture-of-Experts Language Models**|Changxin Tian et.al.|[2507.17702](http://arxiv.org/abs/2507.17702)|null|
+|**2025-07-23**|**Thinking Isn't an Illusion: Overcoming the Limitations of Reasoning Models via Tool Augmentations**|Zhao Song et.al.|[2507.17699](http://arxiv.org/abs/2507.17699)|null|
+|**2025-07-23**|**Symbiotic Agents: A Novel Paradigm for Trustworthy AGI-driven Networks**|Ilias Chatzistefanidis et.al.|[2507.17695](http://arxiv.org/abs/2507.17695)|null|
+|**2025-07-23**|**Simulating multiple human perspectives in socio-ecological systems using large language models**|Yongchao Zeng et.al.|[2507.17680](http://arxiv.org/abs/2507.17680)|null|
+|**2025-07-23**|**See the Forest and the Trees: A Synergistic Reasoning Framework for Knowledge-Based Visual Question Answering**|Junjie Wang et.al.|[2507.17659](http://arxiv.org/abs/2507.17659)|null|
+|**2025-07-23**|**Who Attacks, and Why? Using LLMs to Identify Negative Campaigning in 18M Tweets across 19 Countries**|Victor Hartman et.al.|[2507.17636](http://arxiv.org/abs/2507.17636)|null|
+|**2025-07-23**|**A Hybrid Early-Exit Algorithm for Large Language Models Based on Space Alignment Decoding (SPADE)**|Bowen Zheng et.al.|[2507.17618](http://arxiv.org/abs/2507.17618)|null|
+|**2025-07-23**|**CodeReasoner: Enhancing the Code Reasoning Ability with Reinforcement Learning**|Lingxiao Tang et.al.|[2507.17548](http://arxiv.org/abs/2507.17548)|null|
+|**2025-07-23**|**Anticipate, Simulate, Reason (ASR): A Comprehensive Generative AI Framework for Combating Messaging Scams**|Xue Wen Tan et.al.|[2507.17543](http://arxiv.org/abs/2507.17543)|null|
+|**2025-07-23**|**AssertFlip: Reproducing Bugs via Inversion of LLM-Generated Passing Tests**|Lara Khatib et.al.|[2507.17542](http://arxiv.org/abs/2507.17542)|null|
+|**2025-07-23**|**Constructing Ophthalmic MLLM for Positioning-diagnosis Collaboration Through Clinical Cognitive Chain Reasoning**|Xinyao Liu et.al.|[2507.17539](http://arxiv.org/abs/2507.17539)|null|
+|**2025-07-23**|**Enabling Cyber Security Education through Digital Twins and Generative AI**|Vita Santa Barletta et.al.|[2507.17518](http://arxiv.org/abs/2507.17518)|null|
+|**2025-07-23**|**URPO: A Unified Reward & Policy Optimization Framework for Large Language Models**|Songshuo Lu et.al.|[2507.17515](http://arxiv.org/abs/2507.17515)|null|
+|**2025-07-23**|**LTLZinc: a Benchmarking Framework for Continual Learning and Neuro-Symbolic Temporal Reasoning**|Luca Salvatore Lorello et.al.|[2507.17482](http://arxiv.org/abs/2507.17482)|null|
+|**2025-07-23**|**An Uncertainty-Driven Adaptive Self-Alignment Framework for Large Language Models**|Haoran Sun et.al.|[2507.17477](http://arxiv.org/abs/2507.17477)|null|
+|**2025-07-23**|**MultiNRC: A Challenging and Native Multilingual Reasoning Evaluation Benchmark for LLMs**|Alexander R. Fabbri et.al.|[2507.17476](http://arxiv.org/abs/2507.17476)|null|
 |**2025-07-22**|**ThinkAct: Vision-Language-Action Reasoning via Reinforced Visual Latent Planning**|Chi-Pin Huang et.al.|[2507.16815](http://arxiv.org/abs/2507.16815)|null|
 |**2025-07-22**|**LingBench++: A Linguistically-Informed Benchmark and Reasoning Framework for Multi-Step and Cross-Cultural Inference with LLMs**|Da-Chen Lian et.al.|[2507.16809](http://arxiv.org/abs/2507.16809)|null|
 |**2025-07-22**|**Rethinking LLM-Based RTL Code Optimization Via Timing Logic Metamorphosis**|Zhihao Xu et.al.|[2507.16808](http://arxiv.org/abs/2507.16808)|null|
@@ -7440,6 +7480,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-23**|**A first measurement of baryonic feedback with Fast Radio Bursts**|Robert Reischke et.al.|[2507.17742](http://arxiv.org/abs/2507.17742)|null|
+|**2025-07-23**|**CA-Cut: Crop-Aligned Cutout for Data Augmentation to Learn More Robust Under-Canopy Navigation**|Robel Mamo et.al.|[2507.17727](http://arxiv.org/abs/2507.17727)|null|
+|**2025-07-23**|**BetterCheck: Towards Safeguarding VLMs for Automotive Perception Systems**|Malsha Ashani Mahawatta Dona et.al.|[2507.17722](http://arxiv.org/abs/2507.17722)|null|
+|**2025-07-23**|**Simulating the interplay of dipolar and quadrupolar interactions in NMR by spin dynamic mean-field theory**|Timo Gräßer et.al.|[2507.17720](http://arxiv.org/abs/2507.17720)|null|
+|**2025-07-23**|**AI Telephone Surveying: Automating Quantitative Data Collection with an AI Interviewer**|Danny D. Leybzon et.al.|[2507.17718](http://arxiv.org/abs/2507.17718)|null|
+|**2025-07-23**|**Reasoning about Rare-Event Reachability in Stochastic Vector Addition Systems via Affine Vector Spaces**|Joshua Jeppson et.al.|[2507.17711](http://arxiv.org/abs/2507.17711)|null|
+|**2025-07-23**|**HydraOpt: Navigating the Efficiency-Performance Trade-off of Adapter Merging**|Taha Ceritli et.al.|[2507.17706](http://arxiv.org/abs/2507.17706)|null|
+|**2025-07-23**|**Towards Greater Leverage: Scaling Laws for Efficient Mixture-of-Experts Language Models**|Changxin Tian et.al.|[2507.17702](http://arxiv.org/abs/2507.17702)|null|
+|**2025-07-23**|**Thinking Isn't an Illusion: Overcoming the Limitations of Reasoning Models via Tool Augmentations**|Zhao Song et.al.|[2507.17699](http://arxiv.org/abs/2507.17699)|null|
+|**2025-07-23**|**Frequentist Asymptotics of Variational Laplace**|Janis Keck et.al.|[2507.17697](http://arxiv.org/abs/2507.17697)|null|
+|**2025-07-23**|**Symbiotic Agents: A Novel Paradigm for Trustworthy AGI-driven Networks**|Ilias Chatzistefanidis et.al.|[2507.17695](http://arxiv.org/abs/2507.17695)|null|
+|**2025-07-23**|**Debiased maximum-likelihood estimators for hazard ratios under machine-learning adjustment**|Takashi Hayakawa et.al.|[2507.17686](http://arxiv.org/abs/2507.17686)|null|
+|**2025-07-23**|**Simulating multiple human perspectives in socio-ecological systems using large language models**|Yongchao Zeng et.al.|[2507.17680](http://arxiv.org/abs/2507.17680)|null|
+|**2025-07-23**|**Safety Assurance for Quadrotor Kinodynamic Motion Planning**|Theodoros Tavoulareas et.al.|[2507.17679](http://arxiv.org/abs/2507.17679)|null|
+|**2025-07-23**|**Coupling all-electron full-potential density functional theory with grid-based continuum embeddings**|Jakob Filser et.al.|[2507.17672](http://arxiv.org/abs/2507.17672)|null|
+|**2025-07-23**|**See the Forest and the Trees: A Synergistic Reasoning Framework for Knowledge-Based Visual Question Answering**|Junjie Wang et.al.|[2507.17659](http://arxiv.org/abs/2507.17659)|null|
+|**2025-07-23**|**Quaternion-Domain Super MDS for Robust 3D Localization**|Alessio Lukaj et.al.|[2507.17645](http://arxiv.org/abs/2507.17645)|null|
+|**2025-07-23**|**Watching our Galaxy Grow Up: The Mass and Color Evolution of the Milky Way**|Gail Zasowski et.al.|[2507.17637](http://arxiv.org/abs/2507.17637)|null|
+|**2025-07-23**|**Who Attacks, and Why? Using LLMs to Identify Negative Campaigning in 18M Tweets across 19 Countries**|Victor Hartman et.al.|[2507.17636](http://arxiv.org/abs/2507.17636)|null|
+|**2025-07-23**|**The Joint Asymptotic Distribution of Entropy and Complexity**|Angelika Silbernagel et.al.|[2507.17625](http://arxiv.org/abs/2507.17625)|null|
 |**2025-07-22**|**Mixture-of-Expert Variational Autoencoders for Cross-Modality Embedding of Type Ia Supernova Data**|Yunyi Shen et.al.|[2507.16817](http://arxiv.org/abs/2507.16817)|null|
 |**2025-07-22**|**Stellar Mass-Dispersion Measure Correlations Constrain Baryonic Feedback in Fast Radio Burst Host Galaxies**|Calvin Leung et.al.|[2507.16816](http://arxiv.org/abs/2507.16816)|null|
 |**2025-07-22**|**LingBench++: A Linguistically-Informed Benchmark and Reasoning Framework for Multi-Step and Cross-Cultural Inference with LLMs**|Da-Chen Lian et.al.|[2507.16809](http://arxiv.org/abs/2507.16809)|null|
@@ -11154,6 +11214,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-23**|**Pretraining on the Test Set Is No Longer All You Need: A Debate-Driven Approach to QA Benchmarks**|Linbo Cao et.al.|[2507.17747](http://arxiv.org/abs/2507.17747)|null|
+|**2025-07-23**|**Megrez2 Technical Report**|Boxun Li et.al.|[2507.17728](http://arxiv.org/abs/2507.17728)|null|
+|**2025-07-23**|**BetterCheck: Towards Safeguarding VLMs for Automotive Perception Systems**|Malsha Ashani Mahawatta Dona et.al.|[2507.17722](http://arxiv.org/abs/2507.17722)|null|
+|**2025-07-23**|**Inflation from a generalized exponential plateau: towards extra suppressed tensor-to-scalar ratios**|Gerasimos Kouniatalis et.al.|[2507.17721](http://arxiv.org/abs/2507.17721)|null|
+|**2025-07-23**|**AI Telephone Surveying: Automating Quantitative Data Collection with an AI Interviewer**|Danny D. Leybzon et.al.|[2507.17718](http://arxiv.org/abs/2507.17718)|null|
+|**2025-07-23**|**Reasoning about Rare-Event Reachability in Stochastic Vector Addition Systems via Affine Vector Spaces**|Joshua Jeppson et.al.|[2507.17711](http://arxiv.org/abs/2507.17711)|null|
+|**2025-07-23**|**HydraOpt: Navigating the Efficiency-Performance Trade-off of Adapter Merging**|Taha Ceritli et.al.|[2507.17706](http://arxiv.org/abs/2507.17706)|null|
+|**2025-07-23**|**Towards Greater Leverage: Scaling Laws for Efficient Mixture-of-Experts Language Models**|Changxin Tian et.al.|[2507.17702](http://arxiv.org/abs/2507.17702)|null|
+|**2025-07-23**|**Thinking Isn't an Illusion: Overcoming the Limitations of Reasoning Models via Tool Augmentations**|Zhao Song et.al.|[2507.17699](http://arxiv.org/abs/2507.17699)|null|
+|**2025-07-23**|**Symbiotic Agents: A Novel Paradigm for Trustworthy AGI-driven Networks**|Ilias Chatzistefanidis et.al.|[2507.17695](http://arxiv.org/abs/2507.17695)|null|
+|**2025-07-23**|**Simulating multiple human perspectives in socio-ecological systems using large language models**|Yongchao Zeng et.al.|[2507.17680](http://arxiv.org/abs/2507.17680)|null|
+|**2025-07-23**|**Talk2Event: Grounded Understanding of Dynamic Scenes from Event Cameras**|Lingdong Kong et.al.|[2507.17664](http://arxiv.org/abs/2507.17664)|null|
+|**2025-07-23**|**See the Forest and the Trees: A Synergistic Reasoning Framework for Knowledge-Based Visual Question Answering**|Junjie Wang et.al.|[2507.17659](http://arxiv.org/abs/2507.17659)|null|
+|**2025-07-23**|**A deep search for radio pulsations from the 1.3 M $_{\odot}$ compact-object binary companion of young pulsar PSR J1906+0746**|Yuyang Wang et.al.|[2507.17641](http://arxiv.org/abs/2507.17641)|null|
+|**2025-07-23**|**Who Attacks, and Why? Using LLMs to Identify Negative Campaigning in 18M Tweets across 19 Countries**|Victor Hartman et.al.|[2507.17636](http://arxiv.org/abs/2507.17636)|null|
+|**2025-07-23**|**Influence of Three-Body Effects on Halogen Bonding**|Sharon A. Ochieng et.al.|[2507.17619](http://arxiv.org/abs/2507.17619)|null|
+|**2025-07-23**|**A Hybrid Early-Exit Algorithm for Large Language Models Based on Space Alignment Decoding (SPADE)**|Bowen Zheng et.al.|[2507.17618](http://arxiv.org/abs/2507.17618)|null|
+|**2025-07-23**|**Reusing Attention for One-stage Lane Topology Understanding**|Yang Li et.al.|[2507.17617](http://arxiv.org/abs/2507.17617)|null|
+|**2025-07-23**|**Renormalization group for effective field theories: cutoff schemes and universality**|Jose Gaite et.al.|[2507.17573](http://arxiv.org/abs/2507.17573)|null|
+|**2025-07-23**|**Photometric Mapping of Carbonaceous/Siliceous Dust and Water Ice in the ISM with JWST: Applications to the Dense Sightlines**|Burcu Günay et.al.|[2507.17550](http://arxiv.org/abs/2507.17550)|null|
 |**2025-07-22**|**ThinkAct: Vision-Language-Action Reasoning via Reinforced Visual Latent Planning**|Chi-Pin Huang et.al.|[2507.16815](http://arxiv.org/abs/2507.16815)|null|
 |**2025-07-22**|**Semi-off-Policy Reinforcement Learning for Vision-Language Slow-thinking Reasoning**|Junhao Shen et.al.|[2507.16814](http://arxiv.org/abs/2507.16814)|null|
 |**2025-07-22**|**MegaScience: Pushing the Frontiers of Post-Training Datasets for Science Reasoning**|Run-Ze Fan et.al.|[2507.16812](http://arxiv.org/abs/2507.16812)|null|
